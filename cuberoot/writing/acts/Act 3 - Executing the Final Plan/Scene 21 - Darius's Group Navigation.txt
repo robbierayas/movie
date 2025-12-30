@@ -1,0 +1,336 @@
+SCENE 1 - DARIUS'S GROUP NAVIGATION
+=====================================
+
+LOCATION: Root cube dimensional spaces
+
+CHARACTERS:
+- Darius's group (4 members): Darius, Morris, Nina, Yuki
+
+SCENE LAYOUT:
+
+1. TESTING METHOD - DARIUS'S DIFFERENCE
+   - Group moving cautiously through rooms
+   - Taking turns testing: Nina throws shoe, Yuki throws shoe, Morris throws shoe
+   - When it's Darius's turn: he throws WRENCH instead of shoe
+   - Everyone else uses shoes, only Darius uses wrench
+   - More aggressive testing choice shows his different mindset
+   - Moving back toward lab building location
+   - 4 rooms shown on screen this scene
+
+2. MORRIS'S PROTECTION FIELD IDEA
+   - Morris proposes thought experiment about protective barrier
+   - "What if we could replicate the lab building's field? An electron cloud shield?"
+   - Inspired by how the building maintains stability in n=0.333
+   - Nina and Yuki immediately engaged - this could solve memory erasure
+   - Theoretical problem-solving while moving
+   - Morris trying to contribute meaningfully
+
+3. DARIUS'S IRRITATION
+   - Darius grows increasingly annoyed with the conversation
+   - Dismissive of theoretical discussion
+   - "We need to GET BACK first before any solution matters"
+   - Tension building between Darius and Morris
+   - Darius's impatience showing
+   - Group cohesion straining
+
+4. MEMORY SOLUTION FORMING
+   - Nina and Yuki excitedly discuss electron shielding concept
+   - Could protect memories during n=3 transition
+   - Morris contributes uncertainly but helpfully
+   - Solution starting to take shape
+   - Darius throws wrench harder, frustrated
+   - Scene ends with team continuing (3 more rooms happen offscreen before Scene 24)
+
+TONE: Cautious navigation with underlying tension, Darius's growing frustration
+CHARACTER DYNAMICS: Morris trying to help, Darius growing dismissive, Nina and Yuki engaged in science
+
+================================================================================
+
+Description:
+Darius's group (Darius, Morris, Nina, Yuki) navigates through six rooms, testing each threshold before crossing. Nina,
+Yuki, and Morris throw shoes to test rooms while Darius throws a wrench - showing his aggressive, different approach.
+Morris proposes a thought experiment about replicating the lab building's protective field as a "mind shield" to protect
+memories. Nina initially corrects him that it would only slow memory dampening, but Yuki realizes an electron barrier
+could fully shield neural patterns during the transition back to three-space. The scientists excitedly discuss the
+solution - with pauses where Rashid would have contributed, showing his absence. Morris tries to contribute but is
+uncertain. Darius grows increasingly irritated, snapping "Great. A solution that only works if we GET BACK to the lab
+building first." He dismisses the theoretical discussion as a distraction from immediate survival. When Morris tries to
+explain the scientific thinking is relevant, Darius cuts him off: "It's relevant when we have somewhere to apply it.
+Right now? It's a distraction." Nina stands up to Darius: "We can do both, Darius." Nina later tries to include Darius by
+explaining root-space as a natural harmonic, but he only feigns interest. The group continues with visible fracturing -
+Darius walks alone ahead with his wrench while Morris, Nina, and Yuki trail behind in quieter conversation.
+
+Key Elements:
+- Group moving cautiously through 4 rooms (shown on screen)
+- Turn-taking for room testing: Nina/Yuki/Morris throw shoes, Darius throws wrench
+- Only Darius uses wrench - everyone else uses shoes
+- Morris proposes electron cloud shield concept - protective barrier like lab building's field
+- Nina and Yuki immediately see this could solve memory erasure during n=3 return
+- Discussion of electron shielding to protect memory vibrations
+- Darius grows increasingly irritated: "We need to GET BACK first"
+- Tension building between Darius and Morris
+- Scene ends with 3 more rooms to go offscreen (total 7 before Scene 24)
+
+Character Dynamics:
+- Darius: Growing impatient and dismissive
+- Morris: Trying to be helpful with scientific thinking
+- Nina: Engaged in scientific discussion
+- Yuki: Participating in theory discussion
+
+Survival Strategy:
+- Turn-taking for room testing: shoes for Nina/Yuki/Morris, wrench for Darius
+- Darius's choice of wrench shows different/aggressive mindset
+- Taking turns entering rooms for safety
+- Attempting to navigate back to lab building
+- 4 rooms shown this scene, 3 more offscreen before Scene 24, then 3 more in Scene 24 (10 total)
+- Group cohesion straining
+
+Notes:
+This scene establishes Darius's growing frustration with Morris and sets up the eventual betrayal in Scene 4. The group
+is still working together but tensions are rising.
+
+================================================================================
+
+FULL SCRIPT:
+
+FADE IN:
+
+INT. ROOT CUBE - DIMENSIONAL SPACE - CONTINUOUS
+
+A featureless gray room. Four figures stand at the threshold: DARIUS (late 30s, precise and focused),
+ Morris (40s, disheveled but earnest), NINA (youngest, analytical), and YUKI (quiet, observant).
+
+Darius turns to Nina.
+
+                    DARIUS
+          Your turn.
+
+Nina nods, removes her left shoe. She weighs it in her hand, then throws it across the threshold into the next room.
+
+The shoe tumbles through the air, lands with a THUD on gray floor. Nothing happens.
+
+They wait. Five seconds. Ten seconds.
+
+                    MORRIS
+          Well, technically speaking, that's... I mean, that's probably a good sign? The lack of immediate catastrophic
+          response suggests—
+
+                    DARIUS
+          It's safe. Let's move.
+
+Darius steps through first, followed by Nina. Morris and Yuki exchange a glance before following.
+
+INT. ROOT CUBE - ROOM TWO - CONTINUOUS
+
+The new room looks identical to the last. Nina retrieves her shoe.
+
+                    YUKI
+          Four rooms down. Six more to go.
+
+Darius, checking makeshift map.
+
+                    DARIUS
+          If we don't hit another backtrack.
+
+The group moves to the next threshold. Yuki removes her shoe, preparing to throw.
+
+                    MORRIS
+          You know, I've been thinking about something. The lab building—the way it stays stable in root-space...
+
+Nina, immediately interested.
+
+                    NINA
+          The field generator...
+
+Yuki throws her shoe. It lands safely.
+
+                    MORRIS (CONT'D)
+          What if we could replicate that on... on our minds? Like... A protective barrier?
+
+Yuki, amused.
+
+                    YUKI
+          A mind shield!
+
+                    MORRIS
+          Exactly! I mean, probably. The way it creates a stable bubble—if we could apply that same principle to...
+          well... our memories?
+
+They move through the doorway.
+
+INT. ROOT CUBE - ROOM THREE - CONTINUOUS
+
+Yuki retrieves her shoe. Nina's eyes widen.
+
+                    NINA
+          Morris, that wouldn't fully solve the memory problem. The vibrational energy would not disperse outward, but
+          it'd still need to be absorbed.
+
+Yuki, fast-talking.
+
+                    YUKI
+          When we return to three-space, the vibration energy doesn't have time to transfer. But if we shield the waves
+          with an electron barrier—
+
+Nina, equally fast.
+
+                    NINA
+          —the memory information will continue propagating!
+
+A pause where Rashid would previously finish their shared idea.
+
+                    MORRIS(offering)
+          And if we measure it before it fully damps, the information can be saved!
+
+                    YUKI
+          That's exactly right. If we could scan fast enough—
+
+Another pause where Rashid would have said something. Morris unsure how to add to this.
+
+Nina, grinning.
+
+                    NINA
+          But Yuki! If the vibration dissipates slow enough in 3-space, it might be directly absorbed.
+
+Yuki realizing she missed it completely
+
+                    YUKI
+          As long as we can have an electron shield, we can remember.
+
+                    Nina (still smiling)
+          -if it doesn't fry our whole brain.
+
+They start moving through.
+
+Darius, sharp, from behind.
+
+                    DARIUS
+          Great. A solution that only works if we GET BACK to the lab building first.
+
+The excitement dampens. They move into the next room.
+
+INT. ROOT CUBE - ROOM FOUR - CONTINUOUS
+
+Morris retrieves his shoe. The energy has shifted.
+
+                    NINA
+          We're working on the navigation, Darius.
+
+                    DARIUS
+          Are you? Sounds like you're planning what to do after we're already there.
+
+Darius moves to the threshold. Takes the WRENCH from his tool pack.
+
+The others notice—everyone else has been using shoes.
+
+Darius throws the wrench with more force than necessary. It CLANGS on the gray floor. Nothing happens.
+
+Yuki, carefully.
+
+                    YUKI
+          The memory shield is still important to figure out—
+
+Darius, not looking back.
+
+                    DARIUS
+          Figure it out when we're not lost.
+
+He moves through the threshold. The others exchange glances.
+
+Morris, quieter now.
+
+                    MORRIS
+          I was just trying to help...
+
+Nina turns to Morris, encouraging.
+
+                    NINA
+          You did help. This is huge.
+
+                    YUKI
+          We need to estimate the shield strength. Maybe use the building's field as a template—
+
+Nina, fast-talking again, excited.
+
+                    NINA
+          If we can build small devices, personal shields for each person—
+
+                    MORRIS
+          It would be highly experimental. The shield could cause unintended fields. And the shield energy would need to
+          dissipate in 3-space—
+          (catches himself)
+          Sorry, not sure where I'm going with this.
+
+                    NINA
+          Same, bro. Chen did electrical.
+
+INT. ROOT CUBE - ROOM FIVE - CONTINUOUS
+
+They move through. DARIUS retrieves his wrench, jaw tight.
+
+                    DARIUS
+          You need to focus on the next room. Not some theoretical device we can't build.
+
+                    YUKI
+          If we get back, we CAN build it.
+
+                    DARIUS
+          IF we get back.
+
+He throws the wrench again—harder. CLANG. Safe.
+
+Morris turns to Nina and Yuki, trying to continue.
+
+                    MORRIS
+          The vibration frequency would need to match three-space, but would they even line up?
+
+Darius, turning on them.
+
+                    DARIUS
+          You're doing it again. Talking in circles about problems for LATER instead of focusing on NOW.
+
+                    MORRIS
+          I'm just—the scientific thinking is relevant—
+
+                    DARIUS
+          It's relevant when we have somewhere to apply it. Right now? It's a distraction.
+
+Silence. Morris looks down.
+
+Nina, quiet but firm.
+
+                    NINA
+          We can do both, Darius.
+
+Darius doesn't respond. Moves through the threshold without waiting.
+
+INT. ROOT CUBE - ROOM SIX - CONTINUOUS
+
+The group follows. The easy scientific discussion is strained now.
+
+Darius retrieves his wrench. The others watch him warily.
+
+                    NINA
+          Actually, Morris, the fact we are here now means it is a natural harmonic.
+
+Darius, feigning interest.
+
+                    DARIUS
+          Root space is a harmonic of ours?
+
+                    YUKI
+          Kind of but the opposite.
+
+Darius moves to the next threshold. Throws the wrench with force.
+
+CLANG. Safe.
+
+The others follow in quieter conversation.
+
+Morris clutches his remaining shoe. Nina and Yuki exchange glances but don't continue their discussion.
+
+Ahead of them, DARIUS walks alone, wrench in hand. The gap between him and the others has widened.
+
+The group continues through identical gray spaces, together but fracturing.
+
+FADE OUT.

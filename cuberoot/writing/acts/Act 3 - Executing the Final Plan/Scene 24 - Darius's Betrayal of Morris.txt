@@ -1,0 +1,506 @@
+SCENE 24 - MORRIS'S FREEZE DEATH (DARIUS'S BETRAYAL)
+=====================================================
+
+LOCATION: Root cube rooms - freeze trap in middle room
+
+CHARACTERS:
+- Darius's group (4 members): Darius, Morris, Nina, Yuki
+- After scene: Morris DEAD (frozen), Darius DEAD (frozen), Nina and Yuki survivors
+
+SCENE LAYOUT:
+
+1. FIRST SAFE ROOM - EXCITEMENT AND HOPE
+   - 3 rooms offscreen since Scene 21, now entering room 8
+   - Group excited about solving memory erasure problem
+   - Nina and Yuki discussing the electron shield solution
+   - Talking about plans for when they get back
+   - Morris making jokes, trying to lighten mood
+   - Nina and Yuki laughing at his jokes
+   - Darius throws wrench to test next room - safe
+   - Move through to room 9
+
+2. MIDDLE ROOM - THE FREEZE TRAP
+   - Nina throws shoe to test - lands safe
+   - All four enter the room together
+   - Door CLOSES behind them - they're trapped
+   - FREEZE FOG erupts from center bottom door
+   - Fog dissipates to normal temperature against walls
+   - Everyone backs against walls to avoid fog
+   - Desperately navigate along walls to exit door
+   - Yuki climbs through exit door first, then Nina
+   - Darius walking along wall more brazen than others - shoe touches fog, freezes (but not his foot)
+   - Darius halfway through door on ladder
+   - Morris below him stammers offer of help: "if you need help getting through, I can— we can help you. But you have to
+   ask, right? Because technically we're all going to need each other's help to—"
+
+3. THE BETRAYAL
+   - Darius stops, turns to Morris, tone shifts almost conversational
+   - Disingenuous: "You can help me?"
+   - Morris nods, Nina/Yuki watch uncertain
+   - Darius: "All I have to do is ask?"
+   - Morris: "Darius, of course—"
+   - Darius (cold, final): "I am DONE asking"
+   - KICKS Morris backward toward center
+   - Morris stumbles into freeze fog and falls backwards facing the other 3
+   - Freezes from BACK to FRONT - still moving while freezing
+   - Morris SHATTERS when he hits floor
+   - Nina and Yuki scream in horror from room 10
+
+4. TURNING ON DARIUS
+   - Darius has turned, now partly horizontal in doorway, head points towards frozen room and legs in the safe exit room
+   - Lowering himself down ladder into room 10
+   - Nina on one side, Yuki on the other
+   - A quick look between Nina and Yuki to confirm what they already know, that the other is also 100% onboard
+   - Both SHOVE him back into center of freeze room
+   - Darius seems to FLOAT (the push from Yuki and Nina was so hard)
+   - Freezes while body passes Morris's spot
+   - Slams into far wall head first and SHATTERS
+   - Door to fog room closes
+   - Nina and Yuki in room 10, traumatized
+
+5. AFTERMATH IN ROOM 10
+   - Nina and Yuki alone, traumatized
+   - Morris and Darius both frozen dead in room 9
+   - Horror at what happened
+   - Must continue toward lab building
+   - Two survivors, no clear leader
+
+TONE: Hope crushed by sudden betrayal, horror and rage, justice and grief, traumatized survivors
+CHARACTER DYNAMICS: Darius's true sociopathic nature revealed, girls choose justice, left alone and traumatized
+
+================================================================================
+
+Description:
+Darius's group passes through 3 offscreen rooms and enters room 8, excited about solving the memory erasure problem.
+Morris makes jokes that make Nina and Yuki laugh, annoying Darius. They test room 9 and all enter, but the door
+closes—freeze fog erupts from the center. They navigate along walls to the exit. Yuki and Nina escape through. Darius
+is halfway through when Morris says "We'll take care of you if you're hurt"—Darius kicks him into the fog. Morris
+freezes back-to-front while moving and shatters on impact. Nina and Yuki shove Darius back into the fog. He floats
+frozen through the dense fog and shatters against the far wall.
+
+Key Elements:
+- Room 8: Excitement about electron shield solution, Morris making jokes
+- Nina and Yuki laughing, Darius growing annoyed
+- Darius tests room 9 with wrench - appears safe
+- All four enter room 9, door CLOSES behind them - trapped
+- Freeze fog erupts from center bottom door, dissipates against walls
+- Navigate along walls to exit door
+- Yuki through first, Nina second, Darius halfway through (shoe freezes)
+- Morris below: "We'll take care of you if you're hurt"
+- Darius KICKS Morris into center fog
+- Morris freezes BACK to FRONT while still moving - SHATTERS on floor
+- Darius turning horizontal in doorway, lowering down ladder
+- Nina and Yuki on each side SHOVE him back into fog
+- Darius FLOATS (dense cold fog), freezes mid-air
+- Slams into far wall, SHATTERS
+- Door opens, fog stops, Nina/Yuki in room 10 traumatized
+
+Character Arcs:
+- Darius: Reveals true sociopathic nature
+- Cold survival pragmatism becomes murderous
+- Ultimate betrayal of team member
+- Morris: Victim of Darius's cruelty
+- Was trying to maintain morale and offer help
+- Nina and Yuki: Break from Darius
+- Choose justice over leadership
+- Left without clear leader
+
+Emotional Beats:
+- Hope and excitement at solution
+- Morris's humor trying to bond group
+- Sudden shock of betrayal
+- Horror of Morris's death
+- Rage turning against Darius
+- Grief and shock at being alone
+
+Group Status After:
+- Morris: Dead (pushed into trap room)
+- Darius: Dead (pushed into trap room)
+- Survivors: Nina, Yuki
+- No clear leader
+- Traumatized and directionless
+
+Notes:
+This scene is the violent culmination of the Darius/Morris tension from Scene 1. It reduces Darius's group and sends Nina
+and Yuki (now without Darius) toward the lab building where they'll encounter Marcus (Scene 5).
+
+================================================================================
+
+FULL SCRIPT - ACT 3, SCENE 24
+
+================================================================================
+
+FADE IN:
+
+INT. ROOT CUBE - ROOM EIGHT - CONTINUOUS
+
+A safe gray room. DARIUS, MORRIS, NINA, and YUKI stand catching their breath after navigating three rooms since Scene 21.
+
+The energy has shifted - no longer the strained tension from before. NINA and YUKI are animated, excited.
+
+                    NINA
+          If we can build the devices small
+          enough, we could each wear one. Personal
+          memory shields.
+
+                    YUKI
+          The electron frequency just has to
+          match the baseline harmonic. We
+          measured that back at the lab building.
+
+                    MORRIS
+          So, I mean, theoretically when we
+          get back, we'll actually remember
+          this? All of it? (nervous laugh)
+          Not sure if that's a blessing or...
+          well, definitely not a curse, but--
+
+Nina, grinning.
+
+                    NINA
+          We'll remember, Morris. Everything.
+
+Morris smiles, warming to the hope.
+
+                    MORRIS
+          First thing I'm doing is filing a
+          very detailed complaint with HR. I
+          mean, assuming HR still exists and
+          isn't also trapped in some fractional
+          dimension which... (catches himself)
+          Sorry, that's probably not funny.
+
+Yuki laughs anyway - genuine, relieved.
+
+                    YUKI
+          It's a little funny.
+
+                    NINA
+          When we testify about what INZO did,
+          they can't just memory-wipe us and
+          make it disappear.
+
+Darius watches from near the next threshold, jaw tight. His hands clench the wrench.
+
+                    DARIUS
+          Next room.
+
+He throws the wrench through the threshold. It clangs on gray floor. Nothing happens.
+
+Darius steps through without waiting.
+
+INT. ROOT CUBE - ROOM NINE - CONTINUOUS
+
+The others follow. Another identical gray room.
+
+Nina removes her shoe, tosses it through the next threshold.
+
+The shoe lands safely on gray floor.
+
+                    NINA
+          Looks clear.
+
+They move toward the threshold together.
+
+All four step through into the next room.
+
+The DOOR behind them SLAMS SHUT - trapping all four inside.
+
+                    MORRIS
+          What--
+
+FREEZE FOG erupts from the center bottom door - a white mist that radiates extreme cold.
+
+All four jump back against the walls.
+
+The fog billows outward from the center, but as it reaches the walls it dissipates to normal temperature.
+
+                    DARIUS
+          Stay against the walls!
+
+                    YUKI
+          The far door! We need to get to the far
+          door!
+
+Nina and YUKI press themselves flat against the wall, breathing hard.
+
+The fog continues pouring from the center door - a column of white that fills the middle of the room but leaves the edges
+passable.
+
+Nina moves along the wall toward the exit door first. YUKI follows close behind.
+
+Darius and MORRIS move along the opposite wall.
+
+                    MORRIS
+          Is it... is the temperature actually--
+
+                    DARIUS
+          Just move.
+
+Nina reaches the exit door. Grabs the ladder rungs. The door is closed.
+
+She starts climbing up the rungs to position herself to crawl through when it opens.
+
+The door OPENS.
+
+Nina crawls through to the other side.
+
+Yuki climbs up the ladder next. Crawls through after NINA.
+
+INT. ROOT CUBE - ROOM TEN - CONTINUOUS
+
+Nina and YUKI stand in the safe room, relief flooding their faces.
+
+Nina, calling back through door.
+
+                    NINA
+          Come on!
+
+BACK IN ROOM NINE:
+
+Darius is halfway through the threshold, horizontal on the ladder, head and shoulders through, legs still in the fog
+room.
+
+Morris is below him on the wall, waiting his turn.
+
+DARIUS's shoe brushes the edge of the freeze fog.
+
+The shoe FREEZES SOLID instantly - ice coating the leather.
+
+Darius jerks his foot back. The frozen shoe scrapes against the ladder rung.
+
+Morris looks up at him.
+
+                    MORRIS
+          Are you okay? Did it--
+
+Darius doesn't respond. Continues pulling himself through.
+
+Morris steps closer to the ladder below him.
+
+                    MORRIS
+          Are you— I mean, if you need help
+          getting through, I can— we can help
+          you. But you have to ask, right?
+          Because technically we're all going
+          to need each other's help to—
+
+Darius stops moving.
+
+He turns his head to look back at MORRIS.
+
+Something in his tone shifts - almost conversational.
+
+                    DARIUS
+          You can help me?
+
+Morris nods. Through the doorway, NINA and YUKI watch, uncertain.
+
+                    DARIUS (CONT'D)
+          All I have to do is ask?
+
+                    MORRIS
+          Darius, of course—
+
+Darius, cold, final.
+
+                    DARIUS
+          I am DONE asking.
+
+Before MORRIS can process the words, DARIUS KICKS backward with his frozen shoe.
+
+His foot catches MORRIS in the chest.
+
+Morris stumbles backward off the wall - arms windmilling - falling toward the center of the room.
+
+He falls BACKWARD into the freeze fog, facing the others.
+
+The fog hits his back first.
+
+MORRIS's body begins to FREEZE from back to front - still moving as the ice spreads forward through his torso.
+
+His mouth opens in a scream but no sound comes - his lungs already frozen.
+
+His eyes lock on NINA and YUKI through the doorway - terrified, confused, betrayed.
+
+The freezing reaches his face - ice crystallizing across his features mid-expression.
+
+Morris hits the floor completely frozen.
+
+He SHATTERS on impact - fragmenting into pieces of ice and frozen tissue.
+
+Nina, screaming.
+
+                    NINA
+          MORRIS!
+
+                    YUKI
+          NO!
+
+Darius has turned in the doorway - now horizontal, head pointing back toward the fog room, legs extending into the safe
+room.
+
+He starts lowering himself down the ladder into Room Ten.
+
+Nina and YUKI stand on either side of the doorway.
+
+Their eyes meet - a split-second of communication.
+
+They both know what the other is thinking.
+
+Agreement passes between them without words.
+
+DARIUS's hands grip the rungs as he lowers himself.
+
+                    DARIUS
+          He was weak. Survival of the--
+
+Nina shoves his shoulder HARD.
+
+Yuki shoves his other shoulder simultaneously.
+
+The combined force sends DARIUS backward through the threshold - back into the fog room.
+
+He FLOATS through the air - the shove was so powerful, or the dense cold fog provides less resistance.
+
+His body begins to FREEZE mid-flight as it passes through the space where MORRIS shattered.
+
+Ice spreads across his skin, his clothes, his shocked expression.
+
+He slams into the far wall HEAD FIRST - completely frozen.
+
+Darius SHATTERS against the wall - exploding into frozen fragments.
+
+The door between the rooms SLAMS SHUT.
+
+The freeze fog stops.
+
+INT. ROOT CUBE - ROOM TEN - CONTINUOUS
+
+Nina and YUKI stand in the safe room, breathing hard.
+
+Silence.
+
+Through the closed door, they can see nothing. The room where MORRIS and DARIUS died is sealed.
+
+Yuki, voice very small.
+
+                    YUKI
+          We just...
+
+                    NINA
+          He killed Morris.
+
+                    YUKI
+          I know.
+
+YUKI's hands shake. NINA's face is pale, eyes haunted.
+
+They stand there, not moving. Two young scientists left alone.
+
+Nina, quiet.
+
+                    NINA
+          We need to keep moving.
+
+Yuki silent, not moving.
+
+Beat. NINA's eyes focus on something internal.
+
+                    NINA (CONT'D)
+          I felt it. When he asked those
+          questions— "You can help me? All I
+          have to do is ask?" I knew something
+          was wrong. But I didn't—
+
+                    YUKI
+          I felt it too. His tone was...off.
+
+Nina, voice breaking.
+
+                    NINA
+          I should have said something. I should
+          have warned Morris—
+
+                    YUKI
+          Don't. Don't do that to yourself. We
+          couldn't have stopped him.
+
+Nina shakes her head, grief and anger warring on her face.
+
+                    NINA
+          It's all been wrong. From the
+          beginning. INZO, the company, using
+          root-space to trap prisoners— using
+          PEOPLE like they're disposable—
+
+She looks at YUKI with sudden intensity.
+
+                    NINA (CONT'D)
+          But we have a way to tear it all down.
+
+Yuki stares at her.
+
+                    NINA (CONT'D)
+          The memory shields. We figured it out.
+          Morris helped us figure it out. We can
+          get back to the lab building, build the
+          devices, and when we return— we'll
+          remember. Everything.
+
+                    YUKI
+          Nina—
+
+                    NINA
+          They can't have this. INZO can't have
+          root-space, can't keep using it to make
+          people disappear. And we can't let them
+          make US disappear. We have to get back,
+          we have to make sure the truth gets
+          out— to the public, to everyone. What
+          this company really is. What they've
+          done.
+
+Her voice gains strength, conviction cutting through the grief.
+
+                    NINA (CONT'D)
+          We CAN save the people still trapped
+          here. We CAN make it right. But only if
+          we remember. Only if we get the truth
+          out before they silence us.
+
+Yuki, quiet, but certain.
+
+                    YUKI
+          Then we make sure we remember.
+
+Nina nods. Something has shifted— grief hardening into purpose.
+
+Yuki wipes her eyes roughly with the back of her hand.
+
+                    YUKI
+          The lab building. We still need to
+          find it.
+
+Nina nods slowly. Forces herself to focus.
+
+                    NINA
+          Just us now.
+
+                    YUKI
+          Just us.
+
+Then NINA straightens. Forces herself forward.
+
+                    NINA
+          Come on.
+
+Yuki follows. They move toward the next threshold.
+
+Behind them, the door to Room Nine remains closed.
+
+Morris and DARIUS are gone.
+
+The cube shifts around them, indifferent to their grief.
+
+FADE OUT.

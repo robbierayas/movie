@@ -1,0 +1,418 @@
+SCENE 2 - EXIT AND JOSH ARRIVES
+=================================
+
+LOCATION: First room beyond QL building in root cube
+
+CHARACTERS:
+- All team members from Scene 1 (Alex, Edgar, Marcus, Lea, Morris, Darius, Nina, Chen, Rashid, Yuki)
+- JOSH - Theoretical physicist, changed by prolonged cube exposure, newly introduced
+
+SCENE LAYOUT:
+
+1. THE EXIT
+   - Team opens door from QL building
+   - Step through into cube room beyond
+   - Sudden disorienting sensation
+   - Everyone stumbles, adjusts to change
+
+2. SIZE TRANSITION
+   - Morris: "Did we just... I think we just got bigger. Or the room got smaller. Or... both?"
+   - Nina checking measurements with device
+   - Lea: "We're normal size. The building was compressed but we maintained our relative scale inside it."
+   - Yuki: "Spacetime works normally here. We're not in the influence zone anymore."
+   - Rashid confirming calculations
+   - Chen practical: "So we can actually carry things now."
+   - Team processes this - relief mixed with uncertainty
+
+3. REDISTRIBUTION
+   - Edgar organizing: pack food, water, communication devices, measurement tools into backpacks
+   - Morris helps distribute compressed sof-tak
+   - Chen checks communication relay equipment
+   - Nina, Rashid, Yuki dividing measurement devices
+   - Darius quietly packing, still distant
+   - Alex and Lea double-checking supplies
+   - Marcus ensuring they have navigation tools
+   - Equipment distributed isn't very heavy per person
+
+4. ABOUT TO LEAVE
+   - Team shouldering backpacks
+   - Edgar: "Everyone have what they need?"
+   - Alex checking team ready
+   - Lea looking at opposite door (where they'll exit)
+   - About to move forward
+
+5. JOSH ENTERS
+   - Door across room opens
+   - Figure stumbles through
+   - Team freezes, defensive positions
+   - Josh emerges - disheveled, changed, but recognizably human
+   - Lean, haunted eyes, moves strangely but purposefully
+   - Sees the team, stops
+
+6. LEA'S REACTION
+   - Lea's breath catches: "Josh?"
+   - Steps forward, uncertain
+   - Josh focuses on her, recognition slowly dawns
+   - Josh (voice rough, unused): "Lea."
+   - Lea rushes forward, stops short - he's fundamentally changed, she can see it
+   - Emotional: relief, fear, grief all at once
+   - Lea: "You're alive. You're... you're here."
+   - Josh (cryptic, haunted): "I'm something."
+
+7. TEAM ASSESSMENT
+   - Marcus cautious: "Is that...?"
+   - Alex: "Josh. The theoretical physicist."
+   - Chen recognizing him from before
+   - Nina studying him - he's different
+   - Morris rambling nervously about prolonged dimensional exposure effects
+   - Edgar: "Can he help us?"
+   - Darius watching warily
+
+8. JOSH'S WARNINGS
+   - Josh (cryptic, treating cube as adversary): "You shouldn't have come. But you're here now."
+   - Josh (fragmented, almost scientific): "The cube remembers. The cube hungers. The cube tests."
+   - Lea (emotional): "Josh, what happened to you? Where's Barry?"
+   - Josh's face darkens, grief and haunting: "Barry stopped moving. I kept moving. That's the rule. Keep moving or stop forever."
+   - Josh explains in cryptic fragments (assumes "cube experience" knowledge they don't have): time works differently, space folds, rooms shift
+   - Josh (warning as absolute): "Trust nothing. Question everything. The exits lie."
+   - Marcus (pragmatic): "Can you help us get out?"
+   - Josh (philosophical/nihilistic about escape): "Out? There is no out. Only through. Always through."
+
+9. DECISION TO BRING JOSH
+   - Team debate: is he stable enough? Can they trust him?
+   - Lea (passionate, protective): argues he can help, he's survived weeks alone
+   - Alex (pragmatic leadership): "He knows this place. We don't."
+   - Marcus (cautious, calculating risk): "If he's compromised, he's a liability."
+   - Josh demonstrates lucidity by responding directly to Marcus - shows he's coherent enough to understand and engage
+   - Josh's warning verges on threat, ominous: "I'm all you have. The cube will teach you. Painfully."
+   - Tension in room after Josh's ominous statement
+   - Edgar (breaking tension, mission-focused): "We need every advantage." Then welcomes Josh to team
+   - Nina (idealistic): "We can't leave him."
+   - Darius (paranoid seeds growing): "What if he's dangerous?"
+   - Chen (practical engineer): "Give him supplies, bring him along, watch him closely."
+   - Team agrees, Josh joins them
+
+10. FINAL MOMENT BEFORE DEPARTURE
+   - Josh (urgent, cryptic): "Stay together. The cube separates. The cube divides."
+   - Josh provides more fragmented warnings about trap rooms, shifting geometry, false exits (assumes they understand cube logic)
+   - Lea staying close to Josh, watching him with concern and relief
+   - Alex (emerging leader): "We move carefully. We stay alert. We watch each other's backs."
+   - Edgar (determined): "And we find a way through."
+   - Team opens door to continue into cube
+   - Josh (cryptic repetition, prophetic): "Through the dark. Always through."
+   - They step forward together
+
+TONE: Hope at finding Josh alive, unease at how he's changed, dread from cryptic warnings
+CHARACTER DYNAMICS: Lea's emotional investment, team's wariness, Josh as Cassandra figure
+
+================================================================================
+
+Description:
+The team exits the QL building and steps into the root cube proper. As they approach Sofia's abandoned purse, they suddenly transition from miniature size to normal human scale - a disorienting blur and refocus. The QL team realizes spacetime works normally here. They redistribute the expedition kit into individual backpacks. Just as they're about to leave, Josh stumbles through an opposite door - lean, haunted, changed by prolonged exposure but still coherent. Lea has an emotional reunion with him. Josh reveals Barry died ("stopped moving") and delivers cryptic warnings: the cube remembers, hungers, and tests; keep moving or stop forever; there is no "out," only "through." Despite concerns about his stability, the team decides to bring him along. Josh leads them through the next door.
+
+Key Elements:
+- Transition from miniature to normal size
+- QL team's scientific observations about spacetime
+- Practical redistribution of supplies
+- Josh's entrance and changed state
+- Lea's emotional reaction
+- Josh joins the team as guide/wildcard
+- Cryptic warnings establishing cube's dangers
+
+Characters Present:
+All from Scene 1 plus Josh (newly introduced)
+
+Character Moments:
+- Lea: Emotional reunion with Josh, relief and concern, protective of him
+- Josh: Changed, cryptic, haunted but coherent, stays with team
+- Alex: Accepts Josh despite risks, practical leadership
+- Marcus: Cautious about Josh, weighs risks vs benefits
+- Edgar: Focused on mission, willing to take calculated risks
+- Darius: Wary and suspicious, seeds of paranoia
+- Morris: Nervous comic relief about dimensional exposure
+- Nina, Chen, Rashid, Yuki: Scientific curiosity about spacetime and Josh's condition
+
+Establishes:
+- Spacetime works normally in root cube proper
+- Team can carry supplies comfortably
+- Josh is alive, changed, but functional
+- Josh has survival knowledge from experience
+- Cube is dangerous, active, almost alive ("remembers," "hungers," "tests")
+- Cryptic warnings: keep moving, question exits, cube separates/divides
+- Barry died (stopped moving)
+- Josh joins team as experienced guide/wildcard
+- Lea and Josh's relationship adds emotional stakes
+- Darius's paranoia/wariness growing
+
+Technical Notes:
+- QL team provides scientific explanation for size transition
+- Josh's cryptic warnings foreshadow future dangers
+- "Keep moving or stop forever" establishes survival rule
+- "The exits lie" foreshadows Sofia's vacuum death in Scene 7
+- Josh serves as Cassandra figure - warnings that will prove true
+
+Tone:
+- Brief relief at normal spacetime
+- Hope at finding Josh alive
+- Unease at how he's changed
+- Dread from his cryptic warnings
+- Determination despite fear
+
+================================================================================
+FULL SCRIPT
+================================================================================
+
+FADE IN:
+
+INT. ROOT CUBE - FIRST ROOM BEYOND QL BUILDING - CONTINUOUS
+
+A standard cube room. Identical fractal-tiled walls glowing with soft white light. Six doors - one in each wall,
+ceiling, and floor - each surrounded by four sets of ladder rungs positioned 90 degrees apart.
+
+Behind them, in one corner of the room, sits the QUANTUM LOGISTICS BUILDING - now the size of a large dollhouse,
+maybe 4 feet tall. Its miniaturized windows still glow with interior light. Impossibly small yet perfectly detailed.
+
+The door on the building swings open.
+
+ALEX emerges first, still miniaturized. Behind her: EDGAR, MARCUS, and LEA follow through the tiny doorway.
+
+The white cube room stretches before them. About ten feet away lies SOFIA'S PURSE - small from their perspective.
+
+ALEX takes a step toward the purse. Behind her, three more emerge: MORRIS, DARIUS, and NINA.
+
+Another step. The final three exit: CHEN, RASHID, and YUKI. All ten are now in the room.
+
+ALEX reaches the purse. She bends down to pick it up.
+
+The image BLURS suddenly. Edges go soft, unfocused.
+
+ALEX drops to her knees, disoriented. The white background of the cube walls fills the frame - bright, featureless, giving no sense of scale.
+
+The image REFOCUSES.
+
+ALEX is now full-sized, kneeling on the floor. Behind her, the QL building is a small dollhouse. Sofia's purse is normal-sized in front of her. The team stands around her, all full-sized humans now.
+
+MORRIS looks back at the miniaturized building behind them, then at his own hands, then at the room.
+
+                    MORRIS
+               (confused, rambling)
+          Did we just... I think we just got
+          bigger. Or the room got smaller. Or...
+               (uncertain)
+          ...both? Or neither? Some kind of
+          relative scale shift?
+
+                    CHEN
+               (jokingly)
+          Do you feel regular size?
+
+DARIUS turns from the group to sneak a look down his pants, checking his penis size.
+
+LEA pulls out a handheld measurement device, checking readings rapidly.
+
+                    LEA
+               (fascinated)
+          Spatial compression differential at
+          the threshold. We're measuring normal
+          scale now.
+
+CHEN tests his weight, jumping slightly.
+
+The team processes this - relief mixed with uncertainty. DARIUS stands apart, looking back at the miniaturized building uneasily.
+
+FADE TO:
+
+INT. ROOT CUBE - FIRST ROOM - MOMENTS LATER
+
+The team has spread out across the room. Each person adjusts their backpack, redistributing weight.
+
+MORRIS shifts his pack, muttering.
+
+                    MORRIS
+               (to himself)
+          Compressed food for compressed
+          people... wait, we're not compressed
+          anymore... the food still is though...
+
+CHEN checks the transmission equipment, testing buttons. Nothing. He shakes his head.
+
+                    CHEN
+          The transmission equipment's dead.
+          Like we expected.
+
+NINA, RASHID, and YUKI adjust their measurement devices. DARIUS helps MARCUS check navigation tools.
+
+ALEX and LEA double-check supplies together.
+
+The equipment, while distributed among ten people, isn't very heavy per person. Manageable loads.
+
+EDGAR looks around at the team.
+
+                    EDGAR
+          Everyone have what they need?
+
+Nods from the team. They shoulder their backpacks, adjusting straps.
+
+ALEX sees that everyone is ready, making eye contact with each team member.
+
+                    ALEX
+          We move together.
+
+LEA looks at the opposite door - the one they'll exit through next. She takes a breath, steeling herself.
+
+                    LEA
+               (quiet determination)
+          Let's go.
+
+The team turns toward the exit door.
+
+Then-
+
+The door ACROSS the room - not the exit they were heading for, but a DIFFERENT door - suddenly opens.
+
+Everyone freezes.
+
+A FIGURE stumbles through. The team drops into defensive positions.
+
+JOSH emerges into the light. Disheveled. Lean, gaunt. Haunted eyes. His movements strange but purposeful - adapted to
+climbing through cube doors all day. Clothes worn and torn.
+
+But he's ALIVE.
+
+Josh sees the team. Stops. Studies them.
+
+LEA's breath catches.
+
+                    LEA
+               (barely audible)
+          Josh?
+
+JOSH focuses on her. Recognition dawns slowly. His voice is ROUGH - unused for weeks.
+
+                    JOSH
+          Lea.
+
+LEA rushes forward, then stops short. He's changed. She can see it.
+
+                    LEA
+               (emotional)
+          You're alive. You're... you're here.
+
+LEA and JOSH hug. JOSH tilts his head, studying her.
+
+                    ALEX
+               (to Josh)
+          Here's water. Do you need food?
+
+JOSH accepts calmly but drinks voraciously. He turns to the team. He moves closer, his movements fluid but WRONG.
+
+                    JOSH
+               (cryptic, fragmented)
+          You shouldn't have come. But you're
+          here now. The cube knows. The
+          cube hungers. The cube tests.
+
+LEA steps toward him, emotional.
+
+                    LEA
+          Josh, what happened to you?
+               (desperate)
+          Where's Barry?
+
+JOSH's face darkens. Grief, old and deep.
+
+                    JOSH
+               (haunted)
+          Barry stopped moving. I kept moving.
+          That's the rule. Keep moving or stop
+          forever. Time works differently. Space
+          folds. Rooms shift. Trust nothing.
+          Question everything. The exits lie.
+
+MARCUS steps forward, trying to extract practical information.
+
+                    MARCUS
+          Can you help us get out?
+
+JOSH stares at him. His expression is almost amused, but he's too haunted to smile.
+
+                    JOSH
+               (philosophical, nihilistic)
+          Out?
+               (shakes his head)
+          There is no out. Only through.
+               (emphatic repetition)
+          Always through.
+
+Silence falls over the team. Uncomfortable looks are exchanged.
+
+ALEX breaks the quiet, making a decision.
+
+                    ALEX
+          He knows this place. We don't.
+
+LEA steps close to JOSH, passionate, protective.
+
+                    LEA
+          He's survived weeks in here. Alone.
+          He can help us.
+
+MARCUS remains skeptical, weighing risks.
+
+                    MARCUS
+          If he's compromised, he's a liability.
+
+JOSH turns to MARCUS, direct and blunt.
+
+                    JOSH
+               (cryptic warning)
+          I'm all you have.
+               (pause)
+          The cube will teach you. Painfully.
+
+EDGAR makes a command decision.
+
+                    EDGAR
+               (begrudgingly)
+          We need every advantage.
+               (corporate smile to Josh)
+          I don't believe we've been introduced. Name's Edgar. Welcome to the team.
+
+The team members look at each other. Nods of agreement. The decision is made.
+
+JOSH nods slowly. Accepting.
+
+LEA stays close to JOSH, watching him with concern and relief.
+
+JOSH suddenly speaks, urgent.
+
+                    JOSH
+               (warning)
+          Stay together. The cube separates. The
+          cube divides. Trap rooms. Shifting
+          geometry. False exits. The cube wants
+          you apart. Easier to kill.
+
+ALEX nods, taking in the warnings seriously.
+
+                    ALEX
+          We move carefully. We stay alert.
+
+                    EDGAR
+          I'll be at the back, so if anyone pushes, I'll be able to see. Don't think you'll get away with it so easy.
+
+The team smiles getting used to Edgar.
+
+JOSH moves toward the door, fluid and purposeful. He peers through briefly.
+
+                    JOSH
+               (quick, certain)
+          Safe one. No question, no uncertainty.
+
+Without warning, JOSH launches himself through the door in an almost acrobatic move - fluid, practiced, adapted to cube navigation. He disappears through the opening.
+
+The team watches, startled. ALEX moves to the door, grabs the ladder rungs.
+
+She looks after Josh, then begins climbing through.
+
+CUT TO BLACK.

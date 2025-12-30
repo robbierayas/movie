@@ -1,0 +1,17 @@
+{
+  "ALEX": { "voice": "voices/en_US-amy-medium.onnx", "model": "alex" },
+  "MARCUS": { "voice": "voices/en_US-ryan-high.onnx", "model": "marcus" },
+  "LEA": { "voice": "voices/en_US-kristin-medium.onnx", "model": "lea" },
+  "EDGAR": { "voice": "voices/en_US-danny-low.onnx", "model": "edgar" },
+  "JOSH": { "voice": "voices/en_US-joe-medium.onnx", "model": "josh" },
+  "MORRIS": { "voice": "voices/en_US-bryce-medium.onnx", "model": "morris" },
+  "DARIUS": { "voice": "voices/en_US-john-medium.onnx", "model": "darius" },
+  "SOFIA": { "voice": "voices/en_US-kathleen-low.onnx", "model": "sofia" },
+  "NINA": { "voice": "voices/en_US-ljspeech-medium.onnx", "model": "nina" },
+  "YUKI": { "voice": "voices/en_US-hfc_female-medium.onnx", "model": "yuki" },
+  "RASHID": { "voice": "voices/en_US-hfc_male-medium.onnx", "model": "rashid" },
+  "CHEN": { "voice": "voices/en_GB-alan-medium.onnx", "model": "chen" },
+  "NARRATOR": { "voice": "voices/en_US-libritts-high.onnx", "model": null },
+  "ACTION": { "voice": "voices/en_US-lessac-medium.onnx", "model": null },
+  "_default": { "voice": "voices/en_US-lessac-medium.onnx", "model": null }
+}

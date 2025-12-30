@@ -1,0 +1,142 @@
+# Scene 22 - Shipping the Evidence
+
+## LOCATION
+EXT/INT. AMAZING COMPANY SHIPPING FACILITY - DAY
+
+## CHARACTERS
+Adam
+
+## SCENE LAYOUT
+
+### Opening
+Wordless scene. Adam arrives at the Amazing Company shipping facility carrying a sealed box. No dialogue, no explanation. Just the act of sending the preserved body to the news.
+
+### Key Beats
+1. **Arrival** - Adam walks up to shipping facility carrying an Amazing Company box
+2. **Drop-Off** - Places box on automated drop-off station
+3. **Processing** - Scans label, enters information on touchscreen
+4. **Gone** - Box accepted by conveyor belt, disappears into facility
+5. **No Turning Back** - Adam watches it go
+
+### Character Moments
+- **Adam**: Silent, focused. This is the point of no return. The evidence is out of his hands now. Brief pause after the box disappears - realization of what he's done.
+
+### Closing
+Box vanishes into the sorting system. Adam stands there a moment, then turns and walks away. The plan is in motion.
+
+---
+
+## FULL SCRIPT
+
+EXT. AMAZING COMPANY SHIPPING FACILITY - DAY
+
+Massive white building. Corporate perfection. Busy with customers coming and going.
+
+ADAM walks toward the entrance carrying a sealed AMAZING COMPANY BOX.
+
+White. Corporate logo. Sealed with packing tape.
+
+He enters.
+
+---
+
+INT. AMAZING COMPANY SHIPPING FACILITY - DAY
+
+Bright. Clean. Automated.
+
+SELF-SERVICE DROP-OFF STATIONS line one wall.
+
+Adam walks to an empty station.
+
+Sets the box down on the platform.
+
+A TOUCHSCREEN interface lights up.
+
+INSTRUCTIONS appear: "SCAN SHIPPING LABEL"
+
+Adam positions the box so the label faces a scanner.
+
+BEEP. Accepted.
+
+The screen shows:
+
+**DESTINATION:** Channel 7 News, Downtown
+**DELIVERY:** Thursday, 8:00 AM
+**CONTENTS:** Medical Research Samples
+
+Instructions: "CONFIRM SHIPMENT"
+
+Adam taps CONFIRM.
+
+Processing...
+
+PAYMENT REQUIRED: $48
+
+Adam pulls out his phone. Taps it against the payment reader.
+
+PAYMENT CONFIRMED.
+
+A receipt prints.
+
+The platform beneath the box begins moving.
+
+A CONVEYOR BELT activates.
+
+The box slides onto the belt.
+
+Moves away from Adam.
+
+Disappears through a doorway into the sorting area.
+
+Gone.
+
+Adam stands there.
+
+Staring at the empty conveyor belt.
+
+The point of no return.
+
+He takes the printed receipt.
+
+Glances at it:
+
+**TRACKING #:** AC-8847392
+**DELIVERY:** Thursday, 8:00 AM
+
+Pockets it.
+
+Turns.
+
+Walks toward the exit.
+
+---
+
+EXT. AMAZING COMPANY SHIPPING FACILITY - DAY
+
+Adam emerges from the facility.
+
+Stands on the sidewalk.
+
+People rush past him. Busy with their lives.
+
+He looks back at the building one last time.
+
+Somewhere inside, the box is being sorted. Loaded. Prepared for delivery.
+
+By Thursday morning, everything changes.
+
+Adam walks away.
+
+FADE OUT.
+
+---
+
+## Production Notes
+- Wordless scene - no dialogue
+- Amazing Company box: white, corporate logo, sealed
+- Self-service drop-off station: touchscreen interface, automated
+- Conveyor belt: box disappears into sorting area (symbolic - no turning back)
+- Adam's state: silent, focused, brief pause after box disappears
+- Very brief scene - focus on the act of dropping off, not the preparation
+- Tracking receipt: AC-8847392, Thursday 8:00 AM delivery
+- Final image: Adam walking away, plan in motion

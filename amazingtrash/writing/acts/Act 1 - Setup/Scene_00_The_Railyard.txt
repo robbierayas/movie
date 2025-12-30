@@ -1,0 +1,194 @@
+# SCENE 0 - THE RAILYARD
+
+## Scene Heading
+EXT. ABANDONED RAILYARD - HOMELESS ENCAMPMENT - DAY
+
+## Characters
+- ADAM (30s, homeless chemist, intelligent, isolated)
+- Various homeless residents (background)
+
+## Tone
+Grounded, atmospheric, establishing
+
+## Key Beats
+
+1. OPENING: Wide establishing shot of abandoned railyard turned homeless encampment
+   - Illegal structures built everywhere except on the tracks
+   - Bustling community despite poverty
+   - Amazing Company infrastructure visible in distance (class contrast)
+
+2. UNDERGROUND: Adam navigates secret passageways beneath settlement
+   - Shows knowledge  of hidden infrastructure
+   - Chemistry equipment glimpses in shadows
+   - Moves like he owns these tunnels
+
+3. THE SHIFT: Structure shifts above, causing vibrations underground
+   - Adam scared by the movement
+   - Something unstable about the settlement
+   - Creates urgency to surface
+
+4. AVOIDANCE: Adam emerges, goes to see sun, it is late afternoon
+   - Actively avoids people
+   - Isolated even within this community
+   - Watches from distance - doesn't belong
+
+5. CLOSING: Establish Adam as loner, intelligent, resourceful
+   - Walks through tracktown to main city as darkness descends, world elements shown partly
+   - Passes through food market in traincar structure but has no money
+   - Goes through night police checkpoint to main city
+   - auto-cars fill city streets and adam is walking on sidewalk alone
+   - Alone by choice or circumstance?
+
+## Visual Elements
+- The sprawling railyard encampment
+- Contrast: makeshift structures vs. Amazing Company towers in distance
+- Hidden crawlspaces and tunnel network
+- Adam's secretive movements
+- Chemistry equipment in shadows
+- Class divide visually established
+
+## Dialogue Notes
+- Minimal dialogue from Adam
+- Overheard conversations establish world
+- Adam observes, doesn't participate
+
+## Purpose
+- Introduce protagonist Adam
+- Establish his world and isolation
+- Show his intelligence and resourcefulness
+- Set up the railyard location (important for later)
+- Establish class divide of this dystopian world
+
+## Story Position
+- Opening scene of film
+- Establishes "normal world" before inciting incident
+- Shows what Adam has (survival) and lacks (connection)
+
+## Transitions
+- OUT: Adam alone, isolated → leads to him being in city at night (Scene 1)
+
+---
+
+## SCREENPLAY
+
+EXT. ABANDONED RAILYARD - HOMELESS ENCAMPMENT - DAY
+
+Wide shot: A sprawling abandoned railyard transformed into a makeshift city. Dozens of illegal structures - tents, tarps,
+jury-rigged shacks - fill every available space between the train tracks. People move between structures, cooking fires
+smoke, children run between the gaps.
+
+The tracks themselves remain conspicuously empty and clear.
+
+In the far distance, gleaming towers of the Amazing Company campus rise above the urban skyline. The contrast is stark -
+polished corporate glass against rusted metal and canvas.
+
+Push in through the encampment. HOMELESS RESIDENTS go about their routines - cooking, trading goods, repairing shelters.
+Conversation and activity everywhere.
+
+Near the center of the settlement, a low concrete structure half-buried in dirt. A maintenance hatch, almost hidden
+behind stacked pallets and trash.
+
+The hatch shifts slightly. Opens a crack.
+
+ADAM (30s, weathered but sharp-eyed) peers out, checking if anyone's watching. His face shows intelligence worn down by
+circumstance. He wears layers - practical, mismatched, forgettable.
+
+Coast clear. Adam slips out, closing the hatch behind him. He moves with purpose but without drawing attention.
+
+INT. UNDERGROUND TUNNEL - CONTINUOUS
+
+Adam descends a rusted ladder into darkness. His movements are confident - he knows this place.
+
+The tunnel is part of the old railyard infrastructure. Concrete walls marked with decades of water damage and graffiti.
+Dim emergency lighting flickers, barely functional.
+
+Adam walks through intersecting passages with certainty. No hesitation at forks or turns. This is his domain.
+
+As he passes a recessed alcove, light glints off glass. A chemistry setup - beakers, tubing, heat sources - partially
+hidden behind tarps and debris. Industrial-grade equipment, scavenged but meticulously arranged.
+
+Adam doesn't stop. Just keeps walking.
+
+The tunnel opens into a larger chamber. More evidence of habitation - a sleeping bag, stacked supplies, books and
+notebooks. A home, hidden from the world above.
+
+Adam grabs a small backpack from the floor, checks its contents. Satisfied, he slings it over his shoulder.
+
+Above, a deep RUMBLING sound. The walls vibrate.
+
+Adam freezes. Looks up.
+
+The vibration intensifies. Dust falls from the ceiling. Something heavy is moving above - the entire structure of the
+settlement shifting, settling.
+
+A crack appears in the concrete above Adam's head. Small at first, then spreading.
+
+Adam, under his breath.
+
+                    ADAM
+          Shit.
+
+He moves quickly now, abandoning stealth for speed. Back through the tunnels, toward another exit point.
+
+The rumbling continues, then stops as suddenly as it started.
+
+Adam pauses at a different ladder, listening. Silence above. He climbs.
+
+EXT. ABANDONED RAILYARD - LATE AFTERNOON - CONTINUOUS
+
+Adam emerges from a different hatch, this one on the outskirts of the encampment. The sun is lower now, casting long
+shadows.
+
+He stays low, moving between structures without entering the main pathways. Avoiding eye contact, avoiding conversation.
+
+A WOMAN calls out to someone nearby. Adam immediately shifts direction, putting a tent between himself and the voice.
+
+He reaches the edge of the settlement where it borders the actual rail line. Stands there for a moment, facing the sun.
+
+His expression softens slightly. This is the only moment of peace in his day.
+
+Then voices approach from behind - residents passing by. Adam's face closes off. He turns and walks away, deeper into the
+maze of structures.
+
+EXT. TRANSITION AREA - DUSK TO NIGHT
+
+A montage as darkness descends:
+
+Adam walks from the railyard encampment toward the main city. The landscape changes gradually - industrial wasteland
+giving way to developed areas.
+
+He passes through a market built inside old train cars. Converted freight cars now house food vendors, clothing stalls,
+electronics repair. People crowd the aisles.
+
+Adam walks through alone, hands in pockets. His eyes track the food - fresh bread, cooked meat, vegetables. His stomach
+may be empty but his face shows no emotion. He has no money. He doesn't stop.
+
+The market vendors call out prices, haggle with customers. Adam is invisible to them.
+
+EXT. CITY CHECKPOINT - NIGHT
+
+A police checkpoint marks the boundary between the outer zone and the main city. Two OFFICERS stand beside a barrier,
+checking IDs, waving people through or turning them back.
+
+AUTO-CARS glide past on the city side of the checkpoint - sleek, silent, expensive. The contrast with the foot traffic on
+this side is obvious.
+
+Adam approaches the checkpoint. One officer barely glances at him before waving him through. He's unremarkable enough not
+to register as a threat.
+
+EXT. MAIN CITY STREETS - NIGHT
+
+Adam walks on the sidewalk. AUTO-CARS fill the streets - no human drivers, no variation in speed or spacing. Perfect
+efficiency.
+
+The buildings here are taller, cleaner. Digital advertisements glow from screens. Everything is lit, controlled,
+monitored.
+
+Adam walks alone on the sidewalk. Occasionally another pedestrian passes, but most people are in the cars.
+
+He is isolated even here, in the heart of the city.
+
+Wide shot: Adam, a single figure on foot, surrounded by the endless flow of autonomous vehicles. Small and alone against
+the mechanical city.
+
+FADE TO BLACK.

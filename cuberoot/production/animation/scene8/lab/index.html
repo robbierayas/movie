@@ -1,0 +1,86 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Scene 8 - The Lost Person Incident (Lab)</title>
+    <script type="importmap">
+    {
+        "imports": {
+            "three": "https://unpkg.com/three@0.160.0/build/three.module.js",
+            "three/addons/": "https://unpkg.com/three@0.160.0/examples/jsm/"
+        }
+    }
+    </script>
+    <style>
+        body {
+            margin: 0;
+            overflow: hidden;
+            font-family: 'Courier New', monospace;
+        }
+        canvas {
+            display: block;
+        }
+        #info {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            background: rgba(0, 0, 0, 0.7);
+            color: #0f0;
+            padding: 15px;
+            border-radius: 5px;
+            font-size: 12px;
+            max-width: 400px;
+            pointer-events: none;
+        }
+        #info h3 {
+            margin: 0 0 10px 0;
+            color: #0ff;
+        }
+        #info code {
+            display: block;
+            background: rgba(0, 50, 0, 0.5);
+            padding: 5px;
+            margin: 5px 0;
+            border-radius: 3px;
+        }
+    </style>
+</head>
+<body>
+    <div id="info">
+        <h3>Scene 8 - Mark Setting Mode</h3>
+        <p><strong>Controls:</strong></p>
+        <p>• Mouse Drag: Rotate view</p>
+        <p>• Mouse Wheel: Zoom</p>
+        <p>• Right Click + Drag: Pan</p>
+        <br>
+        <p><strong>Set Character Marks:</strong></p>
+        <p>Use console to move characters:</p>
+        <code>scene.characters.marcus.getModel().position.set(x, 0.1, z)</code>
+        <br>
+        <p><strong>Log All Positions:</strong></p>
+        <code>Object.entries(scene.characters).forEach(([id, char]) => {
+  const pos = char.getModel().position;
+  console.log(`${id}: { x: ${pos.x.toFixed(1)}, y: 0.1, z: ${pos.z.toFixed(1)} }`);
+});</code>
+        <br>
+        <p><strong>Characters:</strong> marcus, edgar, alex, lea, morris, darius, sofia, nina, rashid, chen, yuki</p>
+    </div>
+
+    <script type="module">
+        import { Scene8Lab } from './scene.js';
+
+        // Create scene and make it globally accessible for console commands
+        window.scene = new Scene8Lab();
+        window.scene.start();
+
+        console.log('Scene 8 loaded! Use "scene" object to access characters.');
+        console.log('Example: scene.characters.marcus.getModel().position.set(-5, 0.1, 3)');
+        console.log('\nTo log all character positions, run:');
+        console.log('Object.entries(scene.characters).forEach(([id, char]) => {');
+        console.log('  const pos = char.getModel().position;');
+        console.log('  console.log(`${id}: { x: ${pos.x.toFixed(1)}, y: 0.1, z: ${pos.z.toFixed(1)} }`);');
+        console.log('});');
+    </script>
+</body>
+</html>

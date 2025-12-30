@@ -1,0 +1,460 @@
+SCENE 6 - LAB INTRODUCTION AND FIRST TEST
+==========================================
+
+LOCATION: Quantum Logistics lab area
+
+CHARACTERS:
+- MORRIS - Food scientist, smart but uncertain
+- DARIUS - Food scientist, precise and questioning
+- SOFIA - Lab chemist, pragmatic mother
+- NINA - Mathematician, youngest
+- RASHID - Background mathematician
+- CHEN - Electrical engineer, practical
+- YUKI - Background mathematician
+
+(Non-manager characters only - Marcus and Edgar not present)
+
+SCENE LAYOUT:
+
+1. TRANSITION FROM SCENE 5
+   - Scene 5 ends focusing on Barry's badge picture
+   - Scene 6 opens on Barry's family photo on his desk in QL lab
+   - Camera zooms out to reveal lab area
+   - Barry's empty chair, abandoned workspace
+   - Subtle signs of absence - coffee mug, unfinished work
+
+2. TEAM ARRIVES IN LAB
+   - Non-manager characters file into the lab area
+   - General getting-to-know-you atmosphere
+   - People poking around, examining equipment
+      - Darius asks Chen about the root-space transmitter - how it works . Darius doesn't understand answer but shares
+   enthusiasm.
+   - Morris asks about equations on the chalkboard - curious about the science
+   - Questions being asked between team members
+
+3. COMIC RELIEF MOMENTS
+      - Sofia tells story about inviting Morris to her family's formal dinner, she told him to bring something nice not
+   sof-tak, Darius jumps in "You already know he still brought sof-tak", Sofia says "Darius was there everyone loved him"
+   and laughs finishing "He made it into a casserole", warm bonding moment over Morris's quirks
+      - Yuki corrects something written on the chalkboard mid-conversation, can't help herself, Nina grins "That's been
+   wrong for three weeks", Rashid adds "Barry kept saying he'd fix it", all three mathematicians laugh
+   - Light banter and exploration
+   - Team members interacting casually
+   - Brief levity before the horror
+
+3.5. NINA EXPLAINS MEMORY ERASURE TO MORRIS
+   - Nina explaining the memory erasure problem to Morris
+   - Morris listening, asking questions
+      - Nina: "The problem is what happens when you come BACK. When people return from root-space to normal space, they
+   lose their memories."
+   - Morris: "Like... all their memories?"
+      - Nina: "Most of them. It's the stabilization process—when your dimensional vibration shifts back to n=3, the
+   memory information encoded in the vibration gets lost. Like... imagine shaking a snow globe. All that information
+   just... disperses."
+   - Morris nods, concerned: "Can it be prevented?"
+   - Nina: "We don't know. That's the problem we're trying to solve."
+
+4. CHEN DEMO REQUEST
+   - Someone asks Chen to demonstrate root-space transmitter
+   - Chen looks momentarily scared
+   - "As long as it's not alive"
+
+5. SOF-TAK SUGGESTION
+   - Someone suggests using sof-tak for the demo
+   - Basketball-size sof-tak is prepared
+
+6. THE TRANSMISSION
+   - Sof-tak is sent through
+   - Cool visual effect as it disappears into root-space
+   - Chen gives thumbs up to others
+   - Successful test
+
+7. SHUTTING DOWN - THE MESSAGE
+   - Chen begins shutting down the transmitter
+   - Darius jokes to Sofia "probably not getting that back"
+   - Part of the sof-tak skin comes back through
+   - Message scratched into it: "WE'RE ALL DYING"
+   - Horror realization
+
+TONE: Starts casual and friendly, builds to horror reveal
+DYNAMICS: Team bonding, Chen as practical demonstrator, shift from levity to dread
+KEY TENSION: What happened to the person from Scene 5? What is the root-space transmitter? Why does the message come
+back?
+
+NOTES:
+- Establishes the lab environment and equipment
+- Shows team dynamics in casual setting
+- Demonstrates the root-space technology visually
+- Horror reveal that people are trapped and suffering in root-space
+- Connects to Lea's emotional warning about losing people
+- Chen's fear of sending something "alive" foreshadows the danger
+- The scratched message suggests people in root-space are conscious and desperate
+- Barry's workspace shows recent absence - he worked with Chen on instrumentation
+- Josh (also trapped) was a theoretical physicist with math focus, 30s
+- Josh and Lea had unspoken romantic feelings (pre-relationship phase)
+- This adds emotional weight to Lea's distress about losing people
+
+========================================
+                    SCREENPLAY
+          ========================================
+
+INT. QUANTUM LOGISTICS LAB - DAY
+
+CLOSE ON: A framed photo on a desk. Barry with his wife and two young children at a beach. The same man from the ID badge
+in Scene 5. Happy. Alive.
+
+The camera pulls back slowly.
+
+Behind the photo: an empty chair. A cold cup of coffee. An unfinished calculation on a notepad. Pens scattered. A
+workspace abandoned mid-thought.
+
+The lab stretches beyond - banks of equipment, monitors displaying dimensional coordinates, whiteboards covered in
+equations,
+a large apparatus dominating one wall labeled "ROOT-SPACE TRANSMITTER - HANDLE WITH CARE."
+
+WIDER: The non-manager team files in through the door. Morris, Darius, Sofia, Nina, Rashid, Chen, Yuki. Looking around
+with curiosity and uncertainty.
+
+The team spreads out, exploring. Morris drifts toward the equipment. Darius heads straight for the large transmitter
+apparatus. Sofia and Nina move toward the chalkboard. Rashid and Yuki follow.
+
+Darius moves toward the transmitter.
+
+                    DARIUS
+          This is the zero-space transmitter?
+
+Chen nods, arms crossed.
+
+                    CHEN
+          Root-space. That's it.
+
+Darius walks around it slowly, examining.
+
+                    DARIUS
+          How does it work?
+
+Chen raises an eyebrow.
+
+                    CHEN
+          You mean besides the dimensional
+          translation? When it's really running,
+          we have to keep the core suspended in
+          anti-plasma or it will overheat.
+
+                    DARIUS
+          Oh sweet, I didn't know about that
+          part. And you do it all by yourself?
+
+Chen shrugs.
+
+                    CHEN
+          I understand enough to run it. Barry
+          and I built it together. He handled
+          the theory. I handled making it not
+          explode.
+
+Morris nods at the chalkboard, standing by it across the room.
+
+                    MORRIS
+          Are these the equations for dimensional
+          transition?
+
+Nina studies the board.
+
+                    NINA
+          Part of it. The memory erasure problem
+          is what happens when you come BACK.
+          When people return to
+          normal space, they lose their memories.
+
+                    MORRIS
+          Like... all their memories?
+
+Meanwhile, Sofia notices Barry's desk nearby—the photo, the cold coffee. She moves toward it.
+
+Nina gestures to Morris, trying to explain.
+
+                    NINA
+          Most of them. It's the stabilization
+          process—when your dimensional vibration
+          shifts back to n=3, the memory
+          information gets lost with the current
+          translation. Like... imagine shaking a
+          snow globe. All that information just...
+          disperses.
+
+Morris nods slowly, concern crossing his face.
+
+                    MORRIS
+          But it's not necessarily lost yet.
+
+Yuki squints at the chalkboard.
+
+                    YUKI
+          Wait—this equation is wrong.
+
+                    MORRIS
+          Can it be prevented? The memory loss?
+
+She reaches for the chalk without thinking, peers closer.
+
+                    YUKI
+          The denominator should be squared.
+
+Nina shakes her head.
+
+                    NINA
+          We don't know. That's the problem we're
+          trying to solve.
+
+Yuki picks up the chalk and corrects it mid-conversation, instinctive. Rashid peers at the board.
+
+                    RASHID
+          Oh. Yeah.
+
+Nina grins despite herself at Yuki.
+
+                    NINA
+          That's been wrong for three weeks.
+
+Rashid with a slight smile.
+
+                    RASHID
+          Barry kept saying he'd fix it.
+
+Sofia at Barry's desk, her voice quiet.
+
+                    SOFIA
+          This was Barry's workspace?
+
+The mathematicians' brief laugh dies. Chen's jaw tightens from across the room.
+
+                    CHEN
+          Yeah. He hasn't been here. Fourteen days.
+
+A beat. The weight of that settles. Sofia looks at the photo—Barry with his wife and children. Her expression hardens—a
+mother recognizing another parent.
+
+Darius quietly to Sofia.
+
+                    DARIUS
+          He has kids, too.
+
+Silence for a moment. The levity gone. Morris picks up a tool from the workbench, examines it, sets it down carefully.
+Darius watches from the transmitter. Sofia, sorry she brought it up, moves back toward the group.
+
+                    SOFIA
+          So if you guys have never tried sof-tak,
+          Morris makes a mean one. Morris, do you
+          remember when I invited you to my
+          parents' 50th dinner? I told you to
+          bring something nice. Not sof-tak.
+
+Morris looks up, surprised by the shift.
+
+                    MORRIS
+          Well, I thought—I mean, it's nutritious
+          and—
+
+Darius smirks from the transmitter.
+
+                    DARIUS
+          You already know he still brought
+          sof-tak.
+
+Sofia laughs warmly.
+
+                    SOFIA
+          Darius was there. Everyone loved him.
+          Morris? He made it into a casserole.
+
+The team laughs—warm, bonding. The heaviness lifts slightly. Morris ducks his head, embarrassed but pleased.
+
+                    SOFIA
+          My mother-in-law thought it was impressive.
+
+Darius turns to Chen.
+                    DARIUS
+          Can you show us how it works? The transmitter?
+
+Chen shifts uncomfortably.
+                    CHEN
+          You want a demonstration?
+
+                    DARIUS
+          Would be cool to see it in action. Sending something through.
+
+Chen looks at the transmitter, then back at them. Something flickers in his expression—fear, maybe guilt.
+
+Chen speaks carefully.
+                    CHEN
+          As long as it's not alive.
+
+A beat. Morris catches the specific phrasing.
+
+                    MORRIS
+          Not... alive? Like, you mean, um, organic matter has different—
+
+Chen, firm.
+                    CHEN
+          Nothing alive. That's the rule.
+
+Sofia, her voice light, diffusing tension.
+                    SOFIA
+          Well, we're not going to send a person through, Chen.
+
+Chen doesn't smile.
+                    CHEN
+          Good.
+
+                    NINA
+          What about something simple? Just to show the transition?
+
+Morris fumbles in his backpack, pulls out a container.
+
+                    MORRIS
+          Oh! I have—well, I brought some sof-tak. For, um, snacking. It's basketball-sized? Would that work?
+
+                    CHEN
+          Sof-tak works. Set it on the platform.
+
+Morris places the basketball-sized sof-tak on the transmitter platform. The team gathers around—curious, excited. Chen
+moves to the control panel.
+
+Chen, hands on the controls.
+                    CHEN
+          Dimensional inversion in three... two... one.
+
+He presses the button.
+
+The transmitter HUMS—a deep, resonant sound. The air around the sof-tak begins to SHIMMER. Light bends. The sof-tak
+appears to COMPRESS—not getting smaller in a normal sense, but folding into itself impossibly. Dimensions collapsing.
+
+Morris whispers, awed.
+                    MORRIS
+         Amazing...
+
+                    DARIUS
+          It's gone.
+
+The sof-tak has disappeared completely. The platform is empty.
+
+Chen nods, satisfied.
+                    CHEN
+          Transmission successful. Object now exists in root-space.
+
+                    MORRIS
+          And it's... I mean, it's somewhere, right? Not just destroyed?
+
+                    CHEN
+                    Not destroyed. Compressed. All its matter still exists—just occupying point-three-three-three spatial
+          dimensions.
+
+                    SOFIA
+          Can you bring it back?
+
+Chen shakes his head.
+                    CHEN
+          One-way trip. We can send things to root-space, but we haven't figured out retrieval. That's the problem.
+
+Nina exchanges a look with Rashid and Yuki. The implication settles: Barry is trapped there too.
+
+Chen begins shutting down the transmitter.
+                    CHEN
+          That's the demo. Nothing fancy. Just—
+
+A SOUND. A mechanical CLUNK from the transmitter.
+
+Everyone freezes.
+
+Chen frowns.
+                    CHEN
+          That's not supposed to—
+
+Another CLUNK. Then a HISS. Part of the platform SHIMMERS again.
+
+                    NINA
+          Chen, what's happening?
+
+                    CHEN
+          I don't know. The transmitter shouldn't—
+
+Something MATERIALIZES on the platform. A fragment. A piece of the sof-tak's outer skin—torn, ragged.
+
+Morris points.
+                    MORRIS
+          That's... that's part of the sof-tak. It came back?
+
+Chen moves closer, cautious. Picks it up. Turns it over.
+
+His expression changes. Horror.
+
+                    DARIUS
+          What is it?
+
+Chen doesn't answer. Just holds it up.
+
+Scratched into the sof-tak skin, crude and desperate:
+
+**WE'RE ALL DYING**
+
+Silence.
+
+Morris stares.
+                    MORRIS
+          That's... I mean, that just went through. We just sent it. Like, ten seconds ago.
+
+Sofia, quietly.
+                    SOFIA
+          Who wrote this?
+
+Darius, sharp.
+                    DARIUS
+          Barry? He's in there?
+
+Nina, realizing she can speak without Marcus there.
+
+                    NINA
+          He tried something and made a mistake. Then Josh did the same. They're in root-space but ok.
+
+Chen interrupts, voice tight.
+
+                    CHEN
+          They grabbed it. Scratched a message. Sent it back through.
+
+Yuki continues Nina's explanation.
+
+                    YUKI
+                    We've been getting closer to bringing them back. Barry sends us data so we can keep calibrating.
+          They're alive in there.
+
+                    RASHID
+          Well.. for now.
+
+Morris takes the fragment from Chen's hands, staring at the message. His face has gone pale.
+
+                    MORRIS
+                    That's... that's probably the most concerning thing—I mean, not probably, it definitely is. The
+          message. Not the sof-tak. It's just—
+          (trails off, then stands resolutely with confident voice)
+          Who ALL is really in there?... They must have been just... right there. Waiting.
+
+Chen, barely audible.
+                    CHEN
+          Yeah. They shouldn't even be there.
+
+Sofia, challenging and direct.
+                    SOFIA
+                    Someone is in there? And you all kept working? Kept researching? People are trapped and dying in another dimension, and
+          INZO has a staff meeting?
+
+Chen doesn't answer. Can't meet her eyes.
+
+Darius turns to Nina.
+
+                    DARIUS
+          Before anyone turns that on again, explain this root space.
+
+FADE TO BLACK.
+
+END SCENE 6

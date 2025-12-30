@@ -1,0 +1,125 @@
+# ADAM
+
+## BASIC INFORMATION
+- **Full Name**: Adam (last name unknown - never revealed)
+- **Age**: Late 30s to early 40s
+- **Class Status**: Unhoused
+- **Occupation**: Homeless chemist / Body disposal specialist for Geoff
+- **Family**: No family mentioned - likely estranged or dead
+- **Background**: Has formal chemistry education (university level or military training). Advanced knowledge of organic chemistry, acids, and compound synthesis. Living in Tracktown for unknown duration before story begins.
+
+## ARCHETYPE
+**Primary**: The Tragic Protagonist / The Brain
+**Secondary traits**: The Survivor (Act 1), The Rebel (Act 2-3 attempted)
+
+## CHARACTER FUNCTION
+Protagonist. A homeless chemist who witnesses a murder and becomes trapped in a body disposal arrangement with a billionaire. His journey from isolation to community to devastating loss drives the story's emotional core. Represents the powerlessness of the poor against systemic oppression and extreme wealth.
+
+## PHYSICAL DESCRIPTION
+- Weathered appearance from homelessness
+- Intelligent eyes that reveal his education despite rough exterior
+- Worn, practical clothing suitable for Tracktown life
+- Becomes noticeably cleaner and better-kept after earning money from Geoff
+- Hands show chemical stains/burns from lab work
+- Moves carefully and deliberately - always aware of surroundings
+
+## PERSONALITY TRAITS
+- Withdrawn and avoids people initially (trauma from past)
+- Highly intelligent with advanced chemistry knowledge
+- Skilled at navigating hidden spaces and remaining unseen
+- Resourceful and capable of improvisation under pressure
+- Develops attachment to community once he opens up
+- Capable of terrible things but seeking redemption
+- Skills are both his salvation and his curse
+
+## RELATIONSHIPS
+- **Geoff**: Antagonistic relationship. Adam is trapped by Geoff's threats and wealth. Attempts twice to kill Geoff but fails both times.
+- **Moosk**: Geoff's robot bodyguard who enforces Geoff's will and prevents Adam's assassination attempts.
+- **Tyson (T)**: Befriends the kid through street scams. Bonds over their skills. Either T or Gal is killed by Geoff in Act 2 as punishment.
+- **Gal**: Befriends the woman through chance encounter. Shares meals and community. Either T or Gal is killed by Geoff in Act 2 as punishment.
+- **Tracktown residents**: Initially avoids them, but gradually comes out of his shell as money comes in and he contributes to the community.
+
+## CHARACTER ARC
+**Act 1**: Isolated and withdrawn → Witnesses murder → Trapped in body disposal arrangement → Makes money → Opens up to community → Finds friendship with T and Gal
+
+**Act 2**: Paranoia sets in → Tries to quit but is threatened → Creates re-animator gas to kill Geoff → Plan fails → T or Gal killed as punishment → Consumed by guilt and rage
+
+**Act 3**: Mourns friend's death → Devises public distraction plan → Confronts Geoff → Shoots robot double → Plan fails catastrophically → Forced to watch Tracktown community gassed → Broken and defeated → Alone and homeless again
+
+Arc Type: Negative Change / Disillusionment Arc (tries to fight systemic power, loses everything, proves the impossibility of escaping wealth's control)
+
+## DIALOGUE STYLE
+- Reserved and precise when speaking (chemistry background)
+- Opens up more as he befriends T and Gal
+- May use chemistry metaphors or technical language
+- **Act 2 paranoia**: Minimal speech when alone, mostly frantic internal processing. Whispered reassurances to himself ("Just keep moving") reveal desperation to maintain control. Repetitive panic phrases ("No no no...", "Oh god oh god") show mental state deteriorating under pressure.
+- **Defensive/guarded with Geoff**: Short, careful responses when uncomfortable ("If you say so," "That's my business"). Doesn't elaborate or engage beyond necessary.
+- **Loosens with alcohol**: Drops guard, becomes more expressive and playful ("Mid roll. Weak" - mimicking Geoff's slang). Shows he craves normalcy and friendship, even from wrong source.
+- **Hollow defeat**: Single-word or fragment responses when realizing manipulation ("Yeah. Fun" after finding body). Voice goes flat, emptied of emotion.
+- **Begging/breaking point**: When forced beyond limits, voice cracks into desperate pleading ("Geoff, I can't--" / "Please..."). Whispered desperation reveals how thoroughly Geoff controls him.
+- **Explosive horror**: Rare full shouts when trauma overwhelms ("I KISSED A CORPSE!"). Loses composure completely. These outbursts are quickly followed by broken fragments ("What am I...").
+- **Forced casualness with friends**: Short, distracted responses when lying to community ("Just... supplies" / "Yeah. Maybe"). Hollow agreement ("Yeah") shows emotional disconnect. Can't fully engage when hiding truth.
+- **Assertive desperation**: When trying to quit, uses declarative statements ("I'm done" / "I'm not asking. I'm telling you"). Attempts to reclaim agency, but voice still shakes. Louder outbursts when pushed ("MY FRIEND--" / "Because of YOU") show breaking point reached.
+- **Snapping at friends**: When guilt overwhelms, lashes out at people trying to help ("I said it's fine!" to Joe). Immediately regrets it, returns to hollow reassurance.
+- **Technical/scientific mode**: When working with chemistry, speaks precisely with technical language ("The neural inhibitor... if the dosage is wrong, the autonomic system could restart"). Methodical observations ("Eleven seconds. Too slow"). Shows his expertise and intelligence.
+- **Self-justification**: When making morally questionable choices, talks to himself in fragments ("It kills. That's what matters"). Pushes away doubts to maintain resolve.
+- **Defensive escalation with friends**: When hurt, becomes cold and sarcastic ("Fine" / "Right. Realistic"). Twists others' words into attacks. Escalates from defensive to angry quickly when secrets are poked at.
+- **Misdirected anger**: Lashes out at wrong people (Tyson) when actually angry at situation or others (Gal). Realizes too late ("Sorry" / "You didn't do anything") but damage already done.
+
+## KEY SCENES
+
+**Act 1, Scene 0: The Railyard** - Adam emerges from underground tunnels beneath the homeless encampment where he hides chemistry equipment. A structural shift scares him ("Shit"), forcing him to surface. He actively avoids all human contact, even within his own community, before walking alone through the city at night - invisible and isolated.
+
+**Act 1, Scene 1: The Witness** - While scavenging in wealthy district, Adam witnesses Geoff murder a victim with a helium innertube. Gets caught by Moosk. Geoff forces him to choose: help dispose of the body or join it. Adam's chemistry knowledge makes him valuable. Trapped with no escape.
+
+**Act 1, Scene 2: The Offer** - Nearly killed by Moosk, Adam desperately offers to dispose of the body using his chemistry knowledge. Draws moral line: "Just disposal. I won't help you kill anyone." Geoff mocks this ("You have MORALS about this!"), takes incriminating photo as "insurance," gives Adam his business card. Adam left alone with body, realizing what he's agreed to ("What did I just do?").
+
+**Act 1, Scene 3: The Police Stop** - Transporting body in Amazing Company auto-car, gets pulled over by police. Quick thinking: lies about new job with company. Police suspicious ("You really work for Amazing Company? You?") but app credentials check out. Officer Kane sympathetic: "Good for you. Getting out of that situation." Adam nearly caught while body sits behind him. Realizes he's in too deep.
+
+**Act 1, Scene 4: The Disposal** - Disposes body in secret underground acid lab beneath railyard. Apologizes to victim before disposal ("I'm sorry. I don't know who you were"). Methodical, professional process reveals extensive chemistry expertise. Keeps detailed notebook ("First job complete. God help me"). Despite sophisticated lab, sleeps in poverty above. Questions transformation ("What am I becoming?"). Can't sleep, stares at hands seeing phantom stains.
+
+**Act 1, Scene 5: The Deal** - At dystopian gym, pays $20 for two cups of hot water to clean up. Class divide stark. Meets Geoff at penthouse, collects $25,000 ("This is... a lot of money" vs Geoff's "Pocket change"). Asks why Geoff kills. Agrees to ongoing disposal arrangement despite knowing he's "getting deeper." Refuses to shake hands: "This is business. Not partnership." First real shower in months with Geoff's condescending $500.
+
+**Act 1, Scene 6: The Moosk Special** - Arrives to warehouse, finds Geoff throwing weak punches at suspended victim while Moosk has done real damage. Tries to maintain moral line: "I don't watch. I just dispose." Witnesses Moosk brutally rip body down through restraints, breaking victim's hands. Apologizes to body while wrapping ("I'm sorry. I'm so sorry"). Cannot unhear bones breaking or unsee Moosk's piston-like punch. "This is what he's part of now."
+
+**Act 1, Scene 7: The Rideshare Glitch** - Transport app glitches to rideshare pool. Passenger Marcus sits next to body. Adam desperately improvises: pretends body is drunk friend, fakes pulse check, makes loud snoring sound when body's head hits seat ("SNOOOOORRRE"). Changes destination to urgent care to get Marcus out. Alone after, breaks down laughing/crying: "A snore. I made a snoring sound. At a corpse." Dark comedy absurdity sinks in.
+
+**Act 1, Scene 8: The Public Kill** - Geoff kills in public plaza with witnesses and cameras everywhere. Horrified ("Not HERE"). Geoff dismissive: "Your problem now! Figure it out." Wraps body in rope, forces into fetal position for shipping box. Hand won't fit due to rigor mortis - breaks it off at wrist ("SNAP"). Carries box past security guard as "delivery." Realizes "He's getting worse... This can't continue" but trapped by money and having "crossed every line."
+
+**Act 1, Scene 9: Making Money** - Transformation: cleaner, has money, contributing to railyard community. Brings food to barbecue, helps repair shelter. Joe observes he's "coming out of his shell." First time offers to help others: "Anyone else need anything?" Genuine laugh - surprising himself. Feels belonging but aware of blood money contradiction. Pushes thought away: "Right now, in this moment, he's helping people. That's what matters. Right?"
+
+**Act 1, Scene 10: Meeting Tyson** - Witnesses Tyson's broken item scam. Completes old scam phrase ("and he'll charge you three copper"), revealing past as hustler. Shows chemistry fireball trick: "In the old days, they thought this was magic." Pickpockets Tyson's phone during distraction for misdirection lesson. Both laugh with mutual respect. Tyson invites him to walk together, mentions friend Gal. Real, normal conversation. Maybe even friends.
+
+**Act 1, Scene 11: Meeting Gal** - At bodega, Gal has last coffee Adam promised to get. Trades anything in store for it: "I said I'd get the coffee. So whatever you need, it's yours." Explains: "I haven't been good at keeping promises lately. So when I can... I do." Invites Gal to barbecue. The three share meal at railyard. Joe asks if they're friends - Adam confirms: "Yeah. Friends." Toast together. For first time in years, Adam not alone. Has people, place, friends. "This is what he has to lose."
+
+**Act 2, Scene 12: The Wrong Drop-Off** - Transporting chopped bodies in auto-car, spots police car and panics ("No no no..."). Vans appear to follow him, spiking paranoia ("They're following me. Geoff's testing me"). Destination glitches to Amazing Company shipping facility instead of railyard. Frantically corrects route as car approaches security checkpoint ("Oh god oh god--"). Narrowly escapes but can't tell if vans were real, if it was glitch, or Geoff playing games. Left rattled and paranoid: "What's happening..."
+
+**Act 2, Scene 13: Standard Night on the Town** - Geoff takes him to expensive restaurant and casino to "relax." Initially tense and out of place at steakhouse. Gradually loosens up with alcohol at casino, starts having fun, wins $300 gambling. Mimics Geoff's slang ("Mid roll. Weak"), they laugh together like friends. For a moment believes this could be real. Then Geoff reveals he killed someone in VIP area: "Take care of it." The entire generous night was manipulation to get another disposal. Realizes he's not Geoff's friend or partner, just a tool: "Yeah. Fun."
+
+**Act 2, Scene 14: The Almost Busted** - Police enter warehouse while retrieving body. Geoff forces him to pretend body is his boyfriend to hide the truth. Begs "Geoff, I can't--" but has no choice. Forced to kiss the corpse in front of police to maintain charade. Experiences complete degradation - smell of decomposition, cold dead lips, corpse fluids on his mouth. After police leave (choosing to ignore what they saw), breaks down: "I KISSED A CORPSE!" Vomits when realizes he has "residue" on his face. Broken: "What am I..." No limit to how low Geoff will force him. This is a new low.
+
+**Act 2, Scene 15: The Homeless Camp Witness** - Bringing body through Tracktown in barrel. Joe appears and offers to help carry it: "Community helps community, right?" Adam can't refuse without raising suspicion. Joe talks about potluck, mentions Adam connecting with people ("You were so closed off when you first got here"), pats his shoulder: "You're part of this place now." After Joe leaves, Adam realizes Joe just helped him carry a corpse. Made Joe unwitting accomplice. Guilt crushing: "What am I doing..." Two halves of his life nearly collided - friends and horrible work.
+
+**Act 2, Scene 16: I'm Out** - Tries to quit: "I'm done. The jobs. The disposal. All of it. I'm out." Geoff refuses. Adam desperate: "The risk is too high" / "I can't keep doing this..." Geoff threatens everyone at Tracktown - Moosk has "facial recognition complete" on all 84 residents. Geoff: "These are your friends... which means they're leverage." Adam lunges at Geoff, Moosk lifts him off ground effortlessly. Realizes community is now hostages. Can't quit, can't run, can't tell anyone. After Geoff leaves, expression shifts from desperation to cold determination: if he can't quit, he'll eliminate the problem permanently. First thought of assassination.
+
+**Act 2, Scene 17: Creating the Gas** - In secret lab, creates lethal gas. Notebook labeled "PROJECT TERMINATION." Tests on rat - it dies in 11 seconds. Success! Then rat reanimates with erratic movements. Realizes formula causes reanimation: "What did I make..." Tries to fix it but runs out of time (Moosk texts about job). Decides to use flawed gas anyway: "It kills. That's what matters." Seals gas in capsule. Scientist becomes assassin. Chemistry skills weaponized for himself instead of disposal.
+
+**Act 2, Scene 18: Mid Night Out** - Takes Tyson and Gal to mid-class restaurant. Happy moment: they laugh together, Gal teaches Tyson manners. After dinner wants to continue the night but Gal refuses, says she can't get used to good things: "If I get used to good things, it'll hurt more when they stop." Adam defensive, they fight. Gal calls his behavior "desperate." She leaves. Tyson tries to mediate but Adam snaps at him ("Nothing important" about his job). Tyson runs off hurt. Alone, hears drone overhead watching. Calls for Tyson but he's gone. Last good moment with friends destroyed by his anger and secrets.
+
+**Act 2, Scene 19: Planning the Exposure** - At Geoff's penthouse to dispose body, attempts assassination with gas capsule. Moosk's sensors detect chemical immediately: "Unidentified chemical compound detected." Caught. Geoff amused, not scared: "You thought it would work!" Reveals he knew Adam would try something: "I wanted to see if you'd actually try." Warning: "About consequences..." Realizes he can't kill Geoff - too much protection. Pivots to new plan: preserve body as evidence instead of dissolving. Research shows Geoff has charity gala Friday. New plan: public exposure with media. "Not with poison. With truth."
+
+**Act 2, Scene 20: Retribution** - Sees Amazing Company car leaving Tracktown at dawn. Moosk shows hologram of Geoff: "I took one of yours... can we forgive each other's transgressions?" Panics, finds Tyson alive, then discovers Gal's body in his secret chamber. Neck broken by Moosk. Overwhelming guilt - last words to her were "Nothing important" during their fight. Tyson horrified, confronts Adam: "I don't understand how you could work for someone who KILLS PEOPLE." Adam explains: "I tried to poison him... he said there would be consequences." Breaks down with Tyson beside Gal's body. "I wanted to protect them. Instead, I got one of them killed."
+
+**Act 3, Scene 21: Mourning and Disposal** - Hours after finding Gal's body, must dispose of her using the same acidic vats he's used on Geoff's victims - ultimate tragic irony. Explains to Tyson: "There's no other way" because reporting it would get everyone in Tracktown killed. Says goodbye to Gal's body, apologizing: "I'm sorry I dragged you into this. I'm sorry I snapped at you. I'm sorry I didn't tell you the truth." Begins disposal but breaks down midway: "I can't. I'm sorry. I can't." Tyson helps him finish: "We do this together." Bonds through shared trauma. Tells Tyson about exposure plan - preserved body, photos, Geoff's charity event Friday. Tyson commits to revenge: "I'm in." After disposal complete, cold determination replaces grief: "Now we destroy him."
+
+**Act 3, Scene 22: Shipping the Evidence** - Returns to empty chamber (Gal's disposal complete). Packages preserved body in Amazing Company box - ironic: "Using your own infrastructure against you." Clinical and methodical during preparation - treating it like chemistry experiment. Writes anonymous note: "Geoffrey's latest victim. More evidence to come." Schedules delivery to Channel 7 News for Thursday AM (day before gala). At shipping facility, lies to clerk: "Medical research samples." Watches package disappear on conveyor belt. Realizes: "It's done. No taking it back now." Weight of irreversible decision hits after package accepted. Texts Tyson: "Package sent... Next step: Get the footage." For first time since Gal died, allows himself cautious hope - not that it brings her back, but that Geoff will finally face consequences. Countdown begins.
+
+**Act 3, Scene 23: Gathering the Footage** - Stakes out police station with Tyson, intercepts Officer Kane. Calculating and ruthless: uses leverage without hesitation. Points out Kane is complicit for not reporting warehouse murder. Threatens to expose Kane's badge number unless he hands over bodycam footage. Kane trapped, agrees. Footage shows Geoff forcing Adam to kiss corpse - perfect evidence. Hacks security systems at warehouse locations, downloads footage of eight different murders with timestamps. Tells Tyson: "When you're homeless, you learn a lot of skills." Recruits six Tracktown residents (including Joe) to help take over production feed at gala. Careful not to endanger them: "Don't tell them everything." Joe suspects truth about Gal's disappearance but doesn't press. All evidence compiled: bodycam footage, security footage, photos, preserved body shipping Thursday. Promise to Gal: "I'm going to make this right."
+
+**Act 3, Scene 24: The Body Discovered** - Watches Geoff's press conference on phone with Tyson and Tracktown residents. Sees Geoff perform the concerned philanthropist act perfectly. Cold satisfaction watching Geoff squirm but knows this is just opening move: "He thinks he won. Wait until tomorrow night." Tells Tyson the news story is already fading but that's expected - Friday night is when the real attack comes. Rallies Tracktown team: "You're all still in?" Confirms final plan: "Tomorrow, Geoffrey's world ends." Quiet confidence despite Tyson's doubts. Understands Geoff beneath the facade: "He's just a man. A weak man who needs robots and lawyers to protect him." Final declaration: "Tomorrow we show the world who he really is."
+
+**Act 3, Scene 25: The Exposure** - Leads Tracktown team into charity gala with forged passes. Calm and focused - this is what Gal died for. Coordinates from backstage while team takes production booth. Gives signal: "Go." Watches evidence play on massive screens - news coverage, security footage, bodycam, photos. Emerges onstage with microphone at peak chaos: "That's Geoffrey. Serial killer. I've been his body disposal specialist." Confesses everything to media: "I have documentation of fifteen murders... All on his orders." Takes responsibility: "I helped him. I dissolved those bodies. I'm guilty. But he's the one who killed them." Declares: "The truth is out. You can't hide anymore." Arrested cooperatively, explains to media: "He threatened my community... If I didn't help him, he'd kill them all." First time he has power in this relationship. But notices "Geoff" smiling during chaos: "Why are you smiling?" Led away in handcuffs, watching media frenzy. Believes he won - Geoff is exposed to the world.
+
+**Act 3, Scene 26: Geoff's Mask Drops** - In interrogation room, cooperating fully with detectives. Confident at first: "You saw the footage. His face at every scene." Then detectives turn on TV - real Geoff holds press conference. Complete psychological destruction watching Geoff's counter-move: reveals "Geoff" at gala was robot double used for security. All evidence recontextualized - Adam had company access, chemistry knowledge, confessed to disposing bodies. Geoff frames Adam as the real killer who used stolen robot. Adam explodes: "That's not a robot! That was HIM!" But detectives skeptical: "You just admitted to fifteen murders. Why should we believe you?" Watches Geoff play victim perfectly, offering to pay for Adam's legal defense: "I forgive you... we help people." Desperate to protect Tracktown: "You have to send police... He's going to kill them." Detectives think he's delusional. Confesses disposing Gal's body - detectives suggest he killed her. Completely broken: "He won. I tried to expose him... and he just won. Gal died for nothing." Realizes retribution is coming: "Tracktown..."
+
+**Act 3, Scene 27-28: The Massacre** - Interrogation room TV activates showing live drone feed of Tracktown gassing. Begs detectives: "Send help! NOW!" Emergency response dispatched but 25 minutes away - too late. Forced to watch everyone die: sees Joe collapse, sees Tyson fall. Geoff narrates over loudspeaker knowing Adam is watching: "This is what defiance costs, Adam." Sinks to knees watching: "I'm sorry. I'm so sorry." Watches drones terminate reanimated bodies. Complete psychological annihilation. Released on bail - Geoff paid it as final insult. Receives Tyson's phone with final video message: "It's not your fault... Don't let him win." Watches it repeatedly. Walks through empty Tracktown - bodies removed, chalk outlines, blood stains. Sits where Joe's fire was: "He already won." Records confession video to camera but deletes it: "What's the point? No one would believe him anyway." Walks into city alone. Homeless again. Same as beginning except now knows: "There is no hope. No justice. Just survival." Epilogue: convicted of fifteen counts, life in prison. Geoff attends sentencing, donates $250 million to prison reform in Adam's name. The poor lost everything. The system won.

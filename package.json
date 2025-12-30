@@ -1,0 +1,24 @@
+{
+  "name": "screenplay-to-audio",
+  "version": "1.0.0",
+  "description": "Converts screenplay files to audio using text-to-speech with separate voices for each character",
+  "main": "src/screenplay-to-audio.js",
+  "scripts": {
+    "convert": "node src/screenplay-to-audio.js",
+    "convert:scene": "node src/screenplay-to-audio.js",
+    "convert:all": "node src/screenplay-to-audio.js \"Act 1 - Explaining the New Cube\""
+  },
+  "keywords": [
+    "screenplay",
+    "tts",
+    "text-to-speech",
+    "audio",
+    "converter"
+  ],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "edge-tts-node": "^1.5.7",
+    "speakertts": "^1.0.3"
+  }
+}

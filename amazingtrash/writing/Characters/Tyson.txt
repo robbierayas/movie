@@ -1,0 +1,74 @@
+# TYSON (T)
+
+## BASIC INFORMATION
+- **Full Name**: Tyson (last name unknown)
+- **Nickname**: T
+- **Age**: 16-17 years old (teenager, still young and optimistic)
+- **Class Status**: Unhoused
+- **Occupation**: Street scammer
+- **Family**: None mentioned - either orphaned or abandoned. Has been hustling since age 8.
+- **Background**: Grew up in Tracktown. Homelessness is his normal - never knew anything else.
+
+## ARCHETYPE
+**Primary**: The Innocent / The Heart
+**Secondary traits**: Comic Relief (unintentional - through youth and honesty), The Survivor (Act 3 - after Gal's death)
+
+## CHARACTER FUNCTION
+Represents innocence and hope in Tracktown. One of Adam's two friends who helps him come out of his shell. Skilled at street scams. Grew up in Tracktown - it's his normal. Either Tyson or Gal is killed by Geoff as punishment for Adam's assassination attempt, serving as the emotional turning point that drives Adam's final desperate plan.
+
+## PHYSICAL DESCRIPTION
+- Young teenager (16-17), small/wiry build
+- Scrappy appearance - clothes worn but functional
+- Quick movements, always alert (street kid reflexes)
+- Energetic body language - hasn't been beaten down by life yet
+- Hands skilled at sleight-of-hand and pickpocketing
+- Face still has youthful optimism despite circumstances
+
+## PERSONALITY TRAITS
+- Skilled at running street scams (broken item reversal, pickpocketing)
+- Quick-witted and street-smart
+- Laughs easily and bonds with Adam over shared skills
+- Mentions getting items fixed by "old jester down the way" (knows community resources)
+- Shocked by Adam's chemistry "magic" (fireball)
+- Trusting enough to let Adam pickpocket him during distraction
+- Grew up in Tracktown - homelessness is his normal
+
+## RELATIONSHIPS
+- **Adam**: Befriends Adam through street scams. Bonds over the broken item reversal scam and Adam's chemistry tricks. Adam pulls Tyson's phone during fireball distraction and they both laugh. Shares meals with Adam and Gal. Either T dies (killed by Geoff) or survives to witness Adam's friend's death.
+- **Gal**: Part of the trio. Learns manners from Gal during "Mid night" dinner. Sent to grab dessert while Adam and Gal talk privately.
+- **Tracktown community**: Grew up there, knows the people and resources.
+
+## CHARACTER ARC
+**Act 1**: Running street scams → Meets Adam during scam → Bonds over chemistry fireball and pickpocket → Becomes part of friend trio with Adam and Gal → Shares meals and community
+
+**Act 2**: Enjoys "Mid night" dinner with Adam and Gal → Gal teaches him manners → Adam says wrong thing, Tyson runs off → Drone spotted overhead → Either killed by Geoff as punishment OR survives to witness friend's death
+
+**Act 3** (if survives): Mourns Gal's death → Helps Adam with disposal → May help with distraction plan → Witnesses or participates in Tracktown setup → Dies in drone gassing along with entire community
+
+Arc Type: The Innocent Destroyed (whether killed in Act 2 or Act 3, represents the destruction of hope and innocence)
+
+## DIALOGUE STYLE
+[How this character speaks - to be expanded after scenes are written]
+- Likely youthful and energetic
+- Street-smart language
+- Quick with comebacks and scam patter
+
+## KEY SCENES
+
+**Act 1, Scene 10: Meeting Tyson** - Running broken item scam on businessman. Adam completes old scam phrase, revealing shared hustler background. Amazed by Adam's chemistry fireball ("Holy SHIT! Do it again!"). Doesn't notice Adam pickpocketing phone during trick. Laughs when caught ("You're REALLY good"). Introduces self as "Tyson. Everyone calls me T." Invites Adam to walk with him. Mentions Tracktown community ("Been hustling since I was eight"). Wants Adam to meet friend Gal. Beginning of friendship.
+
+**Act 1, Scene 11: Meeting Gal** - At bodega with Adam. Tells Adam about Gal's "chemistry magic." Introduces himself to Gal: "I'm T, by the way. That's Adam." Tells scam stories on walk back, making both laugh. At barbecue, confirms friendship when Joe asks: "Damn right" (to being friends). Grins and toasts with Adam and Gal. Part of the trio now.
+
+**Act 2, Scene 18: Mid Night Out** - At dinner with Adam and Gal, struggles with pronunciation ("Fillet mig-non?"). Gal teaches him manners gently. Questions why napkin goes in lap: "That's stupid. Tucked catches more food." Enjoys the meal: "That was incredible." After Gal and Adam fight, sent to get dessert. Returns to find Gal gone. Tries to help Adam understand: "Gal's just scared... of getting hurt" / "Tomorrow will be better." When Adam snaps about his job ("Nothing important"), steps back hurt: "Okay. Jeez." Walks away quickly despite Adam calling after him. Young and optimistic but wounded by Adam's anger.
+
+**Act 2, Scene 20: Retribution** - Adam wakes him frantically. Confused, then Adam finds Gal's body in secret chamber. Doesn't believe it at first: "Gal, come on. This isn't funny." Checks for pulse, feels broken neck, pulls hand back horrified. Remembers last night: "You were fine. We just had dinner. You taught me how to hold a fork." Learns Adam works for Geoff and tried to kill him: "You always have a choice!" Grief-stricken: "She wanted out. Out of Tracktown. She had plans." Collapses beside Gal, apologizing to her. Asks Adam: "What do we do now?" Traumatized witness to consequence of Adam's choices.
+
+**Act 3, Scene 21: Mourning and Disposal** - Hours later, still sitting with Gal's body. Asks what they'll do with her - Adam says they have to dispose of her. Refuses at first: "We can't just dissolve her like she's garbage!" Learns the full truth about Adam's work: fifteen to twenty bodies dissolved. Shocked: "Jesus." Says Adam should've run or fought harder. Adam explains why he couldn't. Says goodbye to Gal: "You wanted out. You wanted something better. And you deserved it... I'm gonna make sure he pays for this. I promise." Turns away during disposal - can't watch. When Adam breaks down unable to finish, steps in: "I'll do it. You've done enough... We do this together." Commits to revenge plan when Adam explains exposure strategy. Refuses to walk away: "Gal was my friend too... I'm in." Transformation complete - from innocent kid to hardened survivor seeking vengeance.
+
+**Act 3, Scene 23: Gathering the Footage** - Acts as Adam's partner now, not just follower. Stakes out police station with Adam, helps intercept Officer Kane. Watches Kane to ensure he doesn't run or warn Geoff. Reviews bodycam footage with Adam on phone: "Holy shit... That's perfect." Learns Adam can hack security systems. Assists with recruiting Tracktown residents - tells Adam: "They'll do it. Everyone's tired of being stepped on by rich assholes." Lies to Joe about Gal leaving town when Joe suspects something happened. Asks Adam if they'll tell everyone the truth about Gal after this is over: "If we survive." Hardened by grief but still carrying out the plan methodically. Final moment with Adam reviewing evidence, remembering Gal: "She would've liked this. The Plan."
+
+**Act 3, Scene 24: The Body Discovered** - Watches Geoff's press conference with Adam and Tracktown group. Recognizes Geoff is lying: "He's lying through his teeth." Expresses doubt when news story starts fading: "Didn't he win? The news is already moving on." Asks Adam if plan will work and if they might die trying. Adam's answer ("Then we die trying") prompts: "That's not reassuring." Still doubts but committed to seeing it through. Present for Adam's final rally of Tracktown team before Friday gala.
+
+**Act 3, Scene 25: The Exposure** - Enters gala with Adam and Tracktown team using forged passes. Coordinates with team in production booth takeover. Acts as relay between Adam and booth. Receives Adam's signal text "Go" and tells Resident 1: "Do it." Watches evidence play on screens with grim satisfaction. Sees bodycam footage, security footage, photos - all the evidence they gathered. When footage completes: "We did it." Escapes with Tracktown team during chaos before security arrives at booth. This is for Gal - revenge executed perfectly.
+
+**Act 3, Scene 27-28: Death** - Returns to Tracktown exhausted after escaping gala. Tells Joe: "It didn't work. Geoff turned it around." Tries to evacuate Tracktown when drones arrive: "You don't know what he's capable of." Watches drones form perimeter, trap everyone. Geoff's loudspeaker demands surrender of gala team. Knows if they surrender they die, but if they don't everyone dies. Stops Joe from sacrificing himself: "It won't matter. He's not here for justice." Tells Joe truth about Gal's death. Community gathers together as countdown reaches zero. Gas releases. Tries to warn everyone: "Cover your mouths! Don't breathe it!" One of last alive - young lungs holding out longer. Sees everyone die: Joe, all residents. Reanimated bodies twitching - nightmare. Pulls out phone with shaking hands, records final message to Adam: "Adam... they're all dead. Everyone. Gal. Joe. Everyone. It's not your fault. You tried. You tried to do the right thing. That's more than most people. Don't let him win. Don't let..." Collapses. Dies. Phone keeps recording his body, the twitching, the carnage. Final act: message of forgiveness for Adam. The innocent destroyed.

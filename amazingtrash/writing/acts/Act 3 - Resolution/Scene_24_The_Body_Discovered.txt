@@ -1,0 +1,290 @@
+# Scene 24 - The Body Discovered
+
+## LOCATION
+INT. AMAZING COMPANY HEADQUARTERS / EXT. PRESS CONFERENCE - AFTERNOON
+
+## CHARACTERS
+Geoff, Moosk, PR Handler, Reporters, Adam (watching on TV)
+
+## SCENE LAYOUT
+
+### Opening
+Thursday afternoon. Geoff is preparing to make a public statement about a body that was discovered in an Amazing Company shipping box. He's getting ready to go out, mentions he has to get to the charity event afterward. He's briefed quickly (or finds out details as he's making the statement). Geoff is confident he can spin this. After all, he's untouchable.
+
+### Key Beats
+1. **Getting Ready** - Geoff preparing for press conference. Mentions needing to get to the charity event tonight. Quick briefing about the body discovery.
+2. **The Press Conference** - Geoff stands in front of Amazing Company HQ with press. Cameras everywhere. Reads prepared statement: shocked by discovery, cooperating fully with police, no knowledge of victim's identity or how body ended up in company box.
+3. **The Performance** - Geoff plays the role perfectly. Concerned billionaire. Philanthropist horrified by tragedy. "We take worker safety and security protocols very seriously." Promises internal investigation.
+4. **The Questions** - Reporters ask about the anonymous note. Geoff dismisses it: "Anyone can write a note. Doesn't make it true." Asked if he knew the victim. "Police haven't even identified the body yet. How could I?"
+5. **The Mask Slips** - After press conference, cameras off, Geoff returns to his car with Moosk. The philanthropist act drops immediately. Titter laugh: "Heh-heh-heh. They bought it." Tells Moosk to keep watching Adam. Geoff is confident and amused - "This is going to be fun."
+
+### Character Moments
+- **Geoff**: Confident and controlled during press conference. Plays the philanthropist role flawlessly - concerned,
+cooperative, confused. But the moment cameras turn off, the mask drops completely. The titter laugh reveals his true
+contempt. He's not worried - just annoyed someone is trying to damage his reputation. Underestimates what Adam has
+planned.
+- **Moosk**: Silent enforcer. Scans the press conference crowd for threats. When Geoff orders him to find who sent the
+package, immediately begins analysis. Efficient. Emotionless.
+- **PR Handler**: Knows Geoff is guilty but doesn't care. Job is to protect his reputation, not seek truth. Crafts the
+narrative expertly.
+
+### Closing
+Geoff in the car with Moosk, laughing. The press conference was a success. He's confident and amused by Adam's attempt to expose him. Orders Moosk to keep watching Adam but doesn't see him as a real threat - just entertainment. Tomorrow's charity event will rehabilitate his image completely. He has no idea what's waiting for him.
+
+---
+
+## FULL SCRIPT
+
+INT. AMAZING COMPANY HEADQUARTERS - GEOFF'S OFFICE - AFTERNOON
+
+Thursday afternoon.
+
+Geoff adjusts his tie in a mirror. Getting ready.
+
+His PR HANDLER (40s, woman, sharp) stands nearby with notes.
+
+                    PR HANDLER
+          The news broke two hours ago. Body found in one of our shipping boxes. Police are investigating.
+
+                    GEOFF
+          Whose body?
+
+                    PR HANDLER
+          Unidentified. Male, fifties. Preserved with chemicals. There was an anonymous note claiming it was one of your
+          victims.
+
+Geoff, calmly.
+
+                    GEOFF
+          How dramatic.
+
+                    PR HANDLER
+          The press is demanding a response. I've set up a conference in fifteen minutes.
+
+                    GEOFF
+          And after that, I have the charity gala tonight?
+
+                    PR HANDLER
+          Yes. Seven PM. This couldn't have come at a worse time.
+
+                    GEOFF
+          Or a better one. A public appearance right after this will show I have nothing to hide.
+
+He turns to her.
+
+                    GEOFF (CONT'D)
+          What's my line?
+
+                    PR HANDLER
+          Shocked. Horrified. Cooperating fully with authorities. Emphasize worker safety and security protocols.
+
+                    GEOFF
+          Easy enough.
+
+                    PR HANDLER
+          Don't mention the note specifically. If asked, dismiss it as unverified claims. Anyone can write anything.
+
+                    GEOFF
+          The police will identify him eventually.
+
+                    PR HANDLER
+          By then, you've already established the narrative: you had nothing to do with this. Someone's trying to frame
+          you.
+
+                    GEOFF
+          And they'll believe that?
+
+                    PR HANDLER
+          You're a billionaire philanthropist. You've donated millions to charity. You employ thousands of people. Why
+          would you risk all that to murder a random person?
+
+                    GEOFF
+          Why indeed.
+
+                    PR HANDLER
+          Stick to the script. Express concern. Promise cooperation. Don't get defensive. Don't engage with conspiracy
+          theories.
+
+She hands him a printed statement.
+
+                    PR HANDLER (CONT'D)
+          Read this. Word for word. Then take three questions maximum and exit.
+
+Geoff scans the statement.
+
+                    GEOFF
+          "Deeply disturbed..." "Full cooperation..." "Thoughts and prayers..."
+
+He looks up.
+
+                    GEOFF (CONT'D)
+          Perfect.
+
+---
+
+EXT. AMAZING COMPANY HEADQUARTERS - PRESS CONFERENCE - AFTERNOON
+
+3:00 PM.
+
+A podium set up in front of the building.
+
+REPORTERS and CAMERAS crowd the area.
+
+Geoff approaches the podium. Moosk behind him, just offscreen.
+
+He looks somber. Concerned.
+
+Clears his throat.
+
+                    GEOFF
+          Thank you all for coming. I'll read a brief statement, then take a few questions.
+
+He unfolds the paper.
+
+                    GEOFF (CONT'D)
+          This morning, I learned of a deeply disturbing discovery involving an Amazing Company shipping container. A
+          body was found inside a package delivered to Channel 7 News. I want to be absolutely clear: I have no knowledge
+          of how this happened, who the victim is, or who sent this package.
+
+Cameras flash.
+
+                    GEOFF (CONT'D)
+          Amazing Company takes the safety and security of our shipping operations very seriously. We are cooperating
+          fully with law enforcement to investigate this incident. Our thoughts and prayers are with the victim's family,
+          whoever they may be.
+
+He folds the paper.
+
+                    GEOFF (CONT'D)
+          I'll take a few questions.
+
+Hands shoot up.
+
+                    GEOFF (CONT'D)
+          Yes?
+
+REPORTER 1
+Mr. Geoffrey, the anonymous note claims you're responsible for this person's death. How do you respond?
+
+                    GEOFF
+          Anyone can write a note. That doesn't make it true. I have no idea who sent that package or why they're making
+          these baseless accusations.
+
+REPORTER 2
+Have you been contacted by police?
+
+                    GEOFF
+          Yes. I've offered our full cooperation. We've provided access to our shipping records and security footage.
+
+REPORTER 3
+Do you know who the victim is?
+
+                    GEOFF
+          No. Police haven't released an identification yet. I'm as eager as anyone to learn the truth.
+
+REPORTER 1
+Some are calling this a cover-up. What do you say to that?
+
+                    GEOFF
+          I say that's irresponsible speculation. A tragedy has occurred, and we need to let law enforcement do their
+          job. Jumping to conclusions helps no one.
+
+He steps back from the podium.
+
+                    GEOFF (CONT'D)
+          That's all for now. Thank you.
+
+He turns and walks back into the building.
+
+Moosk follows.
+
+Reporters shout more questions.
+
+He ignores them.
+
+---
+
+INT. AMAZING COMPANY AUTO-CAR - AFTERNOON
+
+Geoff sits in the back seat. Moosk beside him.
+
+The car pulls away from the headquarters.
+
+The moment they're out of sight, Geoff's somber expression vanishes.
+
+He laughs.
+
+                    GEOFF
+          Heh-heh-heh. HEH-HEH-HEH.
+
+                    MOOSK
+          Analysis: Press conference successful. Narrative control established.
+
+                    GEOFF
+          They bought every word. "Thoughts and prayers." Heh-heh-heh.
+
+                    MOOSK
+          Threat assessment update: Adam remains active threat.
+
+                    GEOFF
+          Of course he does. He sent the body. He's planning something else.
+
+                    MOOSK
+          Recommendation: Terminate Adam before Friday charity event.
+
+                    GEOFF
+          No. I want to see what he does next. This is... entertaining.
+
+                    MOOSK
+          Risk level increasing.
+
+                    GEOFF
+          I can handle it. Besides, security at the charity event will be airtight. Adam can't get within a hundred feet
+          of me.
+
+                    MOOSK
+          Acknowledged. Monitoring Adam's location.
+
+                    GEOFF
+          Where is he now?
+
+                    MOOSK
+          Tracktown. No suspicious activity detected.
+
+                    GEOFF
+          Keep watching. If he makes a move, I want to know immediately.
+
+                    MOOSK
+          Affirmative.
+
+Geoff leans back.
+
+Looks out the window.
+
+                    GEOFF
+          Adam. Adam, Adam, Adam. You really think you can beat me?
+
+He laughs again.
+
+                    GEOFF (CONT'D)
+          This is going to be fun.
+
+FADE OUT.
+
+---
+
+## Production Notes
+- Geoff's office: massive, windows overlooking city, displays wealth and power
+- Geoff getting ready: adjusting tie, preparing for public appearance
+- PR Handler briefing: quick, professional, strategic
+- Mention of charity gala: "And after that, I have the charity gala tonight?"
+- Press conference: outdoor, cameras everywhere, Geoff performing for public
+- Geoff's shift: somber/concerned during conference → laughing/contemptuous after
+- Titter laugh: "Heh-heh-heh" reveals true nature when cameras off
+- PR strategy: professional crisis management, crafting narrative
+- Moosk: silent presence, red eyes scanning for threats, analytical
+- Car scene: mask completely drops, Geoff amused and confident
+- Geoff's arrogance: sees Adam as entertainment, not real threat
+- Scene ends with Geoff laughing - "This is going to be fun"
+- Dramatic irony: Geoff thinks he dodged the threat, but Adam's real plan hasn't started yet
+

@@ -1,0 +1,270 @@
+SCENE 2 - MARCUS'S COMMUNICATION ATTEMPT
+=========================================
+
+LOCATION: Marcus's location in root cube (alone)
+
+CHARACTERS:
+- Marcus (working alone after Act 2 split)
+
+SCENE LAYOUT:
+
+1. MARCUS ALONE
+   - Marcus in isolated location with equipment
+   - Surrounded by technical gear and devices
+   - Working methodically but showing signs of strain
+   - Limping from ankle injury (Act 2 Scene 8)
+   - Guilt weighing on him of subordinate deaths at his command, but transforming into resentment
+      - RESENTMENT THEMES: Never asked to be Director, was promoted beyond his comfort zone, blames INZO for putting him
+   in charge when he was just a scientist
+   - Anger at Edgar for being VP but not taking command
+   - Bitter about being "convenient" for INZO's needs
+   - Rationalizes they are better without him. He'll only get them killed
+   - Marcus: "Barry did it with parts so can I. He could have sent us a schematic though"
+      - Marcus: "Never asked to be Director. Never asked to lead anyone. Edgar said 'Marcus can handle Quantum Logistics'
+   like it was just paperwork."
+      - Marcus: "They don't need me second-guessing every decision until someone else dies. Better I work the technical
+   problem. That's what I'm good at. Not— not watching people—"
+      - Marcus: "Alone is safer. Can't give fatal orders if there's no one to— Just me and the equipment and the math.
+   That I can control."
+      - Marcus: "Get this working, get back to the company, explain what happened. They'll understand. They have to
+   understand I was trying to save everyone, I just— the calls I made were for them."
+      - Marcus: "They put me in charge. I was doing research, actual science, and they promoted me to Director and
+   suddenly I'm making life and death calls when all I wanted was to run experiments."
+
+2. THE MINI-CUBE REVEALED
+   - Marcus has kept mini-cube from Edgar's death room
+   - Plans to take it back to avoid trouble with the company
+   - Marcus: "Maybe you can— I need to take you back. Evidence. Proof we tried everything we could."
+      - Marcus: "The company's going to want answers and I don't have good ones but if I bring back this, show them we
+   can go beyond 0-space—"
+      - Marcus: "Edgar stepped up when it mattered. He understood the stakes. And I— I tried - but somehow I get all the
+   failure—"
+      - Marcus: "He was VP. He could have taken command. Could have made the calls. But no, Marcus is Director of Quantum
+   Logistics, so Marcus gets to watch people die following his orders. Edgar got to be the hero at the end, and I got to
+   be the one who—"
+   - Marcus: "Work for me as a bargaining chip with the company. Please. I need something to work. Just one thing."
+
+3. COMMUNICATION ATTEMPTS
+   - Attempting to establish contact, only static out of the speakers and on the screen
+   - Jerryrigged equipment, similar to Barry's device but does not look completed
+   - Repeated attempts to transmit signal
+   - Adjusting dials, but talking about personal relationships and feelings
+   - Guilt transforming into resentment as he talks
+      - Marcus: "I thought if I just said what INZO wanted me to say, we'd all get out. But I'm not used to— I keep
+   seeing Sofia's face when I said 'Open it!' and the vacuum just— I told myself I was protecting them by leaving. Can't
+   experiment when that can kill people. But can't kill anyone if you're alone, right? But maybe I just couldn't face
+   watching it happen again."
+      - Marcus: "I shouldn't have been the one making that call. I'm a scientist. I analyze data, I run tests, I— I don't
+   command people to open doors that might kill them. That's not what I signed up for when I took this job. But INZO
+   needed a Director and I was— I was convenient."
+      - Marcus: "Chen defended Edgar and I watched him get shoved into that wall and the screaming— I grabbed him, I
+   tried, but his skin was— And I still had to keep moving because stopping meant we'd all—"
+      - Marcus: "Rashid solved the puzzle while he was dying. Saved me. And I couldn't even— I just watched him bleed out
+   and said 'thank you' like that was enough. Like any of my decisions were worth—"
+      - Marcus: "They're better off without me making decisions. Every time I try to lead, someone dies. Maybe Alex was
+   right. Maybe I was never supposed to be the one calling the shots."
+   - Static and interference only response
+
+5. UNSUCCESSFUL OUTCOMES
+   - No successful contact made
+   - Equipment limitations clear
+   - Marcus's hubris confronted
+   - Resentment peaks as failure becomes clear
+   - He leans back to take relaxing swig from water bottle but it is empty
+      - Marcus: "Nothing. Of course it's nothing. Barry work on this for yes and I thought I could be Director of QUANTUM
+   LOGISTICS — Who was I kidding?"
+      - Marcus: "Director. Like that means I should know how to lead people through impossible death traps. Like a title
+   makes me qualified to— They gave me the job because I was good at the science. Not because I could handle watching
+   people trust me and then—"
+   - Marcus: "I'm alone because I chose it. Because I was so sure I could—"
+      - Marcus: "No. I'm alone because they made me responsible for things I was never trained for. Never wanted. And
+   when it all went wrong, when people started dying, suddenly it's all on Marcus. Director Marcus who couldn't keep his
+   team alive."
+      - Marcus: "Should have stayed together. Should have let Alex lead. And I could get work done without them holding
+   me back. Oh Sofia, Rashid."
+      - Marcus: "INZO did this. Not me. They built this cube. They sent us here. They promoted me to Director and then
+   acted surprised when I couldn't— when I didn't—"
+      - Marcus: "If my signal can get through, we can get out. I'm ready to go home; let me out. Please, I just need to
+   get through—"
+      - Marcus: "I need to tell them this wasn't my fault. I didn't ask for any of this. They put me in charge and people
+   died and now— now I'm—"
+
+TONE: Isolation and loneliness, mounting desperation, echoes of Edgar's sacrifice
+CHARACTER DYNAMICS: Marcus struggling alone, pride versus failure
+
+================================================================================
+
+Description:
+Marcus works alone with jerryrigged equipment, attempting to establish communication. He's kept the mini-cube from
+Edgar's death room as evidence for the company. As his attempts fail with only static, he talks through his guilt over
+Sofia, Chen, and Rashid's deaths, rationalizing his isolation while realizing he made the wrong choice. His desperate
+attempts to contact anyone end in complete failure and loneliness.
+
+Key Elements:
+- Marcus alone with his equipment
+- Reveals he kept mini-cube from Edgar's death room
+- Attempting to make contact through static
+- Communication attempts failing repeatedly
+- Growing frustration and desperation
+- Technical isolation and failure
+
+Character Focus:
+- Marcus: Isolated, desperate, failing
+- Shows his technical approach isn't working
+- Hubris in thinking he could solve it alone
+- Physical reminder of Edgar's death (the mini-cube)
+
+Technical Elements:
+- Mini-cube device from Edgar's death
+- Static/interference signals
+- Attempted communication protocol
+- Jerryrigged equipment similar to Barry's device
+- Unsuccessful transmission attempts
+
+Emotional Tone:
+- Isolation and loneliness
+- Frustration with failure
+- Desperation mounting
+- Echoes of Edgar's sacrifice
+- Marcus's pride preventing him from seeking help
+
+Notes:
+This scene shows Marcus struggling alone and establishes the mini-cube as an important object that will appear again in
+Scene 5. His failure here contrasts with the collaborative approaches of the other groups.
+
+================================================================================
+
+FULL SCRIPT:
+
+FADE IN:
+
+INT. ROOT CUBE ROOM - CONTINUOUS
+
+Marcus alone, surrounded by equipment spread out around him. He's limping as he moves between devices.
+Jerryrigged setup that looks incomplete - wires, components scattered. Similar to Barry's device but clearly not
+finished.
+
+He adjusts a dial. Static crackles from a speaker. He grimaces and adjusts again. More static.
+
+He sits heavily, favoring his injured ankle. Looks around the empty room.
+
+Marcus turns to himself.
+
+                    MARCUS
+          Barry did it with parts. So can I.
+          (beat, bitter)
+          He could have sent us a schematic though.
+
+He reaches for equipment, then pauses. Looks at his hands.
+
+                    MARCUS (CONT'D)
+          They don't need me second-guessing every decision until someone else dies. Better I work the
+          technical problem. That's
+          what I'm good at.
+          (quieter)
+          Not— not watching people—
+          (voice hardening)
+          Never asked to be Director. Never asked to lead anyone. I didn't want to be responsible for—
+
+He doesn't finish. Returns to adjusting equipment, movements sharp and angry.
+
+                    MARCUS (CONT'D)
+          Alone is safer. Can't give fatal orders if there's no one to—
+          (stops himself)
+          Just me and the equipment and the math. That I can control.
+
+A machine sparks. He sighs. He pulls something from his pack - the MINI-CUBE from Edgar's death room. Small, dense,
+impossible. He holds it carefully.
+
+                    MARCUS (CONT'D)
+          Get this working, get back to the company, explain what happened.
+          (looks at mini-cube)
+          Maybe you can— I need to take you back. Evidence. Proof we tried everything we could.
+
+He sets the mini-cube down gently near the equipment.
+
+                    MARCUS (CONT'D)
+          The company's going to want answers and I don't have good ones but if I bring back this, they'll understand.
+          They have to understand.
+
+He stares at it. He stops. Picks up the mini-cube again, turning it over.
+
+                    MARCUS (CONT'D)
+          Edgar stepped up when it mattered. He understood the stakes.
+          (voice tight, bitter)
+          And I— I tried— but somehow I get all the failure—
+          (anger creeping in)
+          He was VP. He could have taken command. Could have made the calls. But no, Marcus is Director of
+          Quantum Logistics, so
+          Marcus gets to watch people die following his orders. Edgar got to be the hero at the end, and I got
+          to be the one who—
+
+He sets it down. Returns to equipment. Flips a switch. Screen flickers with static. He leans forward, adjusts dials.
+
+                    MARCUS (CONT'D)
+          Work for me as a bargaining chip with the company. Please. I need something to work. Just one thing.
+
+Static continues. He keeps adjusting, but starts talking more than working. He grips the dial tighter.
+
+                    MARCUS (CONT'D)
+          I told myself I was protecting them by leaving. Can't experiment when that can kill people. But can't
+          kill anyone if
+          you're alone, right?
+          (bitter laugh)
+          I'm a scientist. I analyze data, I run tests, I— I
+          don't command people
+          to open doors that might kill them. That's not what I signed up for when I took this job. But INZO
+          needed a Director and
+          I was— I was convenient.
+
+He breaks off. He's barely looking at the equipment now, just moving his hands mechanically.
+
+                    MARCUS (CONT'D)
+          Rashid solved the puzzle while I was dying. Saved me. And I couldn't even— I just watched him bleed
+          out and said 'thank
+          you' like that was enough.
+          (quieter)
+          Like any of my decisions were worth—
+
+He sits back. Reaches for his water bottle without looking. Tips it to his lips - empty. He stares at it for a moment,
+then sets it down slowly.
+
+                    MARCUS (CONT'D)
+          Nothing. Of course it's nothing. Barry worked on this for years
+          (bitter)
+          Who am I kidding?
+          (voice hardening with resentment)
+          Director. Like that means I should know how to lead people through impossible death traps.
+
+He looks around the empty room. The equipment humming uselessly. The mini-cube sitting silent.
+
+                    MARCUS (CONT'D)
+          I'm alone because I chose it. Because I was so sure I could—
+          (stops, voice bitter)
+          Now I need to just do it.
+
+He stops. Looks at the doorway. At the path he didn't take.
+
+                    MARCUS (CONT'D)
+          Should have stayed together.
+          (voice breaking)
+          Oh Sofia. Rashid.
+          (beat, then anger rising)
+          INZO did this. Not me.
+
+He turns back to the equipment one more time. Adjusts a final dial with sharp, angry movements.
+
+                    MARCUS (CONT'D)
+          If my signal can get through, we can get out. I'm ready to go home.
+          (desperate, then bitter)
+          Let me out. Please, I just need to get through—
+
+Static. Just static.
+
+Marcus stares at the screen.
+
+Completely alone.
+
+FADE OUT.
+
+                    END OF SCENE

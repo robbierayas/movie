@@ -1,0 +1,406 @@
+HUNTED - STORY MECHANICS
+========================================
+
+This file addresses potential plot holes and audience questions about
+legal issues, weapon choices, and tactical decisions.
+
+
+HOUSE LAYOUT - THE CASTLE
+-------------------------
+
+The house is secretly designed to imitate medieval castle defensive principles.
+Hank's prepper mindset informed every design choice.
+
+### Overall Structure
+- 2 stories + attic + basement
+- 200+ feet of open ground in all directions (the "kill zone")
+- Scattered shrubs and trees provide concealment but no real cover
+- No neighboring structures within sight
+- Isolated location - deliberate
+
+### Exterior Defense (The Killing Field)
+- Open ground forces any attacker to cross 200+ ft exposed
+- From upper floors, defenders can see anyone approaching
+- Shrubs/trees break up sight lines but don't provide cover from above
+- No vehicles can approach without being heard/seen
+
+### First Floor - The Outer Ward
+- Open floor plan for quick defense and retreat
+- Minimal furniture/obstacles - clear sight lines
+- All paths funnel toward main stairwell
+- Purpose: slow attackers, inflict damage, fall back to stairs
+- NOT meant to be held - just to bleed the attacker
+
+### Main Stairwell - The Gatehouse
+- Single main staircase (other access points can be blocked/trapped)
+- Top of stairs = primary defensive choke point
+- Narrow approach favors defenders above
+- Castle equivalent: the gatehouse
+
+### Second Floor - The Inner Ward
+- Castle-style layout: tighter corridors, more choke points
+- Rooms:
+  - Master bedroom + master bathroom
+  - 3 additional bedrooms
+  - 1 bathroom
+- Narrow hallways favor defenders
+- Multiple corners and doorways for ambush
+- One bedroom closet contains ladder to attic
+
+### Attic - The Keep
+- Final defensive position / last stand
+- The "keep" - where you hold until death or rescue
+- Contains supplies for extended holdout
+- Access: ladder in bedroom closet (can be pulled up/blocked)
+- Contains SECRET PASSAGE to basement
+
+### Secret Passage
+- Hidden passage from attic to secret basement room
+- Passage goes BOTH WAYS (can climb up or down)
+- Castle equivalent: the sally port / secret tunnel
+
+### Basement
+- Regular room contains sporting equipment + WEAPONS
+- Guns, crossbows, hunting gear stored here
+- More guns than police seized (Hank's backups)
+
+### Secret Basement Room - The Larder
+- Hidden behind secret wall in main basement
+- Secret door looks like regular wall (Hank's craftsmanship)
+- Prepper food storage - supplies for extended siege
+- NO weapons stored here (just food/supplies)
+- Basement exit: [TBD - bulkhead? window?]
+
+### Fire Resistance
+- House built to withstand fire (like a stone castle)
+- First floor can burn and house remains standing
+- Siege mentality: built to outlast, not to abandon
+
+### Windows
+- 2nd story windows too high for safe escape
+- Castle logic: keep attackers OUT, not escape FROM
+
+### Design Philosophy
+- Every element forces attackers into disadvantageous positions
+- Defenders always have retreat options (within the house)
+- Attackers always have to push forward into unknown
+- House itself is the weapon
+- Hank built this knowing someday it might be needed
+
+
+BOOBY TRAP LEGALITY
+-------------------
+
+### The Problem
+Booby traps are illegal in all 50 US states. Setting a trap that could
+harm someone - even an intruder - is typically a felony. Victims of
+booby traps can sue the homeowner, and homeowners can face criminal
+charges including manslaughter or murder if someone dies.
+
+The legal principle: You can't use deadly force against a theoretical
+future intruder. Self-defense requires an imminent threat.
+
+### Sarah's Loophole
+
+Liam's explicit threat creates a legal gray area:
+
+1. **Documented Threat**
+   - Liam said "I'll visit soon" directly to Sarah
+   - This is a clear, specific, credible threat of future violence
+   - He already murdered Hank - demonstrates capability and intent
+   - Sarah can argue she had reasonable belief of imminent danger
+
+2. **Police Report (if filed)**
+   - Even if Sarah doesn't fully cooperate with police investigation
+   - A report documenting the threat exists
+   - Creates paper trail of the danger
+
+3. **Castle Doctrine / Stand Your Ground**
+   - Most states have strong home defense laws
+   - Texas, Florida, Georgia, etc. favor homeowners
+   - Setting: Houston/Atlanta area - favorable legal environment
+   - No duty to retreat in your own home
+
+4. **The "Imminence" Argument**
+   - Traditional self-defense requires imminent threat
+   - But: threat was specific ("I'll visit soon")
+   - Attacker demonstrated lethal intent (killed Hank)
+   - Attacker knows their location (already found them once)
+   - Sarah can argue threat was ongoing and imminent
+
+5. **Practical Reality**
+   - If Sarah survives, she's a sympathetic figure
+   - Jury would likely side with grieving widow defending children
+   - Prosecutor unlikely to charge aggressively
+   - Dead intruder can't sue
+
+### Story Function
+- Sarah briefly acknowledges the legal risk
+- Maybe one line: "If we're wrong about this, we go to prison."
+- But her obsession overrides caution
+- The younger kids' fear partly stems from this - they know it's wrong
+
+### Note for Screenplay
+Don't over-explain. A brief acknowledgment is enough. Audiences will
+accept the premise if you don't draw too much attention to it.
+
+
+WHY NOT JUST USE GUNS?
+----------------------
+
+### The Problem
+Hank is a prepper. The family has hunting awards. They clearly own guns.
+Why doesn't Sarah just wait with a shotgun and shoot Liam when he enters?
+
+This is the #1 question audiences will ask. Must be addressed.
+
+### The Solution (Two Parts)
+
+**Part 1: Guns Were Seized as Evidence**
+
+The night of Hank's murder:
+- Liam kills Hank using a different method (knife, blunt force, strangulation)
+- During the struggle or after, Liam fires Hank's gun (why? intimidation,
+  to draw attention, or just chaotic moment)
+- Sarah fires her gun at Liam during the hostage escape
+- Multiple shots fired = police seize ALL firearms as evidence
+- Standard procedure: ballistics testing, chain of custody, investigation
+- Sarah can't get them back during active investigation
+- "They took everything. Every gun in the house. Said it was evidence."
+
+This is simple, believable, and requires minimal explanation.
+
+**Part 2: Liam Wears Armor**
+
+Even if Sarah had a gun, Liam prepared for it:
+- Liam expects a prepper family to be armed
+- He returns wearing body armor / ballistic vest
+- Visible when he enters - audience sees he came prepared
+- Reinforces that he's not stupid, just arrogant
+- Traps work because they target areas armor doesn't cover
+- Also makes him scarier - he's thought this through
+
+This subverts the "just shoot him" solution twice:
+1. She doesn't have guns (seized)
+2. Even if she did, he's armored
+
+### Story Function
+- The gun seizure is addressed in Act 2, Scene 10 (preparing the house)
+- Sarah's frustration: "They took everything. We have nothing."
+- Eli: "We have the house. We have what Dad taught us."
+- Liam's armor revealed in Act 3, Scene 12 (the return)
+- Audience realizes guns wouldn't have worked anyway
+- Validates the trap strategy
+
+
+LIAM'S RETURN LOGIC
+-------------------
+
+### The Problem
+Why does Liam come back? He got his "hunt." Why risk it?
+
+### The Answer (Already in main.txt)
+- Liam doesn't care about witnesses
+- Not getting caught is part of the challenge
+- Sarah's threat ("I'll come for you") is another challenge
+- His ego demands he "win" against her too
+- He underestimates them - thinks it'll be easy cleanup
+
+### Reinforce in Screenplay
+- Liam's voiceover in Act 1 establishes his need for challenge
+- His healing montage in Act 3 shows him planning, anticipating
+- He's excited, not scared - this is what he lives for
+- His arrogance is his downfall
+
+
+WHY DOESN'T SARAH CALL POLICE?
+------------------------------
+
+### The Problem
+Normal person would call 911, let police handle it.
+
+### The Answers
+
+1. **She DID call police (after Hank's death)**
+   - They investigated, took evidence, have no leads
+   - Liam went off the grid - can't find him
+   - Police aren't providing protection
+   - "They said call if he shows up again. He'll kill us before they arrive."
+
+2. **Sarah Has a Grudge with Police (Work History)**
+   - Sarah's occupation involved negative experience with law enforcement
+   - Possible backgrounds:
+     - Former public defender - saw police lie, lose evidence, let people walk
+     - Social worker - saw system fail families repeatedly
+     - Journalist who covered police misconduct
+     - Victim advocate who watched cases fall apart
+   - She's seen firsthand how people escape justice
+   - Deep distrust: "I've seen what happens when you trust them to handle it."
+
+3. **She Doesn't Trust Them to Hold Liam**
+   - Even if police catch him, she's seen people get out
+   - Bail, technicalities, plea deals, early release
+   - Liam is smart, no prior record (never caught), good lawyer could help him
+   - "He'll get 10 years, serve 4, and come back for us."
+   - She needs him DEAD, not arrested
+   - Only way to be sure is to do it herself
+
+4. **Revenge + Certainty**
+   - It's not just about revenge (though that's part of it)
+   - It's about making sure he can NEVER come back
+   - Police = uncertainty. Her traps = certainty.
+   - "I won't spend the rest of my life waiting for him to find us again."
+
+### Story Function
+- Sarah's distrust of police should be established in Act 2
+- Brief reference to her work history - don't over-explain
+- "You know what I saw every day at work? People like him getting out."
+- The 12-year-old (Emma) calling 911 is the IRONIC ENDING
+- The sensible choice that Sarah rejected
+- The system Sarah didn't trust actually WORKS - Liam is caught
+- If Sarah had just let police handle it, she'd be alive
+- Her distrust was her tragic flaw
+
+
+TRAP EFFECTIVENESS
+------------------
+
+### The Problem
+If traps are so effective, why doesn't everyone use them?
+
+### The Answer
+- Traps are effective against UNPREPARED intruders
+- Liam is prepared for a fight, just not THIS fight
+- He expects guns, direct confrontation
+- He doesn't expect the house to be the weapon
+- First trap shocks him, subsequent traps hurt him
+- He adapts but is already wounded
+- Traps work because of SURPRISE and PREPARATION
+
+### Note
+- Some traps should fail or be avoided
+- Liam should disarm or bypass several
+- This makes the ones that work more satisfying
+- Also shows he's smart - just not smart enough
+
+
+THE TRAP THAT GETS THEM BOTH
+----------------------------
+
+### Setup
+In Act 3, Scene 15, a trap wounds both Sarah and Liam, leading to the
+crawling struggle.
+
+### Requirements
+- Must be a trap Sarah set
+- Must be triggerable by accident during struggle
+- Must disable both of them similarly
+- Allows for brutal, even fight to the death
+
+### Possibilities
+
+1. **Pit Trap / Floor Collapse**
+   - Fighting near weakened floor
+   - Both fall through into basement
+   - Both injured from fall
+   - Crawling fight in basement
+
+2. **Blade/Spike Trap Crossfire**
+   - Trap triggers, hits both
+   - Each takes shrapnel/blade damage
+   - Both bleeding, disabled
+
+3. **Electrified Floor**
+   - Liam forces Sarah onto trap
+   - But he's touching her - both shocked
+   - Both temporarily paralyzed, then crawling
+
+4. **Spring-Loaded Weapon**
+   - Triggers during struggle
+   - Impales or injures both
+   - Pinned together or near each other
+
+5. **Chemical/Fire Trap**
+   - Accelerant ignites
+   - Both burned, trying to escape
+   - Fire adds urgency to crawling struggle
+
+### Recommended
+Floor collapse or pit trap - most visually interesting, creates new
+environment for final fight, easy to understand, both clearly disabled.
+
+
+YOUTH HUNTING/SHOOTING COMPETITIONS
+------------------------------------
+
+### Reference for Reeves Family Background
+The family has hunting awards. These are the real programs they might have competed in.
+
+### 1. Youth Hunter Education Challenge (YHEC)
+- NRA program for ages 18 and under
+- Two divisions: Junior (14 & under), Senior (15-18)
+- Eight competition events:
+  - .22 Rifle
+  - Shotgun
+  - Muzzleloader
+  - Archery
+  - Wildlife Identification
+  - Orienteering
+  - Hunter Safety Trail
+  - Hunter Responsibility Exam
+- Local → State → National competition structure
+- Emphasizes practical hunting skills and safety
+- Website: yhec.nra.org
+
+### 2. National Archery in Schools Program (NASP)
+- School-based archery program, grades 4-12
+- 21+ million students since 2002
+- 50/50 male/female participation
+- Tournament structure: Local → State → Eastern/Western Nationals → Championship
+- Uses Genesis bows (standardized equipment)
+- Over $5 million in scholarships awarded
+- Website: naspschools.org
+
+### 3. Scholastic Action Shooting Program (SASP)
+- Speed shooting on steel targets
+- Divisions: Rookie (5th grade & below), Intermediate, Senior, Collegiate
+- Events: Rimfire pistol, rimfire rifle, centerfire pistol, pistol caliber carbine
+- Teams don't require school affiliation (can be neighborhood, gun club, church group)
+- Combines precision and speed - timed scores
+- Fastest growing youth shooting program
+- Website: mysasp.com
+
+### Story Application
+- Eli (18) could have Senior division awards from YHEC or SASP
+- Emma (12) and Olivia (10) could have NASP archery awards from school
+- Hank likely coached/mentored them through these programs
+- Explains family's comfort with weapons and tactical thinking
+- Awards visible in house = worldbuilding detail
+
+
+POLICE RESPONSE TIME
+--------------------
+
+### The Problem
+Emma calls 911. How long until police arrive?
+
+### The Answer
+- Rural/semi-suburban property - response time 10-15 minutes
+- Long enough for final crawling struggle
+- Long enough for Liam to kill Sarah
+- Short enough that he can't escape before they arrive
+
+### Sequence
+1. Emma and Olivia escape, run to neighbor or safe distance
+2. 911 call made (we don't see it, just result)
+3. Inside: Liam catches Sarah, torture begins
+4. Trap triggers, both disabled
+5. Crawling struggle (5-10 minutes of story time)
+6. Liam kills Sarah
+7. Liam tries to escape
+8. Police arrive - 10-15 minutes after call
+9. Liam arrested
+
+### Note
+Don't specify exact times in screenplay. Let audience feel the tension
+without checking their watches.

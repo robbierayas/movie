@@ -1,0 +1,4 @@
+/node_modules/
+/production/animation/*.fbx
+/production/animation/characters/*
+/production/audio/voices/*

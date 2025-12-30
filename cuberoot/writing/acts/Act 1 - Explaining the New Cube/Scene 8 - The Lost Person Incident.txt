@@ -1,0 +1,368 @@
+SCENE 8 - THE LOST PERSON INCIDENT
+==================================
+
+LOCATION: Quantum Logistics building - lab area
+
+CHARACTERS PRESENT:
+- MARCUS - Head of Quantum Logistics
+- EDGAR - Corporate VP of Logistics
+- ALEX - Food scientist, protagonist
+- LEA - Dimensional expert
+- MORRIS - Food scientist, comic relief
+- DARIUS - Food scientist
+- SOFIA - Food scientist
+- NINA - Mathematician
+- RASHID - Quantum team member
+- CHEN - Quantum team member
+- YUKI - Quantum team member
+- DELIVERY PERSONNEL - (background)
+
+CHARACTERS TRAPPED IN N=0.333 (discussed):
+- BARRY - Dimensional physicist, instrumentation specialist, bearded (sucked in first)
+- JOSH - Theoretical physicist, math focus, 30s (sucked in second, had feelings for Lea)
+
+SCENE LAYOUT:
+
+1. RETURNING FROM SCENE 7
+   - Marcus and Edgar leave the secure briefing room
+   - Head back to the main lab area
+   - Alex and Lea follow
+   - Rest of team still there from Scene 6
+
+2. SUPPLIES DELIVERY ARRIVAL
+   - Delivery personnel wheeling in boxes and equipment
+   - Alex's old Food Experimentation lab supplies
+   - Transferred per Lea's earlier advice (Scene 4)
+   - Equipment, materials, tools being unloaded
+   - Morris holds up the sof-tak skin with "WE'RE ALL DYING" scratched into it
+   - Morris and Darius ask what the message means and who wrote it
+   - Lea says they are here to explain and asks everyone to sit
+   - Alex finishes signing delivery form and is handed the skin
+   - Alex silently examines it
+
+3. MARCUS AND LEA EXPLAIN TO FOOD TEAM - BARRY
+   - Marcus begins explanation for newcomers
+   - First incident: Barry got sucked into n=0.333 while experimenting
+   - He was holding a device when it happened
+   - Barry's a dimensional physicist with instrumentation focus
+   - Worked closely with Chen on equipment
+   - Team didn't shut down - they kept going
+   - Barry jerryrigged the device to send things back,no telling how long it lasts
+   - Discovered they could communicate with him this way, they can't talk to him
+
+4. THE SECOND INCIDENT - JOSH
+   - Josh, theoretical physicist, also got sucked in
+   - Wasn't careful enough during an experiment
+   - Josh got sucked in trying to help Barry
+   - After that incident, they've been much more careful
+   - Safety protocols implemented (too late)
+   - Lea's emotional reaction (Josh and she had unspoken feelings)
+
+5. THE STRANGE DETAIL
+   - Communications from inside don't always seem to be from same person
+   - Something odd about identity or consciousness in fractional dimension
+   - Team exchanges uneasy glances
+
+6. NINA'S INTERJECTION
+   - Nina speaks up: the QL team has new data analysis
+   - Lea and the managers haven't seen it yet
+   - They haven't had time to share findings with higher-ups
+   - Data points to something critical (singularity)
+   - Sets up Scene 9 presentation
+   - Tense atmosphere - ethical questions unspoken
+
+TONE: Tense revelation, ethical discomfort, setting up technical analysis
+DYNAMICS: QL team revealing their dark secret to Food team, Nina has critical findings to share
+KEY TENSION: The team kept experimenting with people trapped inside. What does that say about them? What's happening to
+consciousness in n=0.333? What does the new data show?
+
+========================================
+CONDENSED DESCRIPTION:
+========================================
+
+Marcus, Edgar, Alex, and Lea return from the secure briefing room to the main lab where the rest of the team is examining
+the sof-tak skin with "WE'RE ALL DYING" scratched into it. As Alex's food lab supplies are delivered, the team demands
+answers. Marcus and Lea reveal the full truth: fourteen days ago, Barry (a dimensional physicist and instrumentation
+specialist) was sucked into the n=0.333 dimension during an experiment. The team didn't shut down - they kept working.
+Barry jerryrigged his device to send objects back, enabling one-way communication. Twelve days ago, Josh (a theoretical
+physicist) was also sucked in trying to help Barry. The communications from inside don't always seem to be from the same
+person - suggesting something is happening to consciousness in the fractional dimension. Edgar reveals his obliviousness,
+treating the trapped people as a "staffing issue." Nina announces the quantum team has new data analysis that changes
+everything, setting up the next scene.
+
+========================================
+                    SCREENPLAY
+          ========================================
+
+INT. QUANTUM LOGISTICS BUILDING - HALLWAY - CONTINUOUS
+
+Marcus and Edgar exit the secure briefing room. Lea and Alex follow a few steps behind. The four walk down the hallway
+toward the lab.
+
+Edgar checks his tablet, oblivious to the tension.
+
+                    EDGAR
+          Great session. Really getting good
+          vibes about the progress.
+
+Marcus doesn't respond. Lea glances at Alex - a look that says "this is what I meant."
+
+
+INT. QUANTUM LOGISTICS BUILDING - LAB AREA - CONTINUOUS
+
+The lab is bustling. The rest of the team (Morris, Darius, Sofia, Nina, Rashid, Chen, Yuki) are gathered around examining
+equipment from Scene 6.
+
+DELIVERY PERSONNEL are wheeling in boxes and equipment - Alex's old Food Experimentation supplies.
+
+A CLIPBOARD is thrust toward Alex by a delivery person.
+
+                    DELIVERY PERSON
+          Sign here.
+
+Alex takes the clipboard. As she does, Morris holds up the piece of sof-tak skin with "WE'RE ALL DYING" scratched into
+it.
+
+                    MORRIS
+          So, um... this is... I mean,
+          it came back from root-space
+          and it's definitely concerning. The
+          message, I mean. Not the sof-tak
+          itself. Well—
+
+                    DARIUS
+               (cutting in)
+          Alex, what are we doing here?
+
+Sofia and Morris both look to Marcus and Edgar as they enter.
+
+                    SOFIA
+          Who wrote this?
+
+Lea steps forward, composing herself.
+
+                    LEA
+          We're here to explain. Everyone,
+          please. Sit.
+
+The team exchanges glances. They begin settling into chairs and workspace stools around the lab. Chen is sitting between
+ Yuri and Rashid. Alex finishes signing the delivery form, hands the clipboard back, and is given the sof-tak skin.
+
+Alex examines it silently. The scratched letters are crude but desperate. Her expression hardens.
+
+Lea waits until everyone is seated. The delivery personnel exit. The door closes.
+
+Silence.
+
+Marcus leans against a workbench, arms crossed. Edgar stands to the side, tablet in hand, watching like this is a normal
+business meeting.
+
+                    MARCUS
+          Before we go further, you need to
+          understand what happened. The full
+          picture.
+
+Beat.
+
+                    MARCUS (CONT'D)
+          Fourteen days ago, one of our team
+          members got sucked into root-space
+          while running an experiment.
+
+Morris shifts uncomfortably. Darius leans forward.
+
+                    MARCUS (CONT'D)
+          His name is Barry. Dimensional
+          physicist. Instrumentation specialist.
+
+Chen's jaw tightens - Barry was his close colleague.
+
+                    DARIUS
+          You kept going? After losing someone?
+
+Lea's hands tighten in her lap.
+
+                    LEA
+          We didn't shut down. We... we kept
+          working.
+
+Her voice is strained. Alex notices but doesn't interrupt.
+
+                    MARCUS
+          We know he's safe. Just trapped.
+
+                    ALEX
+          You know he's safe?
+
+                    MARCUS
+          Yes.
+
+                    ALEX
+          In the death cube?
+
+                    LEA
+          Barry's smart. He jerryrigged the
+          device to send data back through.
+          That's how we have been getting closer
+          to getting them out.
+
+Marcus gestures to the sof-tak skin Alex is holding.
+
+                    MARCUS
+          That message must have come from Barry, and shows you how we are getting there. But
+          there's no telling how long his
+          device will last. So we have to hurry.
+
+                    ALEX
+               (quietly)
+          You can't talk to him?
+
+                    LEA
+          No. Only... only one-way communication.We can send objects, messages in.
+          He can only send data back.
+
+Sofia processes this, disturbed.
+
+Alex's eyes flash to Edgar, then to Marcus. Marcus meets her gaze but says nothing.
+
+Beat.
+
+                    DARIUS
+          You said one person. The message says
+          "we're all dying." Plural.
+
+Lea's composure cracks slightly. She looks down.
+
+Marcus takes over.
+
+                    MARCUS
+          Twelve days ago, a second incident.
+          Josh. Theoretical physicist, math
+          focus.
+
+Lea's breath catches - barely noticeable, but Alex hears it.
+
+                    MARCUS (CONT'D)
+          He wasn't careful enough during an
+          experiment. Got sucked in.
+
+                    LEA
+               (voice tight)
+                    Barry was trapped... IS trapped and Josh was doing everything to save him. I hope they're together,
+          but we can't know.
+
+Her hands are shaking. She grips them together to steady herself.
+
+                    MARCUS
+          After Josh, we implemented safety
+          protocols. Too late for them, but—
+
+                    ALEX
+               (interrupting, to Lea)
+          They were the experts.
+
+It's not a question.
+
+                    ALEX (CONT'D)
+          You wouldn't have let them work alone
+          if you didn't trust them.
+
+Lea meets Alex's eyes. A long beat. She nods once.
+
+                    LEA
+          Barry worked with Chen on all the
+          instrumentation. They were... close
+          colleagues.
+
+Chen stares at the floor.
+
+                    LEA (CONT'D)
+          Josh was... he's—
+
+She can't finish. Her voice cracks.
+
+Edgar, oblivious, interjects cheerfully.
+
+                    EDGAR
+          This is why we brought you folks in.
+          Shorter rotations. Buddy system. And sometimes you just
+          need new eyes on a problem, you know?
+
+Sofia stares at Edgar, disbelieving. Morris looks horrified. Alex's expression is unreadable.
+
+                    SOFIA
+          You're talking about people trapped
+          in another dimension like it's a
+          staffing issue.
+
+                    EDGAR
+               (genuinely confused)
+          It is. When the best on the team went
+          missing, I brought in the best in the
+          company. Is there someone else you
+          know who would be an expert on unknown
+          technology?
+
+                    ALEX
+               (cutting him off, to Marcus)
+          What's the message mean?
+
+Marcus shifts.
+
+                    MARCUS
+          Barry... or Josh has scratched these in items sent back...
+          This doesn't seem to be from
+          the same person.
+
+                    DARIUS
+          What does that mean?
+
+                    MARCUS
+          I don't know. It doesn't sound like Barry. His handwriting... he always made a point...
+
+                    LEA
+          Something's happening to them in
+          there. The harmonics are warping their... consciousness.
+
+                    YUKI
+          Well, their atoms.
+
+                    RASHID
+          No, the atoms collisions, right?
+
+                    CHEN
+               (interrupting)
+          We don't understand it fully.
+
+The weight of this settles over the room. Yuki leans behind Chen's back to tap Rashid to get his attention.
+
+                    YUKI
+               (whispering)
+          That's if it's not subatomic.
+
+Nina has been silent, observing. She leans forward now.
+
+                    NINA
+          Lea, there's something else.
+
+Lea looks up.
+
+                    NINA (CONT'D)
+          We have new data. Analysis from the
+          last forty-eight hours. You and
+          Marcus haven't seen it yet.
+
+                    MARCUS
+          What kind of data?
+
+Nina glances at Rashid and Yuki. They exchange a look - they know what she's about to say.
+
+                    NINA
+          The kind that changes everything.
+
+The team gathers around as Nina pulls up her analysis. Alex still holds the sof-tak skin, the desperate message carved
+into it.
+
+"WE'RE ALL DYING."
+
+CUT TO:

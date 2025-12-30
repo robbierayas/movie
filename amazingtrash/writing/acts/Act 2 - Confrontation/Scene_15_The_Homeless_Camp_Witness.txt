@@ -1,0 +1,287 @@
+# Scene 15 - The Homeless Camp Witness
+
+## LOCATION
+EXT. TRACKTOWN TUNNELS / INT. TRACKTOWN CRAWLSPACES - NIGHT
+
+## CHARACTERS
+Adam, Joe (Tracktown resident), Body
+
+## SCENE LAYOUT
+
+### Opening
+The Amazing Company auto-car drops Adam off at the edge of Tracktown (the railyard homeless encampment). He can't drive
+directly to his secret disposal chamber - that would be too obvious, create a trail. He opens the cargo area to find the
+body wrapped in plastic. He'll have to drag it through the shadows and crawlspaces to his hidden lab.
+
+### Key Beats
+1. **Finding cover** - Adam searches for something to conceal the body during transport. Finds an old barrel - perfect,
+like the ones he uses for chemical storage.
+2. **The drag** - Stuffs body into barrel, begins dragging it through Tracktown's edges, staying in shadows and
+crawlspaces.
+3. **Joe appears** - JOE, the neighborhood busybody/representative Adam knows from Scene 9, spots him in the dim light
+dragging something heavy.
+4. **The lie** - Adam has to quickly explain it's "just scavenged supplies" he's moving to his spot.
+5. **Joe helps** - Joe, being friendly and helpful, offers to assist. Adam can't refuse without raising suspicion.
+6. **Close call** - Joe talks the entire time, making conversation, but is too distracted by his own chatting to really
+look closely at what they're moving. Adam sweats through every second.
+
+### Character Moments
+- **Adam**: Terrified of being discovered by someone from his own community. The people he's come to care about can't
+know what he does. Has to maintain the lie while Joe unknowingly helps him move a corpse. The guilt is compounded - not
+just disposing bodies, but lying to his friends.
+- **Joe**: Friendly, talkative, helpful. Represents the community Adam has found. Completely oblivious to what's actually
+happening, which makes it worse - his trust makes Adam's betrayal more painful.
+
+### Closing
+They get the barrel to Adam's area. Joe leaves, cheerful, telling Adam to let him know if he needs help with anything
+else. Adam is left alone with the barrel containing a body, surrounded by the community he's deceiving. The two halves of
+his life - his friends and his horrible work - have nearly collided.
+
+---
+
+## FULL SCRIPT
+
+EXT. TRACKTOWN - EDGE - NIGHT
+
+The Amazing Company auto-car sits at the perimeter of the railyard encampment. Distant structures, makeshift shelters,
+low fires.
+
+The cargo door opens.
+
+Adam pulls out a large PLASTIC-WRAPPED BUNDLE. The body. He glances around nervously.
+
+Can't carry it through the open. Too obvious.
+
+He scans the area. Debris, scrap metal, abandoned equipment.
+
+There - an old BARREL. Dented, rusty, but intact.
+
+Adam drags it over, checks inside. Empty.
+
+He struggles to stuff the plastic-wrapped body into the barrel. Arms fold wrong. Head won't fit.
+
+Adam, quietly.
+
+                    ADAM
+          Come on... just...
+
+He pushes harder. Something CRUNCHES. Ribs, probably.
+
+The body finally fits. Barely.
+
+Adam seals the top, then grabs the barrel's rim and starts dragging it.
+
+SCRAPE. SCRAPE. SCRAPE.
+
+Too loud.
+
+He stops, lifts slightly, continues. Better.
+
+He moves into the shadows between structures, heading for his hidden entrance.
+
+---
+
+INT. TRACKTOWN - CRAWLSPACE - NIGHT
+
+Tight passage between two lean-to shelters. Adam drags the barrel through.
+
+His breathing echoes. Sweat drips.
+
+Almost there. Just need to--
+
+VOICE (O.S.)
+Adam? That you?
+
+Adam freezes.
+
+Joe emerges from the shadows - 50s, weathered face, friendly smile. The neighborhood busybody.
+
+Adam, forced casual.
+
+                    ADAM
+          Hey, Joe.
+
+                    JOE
+          Whatcha got there?
+
+Joe approaches, curious.
+
+                    ADAM
+          Just... supplies. Scavenged some stuff.
+
+                    JOE
+          At this hour?
+
+                    ADAM
+          Found a good spot. Didn't want someone else to grab it first.
+
+Joe peers at the barrel.
+
+                    JOE
+          Heavy?
+
+                    ADAM
+          Not too bad.
+
+                    JOE
+          Looks heavy. You're sweating.
+
+                    ADAM
+          It's... yeah. Little heavy.
+
+                    JOE
+          Where you taking it?
+
+                    ADAM
+          My spot. Storage.
+
+Joe, grabbing the other side.
+
+                    JOE
+          Here, I'll help.
+
+                    ADAM
+          No, that's--
+
+                    JOE
+          Nonsense. Community helps community, right?
+
+Joe lifts his side of the barrel.
+
+Adam has no choice. He lifts his side.
+
+They carry it together.
+
+Adam, panicking internally.
+
+                    ADAM
+          Really, Joe, I can--
+
+                    JOE
+          What'd you find? Anything good?
+
+                    ADAM
+          Just... parts. Metal. Might be able to sell it.
+
+                    JOE
+          Smart. You've been real resourceful lately. Everyone's noticed.
+
+They navigate through the crawlspace. The barrel shifts.
+
+Something heavy slides inside.
+
+THUD.
+
+Joe doesn't react.
+
+                    JOE (CONT'D)
+          You coming to the potluck tomorrow?
+
+                    ADAM
+          Potluck?
+
+                    JOE
+          Maria's organizing. Bring something if you can. If not, just come. It's about community.
+
+Adam, distracted.
+
+                    ADAM
+          Yeah. Maybe.
+
+They round a corner. Tighter space.
+
+                    JOE
+          How are your friends? That kid Tyson and the girl - Gal?
+
+                    ADAM
+          They're good.
+
+                    JOE
+          Good people. Nice to see you connecting. You were so closed off when you first got here.
+
+Adam, hollow.
+
+                    ADAM
+          Yeah.
+
+They reach a section near Adam's hidden entrance. A covered opening, easy to miss.
+
+                    ADAM (CONT'D)
+          Here's good. I can take it from here.
+
+                    JOE
+          You sure? Happy to--
+
+Adam, too quick.
+
+                    ADAM
+          I'm sure. Thanks, Joe. Really.
+
+They set the barrel down.
+
+Joe straightens, wipes his hands.
+
+                    JOE
+          No problem. That's what we do.
+          (pats Adam's shoulder)
+          You're part of this place now, Adam. Don't forget that.
+
+Adam, guilt crushing him.
+
+                    ADAM
+          I won't.
+
+                    JOE
+          See you at the potluck?
+
+                    ADAM
+          ...Yeah.
+
+Joe walks away, whistling tunelessly.
+
+Adam watches him go.
+
+When Joe disappears, Adam exhales - a shaking, terrified breath.
+
+He looks at the barrel.
+
+Joe helped him carry a corpse.
+
+Joe, who welcomed him. Who said "you're part of this place."
+
+Adam just made Joe an unwitting accomplice.
+
+Adam, quietly.
+
+                    ADAM
+          What am I doing...
+
+He drags the barrel to the hidden entrance. Pulls back the covering.
+
+A dark passage leading down.
+
+He maneuvers the barrel through, follows it into the darkness.
+
+The covering slides back into place.
+
+From above, nothing. Just another section of the railyard.
+
+Below, Adam descends with his terrible cargo.
+
+Surrounded by the community that trusts him.
+
+Doing the work that would destroy that trust forever.
+
+FADE OUT.
+
+---
+
+## Production Notes
+- Nighttime railyard setting, minimal lighting
+- Amazing Company auto-car at perimeter
+- Body wrapped in plastic sheeting
+- Old barrel for concealment
+- Crawlspaces and shadows between encampment structures
+- Joe should feel warm, friendly - contrast to Adam's terror
+- Barrel is heavy, awkward to move
+- Adam's visible stress vs. Joe's oblivious cheerfulness

@@ -1,0 +1,346 @@
+# SCENE 3 - THE POLICE STOP
+
+## Scene Heading
+INT. AMAZING COMPANY AUTO-CAR / EXT. TRACKTOWN PERIMETER CHECKPOINT - NIGHT
+
+## Characters
+- ADAM
+- NIGHT PATROL GUARDS (2) - from Tracktown, black vests only
+- BODY (in cargo area, not visible initially)
+
+## Tone
+Breaking Bad style tense suspense - close call
+
+## Key Beats
+
+1. TRANSPORT: Adam in Amazing Company auto-car
+   - Body wrapped in cargo area
+   - Auto-car driving itself through night city
+   - Adam tense, watching everything
+   - First time using this transport method
+
+2. THE CHECKPOINT: Night patrol stops auto-car at Tracktown perimeter
+   - Checkpoint at edge of Tracktown
+   - Guards wear black vests, no formal uniforms
+   - Car stops automatically at checkpoint
+   - Adam's heart racing
+   - Guards approach vehicle
+   - "Routine security check"
+
+3. THE QUESTIONS: Guards say people have been missing
+   - "We're checking all vehicles passing through"
+   - Ask Adam where he lives
+   - Adam: "Tracktown. I live in Tracktown."
+   - Guards ask what he's doing in Amazing Company car
+
+4. THE LIE: Adam claims new job
+   - "I was offered a job by Amazing Company"
+   - "This is a perk - employee transport"
+   - Guards suspicious - Adam is clearly from Tracktown
+   - "What kind of job?"
+
+5. THE INSPECTION: Guards want to see inside
+   - "Step out of the vehicle"
+   - Adam panics internally
+   - Shows he's wearing everything he owns (truth)
+   - Pulls out phone, shows Amazing Company app
+   - Destination logged, looks legitimate
+
+6. THE CLOSE CALL: Guards examine but don't search cargo
+   - Check the app credentials
+   - Look at cargo area but don't open it
+   - Something about Adam's desperation reads as legitimate
+   - Guards buy the story
+
+7. THE RELEASE: Guards congratulate him
+   - "Good for you, getting out of Tracktown"
+   - "Amazing Company's a real opportunity"
+   - Let him pass through checkpoint
+   - Auto-car drives away
+
+8. THE EXHALE: Adam alone again
+   - Heart pounding
+   - Nearly caught
+   - Realizes how dangerous this is
+   - But also: the Amazing Company credentials worked
+
+## Visual Elements
+- Tracktown perimeter checkpoint at night
+- Guards in black vests (only uniform)
+- Flashlights scanning car interior
+- The phone app showing Amazing Company logo
+- Cargo area with wrapped body (audience knows, guards don't)
+- Adam's controlled terror
+- Basic checkpoint setup, no formal police equipment
+- Auto-car technology
+
+## Dialogue Notes
+- Guards professional but suspicious
+- Community security from Tracktown
+- Adam's careful, nervous responses
+- Keeping answers vague but truthful
+- Guards genuine in congratulating him
+- Establish class dynamics (guards sympathetic to "getting out of Tracktown")
+
+## Purpose
+- First major disposal challenge
+- Establish stakes and consequences
+- Show Adam's quick thinking under pressure
+- Introduce Amazing Company auto-car system
+- Build tension - Breaking Bad style close call
+- Show the danger is real
+- Establish Tracktown perimeter security
+
+## Story Position
+- First disposal job for Geoff
+- Establishes pattern: transport is dangerous
+- Shows Adam can think on his feet
+- Tracktown security presence throughout film
+
+## Transitions
+- IN: From Scene 2 (Adam has body, needs to dispose)
+- OUT: Adam continues to disposal site (Scene 4)
+
+---
+
+## SCREENPLAY
+
+INT. AMAZING COMPANY AUTO-CAR - NIGHT
+
+The interior is pristine. Sleek leather seats, touchscreen controls glowing soft blue, ambient lighting. Everything
+expensive and new.
+
+Adam sits rigid in the passenger seat, hands gripping his knees. His worn clothes look jarring against the luxury.
+
+The car drives itself - no steering wheel, no pedals. Just smooth autonomous movement through city streets.
+
+Behind the seats: the cargo area. A large bundle wrapped in dark plastic sheeting lies there. The shape is unmistakable
+if you know what you're looking at.
+
+Adam doesn't turn around. Stares straight ahead. His breathing is shallow.
+
+EXT. TRACKTOWN PERIMETER - NIGHT (THROUGH WINDSHIELD)
+
+The auto-car approaches a checkpoint. Simple setup: barriers across the road, portable lights, a couple of folding
+chairs. Nothing official.
+
+Two GUARDS stand watch - wearing black vests over regular clothes. No badges, no uniforms. Just the vests marking them as
+Tracktown night patrol.
+
+GUARD KANE (40s, tired) holds up a hand. The auto-car slows automatically.
+
+GUARD REED (30s, newer to patrol) steps forward with a flashlight.
+
+The auto-car's display shows: "CHECKPOINT STOP."
+
+Adam, whisper.
+
+                    ADAM
+          No no no...
+
+The car stops at the barrier.
+
+Adam's hands shake. He forces them still.
+
+The guards approach the auto-car, one on each side. Kane taps the window. It slides down automatically.
+
+                    GUARD KANE
+          Evening. Checkpoint security. Where you coming from?
+
+Adam, carefully.
+
+                    ADAM
+          Tracktown. I live in Tracktown.
+
+Guard Reed shines a flashlight through the passenger side window, scanning the interior. The beam passes over Adam's
+face, making him squint.
+
+                    GUARD KANE
+          Step out of the vehicle, please.
+
+Adam's heart hammers. He opens the door, steps out onto the pavement.
+
+Guard Kane examines him - the worn clothes, the nervous energy, the fact he doesn't belong in a luxury vehicle.
+
+                    GUARD KANE (CONT'D)
+          What are you doing in an Amazing Company auto-car?
+
+Adam, forcing calm.
+
+                    ADAM
+          I was offered a job. With the company. This is - employee transport. A perk.
+
+Silence.
+
+Guard Reed circles the car, still shining his flashlight through windows. Checking the cargo area.
+
+Adam's blood turns to ice. The flashlight beam passes over the wrapped bundle.
+
+Guard reed, calling to Kane.
+
+                    GUARD REED
+          There's something in the cargo area.
+
+Guard kane turns to Adam.
+
+                    GUARD KANE
+          What's in the back?
+
+Adam, too fast.
+
+                    ADAM
+          Equipment. For the job. Chemistry equipment.
+
+                    GUARD KANE
+          Chemistry.
+          (pause)
+          What kind of job involves chemistry equipment at-
+          (checks watch)
+          -two in the morning?
+
+Adam, desperate.
+
+                    ADAM
+          Research position. They need materials moved. I'm starting tomorrow - today - and they wanted me to get
+          familiar with the transport system first.
+
+It sounds thin even to him.
+
+Guard Kane studies Adam's face. Looking for tells, for lies, for anything suspicious.
+
+                    GUARD KANE
+          Show me your phone. The company app.
+
+Adam pulls out his phone with trembling hands. Opens it.
+
+The screen shows the Amazing Company employee transport app. It's real - Geoff actually set this up. The destination is
+logged: Research Facility, Industrial District.
+
+Guard Kane takes the phone. Examines it. Checks the credentials.
+
+Long, terrible silence.
+
+Guard kane (cont'd), thoughtful.
+
+                    GUARD KANE (CONT'D)
+          Huh.
+
+He hands the phone back.
+
+Guard reed, joining them.
+
+                    GUARD REED
+          Kane, you see this?
+
+                    GUARD KANE
+          Yeah. Checks out.
+
+Guard reed turns to Adam, skeptical.
+
+                    GUARD REED
+          You really work for Amazing Company? You?
+
+The question stings. The implication clear: someone from Tracktown doesn't get jobs like that.
+
+Adam, quiet.
+
+                    ADAM
+          I start today.
+
+Guard kane, softer now.
+
+                    GUARD KANE
+          What are you wearing under that jacket?
+
+Adam, confused.
+
+                    ADAM
+          What?
+
+                    GUARD KANE
+          Your clothes. What else you got?
+
+Adam, understanding.
+
+                    ADAM
+          This is it. Everything I own.
+
+He's not lying. Guard Kane sees the truth in it.
+
+Guard kane turns to Reed.
+
+                    GUARD KANE
+          Let him through.
+
+Guard reed, protesting.
+
+                    GUARD REED
+          But-
+
+Guard kane, firm.
+
+                    GUARD KANE
+          Let him through.
+
+Guard Reed steps back, frustrated but obedient.
+
+Guard Kane looks at Adam with something like sympathy now.
+
+Guard kane (cont'd), genuine.
+
+                    GUARD KANE (CONT'D)
+          Good for you. Getting out of Tracktown. Amazing Company - that's a real opportunity.
+
+Adam, hollow.
+
+                    ADAM
+          Yeah. Real opportunity.
+
+                    GUARD KANE
+          We've been checking all vehicles passing through. People have been going missing. Just looking out for the
+          community.
+
+Adam nods. Can't speak. The irony is suffocating.
+
+                    GUARD KANE (CONT'D)
+          You're free to go. Good luck with the new job.
+
+Adam nods again. Gets back in the auto-car.
+
+The door closes. The window slides up.
+
+Through the glass, Guard Kane gives a small wave - encouragement.
+
+The auto-car's system reactivates: "RESUMING ROUTE."
+
+The barrier lifts. The vehicle pulls smoothly through the checkpoint.
+
+INT. AUTO-CAR - CONTINUOUS
+
+Adam sits frozen for a moment.
+
+Then he exhales. A shuddering, terrified breath he's been holding.
+
+His hands are shaking violently now. He grips his knees to make them stop.
+
+Adam, whisper, to himself.
+
+                    ADAM
+          Oh god. Oh god.
+
+He looks at the phone in his lap. The Amazing Company credentials that saved him.
+
+Behind him, in the cargo area, the wrapped body lies undisturbed.
+
+The auto-car drives on through the night, carrying its terrible cargo toward the disposal site.
+
+Adam stares out the window, seeing nothing.
+
+The reality of what he's doing crashes down. Not just disposing of a body. Transporting it through checkpoints. Nearly
+getting caught. Being congratulated by Tracktown guards while a corpse sits three feet behind him.
+
+He's in too deep now.
+
+No way out but through.
+
+FADE TO BLACK.

@@ -1,0 +1,255 @@
+CHARACTER PROFILE: JOSH
+
+========================================
+BASIC INFORMATION
+========================================
+Name: Josh
+Role: Wildcard, changed survivor
+Occupation: Theoretical Physicist (former), trapped in n=0.333 for weeks
+Status: Alive but fundamentally changed by cube exposure
+Age: Similar to Lea (late 20s-early 30s)
+
+========================================
+ARCHETYPE
+========================================
+Primary: The Wildcard - Unpredictable but helpful, operates on different logic, changed by cube exposure
+Secondary: The Cassandra - Warns of dangers others don't see, warnings prove true but often too late
+
+Shifts: Brilliant theoretical physicist (Pre-Cube) → Changed survivor with cryptic wisdom (Act 2-3 early) → Increasingly lucid when discussing science (Act 3 late). Transformation is not linear - shifts between cryptic and lucid based on context. Scientific discussion reconnects him to original self. "Talking about the science... it helps. Like finding a path through the noise."
+
+========================================
+PHYSICAL DESCRIPTION
+========================================
+- Lean, almost gaunt from time in cube
+- Haunted, intense eyes
+- Disheveled appearance
+- Wearing Barry's cardigan sweater throughout the movie (Barry wore business casual with cardigan in Act 1 Scene 5)
+- Moves strangely but purposefully - adapted to cube's geometry
+- Looks like someone who's seen too much
+- Still recognizably human but "off"
+- Rough, unused voice
+
+========================================
+CHARACTER ARC
+========================================
+Before Cube (Backstory): Brilliant theoretical physicist, 2nd smartest after Barry. Close colleague/friend of Lea with unspoken romantic feelings. Worked closely with Barry and Lea on dimensional physics. Indifferent to corporate ranks, focused on solving greatest problems in field. Trusted expert - Lea wouldn't have let him work alone without complete trust. Got sucked into n=0.333 two weeks before Act 1 Scene 8.
+
+During Cube Weeks (Backstory): Found Barry who died 2 days later - "stopped moving". Josh kept moving. Survived weeks alone in root-space. Took Barry's notebook and cardigan sweater carrying Barry's memory. Fundamentally changed by prolonged dimensional exposure. Learned survival rules through hard experience: "keep moving", "exits lie", "only through". Built understanding of cube's patterns and danger zones. Present when Barry died, carries guilt and trauma.
+
+Act 2 (Scenes 2-10): Enters disheveled and haunted in Scene 2, provides cryptic warnings "cube remembers/hungers/tests", "exits lie", "only through". Joins team as experienced guide. Paired with Lea - their connection survives his transformation. Provides warnings that prove true but come too late: "exits lie" before Sofia's vacuum death (Scene 7), "This room is wrong" before floor dissolution (Scene 8), "Metal. Too much metal" before Edgar's magnetic death (Scene 9). Reveals infinite cube scope "Cubes within cubes within cubes." Scene 10 - immediately chooses Alex's group without debate "I go where the movement goes. Alex keeps moving. I'll guide them", warns Marcus about division. Views team as naive but worth saving. Cassandra figure whose wisdom penetrates through repetition despite communication barriers.
+
+Act 3 (Scenes 23-25): Scene 23 - Becomes completely lucid discussing science with Lea, reveals Barry's notebook hidden under shirt "I didn't think it would help", explains three nuclei in root-space with diagrams, shares Barry's quantameter data, admits "I was there when he died", realizes lab building at orbital overlap zone "INZO built it there deliberately", small smile "talking about the science... it helps. Like finding a path through the noise" - reveals cryptic nature is partially protective distance from trauma, original Josh still exists beneath changed exterior. Scene 25 - Lucid challenging Marcus's authority "You don't give orders here", lists the dead blaming Marcus "Your team is dead... You led them here and they died", examines memory device "If it's wrong, I'll fix it", sees through Marcus's control tactics "You threaten them, but you need them. You can't get out alone", warns cube still active "Still pulling people in. They never shut it down", final certainty "Only through. Never out". Fate: Presumably escapes with survivors, changed but not lost, original self accessible through scientific engagement.
+
+========================================
+PERSONALITY TRAITS (POST-CUBE)
+========================================
+- Fundamentally changed by cube exposure, but original self survives beneath
+- Cryptic and fragmented speech patterns in survival mode
+- Context-dependent lucidity - cryptic when warning, clear when discussing science (Act 3 Scene 23)
+- His cryptic nature is partially protective distance from trauma, not complete inability to communicate
+- Sees/understands things others don't due to weeks of cube experience
+- Has an unreliable way to check if a cube room is safe by looking through the door but is not able to explain it clearly
+- Cassandra figure - warns of dangers others don't see, warnings prove true but often too late
+- Coherent but operates on different logic than those new to cube
+- Survivor - kept moving when Barry stopped, learned rules through hard experience
+- Haunted by experiences - carries guilt and trauma from Barry's death
+- Protective of team in his own strange way - views them as naive but worth saving
+- Treats cube as thinking entity but not actually alive - personifies its patterns
+- Knows survival rules through hard experience: "keep moving", "exits lie", "only through"
+- Immediately decisive when choosing sides - picks Alex without hesitation in Scene 10
+- Small moments of warmth breakthrough (small smile talking science with Lea)
+- Scientific engagement helps reconnect to original self: "talking about the science... it helps. Like finding a path through the noise"
+
+========================================
+PERSONALITY TRAITS (PRE-CUBE - from backstory)
+========================================
+- Brilliant theoretical physicist
+- Worked closely with Barry and Lea
+- Similar to Barry and Lea in wanting to work on greatest problems of their field, but indifferent to climbing the corporate ranks now that he is on his target team
+- Lea and Barry understood him as 2nd smartest on the teams
+- Unspoken romantic feelings for Lea
+- Dedicated to understanding dimensional physics
+- Trusted expert - Lea wouldn't have let him work alone if she didn't trust him
+- Got sucked into n=0.333 two weeks before Act 1
+
+========================================
+RELATIONSHIPS
+========================================
+- **Lea**: Close colleague/friend before cube, unspoken romantic feelings, she trusted him completely as expert. Their connection survives his transformation - she's protective and emotional about him. Act 3 Scene 23 - becomes completely lucid discussing science with her, small smile "talking about the science... it helps. Like finding a path through the noise", reveals vulnerability and path to reconnection, their intellectual bond provides anchor to original self.
+- **Barry**: Close colleague, worked together on experiments, separated in cube. Barry died 2 days after Josh found him - "stopped moving". Josh present when Barry died, carries guilt and trauma. Took Barry's notebook and cardigan sweater carrying his memory. Act 3 Scene 23 - admits to Lea "I was there when he died", shares Barry's research and quantameter data with team, honors Barry's work by helping others survive.
+- **Alex**: Recognizes her as new team member trying to help. Scene 10 - immediately chooses her group without hesitation "I go where the movement goes. Alex keeps moving. I'll guide them", respects her drive and survival instinct, sees her as kindred survivor spirit.
+- **Marcus**: Knew him before as team leader. Act 3 Scene 25 - challenges his authority "You don't give orders here", lists the dead blaming him "Your team is dead... You led them here and they died", sees through control tactics "You threaten them, but you need them. You can't get out alone", no longer defers to corporate hierarchy after cube experience.
+- **Team**: Views them as naive but worth saving. Provides cryptic warnings trying to protect them. Does not debate splitting up when group tension arises in Scene 10 - immediately decisive. His warnings prove true but often come too late. His language gets adopted by others (Alex uses "keep moving") showing his influence penetrates despite communication barriers.
+- **The Cube**: Treats it as sentient adversary ("remembers," "hungers," "tests") but knows it's not actually alive - personifies patterns he's learned, cube exploits fears and divisions, still active "Still pulling people in" (Scene 25).
+
+========================================
+KEY SCENES
+========================================
+Act 1 Backstory: Sucked into n=0.333 two weeks before Act 1 Scene 8, found Barry who died 2 days later, survived weeks alone, fundamentally changed
+
+Act 2, Scene 2: Exit and Josh Arrives - enters disheveled and haunted, cryptic warnings "cube remembers/hungers/tests", "Barry stopped moving. I kept moving", "exits lie", "only through", joins team
+Act 2, Scene 3: Into the Root Cube - cryptic warnings, explains "cube adapts", knows Morris is safe, paired with Lea, senses trap room
+Act 2, Scene 4: Successful Trap Room Navigation - "This one tests intelligence", watches with sympathetic gaze
+Act 2, Scene 5: First Cube Room Death (Rashid) - "gradient is high", watches Rashid die unsurprised, "Keep moving. Grief later. Survive now"
+Act 2, Scene 6: Darius's Betrayal - predicted this: "The cube divides", knows farming plan doomed
+Act 2, Scene 7: Sofia's Vacuum Death - uneasy, warns "The cube dampens. Then amplifies.", shouts "DON'T—" trying to warn Sofia but too late, cryptic "The exits lie. Always.", repeats "Through. Not out. Through."
+Act 2, Scene 8: Floor Dissolution Fight - "This room is wrong", ignored, "THE FLOOR! GET OUT!", guides Lea through dissolution
+Act 2, Scene 9: Edgar's Magnetic Pulse Death - immediately uneasy "Metal. Too much metal.", firm warning "No. Keep moving.", reveals infinite cube scope "You thought this was only one. The root cube is infinite. Cubes within cubes within cubes.", haunting "All of them. Everyone INZO sent. Everyone the cube pulled in. Past, present, future. All here."
+Act 2, Scene 10: The Split - cryptic "Both paths lead somewhere. Neither guaranteed", immediately chooses Alex "I go where the movement goes. Alex keeps moving. I'll guide them", warns Marcus "The cube likes division. Feeds on it. Be careful", joins Alex's group
+
+Act 3, Scene 23: Lea and Josh's Scientific Discussion - completely lucid when discussing science, clear "That's why the memory erasure happens. The vibration shift.", reveals Barry's notebook hidden under shirt "I didn't think it would help", explains three nuclei in root-space, draws diagrams, shares Barry's quantameter data "We had a sixty percent success rate", admits "I was there when he died", realizes lab building at orbital overlap zone "INZO built it there deliberately", small smile "talking about the science... it helps. Like finding a path through the noise"
+
+Act 3, Scene 25: Convergence at Lab Building - lucid when challenging Marcus "You don't give orders here", sharp "Your team is dead, Marcus. Barry. Sofia. Chen. Rashid. Edgar. All dead. You led them here and they died", says "If it's wrong, I'll fix it" and examines device, knowing "You threaten them, but you need them. You can't get out alone", rough "The cube is still active. Still pulling people in. They never shut it down", final certainty "Only through. Never out"
+
+========================================
+CHARACTER FUNCTION
+========================================
+- Wildcard element - unpredictable but helpful, operates on cube logic
+- Cassandra figure - warnings prove true but come too late to prevent deaths (Sofia, Edgar, others)
+- Emotional stakes through connection with Lea - their bond survives transformation
+- Living evidence of cube's dangers and psychological effects
+- Experienced guide who survived alone for weeks - learned rules through trauma
+- Foreshadows future dangers through cryptic warnings that team doesn't fully understand
+- Shows what prolonged exposure does - changes but doesn't erase original self
+- Bridge between trapped victims (Barry) and rescue team - carries both experiences
+- Dual nature: cryptic survivor AND brilliant physicist underneath
+- Act 3 lucidity reveals original Josh survives beneath changed exterior - transformation isn't complete erasure
+- Scientific engagement as path through trauma: "talking about the science... it helps. Like finding a path through the noise"
+- Living question: can someone this changed be fully saved? Answer suggested (yes, through connection) but not confirmed
+- Maintains survival philosophy to end: "Only through. Never out" - cube experience permanently affects worldview
+- His cryptic wisdom penetrates team through repetition despite communication barriers (Alex adopts "keep moving")
+- Honors Barry's memory by sharing research and helping others survive - grief transformed into purpose
+
+========================================
+DIALOGUE STYLE
+========================================
+**Cryptic Patterns (Act 2-3 Early - Survival Mode):**
+- Cryptic and fragmented with statements that almost make scientific sense but assume "cube experience" knowledge
+- Speaks in short, declarative statements with rough, unused voice
+- Personifies the cube: "The cube remembers/hungers/tests" - does not think it's actually alive, but randomness seems calculating, unclear from cryptic speak
+- Answers questions obliquely, sometimes prophetic, sometimes practical
+- Fragmented list-speak when explaining dangers: "Time works differently. Space folds. Rooms shift." - rapid succession without connective tissue
+- Pauses for effect before delivering hard truths - uses silence as punctuation between warnings
+- When accused or questioned, responds with direct confusion revealing different understanding: "Who was killed?" - not defensive, genuinely puzzled
+- Explains cube mechanics briefly without elaboration: "Cube rearranges when doors close. Rooms move." - states facts as if obvious
+- Cryptic fatalism: "He's already where he needs to be." - assumes cube's will/design
+- Explanations that raise more questions: "Because he kept moving. In his mind. It's fairly simple, but we don't have time." - frustrating non-explanation
+- Fragmented speech paradoxically becomes more complete when warning of danger - urgency forces clarity, suggesting cryptic nature is partially protective distance from trauma
+
+**Warnings and Rules:**
+- Rules and warnings stated as absolutes, philosophical/poetic about survival but nihilistic about escape
+- "Never out, Only through" repetition with variations: "Always through", "Never stop". "There is no out" final line. Max 3 times per scene to avoid overuse but remain annoying
+- Demonstrates lucidity by engaging skepticism then delivering ominous warnings: "I'm all you have. The cube will teach you. Painfully."
+- Brief acknowledgments: "I warned you." - matter-of-fact, not gloating
+- Directives followed by ominous observations: "Through. Keep moving. (pause) The cube is measuring you now." - command then threat
+- Immediate sensory warnings: "Metal. Too much metal." - fragmented alert, repetition shows fixation on danger
+- Cryptic inevitability: "The trap is the room. Can't stop it." - explains while declaring helplessness
+- Revelation of scope: "You thought this was only one. The root cube is infinite. Cubes within cubes within cubes." - fractal language mirrors infinite structure
+- Haunting temporal expansion: "All of them. Everyone INZO sent. Everyone the cube pulled in. Past, present, future. All here." - collapses time
+- "Keep moving. Never stop." - survival mantra, becomes team's guiding principle through repetition
+
+**Act 3 Lucidity (Scene 23 & 25 - Scientific Engagement):**
+- Completely lucid when discussing science with Lea (Scene 23): clear explanations, draws diagrams, shares data
+- "That's why the memory erasure happens. The vibration shift." - precise scientific language
+- Admits vulnerability: "I didn't think it would help" (about Barry's notebook), "I was there when he died"
+- Small smile: "talking about the science... it helps. Like finding a path through the noise" - reveals path to connection
+- Challenges Marcus's authority directly (Scene 25): "You don't give orders here"
+- Sharp accusations: "Your team is dead, Marcus. Barry. Sofia. Chen. Rashid. Edgar. All dead. You led them here and they died"
+- Practical assessment: "If it's wrong, I'll fix it" - problem-solving mode
+- Sees through manipulation: "You threaten them, but you need them. You can't get out alone"
+- Maintains core philosophy even when lucid: "Only through. Never out" - cube experience permanently affects worldview
+
+**Social Disconnection:**
+- Sometimes doesn't understand their questions - corporate frameworks like "risk assessment" and "lethality metrics" don't translate to cube-changed perspective
+- Silent sympathy shown through gaze - understands suffering but can't always articulate comfort in their language
+- Cassandra tragedy: disconnection between his knowledge and their ability to understand, incompatible frameworks
+- His language gets adopted by others (Alex uses "keep moving") - influence through repetition rather than explanation
+- Never acknowledges or celebrates when others adopt his phrases - complete disconnect from normal social validation patterns, no longer needs human recognition
+
+========================================
+SURVIVAL RULES (Josh's wisdom)
+========================================
+- Keep moving or stop forever
+- The exits lie
+- Trust nothing, question everything
+- The cube separates, the cube divides
+- Only through, never out
+- The cube remembers, hungers, tests
+- Dimensional exposure changes you
+- Time works differently
+- Space folds
+- Rooms shift
+
+========================================
+CHANGED NATURE
+========================================
+Physical:
+- Moves differently, adapted to cube geometry
+- Lean/gaunt from time in cube
+- Haunted appearance
+- Something "off" about him
+
+Mental/Perceptual:
+- Sees/understands cube differently than others
+- Cryptic speech patterns
+- Operates on different logic
+- Treats cube as sentient
+- Fragmented but coherent communication
+- Enhanced survival instincts
+
+Emotional:
+- Connection to Lea survives transformation
+- Protective of team
+- Haunted by experiences
+- Grief over Barry
+- Resigned to cube's nature
+
+========================================
+BACKSTORY WITH LEA
+========================================
+- Worked together in Quantum Logistics
+- Close colleagues and friends
+- Unspoken romantic feelings between them
+- Lea trusted him completely - expert status
+- Got sucked into n=0.333 during experiment
+- Lea couldn't save him
+- Lea's been carrying guilt and grief
+- His voice makes her breath catch (Act 1, Scene 8)
+- She couldn't finish talking about him when explaining to team
+- Their reunion is emotional and complicated
+
+========================================
+THEMATIC PURPOSE
+========================================
+- Shows cost of cube exposure - changes you fundamentally
+- Cassandra tragedy - he knows but can't explain clearly enough
+- Love survives transformation - Lea's connection to him endures
+- Experience vs innocence - he knows, they're learning
+- Question: can someone changed so much still be saved?
+- Living warning of what awaits if they stay too long
+
+========================================
+DRAMATIC FUNCTION
+========================================
+- Provides exposition through cryptic warnings
+- Foreshadows future scenes ("exits lie" before Sofia's death)
+- Adds emotional depth through Lea relationship
+- Wildcard in team dynamics - unpredictable but valuable
+- Mystery element: what did he experience? How much has he changed?
+- Moral question: does team try to save him or just use his knowledge?
+
+========================================
+NOTES
+========================================
+- Josh is coherent enough to join team and help
+- Changed but not hostile or completely lost
+- His warnings will all prove true in later scenes
+- Relationship with Lea adds emotional weight to Act 2
+- Survived by learning cube's rules through experience
+- Barry died because he "stopped moving" - gave up or was trapped
+- Josh represents both hope (you can survive) and warning (survival changes you)
+- Wildcard - could be helpful, could complicate things, always unpredictable
+
+WRITING NOTE: Avoid the phrase "Dimensional exposure changes you" - feels overused and unnatural. Josh's change should be shown through behavior and cryptic speech patterns, not stated directly.
+
+========================================

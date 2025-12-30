@@ -1,0 +1,344 @@
+SCENE 3 - LEA AND JOSH'S SCIENTIFIC DISCUSSION
+===============================================
+
+LOCATION: Alex's group location in root cube
+
+CHARACTERS:
+- Alex's group (3 members): Alex, Lea, Josh
+
+SCENE LAYOUT:
+
+1. SCIENTIFIC FOCUS
+   - Lea and Josh in focused scientific discussion
+   - Alex observing, contributing when needed
+   - Team resting in relatively safe location
+   - Lea explaining what they've learned about the cube with a marker writing on the cube
+   - Strategic planning session
+
+2. JOSH'S TRANSFORMATION
+   - Josh completely lucid when discussing science
+   - No more weird/erratic talk from Act 2
+   - Clear-minded and scientifically focused
+   - Acts as scientific equal to Lea
+   - Major character shift in Act 3
+
+3. BARRY'S INSIGHTS
+   - Josh shares insights from Barry's research
+   - Theories and observations Barry made
+   - Josh's understanding of cube mechanics
+   - Scientific knowledge from time with Barry
+   - Valuable data for the team
+
+4. EQUIPMENT LIMITATIONS
+   - Discussion of what they've learned
+   - Identification of equipment needs
+   - Technical limitations they're facing
+   - Solutions they need to implement
+   - Gap between knowledge and capability
+
+5. LAB BUILDING DECISION
+   - Lea suggests returning to the lab building
+   - Lab as resource location
+   - Equipment available there
+   - Strategic value of returning
+   - Group agrees to head back
+   - Sets up convergence in Scene 5
+
+TONE: Collaborative scientific focus, hope through understanding, strategic planning
+CHARACTER DYNAMICS: Josh's lucidity as major asset, Lea's problem-solving leadership, team working together
+
+================================================================================
+
+Description:
+Lea discusses recent developments with Josh, who seems remarkably more lucid when talking about science. He completely
+drops the weird talk that characterized him in Act 2, giving clear scientific insights based on his observations and discussions with Barry.
+
+Key Elements:
+- Lea and Josh in focused scientific discussion
+- Josh's lucidity when discussing science (major character shift)
+- No more weird/erratic talk from Josh
+- Josh shares insights from Barry's research
+- Discussion of what they've learned about the cube
+- Need for more equipment identified
+- Lea suggests returning to the lab building
+
+Character Development:
+- Josh: Completely lucid and scientifically focused in Act 3
+- Clear-minded when engaged in scientific thought
+- Provides valuable insights from time with Barry
+- Acts as scientific equal to Lea
+- Lea: Recognizes Josh's expertise
+- Values his input and observations
+- Problem-solving mindset
+
+Scientific Discussion:
+- Barry's theories and observations
+- Josh's understanding of cube mechanics
+- Equipment limitations they're facing
+- Technical solutions they need
+- Lab building as resource location
+
+Group Dynamics:
+- Alex's group: Alex, Lea, Josh
+- Collaborative scientific approach
+- Focused on understanding the cube
+- Planning next steps strategically
+
+Notes:
+This scene marks Josh's complete transformation to lucidity in Act 3. His scientific competence becomes a major asset. The suggestion to return to the lab building sets up the convergence in Scene 5.
+
+================================================================================
+
+FULL SCRIPT:
+
+FADE IN:
+
+INT. ROOT CUBE - RELATIVELY SAFE ROOM - CONTINUOUS
+
+A gray room like any other, but this one has been tested. Safe, for now. Equipment salvaged from the lab building sits against one wall.
+
+ALEX (30s, practical and focused) leans against the wall, voice recorder in hand. She watches as LEA
+ (dimensional physicist, burdened but brilliant) sketches diagrams on the floor with a piece of metal.
+
+JOSH (late 20s-early 30s, lean and intense) kneels beside Lea, examining the diagrams. He's utterly focused—none of
+the cryptic, fragmented energy from Act 2. Just clarity.
+
+                    LEA
+               (pointing to diagram)
+          So the dimensional saturation follows a gradient pattern. Higher concentration near the core, dissipating toward the boundaries.
+
+                    JOSH
+          That matches what Barry observed. He mapped the saturation levels across seventeen different zones before...
+
+He pauses, then continues matter-of-factly.
+
+                    JOSH (CONT'D)
+          Before we had to keep moving. The pattern was consistent—exponential decay from center points.
+
+                    ALEX
+               (from her position)
+          Multiple centers?
+
+                    JOSH
+               (nodding)
+          At least three that we documented. Possibly more. Each one generating its own field overlap.
+
+Lea sketches additional markings on her diagram.
+
+                    LEA
+          Which would explain the interference patterns. When fields intersect, they don't cancel—they compound.
+
+                    JOSH
+          Exactly. Barry theorized that's why some rooms are more unstable than others. They sit at intersection points where multiple fields create constructive interference.
+
+                    LEA
+               (looking up at him)
+          You're... you're really clear on all this.
+
+                    JOSH
+               (slight smile, self-aware)
+          Science makes sense. The rest...
+
+He gestures vaguely at the walls.
+
+                    JOSH (CONT'D)
+          The rest is harder to process. But the physics? That I can work with.
+
+Alex exchanges a glance with Lea. This Josh is radically different from the cryptic survivor they found in Act 2.
+
+                    ALEX
+          What else did Barry figure out?
+
+Josh shifts to sitting, pulls out a crumpled notebook—Barry's. He opens it carefully.
+
+                    JOSH
+          He was mapping the relationship between n-values and physical space. Look—
+
+He points to a page of equations and sketches.
+
+                    JOSH (CONT'D)
+          At three-space, normal reality. At root-space, the lab building's pocket dimension. But in between? There are gradients. Transitional zones.
+
+                    LEA
+               (leaning in)
+          We suspected that, but we never had proof.
+
+                    JOSH
+          Barry measured it. He used the dimensional resonance detector—you know, the one he built from the spectrometer parts?
+
+                    LEA
+          The jerryrigged device that kept shorting out?
+
+                    JOSH
+               (small laugh—remarkably normal)
+          That's the one. He got it stable eventually. The readings showed discrete dimensional layers, like... geological strata. We could move between them if we understood the transition mechanics.
+
+Lea sits back, absorbing this.
+
+                    LEA
+          That's how you survived. You weren't just wandering randomly—you were navigating dimensionally.
+
+                    JOSH
+          We tried. It worked about sixty percent of the time. The other forty percent...
+
+His expression darkens briefly, then clears.
+
+                    JOSH (CONT'D)
+          The other forty percent is why Barry's not here.
+
+Silence. Alex clicks off her recorder.
+
+                    ALEX
+          I'm sorry.
+
+                    JOSH
+               (factual, not cold)
+          He understood the risks. We both did. The point is, the data exists. His observations were sound.
+
+He taps the notebook.
+
+                    JOSH (CONT'D)
+          If we can replicate his measurements with better equipment, we could map safe routes. Maybe even predict room configurations before entering them.
+
+                    LEA
+          The lab building has the equipment we'd need.
+
+                    JOSH
+          The protection field generator there also provides a stable baseline for measurements. We'd need that as a reference point.
+
+Alex stands, walks over to join them.
+
+                    ALEX
+          So we go back.
+
+                    LEA
+          It's risky. We've been moving away from it, and navigating back—
+
+                    JOSH
+          —is exactly what I did with Barry for three weeks. I know the tricks. The patterns.
+
+He looks at the two women.
+
+                    JOSH (CONT'D)
+          I can get us there. Not perfectly, not guaranteed, but better odds than random movement.
+
+Lea studies him for a long moment.
+
+                    LEA
+          You're really back, aren't you? The Josh I knew before.
+
+                    JOSH
+               (considering)
+          I don't know about that. I'm not the same. But when I focus on the science? The noise quiets. I can think clearly.
+
+He gestures to the notebook.
+
+                    JOSH (CONT'D)
+          This helps. Barry's work gives me something concrete to hold onto. Something that makes sense when nothing else does.
+
+                    ALEX
+               (practical)
+          What do we need from the lab building specifically?
+
+                    LEA
+          The resonance detector Barry built. The field generator's diagnostic equipment. And the computer that's hopefully still logging dimensional fluctuation data.
+
+                    JOSH
+          Plus physical supplies. The protection field there means we can rest without constantly watching for room shifts.
+
+                    ALEX
+          How long to get back?
+
+                    JOSH
+               (calculating)
+          If we move carefully? Eight to twelve room transitions. We'd need to test each threshold, watch for saturation spikes, avoid the high-interference zones...
+
+He pauses, then adds with unusual directness.
+
+                    JOSH (CONT'D)
+          Four hours. Maybe six if we're cautious.
+
+Lea and Alex exchange looks.
+
+                    ALEX
+          That's more specific than anything we've been able to plan.
+
+                    JOSH
+          I've done it before. Different starting point, same destination. The dimensional topology is consistent enough to navigate if you know what to look for.
+
+                    LEA
+          Temperature gradients?
+
+                    JOSH
+          That's one marker. Also electromagnetic field strength, visual distortion at thresholds, and the acoustic resonance—rooms closer to the lab building have a different echo pattern.
+
+Lea nods slowly.
+
+                    LEA
+          Barry taught you well.
+
+                    JOSH
+               (quiet)
+          He kept us alive for three weeks. I learned from the best.
+
+Beat.
+
+                    ALEX
+          Okay. We go back to the lab building. Get the equipment. Try to gather enough data to make sense of this place.
+
+                    LEA
+          And if we can map it properly, we might be able to find Marcus. Or the others.
+
+                    JOSH
+          The communication attempt Marcus mentioned—if we can boost the signal with the lab's equipment, we might establish contact with whoever's still out there.
+
+He stands, helps Lea to her feet.
+
+                    JOSH (CONT'D)
+               (to Lea, with unexpected warmth)
+          It's good to work with you again. Like old times.
+
+                    LEA
+               (softly)
+          Yeah. It is.
+
+They share a moment of connection—the unspoken feelings between them visible but unvoiced.
+
+Alex picks up her equipment, checking their supplies.
+
+                    ALEX
+          Let's move while we still have momentum. Josh, you lead. Tell us what you're looking for at each threshold.
+
+                    JOSH
+               (nodding, confident)
+          Watch for the thermal drop. That's the first sign we're heading the right direction.
+
+He moves to the doorway, examines the threshold with clear, analytical focus.
+
+                    JOSH (CONT'D)
+               (calling back)
+          Transition looks clean. Minimal distortion. This is a good starting point.
+
+Lea joins him, pulls out a small device.
+
+                    LEA
+          I'm reading eighteen degrees Celsius. What should we expect next room?
+
+                    JOSH
+          If we're heading toward the lab building? Sixteen, maybe fifteen. The protection field pulls heat from the surrounding dimensional space.
+
+                    ALEX
+               (joining them)
+          That's actually useful information.
+
+                    JOSH
+               (slight smile)
+          That's the idea.
+
+He steps through the threshold first, confident and clear-minded.
+
+Lea follows, then Alex. They move as a team—focused, purposeful, collaborative.
+
+For the first time since entering the cube, they have a concrete plan and the expertise to execute it.
+
+FADE OUT.

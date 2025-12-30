@@ -1,0 +1,828 @@
+AMAZING TRASH - MECHANICS REFERENCE
+================================================================================
+
+This document contains all the technical mechanics and world-building details
+for the Amazing Trash screenplay.
+
+TABLE OF CONTENTS
+-----------------
+1. ECONOMIC DISPARITY - THE THREE-TIER SYSTEM
+   - Overview
+   - Standard Class (Blue "S")
+   - Mid Class / Welfare Recipients (Red "M")
+   - Unhoused Class (Black "U")
+   - How the System Works
+   - Social Implications
+
+2. TRACKTOWN - THE HOMELESS ENCAMPMENT
+   - Location and Geography
+   - Architecture and Structure
+   - Infrastructure Systems
+   - Safety and Governance
+   - Community Dynamics
+
+3. STREET SCAMS - SURVIVAL TACTICS
+   - Broken Item Reversal
+   - Handshake Watch Steal
+   - Distraction Pickpocket
+   - ID Theft and Access Rental
+   - Usage in Story
+
+4. RE-ANIMATOR GAS
+   - The Problem
+   - How It Works (Pseudo-Science)
+   - The Flaw
+   - Adam's Creation Process
+   - Usage in the Story
+
+5. BODY DISPOSAL SYSTEM
+   - The Secret Chamber
+   - Acidic Waste Properties
+   - Adam's Lab
+   - Disposal Process
+
+6. GEOFF'S TECHNOLOGY
+   - Robot Bodyguard (Moosk)
+   - The Robot Double
+   - Drone Fleet
+   - Gas Deployment System
+
+================================================================================
+
+## 1. ECONOMIC DISPARITY - THE THREE-TIER SYSTEM
+
+### Overview
+
+The near-future society has stratified into a semi-enforced three-tier class system. The tiers are marked on government identification and public signage, creating visible segregation and institutionalized inequality. The system is maintained through a combination of economic policy, welfare programs, and social control.
+
+### Standard Class (Blue "S")
+
+**Official Designation:** Standard
+**ID Marker:** Blue "S" on identification
+**Signage:** Blue "S" on establishments, services, and areas
+
+**Characteristics:**
+- The wealthy/rich class
+- Not on any form of government welfare
+- Fully housed in traditional residential areas
+- Access to premium services, healthcare, education
+- Largely oblivious to the problems of the poor
+- Insulated from lower classes through economic and physical barriers
+
+**Lifestyle:**
+- Live in secure, well-maintained housing
+- Access to private transportation
+- High-quality healthcare and education
+- Can afford luxury goods and services
+- Social circles limited to other Standard class members
+- May have robot bodyguards (like Geoff and Moosk)
+
+**Relationship to Lower Classes:**
+- Minimal contact with Mid or Unhoused classes
+- May employ Mid class workers in service roles
+- Generally unaware of or indifferent to poverty conditions
+- View class system as natural order or meritocracy
+- Protected from consequences of their actions by wealth and influence
+
+### Mid Class / Welfare Recipients (Red "M")
+
+**Official Designation:** Welfare Recipients
+**Colloquial Name:** "Mid" or "Mids"
+**ID Marker:** Red "M" on identification (regardless of how much welfare they receive)
+**Signage:** Red "M" on establishments, services, and areas
+
+**Characteristics:**
+- The working poor and lower-middle class
+- Receive any amount of government welfare (housing assistance, food stamps, healthcare subsidies)
+- Housed but not wealthy - living in subsidized or affordable housing
+- May be employed but wages insufficient for self-sufficiency
+- Stigmatized by the red marker on their ID
+
+**Lifestyle:**
+- Live in basic but functional housing (apartments, tenements, subsidized units)
+- Limited access to services and amenities
+- Public transportation or no transportation
+- Basic healthcare and education
+- Must navigate red "M" restrictions on certain services or areas
+- Constant financial stress and precarity
+
+**Economic Reality:**
+- Even full-time work often doesn't pay enough to escape welfare dependency
+- The red marker follows them regardless of welfare amount
+- Once on welfare, difficult to escape the Mid designation
+- May have come from Unhoused class or fallen from Standard class
+- Fear of becoming Unhoused is constant pressure
+
+**Social Position:**
+- Look down on Unhoused but are closer to them than to Standard
+- May work service jobs for Standard class
+- Some Standard establishments won't serve them or charge higher prices
+- Form the bulk of the working population
+
+### Unhoused Class (Black "U")
+
+**Official Designation:** Unhoused
+**Colloquial Name:** Various (often derogatory)
+**ID Marker:** No marker, but ID has no address listed
+**Signage:** Black "U" on establishments, services, and areas
+
+**Characteristics:**
+- The homeless population
+- No permanent address on identification
+- Not housed by government or private means
+- Live in encampments like Tracktown, on streets, in shelters
+- Often excluded from services and opportunities
+
+**Lifestyle:**
+- Live in illegal housing, temporary shelters, or on the streets
+- Limited access to clean water, sanitation, electricity
+- Rely on informal economy, charity, scavenging, crime
+- Black "U" signage indicates where they're allowed or excluded
+- Constant threat of displacement, harassment, or violence
+- Form their own communities for survival (like Tracktown)
+
+**Economic Reality:**
+- In this near-future, low-wage workers expect to be homeless
+- Many have jobs but wages don't cover housing costs
+- Some are functionally employed but live in Tracktown to afford food and other necessities
+- The Unhoused designation makes it harder to get hired for better jobs
+- No address means difficulty accessing services, banking, etc.
+
+**Social Position:**
+- Bottom of the social hierarchy
+- Invisible to Standard class, pitied or despised by Mid class
+- Develop strong community bonds within encampments
+- Subject to police harassment and displacement efforts
+- Some areas tolerate them (like Tracktown), others actively exclude them
+
+### How the System Works
+
+**Identification and Markers:**
+- Government-issued IDs have color-coded markers (Blue S, Red M, or none/Black U)
+- Markers are visible on physical ID cards and digital identification
+- Once marked, difficult to change classification
+- Businesses and services use markers to discriminate legally or semi-legally
+
+**Public Signage:**
+- Establishments display Blue S, Red M, or Black U signs to indicate who they serve
+- Some places are Standard-only (Blue S)
+- Some serve Mid and above (Red M and Blue S)
+- Few places explicitly welcome Unhoused (Black U)
+- Gyms, cafeterias, public pools use tiered pricing or access (like in Scene 4)
+
+**Government Role:**
+- System is semi-enforced by government policy
+- Welfare programs create the Red M designation
+- Housing policy and zoning creates Unhoused class
+- Police enforce property rights and displacement
+- Minimal social services for Unhoused (by design)
+
+**Economic Mechanism:**
+- Wages stagnate while housing costs skyrocket
+- Welfare programs provide just enough to survive but trap recipients in Mid class
+- Standard class accumulates wealth while lower classes struggle
+- Automation and robotics reduce need for workers
+- Billionaires like Geoff have unprecedented power and wealth
+
+**Transportation:**
+- All cars are auto-pilot (self-driving)
+- Standard class has access to private auto-pilot vehicles (like Geoff's Amazing Company car)
+- Mid class uses public auto-pilot transportation or rideshares
+- Unhoused class walks almost everywhere - can't afford auto-pilot services
+- Walking is a visible marker of poverty in this society
+- Auto-pilot cars can be summoned, used for deliveries, or sent away remotely
+
+### Social Implications
+
+**For the Story:**
+- Adam is Unhoused class, living in Tracktown
+- Geoff is Standard class, wielding immense power and privilege
+- Tyson and Gal are Unhoused class, part of Tracktown community
+- Scene 4 shows the tiered system at the gym/cafeteria
+- Police tolerate Tracktown but "riot control" dumps homeless protesters there
+- The final drone attack on Tracktown is genocide against the Unhoused class
+
+**Themes:**
+- Extreme economic inequality
+- Dehumanization of the poor
+- Powerlessness against billionaire class
+- Community and solidarity among the dispossessed
+- Violence as means of social control
+- No escape from systemic oppression
+
+**Visual Markers:**
+- Blue, Red, and Black signage throughout the city
+- ID checks at establishments
+- Physical segregation of classes
+- Contrast between Standard luxury and Tracktown poverty
+- Amazing Company's smiley face logo as corporate mask over atrocity
+
+================================================================================
+
+## 2. TRACKTOWN - THE HOMELESS ENCAMPMENT
+
+### Location and Geography
+
+**General Location:**
+- On the outskirts of Houston or New York (to be determined)
+- Built in a swampy, unbuildable area that developers abandoned
+- Former industrial railyard that was decommissioned
+- Marshy terrain makes conventional construction impossible
+- City authorities consider it a "lost zone" - not worth the cost to demolish or reclaim
+
+**The Railyard:**
+- Abandoned railroad tracks run through the area
+- Tracks are no longer in use but remain intact
+- The illegal structures are built everywhere EXCEPT directly on the tracks
+- Tracks serve as natural pathways/streets through the settlement with dirt path roads branching off
+
+### Architecture and Structure
+
+**The Defining Feature - Stacked Train Cars:**
+- Abandoned train cars removed from the tracks and stacked vertically on their side with doors open so the middle is a stairwell between floors
+- Stacks range from 2 to 5 cars high
+- Most structures use ladders for vertical access (cheaper, easier to build)
+- Only a few premium locations have stairs (mark of status/investment)
+- Train cars modified with windows, doors cut into sides, insulation added
+- Some cars connected by walkways/bridges at higher levels
+- Creates a distinctive skyline visible from a distance
+
+**Other Building Types:**
+- Shipping containers (single and stacked)
+- Corrugated metal structures
+- Reclaimed materials (plywood, tarps, scrap metal)
+- Some more "permanent" looking buildings made from salvaged materials
+- A few structures that almost look like legitimate tiny homes
+- Mix of individual dwellings and multi-unit structures
+
+**Overall Appearance:**
+- From a distance, looks like a strange, vertical shantytown
+- Up close, appears more like a quirky, unconventional neighborhood
+- Some residents have added paint, gardens, decorations
+- Not obviously dystopian - could pass for an "alternative community" to outsiders
+- The verticality and improvised nature make it unique but not necessarily desperate-looking
+
+### Infrastructure Systems
+
+**Plumbing:**
+- Jury-rigged from multiple water sources (old industrial pipes, unauthorized taps)
+- Network of visible pipes running between structures
+- Some pipes run underground through the swampy soil
+- Frequent leaks and repairs needed
+- Hot water is a luxury - most residents use cold water or heat it themselves
+- Community water points where people gather to fill containers
+- Drainage is haphazard - some areas prone to flooding
+
+**Electrical:**
+- Unauthorized connections to nearby power grid
+- Tangle of wires running overhead and underground haphazardly connected to structures where they can
+- Some structures have generators (noisy, expensive to run)
+- Frequent outages from wire breaking or disconnecting
+- Some residents are skilled electricians who maintain the system
+- Certain areas have more reliable power than others
+
+**The Crawlspaces:**
+- Network of narrow passages beneath and between structures
+- Created by:
+  - Gaps under raised train cars and shipping containers
+  - Spaces between stacked units
+  - Old industrial tunnels and maintenance areas from the railyard era
+  - Intentionally constructed hidden passages
+- Most residents don't know about all of them
+- Adam has mapped many of these passages
+- Skilled workers (plumbers, electricians, builders) are seen at times rushing from crawlspace to crawlspace
+- Used for:
+  - Utility line access
+  - Storage
+  - Movement without being seen
+  - Adam's secret lab access
+- Some crawlspaces are through swampy ground (wet, muddy)
+- Others are through dry industrial spaces (concrete, metal)
+- Tight, claustrophobic, often dark
+
+**Adam's Secret Lab:**
+- Accessed through multiple crawlspace routes
+- Hidden in support structure beneath the settlement
+- Well-stocked with chemistry equipment (stolen, salvaged, carefully acquired)
+- Connected to the acidic waste disposal area
+- Power tapped from the grid illegally
+- Ventilation system cobbled together from old industrial fans
+- Only Adam knows all the access routes
+- Lab is surprisingly organized and professional-looking
+- Contains equipment that would be expensive on the black market
+
+### Safety and Governance
+
+**Police Presence:**
+- Police do patrol Tracktown main area like shops
+- It's safe enough for officers to enter on foot (during daytime)
+- Police generally tolerate the settlement:
+  - Some police grew up there
+  - Tracktown is legally accepted area to live
+  - Some individual officers are less toleraant
+- Police mostly respond to specific complaints or incidents
+- Night patrols are rare - considered waste of taxpayer money
+- "Riot control" teams from other parts of the city will dump homeless protesters in Tracktown
+
+**Possible Criminal Element:**
+- May have organized crime presence (mafia, gang, or local power structure)
+- Could involve:
+  - Protection money/extortion
+  - Control of electrical/plumbing and charge access but they have to keep it working to avoid unrest
+  - Underground economy management
+  - Conflict resolution/informal justice system
+- Not overtly violent or chaotic, the "Night Police"
+- Maintains enough order to keep police from cracking down
+- Residents may accept it as Tracktown has no organization in charge of utilities
+
+**Community Rules:**
+- Informal governance by long-term residents
+- Disputes settled through negotiation or informal authority figures
+- Shared maintenance of common infrastructure
+- Unwritten rules about theft, violence, noise
+- Newcomers expected to contribute and respect existing community
+- Some cooperation for mutual defense/support
+
+### Community Dynamics
+
+**Economic Disparity Context:**
+- In this near-future, low-wage workers expect to be homeless
+- Tracktown represents semi-permanent homelessness
+- Residents range from employed people who can't afford housing to completely destitute
+- Some residents have jobs in the city - Tracktown is their affordable "housing"
+- Creates a functioning community rather than transient population
+
+**Social Structure:**
+- Long-term residents have better structures, more established positions
+- Newer arrivals live in worse conditions as they have been unable to afford mid housing
+- Some residents run informal businesses (food, repairs, goods)
+- Children like Tyson grow up here - it's their normal
+
+**Daily Life:**
+- People cook communally in some areas (barbecues mentioned in scenes)
+- Bodega/shops nearby where residents buy supplies
+- Social gathering spots emerge organically
+- Despite poverty, life has routines and normalcy
+- Community bonds form around shared circumstances
+
+**Adam's Place in Tracktown:**
+- Initially withdrawn and avoiding people
+- Has knowledge of hidden infrastructure others don't
+- His chemistry skills are unusual but he keeps them hidden at first
+- As he gets money, he shares with community and gains acceptance
+- Becomes part of the social fabric through friendships with Tyson and Gal
+
+================================================================================
+
+## 3. STREET SCAMS - SURVIVAL TACTICS
+
+In the digital future economy, traditional paper-based scams are obsolete. Adam, Tyson, and Gal use clever tactics adapted to the three-tier society to extract money from the Standard and Mid classes.
+
+### Broken Item Reversal (Medicine Drop)
+
+**How It Works:**
+- Scammer carries expensive medicine, medical device, or valuable item (not broken, or already broken)
+- "Accidentally" bumps into Standard class mark
+- Drops the item, acts devastated
+- Claims it needs expensive "disinfection" or "recalibration" after being contaminated/damaged
+- Has pre-prepared digital payment receipt ready on device
+- Victim taps phone quickly in the rush to get away from the confrontation
+- Receipt is designed to look legitimate but routes payment to scammer
+
+**Why It Works:**
+- Standard class wants to avoid confrontation with Unhoused
+- Digital payment is quick and feels "official"
+- Medical items create urgency and guilt
+- Pre-made receipt gives illusion of legitimacy
+
+**Scene Usage:**
+- Scene 8: Tyson uses this scam, mentions "old jester down the way" can fix it
+
+### Handshake Watch Steal
+
+**How It Works:**
+- Scammer approaches Standard class mark with friendly greeting or question
+- Initiates handshake or physical contact
+- During contact, deftly removes watch or wearable device
+- Walk away casually before mark notices
+
+**Why It Works:**
+- Standard class doesn't expect Unhoused to initiate friendly contact
+- Physical contact creates distraction
+- Wearable tech is valuable and easy to fence
+
+**Scene Usage:**
+- Background scam that Tyson and Gal might discuss
+
+### Distraction Pickpocket
+
+**How It Works:**
+- One scammer creates distraction (loud argument, performance, "accident")
+- While mark is watching, second scammer pickpockets them
+- Could involve phone, wallet, small valuables
+- Team splits up immediately after
+
+**Why It Works:**
+- Classic technique, still effective
+- Works on all classes
+- Quick and clean
+
+**Scene Usage:**
+- Scene 8: Adam uses chemistry fireball as distraction to pickpocket Tyson's phone (demonstration of Adam's skill)
+
+### Found Watch Scam
+
+**How It Works:**
+- Scammer approaches with "found" watch (actually stolen earlier)
+- Offers to sell it cheap to "help the mark" avoid it being lost forever
+- Mark thinks they're getting valuable item for cheap
+- Watch may be stolen, fake, or broken
+
+**Why It Works:**
+- Exploits mark's greed
+- "Found" item seems like good deal
+- Mark feels like they're helping by buying it
+
+### ID Theft and Access Rental
+
+**How It Works:**
+- Steal Mid class ID (Red M marker)
+- Can't withdraw money from victim's accounts (too traceable)
+- Use ID temporarily for access to Mid-tier services (food, showers, medical care)
+- Victim won't report it because altering/lending ID is illegal
+- Return it quickly or discard before it's deactivated
+
+**Advanced Version:**
+- Offer to "upgrade" someone's Red M marker to Blue S
+- Take their ID, promising to alter it
+- Just steal the ID and use it for access
+- Victim can't report because attempting to alter class markers is illegal
+- Riskier because IDs are trackable
+
+**Why It Works:**
+- Mid class IDs grant access to better services than Unhoused can get
+- Victims fear legal consequences of reporting
+- Digital tracking means limited time window, but worth it for desperate Unhoused
+- Can't take money, but can use for services
+
+**Scene Usage:**
+- Could be mentioned as risky scam Gal knows about
+- Shows the desperation and creativity of Unhoused class
+
+### Usage in the Story
+
+**Character Roles:**
+- **Tyson**: Young, agile, good at broken item scam and pickpocketing
+- **Gal**: Experienced, knows ID theft scam, teaches Tyson refinement
+- **Adam**: Chemistry skills allow unique distraction (fireball), skilled pickpocket
+
+**Thematic Purpose:**
+- Shows economic desperation of Unhoused class
+- Demonstrates class tensions (preying on Standard and Mid classes)
+- Adam's skills make him valuable to the community
+- Bonding activity between Adam, Tyson, and Gal
+- Contrast to Adam's "real job" disposing bodies (scams are petty in comparison)
+
+**Class Dynamics:**
+- Standard class are marks because of wealth and obliviousness
+- Mid class less targeted (have less to steal)
+- Unhoused class survival requires exploiting the system
+- Police don't care about petty scams against Standard class
+- Digital future makes paper scams obsolete but creates new opportunities
+
+================================================================================
+
+## 4. RE-ANIMATOR GAS
+
+### The Problem
+
+Adam needs a weapon to use against Geoff that can't be traced back to him and can bypass Moosk's protection. He turns to his chemistry knowledge to create a toxic gas that can kill Geoff silently and effectively.
+
+### How It Works (Pseudo-Science)
+
+**The Intended Function:**
+- Toxic gas designed to be lethal through respiratory exposure
+- Fast-acting - victim loses consciousness quickly, dies within minutes
+- Glowing green "Reanimator" color
+- Odor is pungent
+- Heavier than air (sinks and pools, stays contained in enclosed spaces)
+- Breaks down over time, leaving minimal trace evidence
+
+**Adam's Approach:**
+- Uses similar principles to his body disposal chemistry
+- Combines compounds that react with biological tissues
+- Designed to increased heart rate until heart attack
+- Synthesized from materials he can acquire without raising suspicion
+- Creates it in his secret lab using his chemistry expertise
+
+**The Chemical Process:**
+- The gas interferes with cells forcing energy output
+- Death appears like cardiac arrest or respiratory failure
+
+### The Flaw
+
+**Unintended Side Effect - Re-animation:**
+- The gas doesn't just kill - it causes cellular reactivation after death
+- Heart starts pumping on its own
+- Dead victims come back to life. They move like zombies toward other humans but they are braindead
+- This is a slight drawback for Adam's purposes:
+  - Creates unpredictable chaos
+- Ultimately unsolved but gas still used in plan
+- Adam is only one aware. Kills any victim Geoff uses it on so Geoff never realizes
+
+**Why This Happens (Pseudo-Science):**
+- The compounds that force cells to output energy don't stop working when the victim dies
+- Dead cells continue to be stimulated by residual gas in the tissues
+- The heart, being mostly muscle tissue, is particularly susceptible to continued stimulation
+- The gas creates a feedback loop: dead cells release energy → heart pumps → blood flow brings the body to life
+- The circulating blood delivers oxygen and nutrients to tissues, temporarily sustaining basic functions
+- Similar to how electrical stimulation can make dead muscles contract, but on a systemic level
+- Effect only works on bodies that died from the gas itself (gas must still be present in tissues)
+- The reanimation continues until the gas breaks down or is fully metabolized
+
+**Reanimated State:**
+- Heart starts pumping again on its own
+- Victims move like zombies - slow, uncoordinated movement toward other humans
+- Completely braindead - no consciousness, memory, or rational thought
+- Driven by residual autonomic nervous system activity (seeking warmth, movement, sound)
+- No speech or recognition
+- Movement continues until gas breaks down in the body or physical damage stops the heart
+- Not truly alive - more like a biological automaton powered by chemical stimulation
+
+**Adam's Strategy:**
+- The gas works effectively as a killing tool
+- The reanimation is a drawback but manageable
+- Adam decides to use the gas anyway - he is out of time
+- He keeps the reanimation flaw secret from Geoff
+- When Geoff uses the gas on his victims, Adam makes sure to kill them again before Geoff realizes they reanimate
+- This way Geoff never discovers the flaw and continues to trust the weapon
+- Adam manages the secret carefully - it's leverage and insurance
+
+### Adam's Creation Process
+
+**Lab Work:**
+- Conducted in his secret chamber over multiple nights
+- Tests compounds on samples before creating the final formula
+- Tests on a rat bought from Tracktown food store (discovers the reanimation effect here)
+- The rat dies, then its heart starts beating again and it moves erratically
+- Creates gas in pressurized container or delivery system
+- Dangerous work - one mistake could kill Adam himself
+- Spends additional time trying to remove the reanimation flaw but ultimately accepts it
+
+**Inspiration:**
+- Built on his knowledge of the acidic waste he uses for body disposal
+- May have noticed unusual cellular activity in dissolved tissue
+- Combines industrial chemicals with organic compounds
+- References classic chemistry and possibly military chemical weapon theory
+- Adam's background (possibly on the run from military) may explain his expertise
+
+### Usage in the Story
+
+**Adam Gives Geoff the Gas:**
+- Adam provides the re-animator gas to Geoff as a weapon
+- Presents it as a clean, effective killing tool
+- Geoff uses it on his victims throughout Act 2
+- Each time a victim reanimates, Adam is there to "clean up" - killing them again before they cause problems
+- Geoff remains unaware of the reanimation flaw
+- Adam maintains this deception as a form of control and insurance
+
+**The Plan (Act 2/3):**
+- Adam incorporates the gas into his plan to stop Geoff
+- Knowing the reanimation effect, Adam can predict the chaos it will cause
+- The gas serves multiple purposes:
+  - Effective weapon
+  - Creates confusion that Adam can exploit
+  - Secret knowledge gives Adam an advantage
+- Adam's control over this secret is part of his leverage against Geoff
+
+**Narrative Function:**
+- Shows Adam's desperation and scientific capabilities
+- Creates a "Re-Animator" horror element (reference to the film)
+- The glowing green gas visually echoes the Re-Animator aesthetic
+- Demonstrates Adam's ability to manipulate Geoff despite power imbalance
+- The reanimation adds body horror and dark comedy moments
+- Raises stakes - Adam is working with dangerous, unpredictable weapons
+
+**Potential Story Beats:**
+- Scenes where Adam has to quickly kill reanimated victims before Geoff notices
+- Tension as Adam nearly fails to cover up the reanimation
+- Possible moment where Geoff discovers the flaw at a critical time
+- The gas may play a role in the final confrontation or aftermath
+
+================================================================================
+
+## 5. BODY DISPOSAL SYSTEM
+
+### The Secret Chamber
+
+**Location:**
+- Deep beneath the Tracktown settlement
+- Accessed through Adam's network of crawlspaces
+- Old industrial chamber from the railyard's operational days
+- Possibly former maintenance vault, chemical storage, or utility room
+- Below ground level in the swampy terrain (naturally hidden)
+
+**Features:**
+- Large enough to work in comfortably
+- Connected to Adam's lab area
+- Contains the acidic waste pool/container
+- Ventilation to prevent toxic fume buildup
+- Hidden entrance(s) that Adam keeps concealed
+- Drainage connects to old industrial systems
+
+### Acidic Waste Properties
+
+**Appearance:**
+- Glowing bright green (like the reagent in Re-Animator)
+- Viscous, thick liquid
+- Bioluminescent or chemiluminescent - provides its own eerie light
+- Bubbling or slightly active surface
+- Emits pungent chemical smell
+- The same distinctive green color as the re-animator gas (visual connection)
+
+**Function:**
+- Dissolves organic matter rapidly
+- Breaks down bone, tissue, clothing, everything
+- Leaves no identifiable remains
+- Process takes hours to fully dissolve a body
+- Creates heat during dissolution (exothermic reaction)
+
+**Origin:**
+- May be industrial waste Adam discovered or collected
+- Could be something Adam synthesized/enhanced using chemistry
+- Possibly connected to old railyard industrial processes
+- Adam has been accumulating it over time
+- Limited supply - reason Adam worries about running out of space
+
+**Storage Problem:**
+- Adam is running out of room to store the waste (mentioned in Act 2)
+- Can't just dump it - too dangerous and identifiable
+- Visiting the spot too often increases risk of discovery
+- May be toxic to local environment (swamp ecology)
+
+### Adam's Lab
+
+**Equipment:**
+- Chemistry glassware (beakers, flasks, condensers)
+- Burners and heating equipment
+- Storage for chemicals and compounds
+- Possibly refrigeration for certain materials
+- Basic safety equipment (though limited)
+- Notes, formulas, calculations written/posted
+- Shelving for supplies
+
+**How He Got It:**
+- Stolen from various sources over time, previous job
+- Salvaged from industrial sites
+- Some items improvised from household materials
+- Represents significant investment of time and money
+
+**Adam's Background:**
+- Chemistry knowledge suggests formal education or training
+- Possibly military background (mentioned as "on the run from military")
+- Could be former scientist, researcher, or military chemist
+- Homelessness may be result of fleeing his past
+- Skills are both his salvation and his curse
+
+### Disposal Process
+
+**Step 1 - Transport:**
+- Adam moves body through crawlspaces to the secret chamber
+- Must avoid detection by other Tracktown residents
+- Uses darkness and knowledge of patrol patterns
+- Bodies wrapped/concealed during transport
+
+**Step 2 - Preparation:**
+- Removes any items that won't dissolve (metal, synthetic materials)
+- May need to process body further for faster dissolution
+- Places body into acidic waste
+
+**Step 3 - Dissolution:**
+- Body dissolves over several hours
+- Adam may wait or return later to check progress
+- Ensures complete dissolution (no bones or tissue remaining)
+- Manages waste levels and containment
+
+**Step 4 - Clean-Up:**
+- Disposes of any non-dissolved materials separately
+- Cleans tools and area
+- Conceals entrance and removes evidence of activity
+- Returns to surface and maintains normal appearance
+
+================================================================================
+
+## 6. GEOFF'S TECHNOLOGY
+
+### Robot Bodyguard (Moosk)
+
+**Appearance:**
+- Humanoid robot
+- Size and build suggest intimidation and combat capability
+- May have visible mechanical elements or appear mostly human-like
+- Silent or minimal speech
+- Movements are precise, efficient, inhuman
+
+**Capabilities:**
+- Superhuman strength
+- Combat programming
+- Threat assessment and protection protocols
+- May have weapons integrated into body
+- Possibly surveillance/recording equipment
+- Networked with Geoff's other technology
+
+**Function in Story:**
+- Enforces Geoff's will
+- Protects Geoff from threats
+- Intimidates witnesses and victims
+- Participates in murders (may do the actual killing)
+- Symbol of Geoff's wealth and technological advantage
+
+### The Robot Double
+
+**The Reveal (Act 3, Scene 23):**
+- Adam shoots what he thinks is Geoff's head off
+- It's a robot - the "Geoff" he shot was a duplicate
+- Real Geoff emerges unharmed
+
+**How It Works:**
+- Robot designed to look and act exactly like Geoff
+- May be indistinguishable from real Geoff in appearance
+- Could be Geoff remotely controlling the robot
+- Or autonomous AI mimicking Geoff's behavior
+- Allows Geoff to be in dangerous situations without risk
+
+**Why Geoff Uses It:**
+- Protection from assassination attempts
+- Maintains public presence while staying safe
+- Can be in multiple places at once
+- Demonstrates his paranoia and resources
+- Ultimate symbol of his untouchability
+
+### Drone Fleet
+
+**Description:**
+- Small-to-medium aerial drones
+- Multiple units deployed simultaneously
+- Marked with Amazing Company's smiley face logo
+- Equipped with gas dispersal systems
+- Autonomous or remotely controlled
+
+**Gas Deployment System:**
+- Releases gas from canisters mounted on drones
+- Can cover large area quickly
+- Precise control over dispersal pattern
+- Creates a fenced-off kill zone
+- Designed for mass extermination
+
+### Amazing Company
+
+**Geoff's Corporation:**
+- Major corporation with public profile
+- Smiley face logo (cheerful, corporate, sinister irony)
+- Enough power to control police and media
+- Resources to develop military-grade technology
+- Public image management is ongoing subplot
+
+**Technology Level:**
+- Advanced robotics (Moosk, the double)
+- Drone swarms
+- Surveillance systems
+- Chemical weapons
+- Suggests near-future setting where billionaires control military tech
+
+================================================================================
+
+## WRITING NOTES
+
+**Tone and Genre:**
+- Sci-fi horror with dark comedy elements
+- References: Breaking Bad (chemistry), Re-Animator (gas), Street Trash (toxic waste aesthetic)
+- Balance horror of situation with absurd/comedic "how will he get out of it" situations
+- Geoff's titter laugh undercuts tension with unsettling wrongness
+
+**Visual Style:**
+- Tracktown should feel lived-in and real, not post-apocalyptic
+- The vertical stacking of train cars creates unique visual signature
+- Contrast bright toxic waste glow with dark, grimy environments
+- Swampy setting adds atmosphere and practical obstacles
+
+**Thematic Elements:**
+- Economic disparity (homeless expected, billionaires untouchable)
+- Rebirth and second chances (Adam's arc, re-animator gas)
+- Community vs. isolation (Adam finding belonging, then losing it)
+- The impossibility of escaping systemic power (Geoff always wins)
+
+**Adam's Character:**
+- Highly intelligent, chemically skilled
+- Withdrawn due to past trauma (military background?)
+- Capable of terrible things but seeking redemption
+- Arc: isolation → community → loss → choice
+- His skills are both survival tool and curse
+
+**Key Dramatic Questions:**
+- Can Adam escape Geoff's control?
+- Will he sacrifice himself for his community?
+- What is his final choice in Scene 27?
+- Does the re-animator gas play a role in the ending?
+
+================================================================================

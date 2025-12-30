@@ -1,0 +1,195 @@
+CHARACTER PROFILE: MARCUS
+
+========================================
+BASIC INFORMATION
+========================================
+Name: Marcus
+Age: Late 30s
+Role: Determined pragmatist, morally gray protagonist
+Occupation: Head of Quantum Logistics
+Status: Survivor (one of final three)
+
+========================================
+ARCHETYPE
+========================================
+Primary: The Pragmatist - "Ends justify means" mentality, willing to make hard choices, sees casualties as acceptable
+Secondary: The Leader - Team player, collaborative, maintains authority beneath team-oriented facade
+
+Shifts: Confident team leader (Act 1-2 early) → Guilt-ridden commander (Act 2 mid-late after Sofia's death) → Isolated problem-solver (Act 2 Scene 10 - Act 3). His pragmatism remains consistent but isolation increases as deaths mount. Scene 22 breakdown reveals humanity beneath pragmatism, but final scene shows utilitarian ethics survive intact despite guilt.
+
+========================================
+PHYSICAL DESCRIPTION
+========================================
+- Late 30s
+- Focused, pragmatic demeanor
+- Arms crossed posture when observing/waiting
+- Visible weight of knowledge in his expression
+- Shifts between discomfort and relief depending on conversation
+- TBD based on casting/narrative needs
+
+========================================
+CHARACTER ARC
+========================================
+Beginning (Act 1): Head of Quantum Logistics who knows full stakes - problem affects world, not just INZO. Code-switches between technical reality and corporate speak with Edgar. Laughs at sanitized propaganda "Humane" sarcastically. Scene 10 - reveals brutal "death penalty" culture to Darius thinking transparency shows stakes, will backfire later when weaponized against him. Stressed, pushes back on safety concerns, suggests 9pm deadline. Pragmatic, collaborative team leader focused on preventing catastrophe. Not driven by profit but by genuine belief in mission.
+
+Middle (Act 2, Scenes 1-10): Argues to stay and wait for rescue, relents to exploration showing collaborative style. Cautious about Josh but participates in group decision. Scene 3 - shows vulnerability "I'm not used to people dying in front of me", composure maintained not natural, stress reveals human underneath. Scene 5 - Rashid saves him from mathematical trap chains, then dies studying mechanism - guilt begins. Scene 6 - warns Alex about Darius, jaw tightens when his Scene 10 revelation weaponized against him "That revelation was to show you the stakes, not turn you against--", backs down from crowbar standoff strategically. Scene 7 - gains false confidence after easy traps, urgently commands Sofia "Open it!" killing her with vacuum, immediate guilt "And never will now." - turning point. Scene 8 - watches Yuki/Nina/Morris defect to Darius, grabs Chen "Chen! Hold on!" as floor dissolves, drags Chen with Alex across dissolving floor, steps on tile "Shit—!" corroding boot to ankle, stands over dying Chen - more guilt, limping injury. Scene 9 - Edgar's magnetic death, devastated "How many are trapped here?", broken "We're just... we're nothing in this.", honors Edgar "He stepped up when it mattered." Scene 10 - bitter about watching more die, argues for technical solution vs Alex's exploration "I'm tired of watching people die while we explore", guilt over Sofia drives isolation "Alone is safer. I won't watch anyone else die for my decisions", goes alone with equipment.
+
+End (Act 3, Scenes 22-25): Scene 22 - works alone with jerryrigged equipment, keeps mini-cube as evidence, guilt over Sofia fragments his sentences "I keep seeing Sofia's face when I said 'Open it!' and the vacuum just—", talks to himself, equipment, inanimate objects seeking any response - mask drops revealing desperation, rationalizes isolation then immediately undercuts it "Can't kill anyone if you're alone, right? But maybe I just couldn't face watching it happen again" showing self-awareness, realizes "Should have stayed together. Should have let Alex lead", desperate pleading "Let me out. Please, I just need to get through—" all control abandoned. Scene 25 - at lab building with Nina/Yuki, built dimensional transport device "Better than Barry's prototype. This can take us home", justifies taking their equipment "I needed tools. You two weren't using them", challenged by Josh's lucid "You don't give orders here" and blamed "Your team is dead... You led them here and they died", hands over quantameter for verification, shows Edgar's mini-cube, still matter-of-fact about ongoing operations "They need deliverables. Can't stop testing just because some subjects don't return", limping from ankle injury. Survives as one of final three. Arc completed: pragmatism survives guilt but not without cost (isolation, trauma, physical injury). Utilitarian ethics intact despite everything.
+
+========================================
+PERSONALITY TRAITS
+========================================
+**Core Traits (Throughout):**
+- Fully aware of stakes - problem affects world, not just company
+- "Ends justify means" mentality - any cost acceptable for preventing catastrophe
+- Not driven by profit/greed - driven by genuine belief in mission
+- Intelligent and pragmatic, not blinded by ambition
+- Willing to make hard choices others won't
+- Sees casualties as acceptable losses for greater good
+- Not selfish - genuinely believes he's doing what's necessary
+- Measures people by utility and transformation, not inherent value
+
+**Act 1-2 (Team Leader):**
+- Operates as team player - collaborative, not dictatorial
+- Focused on solving problem and making technology work safely
+- Finds sanitized company propaganda darkly amusing ("Humane" muttered sarcastically)
+- Considers sof-tak work far beneath his level
+- Relieved when doesn't have to explain complex science to Edgar
+- Code-switches between technical reality and corporate speak
+- Composure maintained not natural - stress reveals human underneath
+- Shows vulnerability when overwhelmed ("I'm not used to people dying in front of me")
+- Trusts experts completely (Rashid) and delegates through hierarchy (Alex)
+
+**Act 2-3 (Isolated Pragmatist):**
+- Guilt mounts with each death (Rashid, Sofia, Chen, Edgar) but doesn't change methods
+- False confidence after easy successes - even pragmatist can be lulled
+- Sofia's death drives isolation - "Alone is safer. I won't watch anyone else die for my decisions"
+- When alone, control disintegrates - talks to objects, fragments sentences about guilt
+- Self-aware his isolation logic is excuse not reason
+- Realizes "Should have stayed together. Should have let Alex lead" but too late
+- Final scene: still matter-of-fact about operations despite everything
+- Pragmatism survives guilt but not without cost (trauma, isolation, physical injury)
+
+========================================
+RELATIONSHIPS
+========================================
+- **Alex**: Team member, respects her competence, growing moral divide over methods. Delegates through her as trusted lieutenant "How are they holding up?" warns her "Keep an eye on him" about Darius. Act 2 Scene 10 - argues against her exploration approach "I'm tired of watching people die while we explore", goes alone separating from her. Act 3 Scene 22 - realizes "Should have stayed together. Should have let Alex lead" but too late.
+- **Lea**: Good working relationship, essentially equals but both know final decision rests with Marcus so maintains boss demeanor with her. Values her expertise, willing to sacrifice her if necessary. Utilitarian relationship despite respect.
+- **Nina**: Values her mathematical expertise. Works with her in Act 3 Scene 25 at lab building, takes her equipment justifying "I needed tools. You two weren't using them". She survives as one of final three with Marcus and Alex.
+- **Yuki**: Quantum team member. Watches him defect to Darius in Scene 8. Works with him in Act 3 Scene 25 at lab building. Survives with Marcus and Nina.
+- **Rashid**: Quantum team member. Scene 5 - saves Marcus from mathematical trap chains, Marcus trusts him completely "We can. Rashid's got this.", Rashid dies after saving him studying trap mechanism. First death that begins Marcus's guilt: "Make sure it doesn't hurt anyone else" thinking of future victims even in shock.
+- **Chen**: Quantum team member. Scene 8 - Marcus grabs him "Chen! Hold on!" as floor dissolves, drags him with Alex across dissolving floor, Chen dies with catastrophic burns. Marcus's guilt deepens - relives "Chen's skin under my hands" in Scene 22.
+- **Sofia**: Food team member. Scene 7 - Marcus urgently commands "Open it!" killing her with vacuum, immediate guilt "And never will now." Her death is turning point driving his isolation "Alone is safer. I won't watch anyone else die for my decisions". Scene 22 - guilt fragments his sentences "I keep seeing Sofia's face when I said 'Open it!' and the vacuum just—", voice breaks saying her name "Oh Sofia."
+- **Edgar**: Works with VP but Marcus knows what Edgar doesn't - the real stakes. Code-switches to corporate speak with him. Scene 9 - Edgar's magnetic death devastates Marcus "How many are trapped here?", broken "We're just... we're nothing in this.", honors him "He stepped up when it mattered" - measures Edgar by transformation not inherent value. Keeps Edgar's mini-cube as evidence in Act 3.
+- **Darius**: Food team member. Scene 10 - Marcus reveals "death penalty" culture thinking transparency shows stakes. Scene 6 - backfires when Darius weaponizes revelation against him, Marcus's jaw tightens, backs down from crowbar standoff strategically. Watches Morris defect to Darius in Scene 8.
+- **Morris**: Food team member. Paired with Marcus as buddy in Scene 3. Watches him defect to Darius in Scene 8.
+- **Josh**: Knew him before as team member. Cautious about bringing him back Scene 2. Act 3 Scene 25 - challenged by Josh's lucid "You don't give orders here", Josh lists dead blaming Marcus "Your team is dead... You led them here and they died", Josh sees through control tactics "You need them. You can't get out alone". Marcus no longer has authority over Josh after cube experience.
+- **INZO Corporation**: Loyal but not blindly - knows truth about operations. Act 3 Scene 25 - still matter-of-fact about ongoing testing "They need deliverables. Can't stop testing just because some subjects don't return". Pragmatism intact despite everything.
+
+========================================
+KEY SCENES
+========================================
+Act 1, Scene 2: Pre-meeting - laughs at sanitized propaganda, code-switches with Edgar
+Act 1, Scene 3: Team meeting - facilitates introductions, presents hypercube history
+Act 1, Scene 8: Lost Person Incident - explains Barry and Josh's accidents
+Act 1, Scene 9: Hypercube Singularity - stressed, pushes back on safety concerns, suggests 9pm deadline
+Act 1, Scene 10: First Entry - pulls Darius aside, reveals INZO's brutal culture "death penalty, realistically"
+
+Act 2, Scene 1: Survival and Rationing - argues to stay and wait for rescue, relents to exploration
+Act 2, Scene 2: Exit and Josh Arrives - cautious about Josh, skeptical but agrees to bring him
+Act 2, Scene 3: Into the Root Cube - shows vulnerability "I'm not used to people dying in front of me", takes Morris as buddy partner
+Act 2, Scene 4: Successful Trap Room Navigation - strategic planning, identifies puzzle type
+Act 2, Scene 5: First Cube Room Death (Rashid) - trapped in chains, freed by Rashid's solution, Rashid dies after saving him
+Act 2, Scene 6: Darius Leaves - warns Alex "Keep an eye on him", tries to reason with Darius, jaw tightens when Darius throws his Scene 10 revelation back at him, backs down from crowbar standoff
+Act 2, Scene 7: Sofia's Vacuum Death - directs team through dissolution room, gains false confidence, urgently commands "Open it!" killing Sofia, immediate horror and guilt, bitter "And never will now."
+Act 2, Scene 8: Floor Dissolution Fight - watches Yuki/Nina/Morris defect, grabs Chen "Chen! Hold on!" as floor trap activates, drags Chen with Alex across dissolving floor, steps on dissolving tile "Shit—!" corroding boot to ankle, pulls Chen through doorway, stands over dying Chen, limping from ankle injury
+Act 2, Scene 9: Edgar's Magnetic Pulse Death - urgent "We need to go. Now.", tosses metal equipment through doorway, shouts "Edgar!" helplessly, devastated "How many are trapped here?", broken "We're just... we're nothing in this.", honors Edgar "He stepped up when it mattered."
+Act 2, Scene 10: The Split - bitter "For what? Watch them die too?", argues for technical solution vs Alex's exploration, frustrated "I'm tired of watching people die while we explore", goes alone with equipment, guilt over Sofia drives isolation "Alone is safer. I won't watch anyone else die for my decisions"
+
+Act 3, Scene 22: Marcus's Communication Attempt - works alone with jerryrigged equipment, keeps mini-cube as evidence "I need to take you back. Evidence.", guilt over Sofia "I keep seeing Sofia's face when I said 'Open it!'", rationalizes isolation "Alone is safer. Can't give fatal orders if there's no one to—", realizes "Should have stayed together. Should have let Alex lead.", desperate plea "Let me out. Please, I just need to get through—"
+
+Act 3, Scene 25: Convergence at Lab Building - already there with Nina/Yuki, cuts in smoothly "The cube. Same as everyone else" about deaths, reveals "I've built a dimensional transport device. Better than Barry's prototype. This can take us home", justifies taking Nina/Yuki's equipment "I needed tools. You two weren't using them", challenged by Josh's lucid "You don't give orders here", hands over quantameter for verification, shows Edgar's mini-cube, matter-of-fact about ongoing cube operation "They need deliverables. Can't stop testing just because some subjects don't return", limping from ankle injury
+
+========================================
+CHARACTER FUNCTION
+========================================
+- Morally gray protagonist - not villain, not hero, not antagonist
+- Represents "necessary evil" philosophy and utilitarian ethics taken to extreme
+- Genuinely trying to prevent disaster, methods ruthless but motivations sound
+- Not evil - just willing to do what others won't, make hard choices others can't
+- Creates moral dilemmas: is he right that some must die to save many?
+- Forces Alex to confront what she's willing to sacrifice
+- Creates audience conflict: viewers must decide if they agree with his methods
+- Bridge between corporate interests and existential threat
+- Embodies theme: when does pragmatism become cruelty?
+- His arc shows pragmatism can survive guilt but not without cost (isolation, trauma)
+- Represents question: can utilitarian ethics withstand personal responsibility for deaths?
+- Scene 22 breakdown reveals humanity beneath pragmatism - guilt is real even if methods don't change
+- Survives but changed - limping physically and emotionally
+- Final scene shows he maintains beliefs despite everything - still matter-of-fact about operations
+- Demonstrates that ends-justify-means philosophy survives personal costs but extracts heavy toll
+- Measures people by utility and transformation (honors Edgar for "stepping up when it mattered")
+- Shares information but never truly shares burden - leadership as lonely performance
+
+========================================
+DIALOGUE STYLE
+========================================
+**Measured Leadership (Act 1-2 Early):**
+- Direct, measured explanations without excess: presents information clearly
+- Doesn't dodge difficult questions: "Does it matter?" about prisoners vs employees
+- Technical language without jargon overload: "singularity event", "dimensional bleed-through"
+- States facts calmly: "No. Not people", brief responses under pressure: "Classified"
+- Collaborative language - "we" not "I", explains reasoning, doesn't hide choices
+- Code-switches to corporate speak with Edgar, plays along with jokes: "De-shittification?" "Synergy"
+- Bitter humor about propaganda: mutters "Humane" sarcastically
+- Pragmatic risk assessment: "Can you help us get out?" cuts straight to utility
+- Establishes relationships matter-of-factly: "I don't know you well. But you're on my team now"
+- Direct warnings without hedging: "Or you'll wind up dead" - blunt truth
+- Measured tone and "we" language masks deep isolation - shares information but never shares burden
+
+**Under Pressure (Act 2):**
+- When frustrated, emotion breaks through: "Your method just got someone killed!"
+- Vulnerability surfaces when overwhelmed: "Enough moving! I'm not used to people dying in front of me"
+- His composure maintained not natural - stress reveals human underneath
+- Takes charge decisively after showing weakness: "Fine. Buddy system. Everyone pair up"
+- Faith in teammates through pain: "We can. Rashid's got this" - voice strained but trusts expert
+- Practical gratitude after rescue: "Thank you" directly to Rashid - brief but sincere
+- Protective concern for future victims: "Make sure it doesn't hurt anyone else"
+- Quiet observation through intermediary: "How are they holding up?" asks Alex privately
+- Brief warnings: "Keep an eye on him" - identifies threat, delegates, trusts Alex to understand
+- Defensive when honesty backfires: "That revelation was to show you the stakes, not turn you against--"
+- Physical reactions reveal emotional weight: jaw tightens when accused - guilt compressed into silence
+- Strategic retreat without pride: backs down from crowbar standoff through calculation not fear
+- False confidence after easy traps - even pragmatist can be lulled
+- Urgent commands: "Open it!" - desperation overrides caution, no pause to assess
+- Bitter self-awareness after fatal mistake: acknowledges Sofia's death with harsh finality
+- Immediate practical action: grabs backpacks, tosses them through doorway - competence through action
+- Existential despair stated plainly: "We're just... we're nothing in this"
+- Brief eulogies focused on timing: "He stepped up when it mattered" - measures worth by transformation
+
+**Guilt and Isolation (Act 3 Scene 22 - Alone):**
+- When alone, control disintegrates - talks to himself, equipment, objects seeking any response
+- Multiple trailing incomplete thoughts: "I keep seeing Sofia's face when I said 'Open it!' and the vacuum just—"
+- Bitter self-aware laugh: "Who was I kidding?" - self-disgust cutting through usual tone
+- Addresses inanimate objects: "Work for me as a bargaining chip. Please" - seeks validation when no people remain
+- Talks through guilt by reliving sensory details - Sofia's face, Chen's screaming, skin under his hands
+- Rationalizes then undercuts: "Can't kill anyone if you're alone, right? But maybe I just couldn't face watching it happen again"
+- Voice breaks on names of dead: "Oh Sofia. Rashid" - pure emotion without analysis
+- Final desperate pleading: "Let me out. Please, I just need to get through—" - all control abandoned
+
+**Final Pragmatism (Act 3 Scene 25):**
+- Still matter-of-fact about operations: "They need deliverables. Can't stop testing just because some subjects don't return"
+- Justifies taking equipment: "I needed tools. You two weren't using them"
+- Pragmatism intact despite everything - utilitarian ethics survive guilt
+
+========================================
+MOTIVATIONS
+========================================
+- Preventing catastrophic failure (affects world, not just INZO)
+- Solving the quantum/dimensional crisis
+- Making the technology work safely for the company
+- Willing to sacrifice individuals for collective survival
+- Not personal gain - genuine belief in his mission
+- Ends justify means - any cost is acceptable
+
+========================================

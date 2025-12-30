@@ -1,0 +1,635 @@
+SCENE 10 - THE SPLIT
+=====================
+
+LOCATION: Root cube location after Edgar's death - relatively safe room
+
+CHARACTERS:
+- Remaining 4 team members: Alex, Marcus, Josh, Lea
+- After split: Marcus goes alone (1), Alex's group has Alex, Josh, Lea (3)
+
+SCENE LAYOUT:
+
+1. EXHAUSTION POINT
+   - Only four left after Edgar's death: Alex, Marcus, Josh, Lea
+   - Sitting in relatively safe room, exhausted
+   - Marcus limping from ankle injury (Scene 8)
+   - Alex staring at nothing - lost Morris, Nina, Yuki, Chen, Edgar
+   - Alex: "We keep moving. Find others. Learn about this place."
+   - Marcus: "For what? To watch them die too? Rashid, Sofia, Chen, Edgar..."
+   - Tension building - different approaches to survival
+   - Josh quiet in corner, watching the conflict develop
+   - Lea between Alex and Marcus, sensing the divide
+
+2. MARCUS'S ARGUMENT
+   - Marcus stands despite ankle pain: "We have communication equipment. Measurement tools. We can BUILD something."
+   - "Use the tech. Create a signal. Force a way out."
+   - "Stop wandering and start engineering our escape."
+   - Technical, pragmatic, immediate approach
+   - Frustrated by all the losses: "I'm tired of watching people die while we explore."
+   - "Chen understood this. He would have helped me build something."
+   - Lea listening, conflicted
+   - Josh watching silently
+
+3. ALEX'S COUNTER
+   - Alex: "And broadcast to who? We don't understand this place."
+   - "We need information. We need to find others like Josh. Learn from survivors."
+   - "Rushing in with tech is what INZO did. Look where that got us."
+   - Exploratory, patient, communicative
+   - "Morris trusted me to find answers, not force solutions."
+   - "Edgar died because we didn't know. Knowledge saves lives."
+   - Lea sees both sides - torn between approaches
+   - Philosophical divide clear between Alex and Marcus
+
+4. THE DEBATE
+   - Marcus: "Every hour we wander, we lose supplies. Lose people. We're down to FOUR."
+   - Alex: "Every shortcut costs us understanding. Edgar died because we didn't know about magnetic fields."
+   - Marcus: "Edgar died because we didn't use our resources to escape when we had the chance."
+   - Alex: "There is no escape without knowledge. Josh survived by learning the cube."
+   - Josh from corner: "Both paths lead somewhere. Neither guaranteed."
+   - Marcus to Josh: "You survived alone. I can too."
+   - Alex to Josh: "You survived by moving, learning. That's what we're doing."
+   - Josh: "Barry moved too. I survived. Barry didn't. The cube doesn't care which method you choose."
+   - Unhelpful, but true
+
+5. LEA'S POSITION
+   - Both look to Lea - she's the tie-breaker between them
+   - Marcus: "Lea, you're the physicist. Technical solution makes sense."
+   - Alex: "Lea, you want to find Josh. You did. We kept moving. We need to explore."
+   - Lea torn, looking between them: "I... I see both sides."
+   - Marcus: "Choose. We need a decision."
+   - Lea: "I can't. You're both right. You're both wrong."
+   - "Josh survived by moving. But you're talking about building something."
+   - Frustrated, emotional: "I won't split you up by choosing. I can't lose anyone else."
+   - To Marcus: "Your way makes sense." To Alex: "So does yours."
+   - "Figure it out together."
+
+6. THE SPLIT DECISION
+   - Marcus: "There is no together anymore. I'm taking equipment and building an exit."
+   - Alex: "And I'm continuing to explore, find survivors, learn."
+   - Stalemate - neither will budge
+   - Marcus limps to backpacks: "Then we split the gear. You take what you need. I take what I need."
+   - Alex: "Four people, two approaches."
+   - Marcus: "You and Lea explore. Josh guides you. I work alone."
+   - Alex: "Marcus, you're injured. You can't—"
+   - Marcus: "I've made my decision. Have you made yours?"
+   - Divide equipment:
+     * Marcus takes: Technical equipment, communication devices, engineering tools
+     * Alex/Lea/Josh keep: Supplies, measurement tools, navigation aids, sof-tak food
+
+7. LEA AND JOSH'S CHOICE
+   - Only Lea and Josh need to choose - Alex and Marcus already decided
+   - Marcus looks at Lea and Josh: "Well?"
+   - Josh stands: "I go where the movement goes. Alex keeps moving. I'll guide them."
+   - Walks to stand with Alex
+   - Everyone looks at Lea - final decision
+   - Lea looks at Marcus: "Your approach makes sense. Technical, pragmatic."
+   - Looks at Alex and Josh: "But Josh survived by moving. By learning."
+   - Takes breath: "I'm not choosing between you, Marcus. But..."
+   - Walks to Alex and Josh: "Someone needs to help them survive. Keep Josh focused."
+   - Marcus nods, accepting: "So I work alone."
+   - Alex: "Marcus, please. Don't do this alone."
+   - Marcus: "Alone is safer. I won't watch anyone else die for my decisions."
+   - Guilt over Sofia's death still heavy
+
+8. THE DIVISION
+   - Equipment split between Marcus and Alex's group
+   - Tense but not hostile - mutual respect
+   - Marcus packing technical gear into one backpack, limping
+   - Lea helps him despite her choice: "Take the medical supplies for your ankle."
+   - Marcus: "You'll need them more. Three of you exploring."
+   - Alex to Marcus: "If you build an exit, signal us. We'll come."
+   - Marcus to Alex: "If you find answers, I'll be listening on the comm channel."
+   - Both mean it - not enemies, just different approaches
+   - Lea to Marcus: "Don't die out there alone."
+   - Marcus: "I've been carrying death since Sofia. Alone is better."
+   - Josh to Marcus: "The cube likes division. Feeds on it. Be careful."
+   - Marcus: "I'm always careful. It's everyone else who dies."
+   - Guilt and pragmatism mixed in his voice
+
+9. PARTING WORDS
+   - Alex: "We started as two teams merged. Now we're barely a team at all."
+   - Marcus: "Eleven people entered this cube. Now four are left, and we're splitting."
+   - Alex: "Rashid, Sofia, Chen, Edgar... they're why we need to learn. Prevent more deaths."
+   - Marcus: "They're why I need to build. Get out before there's no one left."
+   - Mutual respect despite disagreement
+   - Lea: "Edgar united us when we were trapped. Wish he was here to keep us together."
+   - Moment of silence for Edgar - oblivious corporate fool who became leader
+   - Alex: "He would tell us to work together."
+   - Marcus: "He would. But he's dead. And I'm tired of losing people."
+   - Must move forward - no changing minds now
+
+10. SEPARATE PATHS
+   - Marcus heads toward area Josh indicated had stable structure
+     * Alone, limping on injured ankle
+     * Plan to fortify position, build technical solution, engineer escape
+     * Backpack full of equipment and tools
+     * Determined, pragmatic, isolated
+     * Guilt driving him: "I work alone. No one else dies for me."
+
+   - Alex's group continues exploring deeper
+     * Three of them: Alex, Lea, Josh
+     * Josh guiding through cube's geometry
+     * Lea providing dimensional expertise
+     * Alex leading, determined to find survivors and information
+     * Looking for understanding of the cube
+     * Patient, exploratory, together
+
+TONE: Exhausted frustration, philosophical debate, mutual respect despite disagreement, sad parting
+CHARACTER DYNAMICS: Ideological split not betrayal, both sides have merit, Lea refuses to choose but goes with movement
+
+END ACT 2:
+- Team shattered: started with 11, down to 4, now split into 2 groups
+- Marcus alone (1 person)
+- Alex's group (3 people: Alex, Lea, Josh)
+- Darius's group still out there (4 people: Darius, Morris, Nina, Yuki)
+- Two philosophies: engineering escape vs. exploration for knowledge
+- Neither approach is wrong - both valid
+- Both trying to survive, just different methods
+- Act 3 will determine which approach succeeds
+- Or if both are necessary to escape
+
+================================================================================
+
+Description:
+Marcus grows frustrated with the exploring approach. He wants to use their equipment to escape immediately - technical solution, now. Alex argues exploring is their only chance to communicate with others and gather the information they need to truly escape. Lea won't take a side but says it is how Josh survived - this becomes the core disagreement splitting the group. They divide the equipment between two approaches. Each character must decide which philosophy to follow: Marcus's pragmatic/technical approach vs Alex's exploratory/communicative approach. Scene ends with team divided into two groups. Second major betrayal/split - ideological rather than selfish.
+
+Key Elements:
+- Marcus's pragmatism vs Alex's exploration philosophy
+- Ideological split, not selfish betrayal
+- Lea refuses to choose - stays neutral
+- Equipment divided
+- Team splits based on belief
+- Neither side is wrong
+- Both approaches have merit
+- End of Act 2 with divided team
+
+Characters Present:
+Remaining 4 team members: Alex, Marcus, Josh, Lea
+After split: Marcus goes alone, Alex's group has Alex, Josh, Lea (3 members)
+
+Scene Beats:
+
+1. EXHAUSTION POINT
+- Only four left after Edgar's death: Alex, Marcus, Josh, Lea
+- Sitting in relatively safe room, exhausted
+- Marcus limping from ankle injury (Scene 8)
+- Alex staring at nothing - lost Morris, Nina, Yuki, Chen, Edgar
+- Alex: "We keep moving. Find others. Learn about this place."
+- Marcus: "For what? To watch them die too? Rashid, Sofia, Chen, Edgar..."
+- Tension building - different approaches to survival
+- Josh quiet in corner, watching the conflict develop
+- Lea between Alex and Marcus, sensing the divide
+
+2. MARCUS'S ARGUMENT
+- Marcus stands despite ankle pain: "We have communication equipment. Measurement tools. We can BUILD something."
+- "Use the tech. Create a signal. Force a way out."
+- "Stop wandering and start engineering our escape."
+- Technical, pragmatic, immediate approach
+- Frustrated by all the losses: "I'm tired of watching people die while we explore."
+- "Chen understood this. He would have helped me build something."
+- Lea listening, conflicted
+- Josh watching silently
+
+3. ALEX'S COUNTER
+- Alex: "And broadcast to who? We don't understand this place."
+- "We need information. We need to find others like Josh. Learn from survivors."
+- "Rushing in with tech is what INZO did. Look where that got us."
+- Exploratory, patient, communicative
+- "Morris trusted me to find answers, not force solutions."
+- "Edgar died because we didn't know. Knowledge saves lives."
+- Lea sees both sides - torn between approaches
+- Philosophical divide clear between Alex and Marcus
+
+4. THE DEBATE
+- Marcus: "Every hour we wander, we lose supplies. Lose people. We're down to FOUR."
+- Alex: "Every shortcut costs us understanding. Edgar died because we didn't know about magnetic fields."
+- Marcus: "Edgar died because we didn't use our resources to escape when we had the chance."
+- Alex: "There is no escape without knowledge. Josh survived by learning the cube."
+- Josh from corner: "Both paths lead somewhere. Neither guaranteed."
+- Marcus to Josh: "You survived alone. I can too."
+- Alex to Josh: "You survived by moving, learning. That's what we're doing."
+- Josh: "I survived. Barry didn't. The cube doesn't care which method you choose."
+- Unhelpful, but true
+
+5. LEA'S POSITION
+- Both look to Lea - she's the tie-breaker between them
+- Marcus: "Lea, you're the physicist. Technical solution makes sense."
+- Alex: "Lea, you want to find Josh. You did. We kept moving. We need to explore."
+- Lea torn, looking between them: "I... I see both sides."
+- Marcus: "Choose. We need a decision."
+- Lea: "I can't. You're both right. You're both wrong."
+- "Josh survived by moving. But you're talking about building something."
+- Frustrated, emotional: "I won't split you up by choosing. I can't lose anyone else."
+- To Marcus: "Your way makes sense." To Alex: "So does yours."
+- "Figure it out together."
+
+6. THE SPLIT DECISION
+- Marcus: "There is no together anymore. I'm taking equipment and building an exit."
+- Alex: "And I'm continuing to explore, find survivors, learn."
+- Stalemate - neither will budge
+- Marcus limps to backpacks: "Then we split the gear. You take what you need. I take what I need."
+- Alex: "Four people, two approaches."
+- Marcus: "You and Lea explore. Josh guides you. I work alone."
+- Alex: "Marcus, you're injured. You can't—"
+- Marcus: "I've made my decision. Have you made yours?"
+- Divide equipment:
+  - Marcus takes: Technical equipment, communication devices, engineering tools
+  - Alex/Lea/Josh keep: Supplies, measurement tools, navigation aids, sof-tak food
+
+7. LEA AND JOSH'S CHOICE
+- Only Lea and Josh need to choose - Alex and Marcus already decided
+- Marcus looks at Lea and Josh: "Well?"
+- Josh stands: "I go where the movement goes. Alex keeps moving. I'll guide them."
+- Walks to stand with Alex
+- Everyone looks at Lea - final decision
+- Lea looks at Marcus: "Your approach makes sense. Technical, pragmatic."
+- Looks at Alex and Josh: "But Josh survived by moving. By learning."
+- Takes breath: "I'm not choosing between you, Marcus. But..."
+- Walks to Alex and Josh: "Someone needs to help them survive. Keep Josh focused."
+- Marcus nods, accepting: "So I work alone."
+- Alex: "Marcus, please. Don't do this alone."
+- Marcus: "Alone is safer. I won't watch anyone else die for my decisions."
+- Guilt over Sofia's death still heavy
+
+FINAL GROUPS:
+- Marcus: Alone with technical equipment (1 person)
+- Alex's Group: Alex, Lea, Josh with supplies and navigation tools (3 people)
+
+8. THE DIVISION
+- Equipment split between Marcus and Alex's group
+- Tense but not hostile - mutual respect
+- Marcus packing technical gear into one backpack, limping
+- Lea helps him despite her choice: "Take the medical supplies for your ankle."
+- Marcus: "You'll need them more. Three of you exploring."
+- Alex to Marcus: "If you build an exit, signal us. We'll come."
+- Marcus to Alex: "If you find answers, I'll be listening on the comm channel."
+- Both mean it - not enemies, just different approaches
+- Lea to Marcus: "Don't die out there alone."
+- Marcus: "I've been carrying death since Sofia. Alone is better."
+- Josh to Marcus: "The cube likes division. Feeds on it. Be careful."
+- Marcus: "I'm always careful. It's everyone else who dies."
+- Guilt and pragmatism mixed in his voice
+
+9. PARTING WORDS
+- Alex: "We started as two teams merged. Now we're barely a team at all."
+- Marcus: "Eleven people entered this cube. Now four are left, and we're splitting."
+- Alex: "Rashid, Sofia, Chen, Edgar... they're why we need to learn. Prevent more deaths."
+- Marcus: "They're why I need to build. Get out before there's no one left."
+- Mutual respect despite disagreement
+- Lea: "Edgar united us when we were trapped. Wish he was here to keep us together."
+- Moment of silence for Edgar - oblivious corporate fool who became leader
+- Alex: "He would tell us to work together."
+- Marcus: "He would. But he's dead. And I'm tired of losing people."
+- Must move forward - no changing minds now
+
+10. SEPARATE PATHS
+- Marcus heads toward area Josh indicated had stable structure
+  - Alone, limping on injured ankle
+  - Plan to fortify position, build technical solution, engineer escape
+  - Backpack full of equipment and tools
+  - Determined, pragmatic, isolated
+  - Guilt driving him: "I work alone. No one else dies for me."
+
+- Alex's group continues exploring deeper
+  - Three of them: Alex, Lea, Josh
+  - Josh guiding through cube's geometry
+  - Lea providing dimensional expertise
+  - Alex leading, determined to find survivors and information
+  - Looking for understanding of the cube
+  - Patient, exploratory, together
+
+END ACT 2:
+- Team shattered: started with 11, down to 4, now split into 2 groups
+- Marcus alone (1 person)
+- Alex's group (3 people: Alex, Lea, Josh)
+- Darius's group still out there (4 people: Darius, Morris, Nina, Yuki)
+- Two philosophies: engineering escape vs. exploration for knowledge
+- Neither approach is wrong - both valid
+- Both trying to survive, just different methods
+- Act 3 will determine which approach succeeds
+- Or if both are necessary to escape
+
+Character Moments:
+- Marcus: Pragmatic, injured (ankle), frustrated with losses, guilt over Sofia drives him to work alone, wants immediate technical solution, refuses to watch anyone else die for his decisions
+- Alex: Patient leader, believes understanding is key to survival, lost Morris/Nina/Yuki/Chen/Edgar but still committed to exploration, wants to learn from cube and find survivors
+- Lea: Torn between both approaches, sees merit in each, refuses to choose sides but goes with Alex to help Josh, can't lose anyone else, emotional but rational
+- Josh: Follows movement (exploration), warns division feeds the cube, cryptic but helpful, guides Alex's group, survived alone but joins them
+
+Establishes:
+- Ideological split: Marcus vs Alex
+- Marcus ALONE: engineering escape, technical approach, injured and isolated, guilt-driven
+- Alex's Group (3): Alex, Lea, Josh - gathering information, exploratory approach
+- Both approaches have merit - neither is wrong
+- Not betrayal like Darius - philosophical difference based on survival strategy
+- Groups may reunite if either approach works
+- Lea's refusal to choose shows wisdom - both sides valid
+- Team utterly shattered: 11 started, 4 left, now split 1 and 3
+- Marcus's guilt over Sofia's death driving his isolation
+
+Final Team Status Entering Act 3:
+- Marcus: ALONE (1 person) - technical/engineering approach
+- Alex's Group: 3 people (Alex, Lea, Josh) - exploratory approach
+- Darius's Group: 4 people (Darius, Morris, Nina, Yuki) - survival/farming approach
+- Total survivors: 8 of original 11 (Rashid, Sofia, Chen, Edgar dead)
+- Three separate groups with three different philosophies
+
+Tone:
+- Exhausted frustration
+- Philosophical debate
+- Mutual respect despite disagreement
+- Sad parting
+- Determination on both sides
+- Uncertainty about future
+- Hope that one approach works
+
+================================================================================
+SCREENPLAY
+================================================================================
+
+FADE IN:
+
+INT. ROOT CUBE - RELATIVELY SAFE ROOM - CONTINUOUS
+
+Only four remaining. ALEX sits against one wall, staring at nothing. MARCUS leans opposite, limping ankle extended. JOSH watches from corner. LEA between them all.
+
+Exhaustion. Loss. Seven dead.
+
+                    ALEX
+          We keep moving. Find others. Learn
+          about this place.
+
+MARCUS bitter laugh.
+
+                    MARCUS
+          For what? Watch them die too? Rashid,
+          Sofia, Chen, Edgar...
+
+Tension building. JOSH silent observer. LEA senses divide.
+
+MARCUS stands despite ankle pain.
+
+                    MARCUS (CONT'D)
+          We have communication equipment.
+          Measurement tools. We can BUILD
+          something.
+               (frustrated)
+          Use the tech. Create a signal. Force
+          a way out. Stop wandering and start
+          engineering our escape.
+
+                    MARCUS (CONT'D)
+          I'm tired of watching people die
+          while we explore.
+
+ALEX firm.
+
+                    ALEX
+          And broadcast to who? We don't
+          understand this place.
+               (patient)
+          We need information. Find others
+          like Josh. Learn from survivors.
+
+                    ALEX (CONT'D)
+          Rushing in with tech is what INZO
+          did. Look where that got us.
+
+MARCUS sharp.
+
+                    MARCUS
+          Every hour we wander, we lose
+          supplies. Lose people. We're down
+          to FOUR.
+
+                    ALEX
+          Every shortcut costs us understanding.
+          Edgar died because we didn't know
+          about magnetic fields.
+
+                    MARCUS
+          Edgar died because we didn't use our
+          resources to escape when we had the
+          chance.
+
+                    ALEX
+          There is no escape without knowledge.
+          Josh survived by learning the cube.
+
+JOSH from corner, matter-of-fact.
+
+                    JOSH
+          Both paths lead somewhere. Neither
+          guaranteed.
+
+MARCUS to JOSH.
+
+                    MARCUS
+          You survived alone. I can too.
+
+ALEX to JOSH.
+
+                    ALEX
+          You survived by moving, learning.
+          That's what we're doing.
+
+JOSH cryptic but true.
+
+                    JOSH
+          I survived. Barry didn't.
+               (pause)
+          The cube doesn't care which method
+          you choose.
+
+Both look to LEA. She's the tie-breaker.
+
+MARCUS pleading.
+
+                    MARCUS
+          Lea, you're the physicist. Technical
+          solution makes sense.
+
+ALEX earnest.
+
+                    ALEX
+          Lea, you wanted to find Josh. You
+          did. We kept moving. We need to
+          explore.
+
+LEA torn, looking between them.
+
+                    LEA
+          I... I see both sides.
+
+MARCUS pressing.
+
+                    MARCUS
+          Choose. We need a decision.
+
+LEA frustrated, voice tight.
+
+                    LEA
+          I can't. You're both right. You're
+          both wrong.
+               (desperate)
+          Josh survived by moving. But you're
+          talking about building something.
+
+                    LEA (CONT'D)
+          I won't split you up by choosing.
+          I can't lose anyone else.
+
+To MARCUS.
+
+                    LEA (CONT'D)
+          Your way makes sense.
+
+To ALEX.
+
+                    LEA (CONT'D)
+          So does yours. Figure it out together.
+
+MARCUS final.
+
+                    MARCUS
+          There is no together anymore. I'm
+          taking equipment and building an exit.
+
+ALEX equally final.
+
+                    ALEX
+          And I'm continuing to explore, find
+          survivors, learn.
+
+Stalemate. Neither budges.
+
+MARCUS limps to backpacks.
+
+                    MARCUS
+          Then we split the gear. You take
+          what you need. I take what I need.
+
+                    ALEX
+          Four people, two approaches.
+
+MARCUS dividing equipment.
+
+                    MARCUS
+          You and Lea explore. Josh guides you.
+          I work alone.
+
+ALEX concerned.
+
+                    ALEX
+          Marcus, you're injured. You can't—
+
+MARCUS cutting her off.
+
+                    MARCUS
+          I've made my decision. Have you made
+          yours?
+
+They divide equipment. Marcus takes technical gear, communication devices, engineering tools. Alex/Lea/Josh keep supplies, measurement tools, navigation aids, food.
+
+Takes breath.
+
+                    LEA
+          I'm not choosing against you, Marcus.
+          But... someone needs to help them
+          survive. Keep Josh focused.
+
+Walks to ALEX and JOSH.
+
+MARCUS nods, accepting.
+
+                    MARCUS
+          So I work alone.
+
+ALEX pleading.
+
+                    ALEX
+          Marcus, please. Don't do this alone.
+
+MARCUS resolute, haunted.
+
+                    MARCUS
+          Alone is safer. I won't watch anyone
+          else die for my decisions.
+
+Guilt over Sofia heavy in his voice.
+
+Equipment split. Tense but not hostile. Mutual respect.
+
+MARCUS packs technical gear, limping. LEA helps despite her choice.
+
+                    LEA
+          Take the medical supplies for your
+          ankle.
+
+MARCUS refusing.
+
+                    MARCUS
+          You'll need them more. Three of you
+          exploring.
+
+ALEX to MARCUS.
+
+                    ALEX
+          If you build an exit, signal us.
+          We'll come.
+
+MARCUS to ALEX.
+
+                    MARCUS
+          Same to you.
+
+Both mean it. Not enemies. Different approaches.
+
+LEA to MARCUS.
+
+                    LEA
+          Don't die out there alone.
+
+MARCUS bitter, haunted.
+
+                    MARCUS
+          I've been carrying death since Sofia.
+          Alone is better.
+
+JOSH to MARCUS, cryptic warning.
+
+                    JOSH
+          I was alone in here a long time. Be careful.
+
+MARCUS bitter.
+
+                    MARCUS
+          I'm always careful. It's everyone
+          else who dies.
+
+ALEX sad.
+
+                    ALEX
+          We started as two teams merged. Now
+          we're barely a team at all.
+
+MARCUS countering.
+
+                    MARCUS
+          They're why I need to build. Get out
+          before there's no one left.
+
+Mutual respect despite disagreement.
+
+ALEX, LEA, and JOSH move together towards door.
+
+Team utterly shattered.
+
+Eleven started. Four left. Now split into one and three.
+
+MARCUS's guilt over Sofia driving his isolation.
+
+Both trying to survive. Just different methods.
+
+END OF ACT 2
+
+FADE OUT.

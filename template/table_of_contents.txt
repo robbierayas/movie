@@ -1,0 +1,45 @@
+# TABLE OF CONTENTS
+
+## Act 1 - [Setup Title]
+
+### Scene 0 - [Scene Name]
+- Location: [INT./EXT. - LOCATION - TIME]
+- Characters: [List main characters]
+- Summary: [Brief description]
+
+### Scene 1 - [Scene Name]
+- Location: [INT./EXT. - LOCATION - TIME]
+- Characters: [List main characters]
+- Summary: [Brief description]
+
+---
+
+## Act 2 - [Confrontation Title]
+
+### Scene X - [Scene Name]
+- Location: [INT./EXT. - LOCATION - TIME]
+- Characters: [List main characters]
+- Summary: [Brief description]
+
+---
+
+## Act 3 - [Resolution Title]
+
+### Scene X - [Scene Name]
+- Location: [INT./EXT. - LOCATION - TIME]
+- Characters: [List main characters]
+- Summary: [Brief description]
+
+---
+
+## Scene Count Summary
+- Act 1: [X scenes]
+- Act 2: [X scenes]
+- Act 3: [X scenes]
+- **Total: [X scenes]**
+
+## Estimated Runtime
+- Act 1: [X minutes]
+- Act 2: [X minutes]
+- Act 3: [X minutes]
+- **Total: [X minutes]**

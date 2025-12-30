@@ -1,0 +1,15 @@
+{
+  "ADAM": { "voice": "../../../production/audio/voices/en_US-ryan-high.onnx", "model": "adam" },
+  "GEOFF": { "voice": "../../../production/audio/voices/en_US-danny-low.onnx", "model": "geoff" },
+  "MOOSK": { "voice": "../../../production/audio/voices/en_US-hfc_male-medium.onnx", "model": "moosk" },
+  "GAL": { "voice": "../../../production/audio/voices/en_US-kristin-medium.onnx", "model": "gal" },
+  "TYSON": { "voice": "../../../production/audio/voices/en_US-joe-medium.onnx", "model": "tyson" },
+  "JOE": { "voice": "../../../production/audio/voices/en_US-bryce-medium.onnx", "model": "joe" },
+  "VICTIM": { "voice": "../../../production/audio/voices/en_US-john-medium.onnx", "model": "victim" },
+  "BODY": { "voice": "../../../production/audio/voices/en_US-john-medium.onnx", "model": "body" },
+  "NIGHT POLICE OFFICERS": { "voice": "../../../production/audio/voices/en_GB-alan-medium.onnx", "model": null },
+  "STANDARD CLASS PASSENGER": { "voice": "../../../production/audio/voices/en_US-amy-medium.onnx", "model": null },
+  "NARRATOR": { "voice": "../../../production/audio/voices/en_US-libritts-high.onnx", "model": null },
+  "ACTION": { "voice": "../../../production/audio/voices/en_US-lessac-medium.onnx", "model": null },
+  "_default": { "voice": "../../../production/audio/voices/en_US-lessac-medium.onnx", "model": null }
+}

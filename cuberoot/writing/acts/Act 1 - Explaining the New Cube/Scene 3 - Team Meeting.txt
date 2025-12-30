@@ -1,0 +1,378 @@
+SCENE 3 - TEAM MEETING
+======================
+
+LOCATION: INZO facility - Food Experimentation building, exterior walkway between buildings, Quantum Logistics building,
+conference room
+
+CHARACTERS:
+FOOD TEAM (4):
+- ALEX - Food scientist (protagonist)
+- MORRIS - Co-worker, comic relief
+- DARIUS - Food team member
+- SOFIA - Food team member
+
+QUANTUM TEAM (5 present, 2 already trapped):
+- LEA - Dimensional expert
+- NINA - Mathematician
+- RASHID - Quantum team member
+- CHEN - Quantum team member
+- YUKI - Quantum team member
+
+TRAPPED IN N=0.333 (not present):
+- BARRY - Dimensional physicist, instrumentation specialist (sucked in first)
+- JOSH - Theoretical physicist, math focus, 30s (sucked in second)
+
+LEADERSHIP:
+- MARCUS - Head of Quantum Logistics
+- EDGAR - Corporate VP of Logistics
+
+SCENE LAYOUT:
+
+1. FOOD TEAM EXITS BUILDING
+   - Food team (Alex, Morris, Darius, Sofia) exits Food Experimentation building
+   - Walking across exterior walkway/courtyard between buildings
+   - Heading toward Quantum Logistics building
+   - Casual conversation, uncertainty about meeting
+   - Visual establishing shot: Quantum Logistics is separate cube-like building
+
+2. ENTERING QUANTUM LOGISTICS BUILDING
+   - Food team enters the Quantum Logistics building
+   - Different aesthetic/feel from their familiar workspace
+   - Navigate to conference room
+
+3. ENTERING CONFERENCE ROOM
+   - Food team enters and sees:
+   - Quantum team already seated (Lea, Nina, Rashid, Chen, Yuki)
+   - Marcus standing, ready to lead meeting
+   - Edgar present (observing)
+
+4. MARCUS GREETS FOOD TEAM
+   - Marcus welcomes them
+   - Professional but warm greeting
+   - Invites them to sit
+
+5. ROUND OF INTRODUCTIONS
+   - Marcus facilitates introductions
+   - Food team introduces themselves one by one
+   - Quantum team introduces themselves one by one
+   - Edgar may interject with corporate pleasantries
+
+6. MARCUS EXPLAINS - MUST SIGN NDA FIRST
+   - Marcus says they must sign confidentiality agreement first
+   - Begins explanation before NDA is signed
+
+7. THE CUBE HISTORY
+   - INZO has had n=2 and n=1 cube prisons
+   - Hypercube was breakthrough but went wrong way - caused MORE space
+   - They figured out LESS space = saved money
+   - There are caveats
+   - Now n=0 is the focus
+
+8. QUESTIONS AND BREAK
+   - Someone asks what caveats and if there's a problem
+   - Edgar says we'll get to that
+   - Edgar asks everyone to get settled in for a bit
+   - Lea and Alex plan to get coffee
+
+TONE: Professional team meeting, underlying tension about unknown reassignment
+DYNAMICS: Food team = outsiders, Quantum team = established, Marcus = bridge
+KEY TENSION: What is the real reason for this integration?
+
+TEAM ROSTER:
+Food Experimentation Team (4): Alex, Morris, Darius, Sofia
+Quantum Logistics Team (5 present): Lea, Nina, Rashid, Chen, Yuki
+Quantum Logistics Team (2 trapped in n=0.333, not present): Barry, Josh
+Leadership: Marcus (Head), Edgar (VP observing)
+Total in room: 11 people
+Original QL Team size: 7 (Barry and Josh already lost to n=0.333)
+
+========================================
+                    SCREENPLAY
+          ========================================
+
+EXT. INZO FACILITY - WALKWAY BETWEEN BUILDINGS - DAY
+
+The Food Experimentation team exits their building and walks across an exterior courtyard/walkway. ALEX (30s, practical
+scientist) carries coffee and a backpack. MORRIS (40s, disheveled but thoughtful) adjusts his glasses. DARIUS (neat,
+precise movements) and SOFIA (late 30s, pragmatic) walk alongside them. All wear Food Experimentation badges.
+
+Ahead of them: the QUANTUM LOGISTICS BUILDING - a distinct, cube-like structure that looks more secure and modern than
+their own building.
+
+                    SOFIA
+          Imagine liking cubes so much you work in one.
+
+                    MORRIS
+          Do you know what this is about?
+
+                    ALEX
+          Just says "team integration meeting."
+
+                    SOFIA
+          That's never good.
+
+                    DARIUS
+          Maybe they're finally giving us a raise.
+
+Morris gestures while thinking.
+
+                    MORRIS
+          Well, technically, cross-departmental
+          integration usually means... I mean,
+          it could be budget reallocation, or—
+
+                    DARIUS
+          Ackchually, a raise is budget reallocation.
+
+Morris stops talking. Alex smiles to herself.
+
+They reach the entrance to the Quantum Logistics building.
+
+
+INT. QUANTUM LOGISTICS BUILDING - HALLWAY - CONTINUOUS
+
+The Food team enters. The interior feels different - more secure, more sterile, more high-tech than their familiar
+workspace. They navigate through hallways.
+
+They approach a conference room. Through the glass, they can see people already seated inside.
+
+
+INT. QUANTUM LOGISTICS BUILDING - CONFERENCE ROOM - CONTINUOUS
+
+The Food Team enters. The QUANTUM TEAM is already seated around the table: LEA (dimensional physicist, serious), NINA
+(youngest, mathematician), RASHID, CHEN (practical engineer), and YUKI.
+
+MARCUS (late 30s, focused leader) stands near the front, arms crossed. EDGAR (corporate VP, polished) sits off to the
+side with a tablet.
+
+The room falls quiet.
+
+                    MARCUS
+          Ah, perfect timing. Come in, please.
+          Find a seat.
+
+Marcus gestures welcomingly - professional but with a subtle boss demeanor. The food team files in, taking seats across
+from the quantum team.
+
+Alex sets her coffee down carefully. Lea gives her a small, knowing look.
+
+                    MARCUS (CONT'D)
+          Thanks for coming. I know this was
+          short notice. Let's start with
+          introductions - put some names to faces.
+
+He nods to the food team.
+
+                    MARCUS (CONT'D)
+          Food Experimentation meet Quantum
+          Logistics. The company's greatest teams
+          together. I'm Marcus, head of QL. We've
+          implemented a lot of the n=0 stuff
+          you've seen, but higher ups...
+
+Alex glances toward Edgar.
+
+                    MARCUS (CONT'D)
+          ...think we can synergize on your
+          dimensional expertise. Alex, can you
+          take us through your team?
+
+Alex sits up straighter.
+
+                    ALEX
+          I'm Alex, team lead. We're the Food
+          Experimentation team - we've been working
+          on molecular compression and storage
+          solutions. Most recently, sof-tak - the
+          everything food.
+
+She gestures to each team member in turn.
+
+                    ALEX (CONT'D)
+          This is Morris, Darius, and Sofia.
+
+                    MORRIS
+          I've been working on the molecular
+          bonding side of sof-tak - well,
+          technically we all contributed, but my
+          focus was more on preventing structural
+          degradation during... does that matter?
+
+                    ALEX
+          (gently)
+          Morris is fine.
+
+                    MORRIS
+          Right. Morris.
+
+Darius gives a brief nod.
+
+                    DARIUS
+          Darius.
+
+Sofia nods as well.
+
+                    SOFIA
+          Sofia.
+
+Marcus nods, then gestures to his team.
+
+                    MARCUS
+          Quantum Logistics. Lea - dimensional
+          physics.
+
+Lea nods professionally. She makes brief eye contact with Alex - a moment of recognition between old friends.
+
+                    MARCUS (CONT'D)
+          Nina - mathematician.
+
+Nina, noticeably the youngest in the room, gives a slight smile.
+
+                    MARCUS (CONT'D)
+          Rashid - math, Yuki  - math, and Chen -
+          engineering.
+
+The three nod in turn.
+
+Marcus begins to continue, but Edgar stands, doing a small synergy hand gesture.
+
+                    EDGAR
+          Edgar - VP of Logistics. Just here to
+          show some leadership support. Excited
+          about the synergy potential here.
+
+He sits back down.
+
+Awkward beat.
+
+                    MARCUS
+          Right. So. Before we get into specifics,
+          I need everyone to sign a confidentiality
+          agreement. Standard procedure for this
+          level of work.
+
+He slides a stack of papers down the table to the Food team.
+
+                    MARCUS (CONT'D)
+          The short version - what we discuss here
+          stays here. Company property, trade
+          secrets, et cetera.
+
+People start signing. Alex signs quickly, pen still in hand.
+
+                    ALEX
+          What do you mean integration?
+
+Edgar holds up a hand, waiting. The room goes quiet as people finish signing. Morris is the last, reading carefully. He
+signs.
+
+Edgar stands.
+
+                    EDGAR
+          Sof-tak has hit profit maximization.
+          Congratulations - you did your jobs
+          too well. The dollarinos are maxed out.
+          And as of now...
+
+He pauses for effect.
+
+                    EDGAR (CONT'D)
+          ...Food Experimentation for sof-tak
+          doesn't exist. You don't have a choice
+          here.
+
+The food team sits in shocked silence. Sofia's face hardens. Darius's jaw tightens. Morris looks between his teammates,
+uncertain.
+
+Edgar gestures to Marcus to continue.
+
+Marcus pulls up a slideshow on the screen. The first slide shows a rotating 4-D TESSERACT - a hypercube.
+
+                    MARCUS
+          Quick background. INZO's been working
+          with dimensional storage for the better
+          part of a decade. Started with n=4
+          hypercubes for prisoner containment.
+
+Alex stares at the tesseract on screen. Nina shifts slightly - something about this bothers her, but she stays quiet.
+
+                    MARCUS (CONT'D)
+          It was a scientific...
+
+He gestures to Nina while continuing - indicating a previous conversation.
+
+                    MARCUS (CONT'D)
+          ...and a mathematical breakthrough, but
+          not profitable.
+
+He clicks to the next slide - simpler cube illustrations showing the dimensional progression.
+
+                    MARCUS (CONT'D)
+          The hypercube paradox - we tried to
+          create MORE space, which worked, but
+          cost more. Then we figured out LESS
+          space saves money. Much more efficient.
+          N=0 became the focus.
+
+                    DARIUS
+          Wait, n=0? That's—
+
+                    MARCUS
+          A point. Zero-space. Totally sizeless.
+
+Beat. The food team exchanges glances. Nina leans forward slightly, interested.
+
+                    MARCUS (CONT'D)
+          There are... caveats. But that's why
+          you're here.
+
+                    DARIUS
+          What kind of caveats? Is there a problem?
+
+                    NINA
+          We'll go through safety protocol with each
+          of you so no one—
+
+Marcus opens his mouth, but Edgar stands, cutting Nina off.
+
+                    EDGAR
+          We'll get to all of that. First, let's
+          make sure everyone's settled in. This is
+          going to be a long briefing.
+
+                    SOFIA
+          What do you mean safety?
+
+Edgar checks his watch.
+
+                    EDGAR (CONT'D)
+          Actually, why don't we break? Stretch
+          your legs, check your access. Alex and
+          Lea, do you need a few?
+
+                    LEA
+          Yes sir, need to fill the coffee for
+          this part.
+
+People start to stand. Lea catches Alex's eye and gestures toward the door - an invitation between old friends.
+
+                    ALEX
+          Did you know about this?
+
+                    LEA
+          A couple seconds before you. Coffee?
+
+                    ALEX
+          Yeah. Definitely.
+
+They head for the exit together.
+
+Behind them, Nina, Rashid, and Yuki immediately fall into rapid conversation - the fast-talking mathematician trio.
+Morris pulls a small sof-tak ball from his pocket and offers it to Chen as they walk.
+
+                    MORRIS
+          Sof-tak?
+
+Chen takes it with an appreciative nod. The group breaks into small conversations as they walk to the lab area.
+
+FADE OUT.

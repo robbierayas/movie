@@ -1,0 +1,114 @@
+CHARACTER PROFILE: RASHID
+
+========================================
+BASIC INFORMATION
+========================================
+Name: Rashid
+Role: Supporting character, Quantum Logistics team member
+Occupation: Mathematician, Quantum Logistics team
+Status: DECEASED - Dies in Act 2, Scene 5 (First Cube Room Death)
+
+========================================
+ARCHETYPE
+========================================
+Primary: The Protector - Shields others (saves Marcus), sacrifices for team safety (stays to study trap)
+Secondary: The Brain - Mathematical genius, solves complex problems
+
+Shifts: Background collaborator → Heroic leader in crisis moment. Dies protecting future team encounters, not just solving immediate problem. First major death that shatters team's hope.
+
+========================================
+CHARACTER ARC
+========================================
+Beginning (Act 1): Background mathematician in trio with Nina/Yuki. Collaborative, quick-witted, makes corrections and asks analytical questions. Part of collective intelligence solving problems together. Scientific excitement about dimensional phenomena.
+
+Middle (Act 2, Scenes 1-4): Continues collaborative work on navigation and calculations. When mathematical trap appears in Scene 5, steps up confidently - recognizes complex lock from his thesis work, takes lead directing Nina and Yuki with specific sequences, successfully frees Marcus.
+
+End (Act 2, Scene 5): After saving Marcus, stays behind to study trap mechanism so future encounters will be safer. Nina warns him to leave but he needs "just one more second" to help the team. Trap reactivates with secondary mechanism - chains catch all limbs and neck. Dies brutally in the mechanism he just solved. Tragic irony: his intelligence saves Marcus but his desire to protect future encounters kills him. First major team death. Intelligence and helpfulness weren't enough. Heroic sacrifice demonstrates cost of trying to help others beyond immediate survival.
+
+========================================
+PERSONALITY TRAITS
+========================================
+- Mathematician with specialized expertise (mathematical locks, theoretical dimensions)
+- Part of fast-talking trio with Nina and Yuki - functions as collective intelligence
+- Collaborative without ego - makes corrections, asks questions, works as team
+- Quick-witted in rapid-fire technical exchanges
+- Confident in his mastery when expertise needed - takes lead without hesitation
+- Modest in success - deflects praise with quiet warmth
+- Helpful beyond immediate needs - stays to study trap for future safety
+- Puts team welfare above personal safety
+- Less prominent than Lea or Nina in screentime, but heroic when moment demands
+
+========================================
+PHYSICAL DESCRIPTION
+========================================
+- TBD based on casting/narrative needs
+
+========================================
+RELATIONSHIPS
+========================================
+- Nina: Part of mathematician trio, collective intelligence, deep collaborative bond, dies trying to help her and others
+- Yuki: Part of mathematician trio, fast-talking partner, collaborative corrections without ego
+- Nina & Yuki (together): Function as one mind across three people, his death devastates both
+- Marcus: Saves his life from mathematical trap, receives thanks, dies moments after rescuing him
+- Lea: Quantum team colleague
+- Chen: Quantum team colleague, contrasts theoretical math with practical engineering
+- Food team (Alex, Morris, Darius, Sofia): New colleagues after integration
+
+========================================
+KEY SCENES
+========================================
+Act 1, Scene 3: Team meeting - falls into rapid conversation with Nina and Yuki, fast-talking mathematician trio
+Act 1, Scene 6: Lab Introduction and First Test - peers at chalkboard when Yuki points out wrong equation, slight smile "Barry kept saying he'd fix it", fast-talking with Yuki about theoretical dimensions "Theoretically? It's a singularity point—" when she asks about measuring zero dimensions, exchanges look with Nina and Yuki when Chen says retrieval impossible understanding Barry is trapped there too
+Act 1, Scene 8: The Lost Person Incident - corrects "No, the atoms collisions, right?", exchanges look with Nina and Yuki
+Act 1, Scene 9: Hypercube Singularity - asks "All of them?" when Nina shows cubes being pulled in, asks "Can we calculate the mass threshold—" cut off, confers with Yuki
+
+Act 1, Scene 10: First Entry and Deaths - discusses with Morris/Nina/Yuki mapping recursive structure, scientific excitement, says "That's not..." seeing impossible geometry
+
+Act 2, Scene 1: Survival and Rationing - helping with calculations and navigation planning with Nina and Yuki
+
+Act 2, Scene 2: Exit and Josh Arrives - confirms calculations with Nina and Yuki, dividing measurement devices
+
+Act 2, Scene 3: Into the Root Cube - struggles with navigation "Could be three. Could be ten.", works with Nina and Yuki
+
+Act 2, Scene 4: Successful Trap Room Navigation - part of mathematician trio solving Fibonacci, catches pattern "Then you jumped three and got shocked!", helps Nina realize sequence, celebrates Alex's success "You got the absolute worst luck possible"
+
+Act 2, Scene 5: First Cube Room Death (Rashid) - DIES - takes lead analyzing trap when Marcus caught, identifies "Mathematical lock. Complex.", confident "I can solve this. I haven't seen it since my thesis but I remember.", directs team "Nina - sequence three-seven-five on the left ankle. Yuki - eight-two-one on the right hand.", successfully frees Marcus, team celebrates, modest "Just math.", Marcus thanks him, stays behind examining trap to help future encounters, Nina warns "Rashid, come on. We need to go.", studying mechanism "Just one more second...", trap reactivates without warning, chains snap out catch him by all limbs and neck, team screams rushes toward him, too fast to save, dies brutally in mechanism he just solved, tragic irony: solution couldn't save him from secondary mechanism, first major team death, heroic sacrifice
+
+========================================
+CHARACTER FUNCTION
+========================================
+- Mathematical expert of the trio (with Nina and Yuki)
+- Heroic sacrifice - saves Marcus's life, then stays behind to help future encounters
+- Tragic irony - his intelligence and desire to protect others kills him
+- First major team death establishes true stakes of the cube
+- Shows traps have deadly secondary mechanisms that punish helpfulness
+- Death devastates Nina and Yuki (fellow mathematicians, collaborative bond)
+- Demonstrates cost of trying to help others beyond immediate survival
+
+========================================
+DIALOGUE STYLE
+========================================
+- Part of fast-talking mathematician trio - contributes to rapid-fire technical exchanges
+- Makes technical corrections collaboratively: "No, the atoms collisions, right?" (correcting Yuki)
+- Gets cut off mid-speculation during crisis: "Can we calculate the mass threshold—"
+- Background voice in group discussions - less prominent than Nina but equally competent
+- Asks clarifying questions to sharpen group understanding
+- Comfortable being interrupted and interrupting - trio communication style
+- Functions as part of collective intelligence with Nina and Yuki
+- Minimal solo dialogue - thrives in collaborative problem-solving
+- Technical shorthand with fellow mathematicians
+- Confident assessments under extreme pressure: "I can solve this. I haven't seen it since my thesis but I remember." - shows mastery without arrogance, references past work naturally
+- Directs team efficiently with specific sequences: "Nina - sequence three-seven-five on the left ankle. Yuki - eight-two-one on the right hand." - clear delegation, trusts teammates to execute
+- Self-correction when wrong: "No, no... let me recalculate..." - admits error immediately, refocuses without panic
+- Modesty in success paired with slight warmth: "Just math." with slight smile - deflects praise but shows quiet pride
+- Focus extends beyond immediate success: studies mechanism after rescue to help future encounters - dedication to others' safety, not just solving the immediate problem
+
+========================================
+NOTES
+========================================
+- Background character - minimal screen time
+- Background mathematician alongside Yuki
+- Part of the 5-person quantum team (Lea, Nina, Rashid, Chen, Yuki)
+- Fast-talking mathematician trio with Nina and Yuki - used to rapid-fire group conversations
+- Contrasts with Chen's practical engineering approach
+- Can be developed as needed for story requirements

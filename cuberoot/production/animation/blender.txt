@@ -1,0 +1,145 @@
+> explain how i can open the existing walking.fbx in blender then edit it to take shorter steps
+
+● Editing Walking.fbx in Blender to Take Shorter Steps
+
+  1. Import the FBX into Blender
+
+  # Open Blender (3.x or 4.x recommended)
+  File → Import → FBX (.fbx)
+  # Navigate to: characters/alex/character.fbx (or Walking.fbx)
+
+  Import Settings:
+  - ✅ Automatic Bone Orientation (enabled)
+  - ✅ Import Animation (enabled)
+  - Scale: 1.0
+
+  2. Locate the Animation Data
+
+  Once imported:
+  1. Select the Armature (skeleton) in the outliner
+  2. Switch to Animation workspace (top tabs)
+  3. Open Dope Sheet editor
+  4. Change mode from "Dope Sheet" to "Action Editor"
+  5. You'll see the walking animation keyframes
+
+  3. Find the Root Motion Bone
+
+  The stride length is controlled by the root bone's position:
+
+  1. In the 3D Viewport, select the armature
+  2. Enter Pose Mode (Ctrl+Tab or mode dropdown)
+  3. Look for bones named:
+    - Hips (most common in Mixamo)
+    - Root
+    - mixamorig:Hips
+
+  4. Reduce Stride Length
+
+  Method A: Scale Position Keyframes
+
+  1. In Dope Sheet or Graph Editor:
+    - Select the root bone (Hips)
+    - Find the Location Z channel (forward/back movement)
+    - You'll see keyframes showing the forward motion
+  2. Select all Z-location keyframes:
+    - In Graph Editor: Select the curve
+    - Press S (scale), then Y (constrain to Y-axis/values)
+    - Type 0.5 and press Enter
+
+  This scales the stride to 50% of original length
+
+  Method B: Manually Edit Keyframes
+
+  In Graph Editor:
+  1. Select root bone → Location Z curve
+  2. If walking goes from Z=0 to Z=2.0 over the cycle:
+    - Select the keyframe at max position (Z=2.0)
+    - Press G (grab/move), Y (constrain)
+    - Move down to Z=0.3 (or desired stride)
+    - This makes the character step only 0.3m instead of 2.0m
+
+  5. Important: Understand What You're Changing
+
+  Your current distancePerCycle values:
+  // In sceneConfig.js
+  distancePerCycle: ANIMATION_SPEED.WALK_DISTANCE_PER_CYCLE  // Usually 2.0
+
+  If you reduce the animation's stride from 2.0m to 0.3m:
+  - Update your code to match:
+  distancePerCycle: 0.3  // Match the edited animation
+
+  6. Preview the Animation
+
+  - Press Spacebar to play animation in Blender
+  - Watch the character move in the viewport
+  - Check that:
+    - Feet don't slide on ground
+    - Steps look natural (not too slow or fast)
+    - Character still has weight shift
+
+  7. Export Back to FBX
+
+  File → Export → FBX (.fbx)
+
+  Export Settings:
+  - ✅ Selected Objects (select armature only)
+  - ✅ Bake Animation (enabled)
+  - ✅ NLA Strips or All Actions (depending on version)
+  - Path Mode: Copy (bundles everything)
+  - Apply Transform: FBX Units Scale
+  - Forward: -Z Forward
+  - Up: Y Up
+
+  Save as: characters/alex/ShortStep.fbx (keep original as backup!)
+
+  8. Use in Your Scene
+
+  Update sceneConfig.js:
+  {
+      id: 'alex',
+      scale: CHARACTER_SCALE,
+      actions: [
+          {
+              type: 'walk',
+              event: 'alexStepsForward',
+              delay: 0,
+              endPosition: { x: 0.2, y: CHARACTER_HEIGHT.WALKING, z: -5.3 },
+              distancePerCycle: 0.3,  // Match edited animation
+              animationFile: 'ShortStep.fbx'  // Use custom animation
+          }
+      ]
+  }
+
+  Note: You'd need to modify BaseCharacter.js to support loading custom animation files per action, or pre-load the ShortStep animation.
+
+  ---
+  Alternative: Scale in Blender vs Code
+
+  Option 1: Edit animation stride in Blender
+  - ✅ Visually accurate
+  - ✅ Animation matches code values
+  - ❌ Requires Blender skills
+  - ❌ Separate file per stride length
+
+  Option 2: Scale in code only
+  - ✅ No Blender needed
+  - ✅ One animation file
+  - ❌ Feet will slide on ground (visual artifact)
+  - ❌ Character appears to "moonwalk"
+
+  Why feet slide: The animation shows legs moving a certain distance, but your code moves the character model less/more. The legs think they're stepping 2m, but the body only moves 0.3m → sliding feet.
+
+  ---
+  Quick Test (No Blender)
+
+  If you just want to test the concept:
+
+  // Use regular walk animation but move shorter distance
+  {
+      type: 'walk',
+      endPosition: { x: currentX + 0.3, y: 0.1, z: currentZ },
+      distancePerCycle: 0.3  // Much shorter than animation's 2.0
+  }
+
+  This will work functionally but will have foot sliding because the animation's stride is still 2.0m while the character moves only 0.3m. It's good for prototyping but not final visuals.
+

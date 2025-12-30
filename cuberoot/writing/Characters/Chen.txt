@@ -1,0 +1,124 @@
+CHARACTER PROFILE: CHEN
+
+========================================
+BASIC INFORMATION
+========================================
+Name: Chen
+Role: Supporting character, Quantum Logistics team member
+Occupation: Electrical Engineer, Quantum Logistics team
+Status: DEAD (Act 2, Scene 8 - dissolve burns defending Edgar)
+
+========================================
+ARCHETYPE
+========================================
+Primary: The Pragmatist - Practical solutions, grounded in reality, "just make it work" mentality
+Secondary: The Protector - Physical defender, intervenes to stop violence and prevent harm
+
+Shifts: Practical engineer with hidden grief → Physical intervener who dies trying to stop a fight. Death shows cost of trying to prevent team from tearing itself apart.
+
+========================================
+CHARACTER ARC
+========================================
+Beginning (Act 1): Practical engineer on QL team. Built transmitter with Barry (theory/implementation partnership). Shows emotional pain about Barry being trapped - jaw tightens at his name, can't meet Sofia's eyes when challenged about continuing work. Grief hidden beneath practical exterior. Friendly with new Food team members but focused on making things work.
+
+Middle (Act 2, Scenes 1-7): Continues grounding role. Volunteers to test electrical trap in Scene 4 - gets shocked twice, persists through pain, helps mathematicians solve Fibonacci. Watches Rashid die in Scene 5. Points out Darius's farming plan won't work in Scene 6 - stays with team. Nearly pulled into vacuum in Scene 7.
+
+End (Act 2, Scene 8): Sees Darius attack Edgar. Rushes in immediately to stop the violence - "Get off him!" Physically intervenes to prevent harm. Grapples with Darius, slams him against wall "He's trying to help! We're all trying to help!" - defending everyone, not taking sides. Catches crowbar to ribs. Shoved backward into dissolving wall section. Screams as dissolve burns spread across back and side. Dragged toward exit by Marcus and Alex. Catastrophic burns, breathing stops. Eyes find Edgar with no accusation, just fading awareness. Dies trying to stop the team from tearing itself apart.
+
+========================================
+PERSONALITY TRAITS
+========================================
+- Electrical engineer - practical implementation expert
+- Hands-on approach to problem-solving
+- Cuts through theoretical discussions with practical solutions
+- Grounded in reality vs. abstractions
+- "Just make it work" mentality
+- Impatient with over-theorizing - wants actionable information
+- Bridge between theory and implementation (worked with Barry on theory/practice partnership)
+- Deep grief about Barry hidden beneath practical exterior
+- Loyal through action not words
+- Physical courage - volunteers for dangerous tests without hesitation
+- Persists through pain and failure
+- Immediate defender - rushes to protect others physically
+- Speaks moderately - grounds discussions, asks practical questions, makes observations
+- Direct and blunt communication without elaboration
+- Values practical results and team welfare above self-preservation
+
+========================================
+PHYSICAL DESCRIPTION
+========================================
+- Practical engineer appearance
+- May have tools or equipment on him
+- Hands-on demeanor - someone who works with physical systems
+- More utilitarian dress than theoretical team members
+- Capable, competent body language
+
+========================================
+RELATIONSHIPS
+========================================
+- Barry: Close colleague, worked together extensively on instrumentation (theory/practice partnership), deep grief throughout Acts 1-2, jaw tightens at his name, can't meet Sofia's eyes when challenged about continuing work after Barry trapped
+- Edgar: Defends him from Darius's attack but motivation is stopping violence not loyalty, eyes find Edgar with no accusation as he dies
+- Darius: Killed by Darius during Floor Dissolution Fight, grapples with him trying to stop the attack
+- Marcus: Dragged to safety by Marcus after fatal injury, supervisor relationship
+- Sofia: Challenged by her about continuing work after Barry trapped, can't meet her eyes
+- Morris: Friendly, accepts sof-tak from him
+- Lea: Quantum team colleague, pushes her toward practical implementation
+- Nina, Rashid, Yuki: Quantum team colleagues, contrasts theoretical math with practical engineering
+- Alex: Dragged to safety by her after fatal injury
+
+========================================
+KEY SCENES
+========================================
+Act 1, Scene 3: Team meeting - accepts sof-tak from Morris, practical and friendly
+Act 1, Scene 6: Lab Introduction and First Test - explains he built transmitter with Barry "He handled the theory. I handled making it not explode", firmly demands "Nothing alive. That's the rule" when asked for demo, demonstrates n=0 transmission successfully, jaw tightens when Sofia examines Barry's desk, says Barry "left that coffee two weeks ago. Never came back to finish it", doesn't answer when Sofia challenges "you all kept working? Kept researching? People are trapped and dying in another dimension", can't meet her eyes
+Act 1, Scene 8: Lost Person Incident - jaw tightens at Barry's name, interrupts theory to ground discussion
+Act 1, Scene 9: Hypercube Singularity - asks about acceleration, organizes measurement tools
+Act 1, Scene 10: First Entry - inspects communication relays, realizes they're trapped
+
+Act 2, Scene 1: Survival and Rationing - practical questions, grounding force
+Act 2, Scene 2: Exit and Josh Arrives - practical observation about size, suggests bringing Josh
+Act 2, Scene 3: Into the Root Cube - examines mechanical components, understands mechanical rearrangement
+Act 2, Scene 4: Successful Trap Room Navigation - volunteers to test trap, gets shocked twice testing pattern, describes numbers verbally helping mathematician trio figure out Fibonacci, succeeds third attempt
+Act 2, Scene 5: First Cube Room Death (Rashid) - studies mechanism, watches Rashid die
+Act 2, Scene 6: Darius's Betrayal - points out farming plan won't work, loyal to team
+Act 2, Scene 7: Sofia's Vacuum Death - navigates dissolution room, nearly pulled in, helps close door
+Act 2, Scene 8: Floor Dissolution Fight - DIES - sees Darius attack Edgar rushes in "Get off him!", grabs Darius's arm yanks him away, grapples with Darius crash into wall, slams Darius back "He's trying to help! We're all trying to help!", catches crowbar to ribs gasps staggers, Darius shoves him hard backward, stumbles toward shimmering wall, Alex screams "CHEN, NO—!", back hits dissolving wall section, screams as dissolve burns spread across back and side, falls to knees in agony, collapses as floor trap activates, Marcus grabs him "Chen! Hold on!", dragged toward exit by Marcus and Alex, breathing getting weaker, pulled through doorway, lays gasping with catastrophic burns back and side eaten away, breathing shallow rattling, eyes find Edgar with no accusation just fading awareness, breathing stops, dies defending his leader
+
+========================================
+CHARACTER FUNCTION
+========================================
+- Practical voice grounding theoretical discussions
+- Comic relief through blunt practicality ("Why don't we just...")
+- Shows theory/practice partnership (with Barry)
+- Emotional depth hidden beneath practical exterior (grief about Barry)
+- Physical intervener who tries to stop team violence
+- Death shows cost of trying to prevent internal conflict
+- Demonstrates cube exploiting team fractures - violence between survivors is deadly
+- Tragic because he dies trying to protect everyone, not taking sides
+
+========================================
+DIALOGUE STYLE
+========================================
+- Cuts through theoretical speculation with grounding reality, redirecting toward practical solutions: "We don't understand it fully" when Rashid and Yuki theorize
+- States practical observations matter-of-factly: "We'll have to stay to see what data comes through"
+- Asks survival-focused questions: "Can we even survive out there?"
+- Impatient with prolonged theory sessions - wants actionable information, no patience for abstraction without application
+- Engineer's mindset: how does it work, can we fix it, what do we do about it
+- Blunt assessments without sugar-coating
+- Doesn't elaborate unnecessarily - assumes competence in listeners
+- Practical loyalty shown through action, not words
+- Pragmatic pain tolerance: "That hurt." after electrical shock - acknowledges pain without drama, practical assessment of injury level
+- Determined persistence despite failure: "Let me try slower." and "Too slow!" - engineer mindset treats failure as data, adjusts approach
+- Volunteers immediately for risky practical tests: "I'll test it." - doesn't hesitate when action is needed, trusts himself to handle consequences
+
+========================================
+NOTES
+========================================
+- Supporting character with distinct role - practical engineer among theorists
+- Part of the 5-person quantum team (Lea, Nina, Rashid, Chen, Yuki)
+- Contrasts with theoretical/mathematical team members (Lea, Nina, Rashid, Yuki)
+- Provides grounding and practical solutions when team gets lost in theory
+- Mechanic/grunt character - gets things done
+- His blunt practicality can provide both solutions and comic relief
+- DIES in Act 2, Scene 8 defending Edgar from Darius - dissolve burns from wall trap
+- Death demonstrates loyalty punished by cube

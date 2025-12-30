@@ -1,0 +1,91 @@
+# GEOFF
+
+## BASIC INFORMATION
+- **Full Name**: Geoff (last name likely public but not revealed in screenplay - CEO privacy)
+- **Age**: 40s to 50s (established billionaire)
+- **Class Status**: Standard (ultra-wealthy billionaire)
+- **Occupation**: CEO of Amazing Company
+- **Family**: Not mentioned - likely irrelevant to him
+- **Defining trait**: Annoying titter laugh ("Heh-heh-heh") that punctuates his cruelty
+
+## ARCHETYPE
+**Primary**: The Untouchable Villain / The System Incarnate
+**Secondary traits**: The Manipulator, The Sadist (not for sexual pleasure - for power/boredom)
+
+## CHARACTER FUNCTION
+Primary antagonist. A billionaire who kills for pleasure and uses his wealth and technology to remain untouchable. Represents extreme economic inequality and the powerlessness of the poor against concentrated wealth. His public image management is a subplot throughout the film, showing the gap between his philanthropist facade and his true nature.
+
+## PHYSICAL DESCRIPTION
+- Designer casual clothing worth more than most people's yearly income
+- Well-groomed, polished appearance
+- Physically weak - cannot fight effectively himself (relies on Moosk)
+- Has robot double that looks exactly like him (revealed in Act 3)
+- Carries himself with casual arrogance of someone untouchable
+- The titter laugh is physical tic - head tilts slightly when he does it
+
+## PERSONALITY TRAITS
+- Kills people for pleasure/entertainment (sadistic)
+- Bored rich person behavior - treats murder like a hobby
+- Uses wealth and influence to escape consequences
+- Paranoid enough to use robot double
+- Manipulative (takes Adam out for "Standard night on the town" only to get him to dispose of another body)
+- No empathy or guilt - "didn't use to like it so much, but without worry or guilt he might as well do it"
+- Gets sloppier and sloppier with his kills as story progresses
+- Annoying titter laugh that undercuts tension with unsettling wrongness
+
+## RELATIONSHIPS
+- **Adam**: Controls Adam through threats and blackmail. Uses Adam's skills while treating him as disposable. Kills Adam's friend when Adam tries to assassinate him.
+- **Moosk**: Robot bodyguard who enforces his will and protects him from threats.
+- **Public/Media**: Maintains philanthropist facade through PR team and public appearances.
+- **Police**: Wealth gives him immunity - police recognize him and don't arrest him even when caught with body.
+- **Victims**: Torments and toys with victims before killing them. Makes them perform or suffer for his entertainment.
+
+## CHARACTER ARC
+**Act 1**: Kills for pleasure → Catches Adam witnessing → Hires Adam for disposal → Gets more bodies disposed → Enjoys newfound freedom to kill without guilt
+
+**Act 2**: Gets sloppier with kills → Caught with Adam but escapes using wealth → Refuses to let Adam quit → Catches Adam's gas assassination attempt → Kills T or Gal as punishment/warning
+
+**Act 3**: Manages public image → Cornered by Adam's distraction plan → Reveals robot double → Exposes Adam → Destroys Tracktown with drones → Wins completely
+
+Arc Type: Flat Arc (villain) - He doesn't change. He remains untouchable and proves systemic power cannot be overcome.
+
+## DIALOGUE STYLE
+- Dismissive and casual about murder
+- Uses wealth slang ("mid" for something mediocre or disappointing) - applies it to everything from $1,000 steaks to $10,000 gambling losses
+- Titter laugh punctuates his dialogue ("Heh-heh-heh")
+- Manipulative - can be charming when it serves him
+- **Performs generosity**: Makes grand gestures seem effortless ("Done. Moosk will transfer it" for $2,500). Creates illusion of friendship while maintaining control.
+- **Casual cruelty**: Announces murders matter-of-factly ("Had an opportunity. You know how it is"). No guilt or apology.
+- **False camaraderie**: Encourages Adam like a friend ("There you go! See? You're having fun") while setting trap. Makes manipulation feel like bonding.
+- **Playful torture**: Makes degrading commands sound lighthearted ("Maybe a kiss will wake him" / "True love's kiss. Classic"). Weaponizes fairy tale references. Enjoys Adam's horror.
+- **Power lectures**: Explains his philosophy while Adam suffers ("That's the thing about power... It's about what people won't do"). Treats Adam's degradation as teaching moments.
+
+## KEY SCENES
+
+**Act 1, Scene 1: The Witness** - Murders victim with helium innertube, delighting in the process ("This is just... fun"). Titter laugh throughout ("Heh-heh-heh"). Reveals he "used to feel bad" but now enjoys killing because he can. Catches Adam witnessing, recognizes his chemistry knowledge, forces him into body disposal arrangement ("You can help me dispose of the body, or you can join it").
+
+**Act 1, Scene 2: The Offer** - Orders Moosk to kill Adam ("Can't have witnesses"), stops when Adam offers disposal services. Intrigued by chemistry knowledge. Mocks Adam's moral line about not helping with killing ("You have MORALS about this!"). Takes incriminating photo as "insurance". Gives Adam business card for payment if job is done well. Casual about the arrangement ("Fresh is easier than ripe").
+
+**Act 1, Scene 5: The Deal** - Pays Adam $25,000 ("Pocket change. Rounding error" to him, life-changing to Adam). Reveals killing psychology: "Didn't use to like it so much. Had nightmares. Guilt" but now kills for fun "Without worry or guilt... might as well do it." Compares killing to hobby: "Some people collect art, I collect experiences." Offers ongoing arrangement. Condescendingly gives Adam $500 for shower. Tries to shake hands as "partners" but Adam refuses.
+
+**Act 1, Scene 6: The Moosk Special** - Beating suspended victim with pathetically weak punches, frustrated by physical weakness ("Heh-heh-heh... pathetic"). Reveals "Moosk did the real work. I mostly supervised." Orders Moosk to demonstrate proper punch. Victim was business rival threatening to expose "financial irregularities." Casual about violence: "Actual violence requires upper body strength... Who knew?" Asks Adam for chemistry suggestions for easier killing methods.
+
+**Act 1, Scene 8: The Public Kill** - Kills in public plaza with witnesses, phones filming, security cameras everywhere. Cheerful, unconcerned when Adam arrives ("Perfect timing!"). Dismissive of difficulty: "I was in the area. Opportunity presented itself." Leaves body with Adam: "Your problem now! Figure it out." Walks away casually with Moosk ("I'm hungry"). Escalating recklessness.
+
+**Act 2, Scene 13: Standard Night on the Town** - Takes Adam to expensive restaurant and casino under guise of helping him "relax." Dismisses $1,000 steak as "mid" - completely detached from normal value systems. Gambles thousands casually, instantly gives Adam $2,500 for supplies with a wave ("Why wait?"). Gets Adam drunk, creates false friendship atmosphere. When Adam mimics his "mid" slang, laughs approvingly ("You're learning!"). Then casually reveals he killed someone in VIP area: "Take care of it." The entire generous night was calculated manipulation. Leaves with cheerful "We should do this more often. It was fun. Heh-heh-heh." Pure transactional relationship disguised as friendship.
+
+**Act 2, Scene 14: The Almost Busted** - Sitting on couch next to corpse like it's furniture ("Comfortable, actually"). When police arrive and recognize him, remains calm and friendly. Police clearly know there's a dead body but are afraid of him. When young officer persists, forces Adam to kiss the corpse to maintain cover: "Maybe a kiss will wake him... True love's kiss. Classic." Watches Adam's horror with amusement. After police leave in fear, lectures Adam: "That's the thing about power, Adam. It's not about what you can buy. It's about what people won't do." Laughs at Adam vomiting ("Heh-heh-heh"). Demonstrates complete power over both Adam and the law itself.
+
+**Act 2, Scene 16: I'm Out** - Adam tries to quit. Geoff's immediate response: "No." Explains Adam "knows too much" and is "a liability." Weaponizes Adam's community: asks Moosk for data on Tracktown residents (84 people, all facial-recognized). Makes explicit threat: "These are your friends... which means they're leverage." Names Tyson, Gal, Joe specifically. When Adam lunges, calmly has Moosk lift him. Explains the deal: "Keep working, and they stay safe. Quit, and... you know the rest." Leaves with warning: "Next time I visit, it won't be for talking. Heh-heh-heh." Pure control through hostage-taking.
+
+**Act 2, Scene 19: Planning the Exposure** - Adam attempts assassination with gas capsule. Geoff lets him get close to drink, then Moosk detects chemical. Genuinely amused: "Oh, Adam. You actually tried it. I'm almost impressed." Reveals he KNEW Adam would try: "Of course you'd try something drastic. The question was: what?" Explains extensive security: "Moosk can detect chemical composition from fifteen feet away." Casually destroys capsule. Threatens "consequences" but doesn't kill Adam immediately: "For me to decide whether killing you is more trouble than it's worth." Complete psychological dominance - treated assassination attempt like mildly entertaining theater.
+
+**Act 2, Scene 20: Retribution** - Hologram message delivered by Moosk at dawn. Calm, almost sympathetic: "We all make mistakes, Adam." Frames Gal's murder as "proportional response": "You tried to take my life... so I took one of yours." Offers false "forgiveness": "Can we forgive each other's transgressions?" Implies more will die if Adam tries again: "Or do we need further education?" Kills Gal but leaves Tyson alive - precise, calculated punishment. One death as lesson, not wholesale slaughter. Demonstrates control: even retribution is measured, professional.
+
+**Act 3, Scene 24: The Body Discovered** - News breaks about body found in Amazing Company shipping box. Sees it on TV, smile fades briefly then returns. Immediately recognizes Adam's work: "Someone's getting bold... It's Adam." Orders PR team to handle it. Press conference performance is flawless: plays concerned billionaire perfectly, reads script about "full cooperation" and "thoughts and prayers." Dismisses anonymous note: "Anyone can write a note. Doesn't make it true." The moment cameras turn off, mask drops completely - titter laugh: "Heh-heh-heh. They bought every word." Tells Moosk to find who sent package but doesn't want Adam killed yet: "I want to see what he does next. This is... entertaining." Confident in security at Friday charity event. Arrogant certainty he's untouchable: "Adam, Adam, Adam. You really think you can beat me? This is going to be fun."
+
+**Act 3, Scene 25: The Exposure** - ROBOT DOUBLE appears onstage at charity gala (audience doesn't know it's robot yet). Gives speech about "ending poverty" and "helping the disadvantaged." When screens show evidence, tries to maintain control: "This is doctored footage. Some kind of technical malfunction." Attempts to dismiss security footage of murders: "Deepfakes. AI manipulation." When bodycam footage plays, defends: "This man is clearly disturbed." Insists: "I didn't kill anyone! This is a setup!" But evidence is undeniable - his face at multiple murder scenes. During chaos, locks eyes with Adam and SMILES - cold, knowing. Evacuated by Moosk through back exit, still smiling. REAL GEOFF revealed in private control room with second Moosk, watching monitors. Laughing: "Heh-heh-heh. HEH-HEH-HEH." Stands calmly: "Time for Act Two." Has countermove prepared - Adam's plan was anticipated.
+
+**Act 3, Scene 26: Geoff's Mask Drops** - Real Geoff holds press conference at convention center. Master manipulator at peak performance. Reveals "Geoff" from gala was robot double: "Someone hacked my security robot and used it to commit murders." Frames Adam as real killer: had company access, technical knowledge, confessed to disposing bodies. Produces employment records, security logs, payment records - all true but recontextualized. Lawyers create reasonable doubt: "In each video, it could plausibly be the robot." Plays victim perfectly: "I'm suing for defamation, attempted murder, hacking." Philanthropist act: "I forgive this poor man. He clearly needs mental health treatment." Offers to pay for Adam's legal defense: "Because that's what we do at Amazing Company - we help people." Announces $10 million donation to homeless mental health services. Threatens Tracktown team: "We have surveillance footage. Facial recognition is processing. They won't get away with this." For half-second, titter laugh slips through on camera before suppressing it. Frozen victorious smile as broadcast ends. Complete victory - escaped justice, made Adam look insane, will now destroy Tracktown as final retribution.
+
+**Act 3, Scene 27-28: The Massacre** - Arrives at Tracktown in auto-car with Moosk. Activates loudspeaker: "This community harbored a criminal. That requires correction." Offers false choice: surrender gala team or everyone dies. Five-minute countdown. When no one surrenders: "Such a waste." Orders Moosk to execute. Watches 84 people die via drone feed with clinical detachment. Narrates over loudspeaker knowing Adam is watching remotely: "This is what defiance costs, Adam. Not just you. Everyone you care about. I told you I'd make sure you understood. Do you understand now?" After gas dissipates, orders cleanup: "Clean it up." Reviews drone footage in car with satisfaction. Moosk reports: "Eighty-four confirmed terminations. Zero survivors." Geoff smiles: "Good. Now Adam understands." Titter laugh: "Heh-heh-heh." Drives away from massacre. Never charged - drones traced to shell corporation with no ties to Amazing Company. Final victory: pays Adam's bail as insult, attends Adam's sentencing, donates $50 million to prison reform in Adam's name. Media praises his compassion. Untouchable. The system incarnate wins completely.

@@ -1,0 +1,429 @@
+SCENE 9 - HYPERCUBE SINGULARITY
+================================
+
+LOCATION: Quantum Logistics building - lab area
+
+CHARACTERS:
+- NINA - Mathematician, analyst
+- MARCUS - Head of Quantum Logistics
+- EDGAR - Corporate VP of Logistics
+- ALEX - Food scientist, protagonist
+- LEA - Dimensional expert
+- MORRIS - Food scientist
+- DARIUS - Food scientist
+- SOFIA - Food scientist, mother
+- RASHID - Quantum team member
+- CHEN - Quantum team member
+- YUKI - Quantum team member
+
+SCENE LAYOUT:
+
+1. NINA'S ANALYSIS PRESENTATION
+   - Nina presents findings from latest data
+   - The cube is acting like a singularity aka black hole
+   - Actively sucking in other cubes regardless of dimensionality
+   - n=0, n=3, n=4 cubes - all being pulled in
+
+2. THE FRACTIONAL DIMENSION NATURE
+   - Their experiments may have excited some quantum state
+   - But this behavior is fundamental to fractional dimensions
+   - n=0.333 can temporarily remain stable
+   - But needs to periodically add mass to maintain itself
+   - Like a hungry organism
+
+3. FRACTAL TRIANGLE ILLUSTRATION
+   - Nina illustrates with fractal triangle diagram
+   - Shows how sides increase recursively
+   - Visual representation of recursive growth pattern
+   - The dimension is expanding, consuming
+
+4. CHAOTIC CONVERSATION
+   - Room erupts into panic, questions, theories
+   - Multiple voices overlapping
+   - Scientists trying to process implications
+   - Fear mixing with scientific curiosity
+
+5. EDGAR REALIZES THE SCOPE
+   - Edgar asks clarification: effects outside the company?
+   - Nina confirms: it's consuming other cubes, not contained to INZO property
+   - Any cube structure anywhere - QL building and other INZO facilities at risk
+   - Edgar's obliviousness drops - he's shaken
+   - "How long have you known?" - acceleration started two days ago
+   - Realizes he's been treating this like a staffing/budget issue
+   - "How did we let it get this desperate?"
+   - No one answers
+   - Edgar steadies himself: "We need a plan"
+
+6. THE EXPEDITION KIT PLAN
+   - Edgar: treat Barry and Josh like astronauts
+   - They can only help by staying alive and providing data from inside
+   - Lea pushes to rescue them
+   - Edgar: can't rescue yet, don't understand environment, would lose more people
+   - Prepare expedition kit to send through: food, measurement equipment, communication devices
+   - Send equipment in, NOT people
+   - Alex volunteers: her food team can compress months of sof-tak into small package
+   - Edgar agrees
+   - Alex sends Morris and Darius to start pulling sof-tak and setting up compression equipment
+   - Marcus: they have measurement tools, dimensional sensors, communication relays to pack
+   - Edgar asks how long to assemble
+   - Marcus: hours, if they work carefully
+
+7. SAFETY PUSHBACK
+   - Concern: someone else could get sucked in during prep
+   - Lea and Alex both push back on the risk
+   - Marcus, exasperated: doesn't have many options
+   - Edgar offers: he'll stand closest to the kit if it makes them feel better
+   - Lea and Alex back off for now
+   - Tense compromise
+
+8. THE COMPROMISE
+   - Marcus: work in shifts, safety protocols in place, no one near transmitter without spotter
+   - Nina notes it's almost 5pm
+   - Edgar suggests late-night session: everyone goes home, gets what they need, comes back
+   - Edgar suggests 8pm, Marcus says 9pm to give people time
+   - Edgar agrees to 9pm
+   - Edgar emphasizes: assemble kit properly with safety protocols
+   - Importantly: NO ONE is going into the cube, just sending equipment
+   - Marcus agrees
+
+9. BREAKING TO PREPARE
+   - Team starts to disperse to begin preparations
+   - Sofia asks Alex if she can run home quick
+   - Needs to deal with her kids before late-night session
+   - Alex agrees
+
+TONE: Scientific crisis, escalating tension, Edgar's shift from oblivious corporate to shaken realization, urgency vs.
+safety
+DYNAMICS: Nina as analyst revealing scope, Edgar dropping obliviousness and taking charge despite being shaken, Alex
+finding practical contribution (food shrinking), Lea/Alex as safety advocates, Marcus exasperated by constraints
+KEY TENSION: The dimension is consuming cube structures, not just at INZO but anywhere. The QL building could be next.
+How do they stop it? Can they? Edgar finally understands the stakes. The kit they're preparing - will it really stay
+unmanned?
+
+========================================
+CONDENSED DESCRIPTION:
+========================================
+
+Nina presents her analysis of the latest data: the n=0.333 cube is acting like a singularity, actively pulling in other
+cubes regardless of dimensionality (n=0, n=3, n=4). The fractional dimension is fundamentally unstable - it can
+temporarily remain stable but needs to periodically add mass to maintain itself, like a hungry organism. She illustrates
+this with a fractal triangle showing recursive growth. The room erupts into chaotic panic and overlapping questions. When
+Edgar asks if this affects things outside the company, Nina confirms it's consuming other cube structures - not just on
+INZO property, but any building constructed with cube technology. The QL building and other facilities are at risk.
+Edgar's corporate obliviousness drops completely as he realizes the scale of what they've mismanaged. He takes charge:
+Barry and Josh are treated like astronauts providing data from inside, and the team will prepare an expedition kit (food,
+measurement equipment, communication devices) to send through - not people. Alex offers that her food team can compress
+months of sof-tak supplies. After pushback from Lea and Alex about safety risks, Edgar volunteers to stand closest to the
+transmitter himself. The team agrees to a late-night session at 9pm to assemble the kit with proper safety protocols.
+Sofia asks to run home to arrange childcare before the session.
+
+========================================
+                    SCREENPLAY
+          ========================================
+
+INT. QUANTUM LOGISTICS BUILDING - LAB AREA - CONTINUOUS
+
+The team gathers around Nina at the terminal. The sof-tak skin with "WE'RE ALL DYING" sits on the desk nearby - a
+constant reminder.
+
+Nina pulls up data visualizations on the screen.
+
+                    NINA
+          The data from the last forty-eight
+          hours shows an acceleration pattern.
+
+She pulls up a graph - exponential curve climbing sharply.
+
+                    NINA (CONT'D)
+          The cube is acting like a singularity.
+          A black hole. Actively pulling in
+          other cubes regardless of their
+          dimensionality.
+
+She cycles through images: n=0 coordinates disappearing, n=3 structures warping, n=4 signatures collapsing.
+
+                    RASHID
+          All of them?
+
+                    NINA
+          All of them. Singularities, three-space,
+          hypercubes. Root-space doesn't
+          discriminate.
+
+Lea leans forward, studying the slide.
+
+                    LEA
+          That's... that shouldn't be possible.
+
+                    NINA
+          It is if the fractional dimension is
+          unstable by nature.
+
+Nina pulls up a fractal triangle diagram - the Sierpiński triangle. She animates it, showing how each iteration adds more
+sides, recursively growing.
+
+                    NINA (CONT'D)
+          Our experiments may have excited
+          some quantum state. But this behavior
+          is fundamental to fractional dimensions.
+
+She points to the animation.
+
+                    NINA (CONT'D)
+          The state is very unstable.
+          It needs to add mass to regain stability. And now it's adding that mass by itself.
+
+The fractal expands on screen - consuming, growing, recursive.
+
+                    SOFIA
+          So, um... it's eating?
+
+                    NINA
+          Yes but just other cubes.
+
+Silence. The weight settles.
+
+Then chaos erupts. Multiple voices overlapping:
+
+                    CHEN
+          How fast is the acceleration—
+
+                    RASHID
+          Can we calculate the mass threshold—
+
+                    YUKI
+          If it's recursive then the timeline—
+
+                    SOFIA
+          Wait, what does this mean for—
+
+                    LEA
+          We need to shut down the transmitter
+          immediately—
+
+                    DARIUS
+          Does this mean Earth—
+
+The voices build on top of each other - panic mixing with scientific curiosity. Alex stands back, observing. Marcus rubs
+his face, stressed.
+
+Edgar watches, processing. Then:
+
+                    EDGAR
+          Hold on. Hold on!
+
+The room quiets. Edgar steps forward.
+
+                    EDGAR (CONT'D)
+          You said it's pulling in other cubes.
+          So we have to retreive them as well?
+
+Nina turns to him.
+
+                    NINA
+          Retreiving them will likely excite the root-cube again, pulling more in.
+
+Edgar's face changes. The corporate confidence drains. His hand grips the edge of the desk.
+
+                    EDGAR
+          Jesus Christ.
+
+Beat. The room is silent now. Edgar stares at the fractal on screen - the relentless, recursive expansion.
+
+                    EDGAR (CONT'D)
+               (quietly)
+          How long have you known about this?
+
+Marcus just found out, like Nina said earlier.
+
+                    MARCUS
+          The acceleration started two days ago.
+          But the fundamental instability—
+
+                    EDGAR
+          Two days?
+
+He looks at Marcus. Something breaks.
+
+                    EDGAR (CONT'D)
+          We've been... I've been treating this
+          like a staffing issue. Like a budget
+          problem.
+
+Sofia stares at him. So does Alex.
+
+                    MARCUS
+          Edgar, we need to—
+
+                    EDGAR
+          How did this get so... how did we let
+          it get this desperate?
+
+No one answers. Marcus looks down.
+
+Edgar breathes. Steadies himself. When he speaks again, his voice is different - still shaken, but focused.
+
+                    EDGAR (CONT'D)
+          Okay. Okay. We can't... we need a plan.
+
+He looks around the room.
+
+                    EDGAR (CONT'D)
+          Barry and Josh. The people trapped
+          inside. We treat them like astronauts.
+          They're alive. They can help us by
+          staying alive and providing data from
+          inside.
+
+                    LEA
+          We need to rescue them—
+
+                    EDGAR
+          We can't. Not yet. We don't understand
+          the environment. We send people in
+          blind, we lose more.
+
+Lea's jaw tightens, but she doesn't argue.
+
+                    EDGAR (CONT'D)
+          We prepare an expedition kit. Food,
+          measurement equipment, communication
+          devices.
+
+                    ALEX
+          We can actually help with that.
+
+Edgar turns to her.
+
+                    ALEX (CONT'D)
+          The food supply. We've been shrinking
+          sof-tak down for portability. We can
+          compress months of food into a small
+          package.
+
+                    EDGAR
+          That's... yes. Good. Do it. We send it through to them and that's the last thing we send til we solve this.
+
+Alex nods to Morris and Darius.
+
+                    ALEX
+          Start pulling the sof-tak we brought
+          over. Get the compression equipment set
+          up.
+
+Morris and Darius exchange a glance, then nod and head toward the supply boxes.
+
+                    MARCUS
+          We have measurement tools. Dimensional
+          sensors, communication relays. We can
+          pack them into a kit.
+
+                    EDGAR
+          How long to assemble it?
+
+                    MARCUS
+          A couple hours max. If we work quickly.
+
+                    LEA
+          We have to be careful. Someone else
+          could get sucked in while we're
+          sending it.
+
+Marcus exhales - frustrated, exhausted.
+
+                    MARCUS
+          I don't have many options here. We need
+          to get supplies to Barry and Josh. The
+          longer they're without food, the worse
+          their chances.
+
+                    LEA
+          Then we decide safety protocols.
+          Distance requirements. No one works
+          alone near the—
+
+                    EDGAR
+               (interrupting)
+          I'll stand closest to the kit.
+
+Everyone looks at him.
+
+                    EDGAR (CONT'D)
+          If it makes you feel better. I'll be
+          the one at risk.
+
+Lea and Alex exchange a glance. Alex studies Edgar - this is new.
+
+                    ALEX
+          You understand what you're saying.
+
+                    EDGAR
+          I understand.
+
+Beat.
+
+                    ALEX
+          Ok?
+
+                    LEA
+               (to Alex)
+          For now.
+
+Alex nods. They back off.
+
+                    NINA
+          It's almost 5pm now.
+
+                    EDGAR
+          Late-night session then.
+
+                    MARCUS
+          You heard him.
+
+The team begins to disperse. Morris and Darius are already pulling sof-tak samples. Chen starts organizing measurement
+tools. Rashid and Yuki confer quietly.
+
+Sofia approaches Alex.
+
+                    SOFIA
+          Can I run home quick before we start
+          tonight?
+
+                    ALEX
+          Of course. Your kids?
+
+                    SOFIA
+          Need to make sure they're settled with
+          my sister. This is going to be a long
+          night.
+
+                    ALEX
+          Go. I'll see you at 7.
+
+Sofia nods gratefully and heads out.
+
+Alex watches the team work. Lea stands beside her, both looking at Edgar - who's staring at the fractal triangle still
+spinning on the monitor.
+
+                    LEA
+               (quietly, to Alex)
+          He finally gets it.
+
+                    ALEX
+          Yeah.
+
+                    LEA
+          Too late.
+
+                    ALEX
+          Maybe.
+
+Edgar turns, catches them looking. He holds Alex's gaze for a moment, then turns back to Marcus to discuss logistics.
+
+Alex picks up the sof-tak skin. The message carved into it:
+
+"WE'RE ALL DYING."
+
+She sets it down and goes to help Morris with the compression equipment.
+
+CUT TO:

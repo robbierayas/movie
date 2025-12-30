@@ -1,0 +1,260 @@
+# [PROJECT TITLE]
+
+## Logline
+[One-sentence hook describing the core story and conflict]
+
+## Synopsis
+[2-4 paragraphs telling the complete story from beginning to end. Include:
+- Setup and main character introduction
+- Central conflict and stakes
+- Major plot turns
+- Resolution and outcome
+- The twist or thematic revelation]
+
+## Theme
+[Central theme or philosophical question]
+
+[One sentence explaining what the story is really about beyond the plot]
+
+## Genre
+[Primary Genre] / [Secondary Genre] / [Tertiary Genre if applicable]
+
+## Setting
+**[Time Period and Location]**
+
+[Description of the world, atmosphere, and tone. What makes this setting unique or important to the story?]
+
+**Key Locations:**
+- **[Location 1]** - [Brief description and narrative purpose]
+- **[Location 2]** - [Brief description and narrative purpose]
+- **[Location 3]** - [Brief description and narrative purpose]
+
+## Historical Context (if applicable)
+See **history.txt** for complete historical documentation, dates, sources, and fact-checking.
+
+**Key Real Events:** (if based on true story)
+- [Event 1 with date]
+- [Event 2 with date]
+- [Event 3 with date]
+
+---
+
+## MAIN CHARACTERS
+
+### [Character Name] - [COMPOSITE/HISTORICAL/FICTIONAL]
+[Age/description]. [Core traits and role in story]. [Personal stakes]. [Character arc summary].
+
+**Based on:** [Real person/archetype if applicable]
+
+### [Character Name] - [COMPOSITE/HISTORICAL/FICTIONAL]
+[Age/description]. [Core traits and role in story]. [Personal stakes]. [Character arc summary].
+
+**Based on:** [Real person/archetype if applicable]
+
+### [Character Name] - [COMPOSITE/HISTORICAL/FICTIONAL]
+[Age/description]. [Core traits and role in story]. [Personal stakes]. [Character arc summary].
+
+**Based on:** [Real person/archetype if applicable]
+
+### [Character Name] - [COMPOSITE/HISTORICAL/FICTIONAL]
+[Age/description]. [Core traits and role in story]. [Personal stakes]. [Character arc summary].
+
+**Based on:** [Real person/archetype if applicable]
+
+---
+
+## STORY STRUCTURE
+
+### ACT ONE: [ACT TITLE]
+**Timeline:** [Time period covered] (~[XX-XX] minutes)
+**Theme:** [Act-specific theme]
+
+[One paragraph describing what happens in Act 1]
+
+**Major Beats:**
+- [Beat 1: Location/Event - Brief description]
+- [Beat 2: Location/Event - Brief description]
+- [Beat 3: Location/Event - Brief description]
+- [Beat 4: Location/Event - Brief description]
+- [Beat 5: Location/Event - Brief description]
+- [Beat 6: Location/Event - Brief description]
+
+**Act One Climax:** [Description of turning point that propels into Act 2]
+
+---
+
+### ACT TWO: [ACT TITLE]
+**Timeline:** [Time period covered] (~[XX-XX] minutes)
+**Theme:** [Act-specific theme]
+
+[One paragraph describing what happens in Act 2]
+
+**Major Sequence 1: [Sequence Name]**
+- [Beat 1: Event/Development]
+- [Beat 2: Event/Development]
+- [Beat 3: Event/Development]
+
+**Major Sequence 2: [Sequence Name]**
+- [Beat 1: Event/Development]
+- [Beat 2: Event/Development]
+- [Beat 3: Event/Development]
+
+**Major Sequence 3: [Sequence Name]**
+- [Beat 1: Event/Development]
+- [Beat 2: Event/Development]
+- [Beat 3: Event/Development]
+
+**Act Two Climax:** [Description of major turning point/all is lost moment]
+
+---
+
+### ACT THREE: [ACT TITLE]
+**Timeline:** [Time period covered] (~[XX-XX] minutes)
+**Theme:** [Act-specific theme]
+
+[One paragraph describing what happens in Act 3]
+
+**Major Beats:**
+- [Beat 1: Event/Development]
+- [Beat 2: Event/Development]
+- [Beat 3: Event/Development]
+- [Beat 4: Event/Development]
+- [Beat 5: Event/Development]
+
+**Epilogue Sequence (if applicable):**
+- [What happens after the main story]
+- [Long-term outcomes]
+- [Thematic closure]
+
+**Final Image:** [Description of closing shot/moment that encapsulates the theme]
+
+---
+
+## KEY STORY ELEMENTS
+
+### [Major Plot Device/Concept 1]
+[Detailed explanation of important story element - what it is, how it works, why it matters to the plot]
+
+### [Major Plot Device/Concept 2]
+[Detailed explanation of important story element - what it is, how it works, why it matters to the plot]
+
+### [Major Plot Device/Concept 3]
+[Detailed explanation of important story element - what it is, how it works, why it matters to the plot]
+
+### [Important Location/System]
+[Explanation of key setting or system in the story world]
+
+### [Famous Quote/Moment] (if applicable)
+[Any historically significant dialogue or iconic moment]
+
+### [The Twist/Irony]
+[Explanation of the story's central irony, twist, or thematic revelation]
+
+---
+
+## DRAMATIC THEMES
+
+1. **[Theme 1]** - [One sentence explanation]
+2. **[Theme 2]** - [One sentence explanation]
+3. **[Theme 3]** - [One sentence explanation]
+4. **[Theme 4]** - [One sentence explanation]
+5. **[Theme 5]** - [One sentence explanation]
+6. **[Theme 6]** - [One sentence explanation]
+7. **[Theme 7]** - [One sentence explanation]
+8. **[Theme 8]** - [One sentence explanation]
+9. **[Theme 9]** - [One sentence explanation]
+
+---
+
+## PRODUCTION NOTES
+
+**Visual Style:**
+- [Aesthetic/cinematography approach]
+- [Color palette/mood]
+- [Contrasts and visual motifs]
+- Film references: [Similar films for reference]
+
+**Key Visuals:**
+- [Important visual moment 1]
+- [Important visual moment 2]
+- [Important visual moment 3]
+- [Important visual moment 4]
+- [Important visual moment 5]
+
+**Music/Sound:**
+- [Musical style or period]
+- [Key songs or score approach]
+- [Sound design notes]
+
+**Special Considerations:**
+- [Animation requirements]
+- [Technical challenges]
+- [Period accuracy needs]
+- [Special effects or props]
+
+---
+
+## TIMELINE
+
+**Estimated Runtime:** [XX-XX] minutes ([X]+ hours)
+
+**Act Breakdown:**
+- Act One: [XX-XX] minutes
+- Act Two: [XX-XX] minutes
+- Act Three: [XX-XX] minutes
+
+**Total Scenes:** Approximately [XX] scenes (to be broken down in table of contents)
+
+**Locations:**
+- [Primary location 1]
+- [Primary location 2]
+- [Primary location 3]
+- [Brief mentions: other locations]
+
+**Production Timeline:** (if applicable)
+- [Milestone 1]
+- [Milestone 2]
+- [Milestone 3]
+
+---
+
+## HISTORICAL ACCURACY NOTES (if applicable)
+
+### What's Confirmed:
+- [Historical fact 1]
+- [Historical fact 2]
+- [Historical fact 3]
+- [Historical fact 4]
+
+### What's Fictionalized:
+- [Composite character 1]
+- [Composite character 2]
+- [Dramatic license taken]
+- [Timeline compression]
+
+### Sources:
+See **history.txt** for complete bibliography and source reliability notes.
+
+**Key reliable sources:**
+- [Source 1]
+- [Source 2]
+- [Source 3]
+
+**Unreliable sources:**
+- [Source to avoid and why]
+
+---
+
+## NOTES FOR DEVELOPMENT
+
+[Any additional notes about the project:
+- Tone considerations
+- Character dynamics to explore
+- Scenes that need special attention
+- Worldbuilding details
+- Research needed
+- Questions to resolve]
+
+---
+
+END OF MAIN OUTLINE

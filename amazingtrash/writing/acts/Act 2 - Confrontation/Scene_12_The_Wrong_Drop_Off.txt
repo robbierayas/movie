@@ -1,0 +1,225 @@
+# Scene 12 - The Wrong Drop-Off
+
+## LOCATION
+INT. AMAZING COMPANY AUTO-CAR / EXT. AMAZING COMPANY SHIPPING FACILITY - NIGHT
+
+## CHARACTERS
+Adam, Body (chopped up in bags)
+
+## SCENE LAYOUT
+
+### Opening
+Adam sits in the back of an Amazing Company auto-car, exhausted and distracted. Multiple black bags containing chopped
+body parts are in the cargo area. He's going through the motions - this has become routine. Through the window, he spots
+a police car parked on the side of the road, triggering instant paranoia.
+
+### Key Beats
+1. **Police sighting** - Adam tenses when he sees the cop car, but the auto-car turns a corner
+2. **Being followed?** - Vehicles turn after him. Adam's paranoia spikes - is he being followed or is it coincidence?
+Can't see colors in the dark.
+3. **Wrong destination** - The auto-car arrives at a massive, well-lit Amazing Company shipping facility instead of the
+railyard. The automated voice reveals the wrong destination.
+4. **Panic and correction** - Adam frantically checks the app (which now shows the wrong destination) and corrects it
+back to Tracktown
+5. **Mystery** - Was this a random glitch, Geoff testing him, or his luck finally running out?
+
+### Character Moments
+- **Adam**: Exhausted and on autopilot from too many disposal jobs. The police sighting jolts him back to reality,
+reminding him how precarious his situation is. When vehicles appear to be following him (he can't see their colors in the
+dark), his paranoia explodes. At the wrong facility, he experiences pure terror - one wrong move and he's caught with
+chopped bodies. The ambiguity of what caused the glitch leaves him more paranoid than ever.
+
+### Closing
+The auto-car reroutes to the correct destination. Adam sits in silence, heart pounding, staring at the bags. He's
+rattled. The system that's protected him might be breaking down - or someone might be playing games with him. Either way,
+the walls are closing in.
+
+---
+
+## FULL SCRIPT
+
+INT. AMAZING COMPANY AUTO-CAR - NIGHT
+
+The self-driving car glides through empty streets. ADAM slumps in the back seat, eyes half-closed. Exhausted. Going
+through the motions.
+
+In the cargo area behind him: FOUR BLACK PLASTIC BAGS, heavy and misshapen.
+
+Adam stares out the window, unfocused. The city blurs past.
+
+Through the windshield, up ahead: a POLICE CAR parked on the roadside, lights off.
+
+Adam's eyes snap open. He sits up straight.
+
+Adam, under his breath.
+
+                    ADAM
+          No no no...
+
+The auto-car maintains its steady speed. Drawing closer to the police car.
+
+Adam's hand hovers over the door handle. His breathing quickens.
+
+The police car sits dark. Empty? Occupied? Impossible to tell.
+
+Adam glances back at the bags. If they pull him over--
+
+The auto-car turns right, away from the police car.
+
+Adam exhales, slumping back.
+
+Adam (cont'd), quietly.
+
+                    ADAM (CONT'D)
+          Just keep moving. Just keep--
+
+Through the rear window: HEADLIGHTS turn the corner behind them.
+
+A vehicle. Can't see the color in the dark. Can't see what kind.
+
+Adam watches it. Probably nothing. Random traffic.
+
+The vehicle maintains distance. Following? Or just... driving?
+
+Another turn. The vehicle follows.
+
+Adam's jaw tightens. He checks the app on his phone.
+
+DESTINATION: TRACKTOWN INDUSTRIAL - EAST ENTRANCE
+ETA: 8 MINUTES
+
+The screen shows their route. Normal.
+
+He looks back. The headlights are still there.
+
+Another vehicle turns onto the street behind them. More headlights. Two cars now.
+
+                    ADAM (CONT'D)
+          What the hell...
+
+His fingers tighten on the phone. Two vans now. Both keeping pace.
+
+Coincidence. Has to be. Vans drive at night. It's normal.
+
+But nothing has felt normal for weeks.
+
+The auto-car takes another turn. Adam holds his breath.
+
+Both vans turn too.
+
+Adam (cont'd), frantic whisper.
+
+                    ADAM (CONT'D)
+          They're following me. Geoff's testing me. Or the police--
+
+He grips his phone. Wants to check the route again but forces himself to look away.
+
+Don't draw attention. Act normal.
+
+The auto-car slows.
+
+Through the windshield: MASSIVE FLOODLIGHTS illuminate an enormous industrial facility. Security gates. Loading docks.
+Workers in bright vests moving between buildings.
+
+The Amazing Company logo gleams on every surface.
+
+                    ADAM (CONT'D)
+          Oh god. Oh god oh god--
+
+The auto-car pulls into the entrance lane, heading for the security checkpoint.
+
+Automated voice, from car speakers.
+
+                    AUTOMATED VOICE
+          Arriving at destination: Amazing Company Central Shipping Hub.
+
+Adam, panicked.
+
+                    ADAM
+          What? When did I-- I didn't change--
+
+He frantically opens the app on his phone.
+
+The screen shows: AMAZING COMPANY CENTRAL SHIPPING HUB
+
+                    ADAM (CONT'D)
+          NO!
+
+His fingers fly over the screen. CHANGE DESTINATION. He scrolls through recent addresses.
+
+The auto-car continues toward the checkpoint. Twenty yards away. Fifteen.
+
+Adam finds it: TRACKTOWN INDUSTRIAL - EAST ENTRANCE.
+
+He slams the selection.
+
+UPDATE DESTINATION? YES / NO
+
+He hits YES.
+
+The auto-car slows. Stops.
+
+                    AUTOMATED VOICE (CONT'D)
+          Recalculating route.
+
+Adam stares at the security checkpoint fifteen feet away. A GUARD in the booth looks up from his monitor.
+
+Their eyes meet.
+
+Adam forces a casual wave.
+
+The guard nods back, uninterested.
+
+                    AUTOMATED VOICE (CONT'D)
+          New route confirmed. Estimated arrival: 12 minutes.
+
+The auto-car reverses, turns, heads back to the main road.
+
+Adam collapses against the seat, heart hammering.
+
+He looks back at the facility, shrinking in the distance.
+
+The vans are gone. The street is empty.
+
+Were they even real? Or paranoia playing tricks?
+
+Adam stares at his phone. The app shows the corrected route. Simple. Clean.
+
+No indication of why it changed.
+
+Random glitch? The system malfunctioning?
+
+Or...
+
+He thinks of Geoff. That titter laugh. Those cold eyes.
+
+Was this a test? A game? A warning?
+
+Adam looks at the bags in the cargo area.
+
+Adam, barely audible.
+
+                    ADAM
+          What's happening...
+
+The auto-car drives on through the night.
+
+Adam doesn't sleep. Doesn't relax.
+
+He watches every car. Every shadow.
+
+Waiting for the next thing to go wrong.
+
+FADE OUT.
+
+---
+
+## Production Notes
+- Multiple black disposal bags visible in cargo area
+- Nighttime city lighting through auto-car windows
+- Police car visible on roadside
+- Vehicles appearing in traffic behind auto-car (colors not visible in dark - only headlights)
+- Amazing Company shipping facility: massive, brightly lit, industrial
+- Auto-car app interface: shows correct destination (Tracktown) initially, then wrong destination (Amazing Company)
+revealed when automated voice announces arrival
+- App destination glitch revealed by automated voice announcement, not by Adam seeing it on screen during drive

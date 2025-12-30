@@ -1,0 +1,55 @@
+# Amazing Trash
+
+## Logline
+A homeless chemist helps a billionaire get rid of bodies, until he decides enough is enough.
+
+## Synopsis
+ Economic disparity has grown to where low wage workers expected to be homeless. An abandoned railyard has become a homeless encampment built over called "Tracktown". A homeless chemist Adam has his own secret passageways. Adam is possibly on the run from the military. One day in the city, a billionaire Geoff with his robot bodyguard Moosk kill someone for pleasure and he witnesses. Geoff runs Amazing Company and has annoying titter laugh. Managing his public image is subplot throughout. When they move to kill him, he offers to get rid of the body. He is able to get it to the secret spot and dissolve it in glowing acidic waste. They thank him by paying and giving series of body disposal jobs.  There are several crazy ones where he almost gets busted. As he makes money, he comes out of his shell in his community. Worldbuilding exposition explained in scenes where he spends money.
+
+He becomes friends with a kid Tyson(T) and woman Max. They bond over the new pasttime of scamming rich people on the street. Convinced the police are onto him, he tries to find a way out. He is running out of space to store the waste and is visiting the spot too often. Geoff won't let him quit and gets sloppier and sloppier. One incident they are busted but not arrested yet. Adam asks Geoff to help his friends and he'll take the fall. Rich guy gets out of it on his own. Adam says he can't risk it again. Geoff threatens saying he can't quit. This sets in motion plan to get Geoff busted or dead. Adam makes a toxic gas, but it isn't perfect. It has a flaw of bringing dead victim back to life. It will have to do, but Geoff gets out of it. He kills T or Max to keep him in line. Adam tries another plan. This plan revolves around distraction. Possibly publicly exposed or forced into agreement. Like onstage surrounded by Tracktown children he is forced to pledge to feed them.
+
+When almost successful, Geoff gets out of it in disgusting way like saying they deserve to die like T/Max. Adam shoots his head off but it is robot. Real Geoff comes out fine. He exposes Adam for helping him. He takes it out on the railyard with drones gassing everyone while making Adam watch. The fenced off area with Smiley face logo of Amazing Company full of gas. Adam turns away from all of it.
+
+## Theme
+Rebirth-Adam's second chances,gas
+
+## Genre
+Genre: Sci-Fi Horror
+
+## Setting
+Near-Future big city (Houston or New York) with extreme economic disparity. The story centers on **Tracktown**, a homeless encampment in a swampy, unbuildable area on the city's outskirts.
+
+### Tracktown
+A semi-permanent settlement built in an abandoned railyard. While technically illegal housing, it functions as a fairly normal neighborhood with its own infrastructure and community. The defining architectural feature is abandoned train cars stacked up to 5 stories high (mostly connected by ladders, with a few stairs). Other structures include shipping containers and makeshift buildings. The settlement has jury-rigged plumbing and electrical systems, with narrow crawlspaces throughout where Adam hides his secret chemistry lab. Safe enough for police to patrol during daytime, though possibly controlled by local mafia/extortion networks.
+
+## Story Structure
+
+### Act 1 - The Arrangement
+Adam witnesses billionaire Geoff and his robot bodyguard Moosk commit murder. To save his own life, he offers to dispose of the body using his chemistry knowledge and access to the railyard's hidden areas with glowing acidic waste. This becomes a lucrative arrangement as Geoff hires him for more disposal jobs. With the money, Adam comes out of his shell in the Tracktown homeless community, making friends with a kid named Tyson (T) and a woman named Gal(short for galadreil). They bond over their new pastime of scamming rich people on the street. During several disposal jobs, Adam nearly gets busted, showing the increasing risk of his work.
+
+### Act 2 - The Trap
+Convinced the police are onto him, Adam tries to find a way out. He's running out of space to store the waste and visiting the spot too often. Geoff refuses to let him quit and gets sloppier with his kills. During one incident they are busted but not arrested yet. Adam offers to take the fall if Geoff helps his friends, but Geoff gets out on his own using his wealth and influence. When Adam says he can't risk it again, Geoff threatens him - he can't quit. This sets Adam's plan in motion to get Geoff killed. Adam creates the re-animator gas in his secret lab - a glowing green toxic weapon. He discovers it has a flaw (it brings dead victims back to life) but runs out of time to fix it. Adam puts the gas in a pill and slips it into Geoff's food, but Moosk's surveillance catches him. Moosk pops the pill open, analyzes it, and Geoff laughs - "nice try." The plan fails before it even works. To keep Adam in line, Geoff kills either T or Gal. Adam begins planning a new approach - this time using distraction instead of violence.
+
+**Scene 21 - Gal's Funeral (Between Acts 2 & 3):** After Gal's death, Tyson tells Joe everything about Adam's situation - how Geoff forced him to dispose bodies and threatened Tracktown. Word spreads through the community. Marie arranges a proper funeral for Gal where approximately 30 Tracktown residents gather. During the funeral, the community pledges to help Adam expose Geoff publicly. People offer various skills: backstage access, camera expertise, security distraction, etc. The detailed exposure plan (preserved body evidence, taking over production feed at charity event, obtaining bodycam footage) is coordinated offscreen by Adam, Tyson, and Joe with community support. The funeral transforms from mourning into a rallying cry - Tracktown united against Geoff.
+
+### Act 3 - The End
+Mourning his friend's death, Adam devises a second plan revolving around public distraction - forcing Geoff into a situation where he can't escape without exposing himself (possibly surrounded by Tracktown children onstage and forced to pledge to feed them). When the plan is almost successful, Geoff gets out of it in a disgusting way, saying the Tracktown people deserve to die like T/Gal deserved to die. Enraged, Adam shoots Geoff's head off - but discovers it's a robot. The real Geoff emerges unharmed, laughing. Geoff exposes Adam for helping him dispose of bodies, then takes revenge on the entire railyard. He deploys drones that gas the fenced-off encampment while forcing Adam to watch, the Amazing Company's smiley face logo marking the area as everyone dies. Adam turns away from all of it, broken and defeated.
+
+## Key Story Elements
+
+### Re-Animator Gas
+Adam creates a toxic gas weapon to use against Geoff, combining his chemistry knowledge with materials from his secret lab. The gas is designed to be lethal through respiratory exposure - fast-acting, nearly invisible, and breaks down cellular function at the molecular level.
+
+**The Fatal Flaw:** The gas has an unintended side effect - it causes dead victims to briefly reanimate (minutes to hours after death). The same compounds that kill living cells trigger a temporary "reboot" of recently dead tissue, similar to a full-body defibrillator effect. Reanimated victims may be confused, violent, or act on base instincts before their cells exhaust their energy and die permanently.
+
+This flaw makes the gas unreliable for Adam's purposes - instead of a clean, untraceable kill, it creates chaos that allows Geoff to escape. The reanimation element adds horror (Re-Animator reference) and demonstrates that Adam's revenge is doomed to fail.
+
+### The Body Disposal System
+Adam disposes of bodies using glowing acidic waste stored in a secret chamber beneath Tracktown. The waste rapidly dissolves organic matter completely, leaving no identifiable remains. Adam accesses this chamber through hidden crawlspaces he has mapped throughout the settlement. His chemistry lab is connected to this same underground space, containing stolen and salvaged equipment that represents years of careful acquisition.
+
+## Production Notes
+[Technical notes, animation requirements, special considerations]
+Breaking Bad/Re-animator/Street Trash
+
+## Timeline
+[Estimated runtime, production schedule, milestones]

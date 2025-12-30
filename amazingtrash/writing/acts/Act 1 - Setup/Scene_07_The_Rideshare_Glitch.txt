@@ -1,0 +1,446 @@
+# SCENE 7 - THE RIDESHARE GLITCH
+
+## Scene Heading
+INT. AMAZING COMPANY AUTO-CAR (RIDESHARE POOL) - NIGHT
+
+## Characters
+- ADAM
+- BODY (from Scene 6, with broken hands)
+- STANDARD CLASS PASSENGER
+
+## Tone
+Comedic/Horror - dark humor with underlying tension
+
+## Key Beats
+
+1. THE ORDER: Adam calls for auto-car
+   - Uses Amazing Company app
+   - Requests private transport
+   - Body wrapped but visible as "passenger"
+   - Waiting for pickup
+
+2. THE GLITCH: System assigns rideshare pool
+   - Auto-car arrives
+   - Shows "RIDESHARE POOL" on display
+   - Adam panics - too late to cancel
+   - Body already in car
+   - Can't leave it
+
+3. THE PASSENGER: Standard class person gets in
+   - Before Adam can stop them
+   - Sits down next to Adam
+   - Body on Adam's other side
+   - Three across in back seat
+   - Passenger friendly, chatty
+
+4. SMALL TALK: Awkward conversation begins
+   - "Hi! Hate these pool rides but saving money, you know?"
+   - Passenger tries to make conversation
+   - Adam nervous, short answers
+   - Body between them like third passenger
+
+5. THE QUESTION: Passenger asks about "friend"
+   - "Is your friend okay?"
+   - Looks at the body
+   - Adam: "Yeah, he was in a fight earlier"
+   - "But he was talking, so he's okay"
+   - Passenger concerned but accepting
+
+6. THE MOVEMENT: Head moves weird
+   - Body shifts as car turns
+   - Head lolls unnaturally
+   - Passenger: "Whoa, his head moved weird. I thought he was dead for a second"
+   - Nervous laugh
+   - Adam's heart stops
+
+7. THE REACH: Passenger reaches toward body
+   - "Hey man, you sure he's okay?"
+   - Reaching to check on him
+   - Adam intercepts desperately
+   - Grabs body's neck, checks pulse
+
+8. THE PULSE LIE: Adam "finds" pulse
+   - Fumbles at neck
+   - "Yeah, yeah he's alive. See?"
+   - Passenger relieved
+   - Still suspicious
+
+9. THE ADJUSTMENT: Body position shifts
+   - Adam adjusts body pulling knees forward
+   - Makes head shift back
+   - Head moves to resting position
+   - Hard SMACK against seat
+   - Both Adam and passenger freeze
+
+10. THE SNORE: Ventriloquism save
+    - Adam makes snoring sound
+    - Pretends it came from body
+    - Then laughs nervously
+    - "See? He's just sleeping it off"
+
+11. THE LAUGH: Passenger laughs too
+    - Tension breaks slightly
+    - "Damn, he sounds rough"
+    - Still creeped out but buying it
+    - Adam keeps laughing, terrified
+
+12. THE URGENT CARE: Changing destination
+    - Adam: "Actually, he sounds pretty bad"
+    - "Maybe we should go to urgent care instead"
+    - Changes destination on app
+    - Passenger nods, understanding
+
+13. THE EXIT: Passenger gets off early
+    - "This is me! Good luck with your friend"
+    - Clearly wants out of this situation
+    - Leaves quickly
+    - Looks back nervously
+
+14. THE RELIEF: Adam alone with body
+    - Exhales finally
+    - Changes destination back to disposal site
+    - Closest call yet
+    - Dark comedy of the situation sinks in
+
+## Visual Elements
+- Cramped rideshare auto-car interior
+- Body's damaged condition (from Moosk)
+- Passenger's growing unease
+- Adam's desperate improvisation
+- The uncomfortable comedy of three in back seat
+- Auto-car display showing rideshare pool
+- City lights passing by windows
+
+## Dialogue Notes
+- Passenger's friendly small talk
+- Adam's terse, nervous responses
+- The ventriloquized snore (absurd humor)
+- Nervous laughter from both
+- Establish passenger as normal person
+- Contrast with Adam's situation
+
+## Purpose
+- Comedic relief after Scene 6's horror
+- Show Adam's resourcefulness under pressure
+- Another close call raising stakes
+- Dark humor balancing the horror
+- Show the rideshare pool system
+- Humanize Adam through desperation
+
+## Story Position
+- Mid-Act 1, after major horror
+- Before next escalation
+- Shows Adam can handle unexpected problems
+- Builds confidence (false) before things get worse
+
+## Transitions
+- IN: From Scene 6 (damaged body from Moosk)
+- OUT: Adam continues to disposal → Scene 8 (Public Kill)
+
+---
+
+## SCREENPLAY
+
+EXT. WAREHOUSE - NIGHT
+
+Adam drags the wrapped body to the curb. Sets it down carefully. The body slumps against him like a drunk friend.
+
+He pulls out his phone. Opens the Amazing Company transport app.
+
+Selects: "PRIVATE TRANSPORT - DISPOSAL SITE"
+
+The screen loads. Then:
+
+"SEARCHING FOR AVAILABLE VEHICLE..."
+
+Adam waits, supporting the body's weight.
+
+"RIDE ASSIGNED - ARRIVING IN 2 MINUTES"
+
+An auto-car approaches. Sleek, clean. Stops in front of Adam.
+
+Adam starts to load the body into the back seat --
+
+The car display lights up: "RIDESHARE POOL ACTIVE"
+
+Adam freezes.
+
+Adam, whisper.
+
+                    ADAM
+          No. No no no...
+
+He checks his phone. The app shows: "RIDESHARE POOL - SAVE 40%"
+
+It defaulted to pool mode. He didn't catch it.
+
+Adam (cont'd), desperately tapping phone.
+
+                    ADAM (CONT'D)
+          Cancel. Cancel!
+
+But the body's already in the car. And another passenger icon appears on the app map - approaching fast.
+
+Too late.
+
+Adam gets in beside the body. Door closes automatically.
+
+INT. AUTO-CAR (RIDESHARE POOL) - NIGHT
+
+Adam sits rigid. The body slumps against him, head lolling forward. The wrapping makes it look like a person in bulky
+clothes.
+
+The car display shows: "PICKING UP PASSENGER 2 - MARCUS K."
+
+Adam turns to himself.
+
+                    ADAM
+          Oh god. Oh god.
+
+EXT. STREET CORNER - NIGHT
+
+The auto-car pulls up to a corner. Door opens.
+
+Marcus (30s, standard class, tired from work, friendly face) gets in without really looking.
+
+Marcus, sighing with relief.
+
+                    MARCUS
+          Man, long day...
+
+He sits down. Realizes how cramped it is - three across in the back.
+
+Marcus (cont'd) turns to Adam.
+
+                    MARCUS (CONT'D)
+          Hey. Sorry about the pool thing. Trying to save a few bucks, you know?
+
+Adam, terse.
+
+                    ADAM
+          Yeah. It's fine.
+
+Marcus settles in. Glances at the body on Adam's other side.
+
+                    MARCUS
+          Your friend okay?
+
+Adam, quickly.
+
+                    ADAM
+          Yeah. He's fine. Just... tired.
+
+Marcus, sympathetic.
+
+                    MARCUS
+          Rough night?
+
+Adam laughs.
+
+                    ADAM
+          You have no idea.
+
+The car starts moving. Adam stares straight ahead, willing this ride to end.
+
+Marcus tries to make small talk.
+
+                    MARCUS
+          I hate these pool rides but the prices, man. Everything's so expensive now. You work around here?
+
+Adam, short.
+
+                    ADAM
+          Kind of.
+
+                    MARCUS
+          What do you do?
+
+Adam, panicking internally.
+
+                    ADAM
+          ...Chemistry. Research.
+
+Marcus, impressed.
+
+                    MARCUS
+          Oh nice! Smart guy. Me, I'm in logistics. Not as cool.
+          (chuckles)
+
+The car turns a corner. The body shifts, head lolling to the side unnaturally.
+
+Marcus notices. His smile fades.
+
+                    MARCUS (CONT'D)
+          Whoa... his head moved weird. Is he okay?
+
+Adam, too fast.
+
+                    ADAM
+          Yes! He's fine. Just drunk.
+
+Marcus, concerned.
+
+                    MARCUS
+          Dude, I thought he was dead for a second. That movement was...
+          (trails off)
+
+Silence. Marcus stares at the body. Something's off.
+
+                    MARCUS (CONT'D)
+          Hey man, you sure he's alright? Maybe we should --
+
+Marcus reaches toward the body. Adam's heart stops.
+
+Adam, intercepting.
+
+                    ADAM
+          Wait! I'll check!
+
+Adam grabs the body's neck, fumbling for where a pulse would be. His hands shake.
+
+Marcus watches, suspicious now.
+
+Adam (cont'd), forcing calm.
+
+                    ADAM (CONT'D)
+          Yeah. Yeah he's got a pulse. See? He's fine.
+
+Marcus doesn't look convinced.
+
+Marcus, uncertain.
+
+                    MARCUS
+          If you say so...
+
+The car turns again. The body slips lower. Adam tries to adjust it, pulling the knees forward to prop it up.
+
+The movement makes the head shift back --
+
+SMACK.
+
+The head hits the seat rest hard. Unmistakably the sound of dead weight.
+
+Adam and Marcus both freeze.
+
+Silence.
+
+Then Adam makes a sound - a snoring sound. Loud, exaggerated.
+
+SNOOOOORRRE.
+
+Marcus looks at Adam. Adam gestures toward the body.
+
+Adam laughs.
+
+                    ADAM
+          See? Just sleeping it off!
+
+He forces another laugh. It sounds hysterical.
+
+Adam (cont'd) laughs.
+
+                    ADAM (CONT'D)
+          He always snores like that when he's drunk!
+
+Marcus stares. Then - slowly - starts to laugh too. Uncertain, but willing to believe because the alternative is too
+strange.
+
+Marcus laughs.
+
+                    MARCUS
+          Damn... he sounds rough.
+
+Adam laughs.
+
+                    ADAM
+          Yeah! Rough night!
+
+They both laugh. The sound fills the small car. Absurd. Wrong.
+
+The laughter dies out. Awkward silence.
+
+Marcus shifts uncomfortably. Keeps glancing at the body.
+
+Marcus, quieter.
+
+                    MARCUS
+          Your friend sounds... really bad, actually. Maybe you should take him to urgent care?
+
+Adam sees the out. Grabs it.
+
+Adam, suddenly concerned.
+
+                    ADAM
+          You know what? You're right. He does sound bad.
+
+Adam pulls out his phone. Changes the destination.
+
+Adam (cont'd) turns to car.
+
+                    ADAM (CONT'D)
+          Change destination to... Mercy Urgent Care.
+
+Car voice, automated.
+
+                    CAR VOICE
+          Destination updated. Passenger 2 drop-off in three minutes.
+
+Marcus nods, relieved to have helped. But also clearly wanting out of this car.
+
+The rest of the ride is silent. Marcus stares out the window. Adam holds the body upright, trying to keep it from moving.
+
+Every second feels like an hour.
+
+EXT. RESIDENTIAL STREET - NIGHT
+
+The car pulls up to Marcus's stop. The door opens before the car fully stops.
+
+Marcus, getting out quickly.
+
+                    MARCUS
+          This is me. Good luck with your friend, man. Hope he's okay.
+
+He practically runs from the car. Looks back once, nervous.
+
+The door closes. Car drives on.
+
+INT. AUTO-CAR - CONTINUOUS
+
+Adam alone with the body.
+
+He exhales. A long, shuddering breath he's been holding for minutes.
+
+Adam, whisper.
+
+                    ADAM
+          Oh my god. Oh my god.
+
+He pulls out his phone. Hands shaking. Changes the destination back to the disposal site.
+
+                    CAR VOICE
+          Destination updated. Arrival in fifteen minutes.
+
+Adam looks at the body slumped next to him. At the seat where Marcus was sitting.
+
+At how close that was.
+
+He starts laughing. Can't help it. Nervous, terrified laughter.
+
+Adam laughs.
+
+                    ADAM
+          A snore. I made a snoring sound. At a corpse.
+
+The absurdity crashes down. The horror underneath the comedy.
+
+He stops laughing. Just sits there.
+
+The city passes by outside. The car drives itself to the disposal site.
+
+Adam stares at nothing, the body beside him.
+
+Another close call.
+
+Another line crossed.
+
+FADE TO BLACK.

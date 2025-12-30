@@ -1,0 +1,535 @@
+SCENE 3 - INTO THE ROOT CUBE
+=============================
+
+LOCATION: Root cube's dimensional spaces - n=3 cube system with identical rooms
+
+CHARACTERS:
+- Team members: Alex, Edgar, Marcus, Lea, Morris, Darius, Nina, Chen, Rashid, Yuki, Josh
+- Sofia is missing (left in Act 1, Scene 9, location unknown)
+
+SCENE LAYOUT:
+
+ROOMS: 4 total rooms (none have traps)
+1. Dollhouse building room (from Scene 12)
+2. Room Josh entered at end of Scene 12
+3. Next room where Morris gets trapped
+4. Fourth room
+
+1. TAKING TURNS (Room 2 - Josh's room)
+   - Everyone about to follow Josh through next door
+   - Lea: suggests they take turns going through
+   - Morris absentmindedly volunteers himself
+   - Walks through first without letting Josh check
+   - Group shocked, looks in to see Morris
+   - Morris holding his face, head and back arched strangely
+   - Quick cut to their fear
+   - Morris sneezes
+   - They file in, warn him about traps
+   - Morris: "It isn't obvious when they're safe?"
+   - Edgar volunteers to go through next room to get it out of the way
+   - Marcus with Darius stop Morris
+   - Marcus: doesn't know him well but as his new manager he's responsible for him
+   - Marcus: making sure life insurance payouts go out should he die
+   - Marcus: Morris needs to do what Marcus says or he'll wind up dead
+   - Morris takes this in
+   - Morris ends up last at the door
+   - Door closes before Morris can go through
+   - Morris trapped on the wrong side
+
+2. THE SEPARATING MOMENT (Room 3)
+   - Door closed behind Morris
+   - Mechanical sound
+   - Other doors won't open
+   - Morris on other side: "Hello? I can hear you!"
+   - Team panicking, trying doors
+   - Doors do NOT re-open yet
+
+3. THE REARRANGEMENT (Room 4)
+   - Team still trying doors
+   - Subtle sound - mechanical, distant
+   - Josh: "It's moving."
+   - Room shudders slightly
+   - Mechanical grinding
+   - Josh: "Cube rearranges when doors close. Rooms move."
+   - Door finally opens - different one
+   - Team rushes through
+   - Next room: identical, but Morris gone
+   - Morris has been rearranged to different location
+
+4. GROWING DREAD (Room 4)
+   - Team searching for Morris, haven't found him yet
+   - Realize how easily they could lose each other
+   - Edgar insists on staying in visual contact
+   - Mechanical sounds happening around them
+   - Rooms being shuffled
+   - Can't predict, can't map
+   - Darius' distrust of company begins
+   - Morris still missing
+   - Chen focused on mechanical understanding
+   - Lea and Josh trying to navigate
+   - Alex keeping team together
+
+5. NAVIGATION STRATEGY (Room 4)
+   - Marcus argues with Josh's method
+   - Marcus: "Your method just got someone killed!"
+   - Josh: "Who was killed?" - demonstrates lucidity by engaging directly with accusation, semi-threatening calm because he knows better (Morris isn't dead)
+   - Marcus exasperated with the strangeness, yells: "Morris!"
+   - At that moment: ceiling door opens
+   - Morris appears in the opening - re-arranged room moved there: "Yes Boss"
+   - Josh: unsurprised - validates his knowledge
+   - Rest of team: relieved
+   - Nina: "Dr. Schroedinger I presume"
+   - All laugh
+   - Team commits to trusting Josh's knowledge
+   - Continue forward
+
+TONE: Tension with comic relief, fear of separation, team bonding
+VISUAL FOCUS: Morris's sneeze scare, door closing before Morris, cube mechanically rearranging, Morris appearing from ceiling door
+
+================================================================================
+
+Description:
+Team follows Josh into the n=3 cube rooms. Morris absentmindedly walks through a door first without checking, causing a sneeze scare when the team thinks he triggered a trap. Marcus establishes authority over Morris as his new manager, warning him about life insurance payouts and following protocol. When a door closes before Morris can follow the group, the cube mechanically rearranges, separating them. The team searches frantically until Morris reappears from a ceiling door, revealing the cube's physical rearrangement system. Marcus shows vulnerability, admitting he's "not used to people dying." Darius questions Alex about blindly trusting Josh, beginning his company distrust arc. Comic relief via Morris's "Yes Boss" and Nina's "Dr. Schroedinger" joke. Team establishes buddy system and commits to trusting Josh's navigation despite not understanding it.
+
+Key Elements:
+- Morris absentmindedly volunteers to go first
+- Sneeze scare - group thinks Morris triggered trap
+- Marcus establishes authority over Morris with life insurance talk
+- Door closes before Morris can follow group
+- Cube mechanically rearranges, Morris disappears
+- Team searches frantically for Morris
+- Morris reappears from ceiling door - room was rearranged above them
+- Josh unsurprised by the possibility even though he knows it is very rare; it just confirms cube is sentient to him
+- Nina's "Dr. Schroedinger" joke - comic relief
+- Marcus vs Josh argument about whose method got someone "killed"
+- Darius' distrust of company begins
+- Team commits to trusting Josh's navigation
+
+Characters Present:
+Alex, Edgar, Marcus, Lea, Morris, Darius, Nina, Chen, Rashid, Yuki, Josh (11 people)
+Sofia is missing - left in Act 1, Scene 9, location unknown
+
+
+Character Moments:
+- Morris: Absentmindedly volunteers without thinking, sneeze scare, takes in Marcus's warning seriously, reappears with "Yes Boss" quip
+- Marcus: Establishes authority over Morris as "new manager," responsible for life insurance payouts, argues Josh's method got someone killed, exasperated by strangeness
+- Josh: Unsurprised by cube mechanics, calm in chaos, proves knowledgeable; "Who was killed?" demonstrates lucidity by engaging directly with Marcus's accusation while maintaining semi-threatening calm (similar to "The cube will teach you. Painfully" - shows he understands their doubt AND knows more than them)
+- Lea: Suggests taking turns for safety
+- Edgar: Volunteers to go through next room to get it over with, pairs with Darius in buddy system
+- Alex: Keeps team together during search, manages panic
+- Darius: Distrust of company begins (not just paranoia), mutters to himself about leaders pretending to have control
+- Nina: Comic relief with "Dr. Schroedinger I presume" joke
+- Chen: Focused on understanding mechanics
+- Rashid/Yuki: Background support during search, join in Schroedinger joke
+
+Establishes:
+- Cube mechanically rearranges entire rooms when doors close
+- Easy to get separated - dangerous
+- Morris's room moved to ceiling location above team
+- Josh understands the cube mechanics intuitively
+- Marcus's authority over Morris as new manager
+- Marcus responsible for Morris's safety (and life insurance)
+- Darius beginning to distrust the company
+- Team capable of humor even in danger (Nina's Schroedinger joke)
+- Marcus skeptical of Josh's methods but has no alternative
+- Team commits to following Josh's navigation despite not understanding it
+- Taking turns entering rooms for safety
+- No traps in these 4 rooms
+
+Technical Notes:
+- 4 total rooms, no traps
+- Rooms are identical - 6 faces, 6 doors, ladder rungs
+- Mechanical rearrangement system physically moves rooms
+- Morris's room relocated to ceiling position above team
+- Sneeze scare moment: Morris arched strangely before sneezing
+- Marcus-Morris dynamic: manager/employee, life insurance responsibility
+- Darius arc begins: company distrust (not paranoia)
+- Comedy beats: Morris's sneeze, "Yes Boss", Nina's "Dr. Schroedinger I presume"
+- Marcus vs Josh tension: skepticism vs intuitive knowledge
+
+Tone:
+- Tension with comic relief (sneeze scare, Schroedinger joke)
+- Fear of separation when Morris disappears
+- Relief when Morris reappears safely
+- Marcus's authority establishing (serious life insurance talk)
+- Team bonding through shared danger
+- Growing trust in Josh despite not understanding him
+- Darius's darker turn beginning (company distrust)
+
+================================================================================
+FULL SCRIPT
+================================================================================
+
+FADE IN:
+
+INT. ROOT CUBE - ROOM 2 (JOSH'S ROOM) - CONTINUOUS
+
+The team clusters near a door. JOSH stands at the threshold, peering through.
+
+ALEX checks her team - eleven people, tense. Sofia still missing.
+
+                    LEA
+          We should take turns. Check each room
+          before everyone goes through.
+
+Team nods agreement. Safer that way.
+
+MORRIS, distracted, steps past JOSH without thinking.
+
+                    MORRIS
+          Right, that makes sense—
+
+He walks straight through the door.
+
+Team FREEZES. Shocked.
+
+ALEX rushes to doorway, looks in.
+
+INT. ROOT CUBE - ROOM 3 - CONTINUOUS
+
+ANGLE - THROUGH DOORWAY
+
+MORRIS standing in next room. Face contorted, head arched back strangely, back bent.
+
+ANGLE - TEAM'S FACES (in Room 2 doorway)
+
+Terror. Morris triggered something.
+
+ANGLE - MORRIS (in Room 3)
+
+SNEEZES.
+
+Straightens up, rubbing his nose.
+
+Team EXHALES. Relief flooding through them.
+
+They file in quickly, surrounding Morris in Room 3.
+
+                    ALEX
+               (firm but not angry)
+          Morris. We check first. Always.
+
+                    MORRIS
+          I... sorry, I thought—
+               (confused)
+          It isn't obvious when they're safe?
+
+                    JOSH
+               (cryptic)
+          Nothing obvious. The cube deceives.
+
+EDGAR steps forward, decisive.
+
+                    EDGAR
+          I'll go through the next one. Get it
+          out of the way.
+
+MARCUS moves to block MORRIS as he starts toward the next door. DARIUS flanks him.
+
+                    MARCUS
+          Morris. Hold on.
+
+MORRIS stops. Uncertain.
+
+                    MARCUS (CONT'D)
+          I don't know you well. But you're on
+          my team now. Quantum Logistics.
+
+                    MORRIS
+          I... yes. Thank you?
+
+                    MARCUS
+          As your manager, I'm responsible for you.
+          That means making sure you get home safe.
+               (beat, direct)
+          And making sure life insurance payouts
+          go out when you don't.
+
+MORRIS stares.
+
+                    MARCUS (CONT'D)
+          You need to do what I say. Follow protocol. (pause)
+          Or you'll wind up dead.
+
+Beat. MORRIS processing. The weight of it.
+
+                    MORRIS
+               (quiet)
+          I understand.
+
+EDGAR and DARIUS move through the next door. CHEN, RASHID, YUKI follow.
+
+NINA and LEA exchange looks, then go through.
+
+ALEX gestures JOSH forward. He goes.
+
+MARCUS follows.
+
+MORRIS hangs back, last. Approaches the door.
+
+The door SLIDES CLOSED.
+
+MORRIS lunges—
+
+Too late. Door SHUTS in his face.
+
+                    MORRIS
+               (muffled, panicked)
+          Wait!
+
+INT. ROOT CUBE - ROOM 4 - CONTINUOUS
+
+Team turns. Door closed behind them, Morris trapped in Room 3.
+
+MECHANICAL SOUND. Deep in the walls.
+
+                    ALEX
+          Morris!
+
+She rushes to the door. Won't open.
+
+                    MORRIS (O.S.)
+               (muffled)
+          Hello? I can hear you!
+
+Team panics. EDGAR and CHEN try other doors - all locked.
+
+                    MARCUS
+               (to Josh)
+          Can you—?
+
+                    JOSH
+               (calm, ominous)
+          Wait. It's deciding.
+
+                    ALEX
+          Deciding what?!
+
+                    MORRIS (O.S.)
+               (scared, rambling)
+          I can— I hear you but I don't— is there
+          another door? Do I try another door?
+
+LEA presses against the closed door.
+
+                    LEA
+          Stay there! Don't move!
+
+DARIUS gives concerned look to MARCUS who looks guilty but helpless.
+
+Subtle sound - MECHANICAL, distant. Growing.
+
+JOSH tenses.
+
+Noise momentarily becomes much louder as room SHUDDERS slightly. Mechanical grinding.
+
+Everyone grabs walls, equipment, each other.
+
+The sound FADES.
+
+JOSH moves to a different door. Places hand on it.
+
+                    JOSH (CONT'D)
+               (cryptic)
+          Cube rearranges when doors close. Rooms move.
+
+The door under his hand OPENS.
+
+Chen rushes to look into Room 3. 6 faces, 6 doors.
+
+Empty. Morris is not here.
+
+                    YUKI
+          Where is he?
+
+                    CHEN
+          He was just behind us.
+
+LEA voice tired.
+
+                    LEA
+          We lost someone already.
+
+                    ALEX
+               (firm, leadership)
+          We didn't lose him. He's here. Somewhere.
+
+                    EDGAR
+          Visual contact. Everyone stays where I
+          can see you. No one else gets separated.
+
+Team clusters tighter. Eyeing all six doors warily.
+
+Mechanical sounds - distant, around them. Rooms being shuffled.
+
+CHEN examines walls, ceiling, floor.
+
+                    CHEN
+          It's mechanical. Physical rearrangement.
+          If we can map the pattern—
+
+                    JOSH
+               (interrupting)
+          No pattern you can learn. The cube adapts.
+
+LEA to JOSH, urgent.
+
+                    LEA
+          Josh, can you find him? The way you
+          navigate—
+
+                    JOSH
+               (cryptic)
+          He's already where he needs to be.
+
+MARCUS, frustration building, turns on JOSH.
+
+                    MARCUS
+          Your method just got someone killed!
+
+Beat.
+
+JOSH tilts head. Confused.
+
+                    JOSH
+          Who was killed?
+
+MARCUS exasperated, voice rising.
+
+                    MARCUS
+          What do you mean? (Yells) Morris! We lost—
+
+CEILING DOOR OPENS above them.
+
+Everyone looks up.
+
+MORRIS's face appears in the opening. Upside-down from their perspective.
+
+                    MORRIS
+               (uncertain, awkward)
+          Yes boss?
+
+Beat.
+
+TEAM stares.
+
+JOSH, unsurprised, nods slightly.
+
+LEA exhales. Relief washing over her.
+
+NINA, grinning despite herself.
+
+                    NINA
+          Dr. Schroedinger, I presume?
+
+Beat.
+
+MORRIS blinks. Gets it. Smiles uncertainly.
+
+YUKI laughs - tension breaking.
+
+                    YUKI
+          Alive and dead-
+
+RASHID joins in.
+
+                    RASHID
+          -until he opened the door.
+
+Team laughs. Relief, exhaustion, absurdity of it all.
+
+MARCUS studies JOSH. Reassessing.
+
+                    MARCUS
+               (measured)
+          You knew.
+
+                    JOSH
+          I warned you.
+
+                    MARCUS
+          But how?
+
+                    JOSH
+               (cryptic)
+          Because he kept moving. In his mind.
+          It's fairly simple, but we don't have time.
+
+                    MARCUS
+          Enough moving! I'm not used to people dying in front of me. We should have stayed at the lab and you would have shown up and we
+          could have shrunk you down and we could have solved it from there.
+
+LEA and ALEX sympathetic as this is first sign of unease from MARCUS. LEA to MARCUS and the group.
+
+                    LEA
+          We need to trust Josh. He understands
+          this place.
+
+ALEX nods agreement. DARIUS pulls ALEX aside.
+
+                    DARIUS
+          I know it's been safe so far, but the odds are against us if we keep moving.
+
+                    ALEX
+          Staying in the lab wasn't an option. There was no power.
+
+ALEX pauses knowing next part may sound ridiculous.
+
+                    ALEX
+          And- and isn't it weird the moment we leave the building Josh comes in the room? I- I mean if the cube is effecting randomness, maybe this sign is our way out.
+
+DARIUS, quiet anger simmering, questions ALEX.
+
+                    DARIUS
+               (quiet, bitter)
+          You believe what he said?
+
+                    ALEX
+          Darius-
+
+                    DARIUS
+               (quiet, bitter)
+          You'd put our lives in his hands?
+
+                    ALEX
+          It's a rock and a hard place. If we stay put, we run out of water soon. If we stay ALIVE, maybe the
+          company sends us a care package and a rescue mission. We aren't physicists. We have to trust them.
+
+                    DARIUS
+          Blindly.
+
+MARCUS organizes.
+
+                    MARCUS
+          Fine. Buddy system. Everyone pair up.
+          Morris with me.
+
+MORRIS looks surprised. Grateful.
+
+                    EDGAR
+          Nina and Yuki. Rashid and Chen.
+          Darius with me.
+
+ALEX finishes.
+
+                    ALEX
+          Lea with Josh. I'll stay mobile.
+
+                    EDGAR
+               (insisting)
+          You stay in the middle.
+
+JOSH moves toward next door. Team follows closer now. he reaches to open the door to the next room, but pauses
+ 1 inch away. when he continues, it lights up and he sighs even though the door opens, indicating he
+ realizes it will be a trap room without saying anything at first.
+
+                    JOSH
+          Through. Keep moving.
+               (pause, ominous)
+          The cube is measuring you now.
+
+Team exchanges nervous looks.
+
+But they follow.
+
+FADE OUT.

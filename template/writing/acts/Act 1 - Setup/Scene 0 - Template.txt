@@ -1,0 +1,31 @@
+# Scene 0 - [Scene Name]
+
+## Scene Information
+- **Location:** INT./EXT. - LOCATION - TIME
+- **Characters:** [List characters appearing in this scene]
+- **Purpose:** [What this scene accomplishes in the story]
+
+---
+
+## FULL SCRIPT
+
+INT./EXT. - LOCATION - TIME
+
+[Scene description - what the camera sees when scene opens]
+
+[Character introductions - first appearance only, with age/traits]
+
+                    CHARACTER NAME
+          First line of dialogue goes here.
+
+[Action line describing what happens]
+
+                    CHARACTER NAME
+          Response dialogue.
+
+---
+
+## Production Notes
+- [Animation requirements]
+- [Special effects needed]
+- [Technical considerations]

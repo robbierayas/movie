@@ -1,0 +1,75 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Cube Climb Test - Chen Climbing Through Cubes</title>
+    <style>
+        body {
+            margin: 0;
+            overflow: hidden;
+            font-family: monospace;
+        }
+        #info {
+            position: absolute;
+            top: 10px;
+            left: 10px;
+            color: white;
+            background: rgba(0,0,0,0.8);
+            padding: 15px;
+            border-radius: 5px;
+            max-width: 400px;
+            z-index: 100;
+        }
+        #info h2 {
+            margin: 0 0 10px 0;
+            font-size: 16px;
+            color: #4af;
+        }
+        #info p {
+            margin: 5px 0;
+            font-size: 12px;
+            line-height: 1.4;
+        }
+        canvas {
+            display: block;
+        }
+    </style>
+</head>
+<body>
+    <div id="info">
+        <h2>Cube Climb Test Scene</h2>
+        <p><strong>Test:</strong> Chen climbing and crawling through two cube rooms</p>
+        <p>Click and drag to rotate view<br>
+        Scroll to zoom<br>
+        Right-click drag to pan</p>
+        <hr style="margin: 10px 0; border-color: #444">
+        <p><strong>Sequence:</strong></p>
+        <p>1. Chen walks to ladder (blue cube)<br>
+        2. Climbs up ladder rungs to door level<br>
+        3. Crawls through door opening<br>
+        4. Climbs down ladder rungs (orange cube)<br>
+        5. Walks away into orange cube</p>
+        <hr style="margin: 10px 0; border-color: #444">
+        <p><em>Blue cube = Cube 1 (west)<br>
+        Orange cube = Cube 2 (east)</em></p>
+    </div>
+
+    <script type="importmap">
+        {
+            "imports": {
+                "three": "https://cdn.jsdelivr.net/npm/three@0.160.0/build/three.module.js",
+                "three/addons/": "https://cdn.jsdelivr.net/npm/three@0.160.0/examples/jsm/"
+            }
+        }
+    </script>
+
+    <script type="module">
+        import { CubeClimbTestScene } from './scene.js';
+
+        // Initialize and start the scene
+        const scene = new CubeClimbTestScene();
+        scene.start();
+    </script>
+</body>
+</html>

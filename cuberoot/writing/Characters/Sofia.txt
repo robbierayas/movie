@@ -1,0 +1,121 @@
+CHARACTER PROFILE: SOFIA
+
+========================================
+BASIC INFORMATION
+========================================
+Name: Sofia
+Role: Background character, Food Experimentation team member
+Occupation: Lab Chemist, Food Experimentation team
+Status: DECEASED - Dies in Act 2, Scene 7 (Sofia's Vacuum Death)
+Age: Slightly older than Alex (late 30s)
+Family: Mother
+
+========================================
+ARCHETYPE
+========================================
+Primary: The Heart - Emotional/moral center, recognizes humanity in victims, maternal presence
+Secondary: The Voice of Reason - Calls out corporate absurdity, speaks uncomfortable truths
+
+Shifts: Maintains role consistently until death - dies precisely because she follows authority figure she spent entire Act 1 challenging (tragic irony)
+
+========================================
+CHARACTER ARC
+========================================
+Beginning (Act 1, Scenes 3-6): Corporate cynic with strong ethics. Recognizes danger (asks about safety), challenges dehumanization repeatedly, creates maternal warmth and bonding moments. Not invested in corporate mission - just doing her job with clear moral boundaries.
+
+Middle (Act 1, Scenes 8-9): Continues confronting authority (challenges Edgar's "staffing issue" language), prioritizes family over crisis, leaves to check on kids trusting she can return.
+
+End (Act 2, Scene 7): Dies following Marcus's command to press button. Tragic irony - the moral voice who challenged authority throughout Act 1 is killed by following an authority figure's urgent order. Hopeful moment ("I think it's the exit!") becomes horror. Never sees her kids again. Death demonstrates even those who see through corporate absurdity can fall victim to ingrained obedience in crisis.
+
+========================================
+PERSONALITY TRAITS
+========================================
+- Mother with life priorities outside work
+- Professional lab chemist with corporate experience
+- Not devoted to INZO - it's just a job, not her identity
+- Direct confronter when ethics are violated (challenges Edgar, Chen, Marcus)
+- Maternal warmth - creates bonding moments, invites colleagues into personal life
+- Corporate cynic from experience but not jaded
+- Blunt truth-teller - calls out absurdity others tolerate
+- Work-life balance enforcer - leaves for family when needed
+- More experienced/mature perspective (slightly older than Alex)
+- Active moral voice, not passive background presence
+- Recognizes fellow parents instantly, connects through shared humanity
+
+========================================
+PHYSICAL DESCRIPTION
+========================================
+- Late 30s, slightly older than Alex
+- Professional lab appearance
+- Practical clothing suitable for lab work
+- Mature, composed demeanor
+- May reference family (photos on desk, etc.)
+
+========================================
+RELATIONSHIPS
+========================================
+- Morris: Warm colleague, invites to family dinners, knows his quirks affectionately, creates bonding moments about him
+- Darius: Social connection (present at family dinner), comfortable colleagues
+- Nina: Collaborates comfortably examining equations, professional rapport
+- Chen: Directly challenges about continuing work after Barry trapped, calls out ethical failure
+- Edgar: Repeatedly challenges his dehumanizing language ("staffing issue"), speaks truth to power
+- Marcus: Tragic irony - his urgent command kills her after she spent Act 1 challenging authority
+- Barry: Never met but connects as fellow parent seeing his family photo
+- Alex: Food team colleague
+- Her kids: Primary priority, leaves work to check on them, dies never seeing them again
+
+========================================
+KEY SCENES
+========================================
+Act 1, Scene 3: Team meeting - says "that's never good" about integration meeting, asks "what do you mean safety?", face hardens at department elimination
+Act 1, Scene 6: Lab Introduction and First Test - examines equations with Nina at chalkboard, notices Barry's family photo on desk and quietly asks "This was Barry's workspace?", expression hardens seeing photo of Barry with wife and children, tells warm story about Morris bringing sof-tak casserole to her family's formal dinner "Everyone loved him", challenges Chen directly when message appears "And you all kept working? Kept researching? People are trapped and dying in another dimension, and INZO has a staff meeting?"
+Act 1, Scene 8: The Lost Person Incident - asks "who wrote this?" about message, directly challenges Edgar "you're talking about people trapped in another dimension like it's a staffing issue"
+Act 1, Scene 9: Hypercube Singularity - approaches Alex to ask if she can run home quick, needs to make sure kids settled with sister "This is going to be a long night", heads out
+
+Act 1, Scene 10: First Entry and Deaths - does not appear, left in Scene 9 to go home to her kids, never returned, purse found on floor near lobby entrance
+
+Act 2, Scenes 1-6 - not present with team, left before trapped in cube, team looking for her while exploring
+
+Act 2, Scene 7: Sofia's Vacuum Death - DIES - found through doorway by far exit door, hand on button ready to press, turns surprised then relieved face lights up "Alex?!", smiles with hope, says "I think it's the exit!", Marcus urgently commands "Open it!", presses button following command, Josh shouts "DON'T—" too late, door opens to vacuum not exit, eyes widen in horror, sucked out violently feet lifting, scream cuts off instantly, body tumbling into endless void, gone, never saw her kids again, Marcus's order killed her
+
+========================================
+CHARACTER FUNCTION
+========================================
+- Moral compass who challenges dehumanization
+- Maternal presence that creates team bonding and warmth
+- Humanizes stakes - mother with family waiting at home
+- Voice that calls out what others won't say
+- Tragic irony embodied - dies following Marcus's command after spending Act 1 challenging authority
+- Death demonstrates cost of corporate obedience even from those who see through it
+- Represents "normal" employee with life outside work
+
+========================================
+DIALOGUE STYLE
+========================================
+- Direct challenges to authority figure absurdity: "You're talking about people trapped in another dimension like it's a staffing issue"
+- Calls out what others won't - speaks uncomfortable truths bluntly
+- Mild corporate cynicism from experience: "That's never good" (about integration meetings)
+- Practical, transactional requests: "Can I run home quick before we start tonight?"
+- References real-world obligations without apology: "Need to make sure they're settled with my sister"
+- Not overly invested in workplace drama - this is a job, not her identity
+- Mature perspective - has life outside INZO, won't be gaslit
+- Brief responses that cut through corporate speak
+- Disbelieving stares that communicate judgment without words
+- Shows concern for safety practically: "what do you mean safety?" - wants specifics, not reassurance
+- Warm storytelling about life outside work - shares personal anecdotes naturally
+- Maternal welcoming presence - invites colleagues into her personal life (like inviting Morris to family dinners)
+- Laughs easily and warmly at colleagues' quirks with affection not judgment
+- Creates comfortable atmosphere where everyone feels they can engage
+- Finishes others' stories with fond punchlines - knows her team well enough to predict their behavior
+- Shares family moments that humanize the workplace - "my mother-in-law thought it was impressive"
+- Mother figure energy - practical, warm, experienced, puts people at ease
+
+========================================
+NOTES
+========================================
+- Background character - less screen time than Alex, Morris, or Darius
+- Part of the 4-person food team (Alex, Morris, Darius, Sofia)
+- Mother status adds stakes - represents people with lives outside INZO
+- Her "it's just a job" attitude contrasts with more invested characters
+- Not cynical, just realistic about corporate life
+- Thinks reassignment is normal business, not crisis

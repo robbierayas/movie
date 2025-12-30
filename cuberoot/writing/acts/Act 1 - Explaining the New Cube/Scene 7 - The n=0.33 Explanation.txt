@@ -1,0 +1,324 @@
+SCENE 7 - THE n=0.333... EXPLANATION
+====================================
+
+LOCATION: Quantum Logistics wing, secure briefing room
+
+CHARACTERS:
+- MARCUS - Head of Quantum Logistics
+- EDGAR - Corporate VP of Logistics
+- ALEX - Food scientist, protagonist
+- LEA - Dimensional expert
+
+SCENE LAYOUT:
+
+1. CONTINUING THE BRIEFING (PRIVATE)
+   - Lea and Alex return from coffee break
+   - Only the 4 of them in the room now (Marcus, Edgar, Alex, Lea)
+   - Marcus continues presentation
+   - Visual aids/diagrams showing dimensional concepts
+
+2. INTRODUCTION OF n=0.333...
+   - Marcus introduces the n=0.333... (cube root) dimension
+   - Theoretically and mathematically possible
+   - The quantum team thought they understood it
+
+3. THE n=0.333... PROBLEM
+   - Successful experiments storing and getting OBJECTS out
+   - Can't get PEOPLE out
+   - Physical limitations weren't realized until after experiments began
+   - Worked on different approaches
+   - Company wants synergy across departments (why Alex is here)
+
+4. ALEX'S REACTIONS
+   - Alex processes the information
+   - Questions about what this means
+   - Growing concern about the implications
+
+5. EDGAR'S THREAT
+   - Alex objects to the assignment
+   - Edgar interrupts
+   - She can quit but company will probably smear her
+   - Not Edgar personally - there's a whole dept for that
+   - Alex quiets down
+
+6. EDGAR TELLS MARCUS TO CONTINUE
+   - Edgar directs Marcus to keep going
+   - Emphasizes need for results
+
+7. THE STAKES QUESTION
+   - Alex asks: is it prisoners or employees in n=0.333...?
+   - Marcus: "It doesn't matter"
+   - Edgar agrees: if n=0.333... is not profitable, they'll all be sent to cube
+   - Threat hangs in the air
+
+TONE: Exposition heavy, growing dread, corporate threat, intimate and tense
+DYNAMICS: Marcus as technical expert, Edgar as corporate enforcer, Alex realizing the danger, Lea burdened by knowledge
+KEY TENSION: What are the physical limitations? Who is trapped? What happens if they fail?
+
+TECHNICAL FOCUS:
+- n=0 (singularity/zero-space): Point-dimension where people are alive but trapped
+- n=4 (hyperspace): Fourth dimension (tesseract)
+- n=0.333 (root-space): Cube root dimension - theoretically possible, physical limitations not understood
+- Edgar asks what the dimensional notation means; Marcus explains the colloquial terms
+- After this scene, characters use colloquial terms in dialogue
+
+NOTES:
+This scene is heavy on exposition but crucial for audience understanding of the dimensional mechanics that will drive the
+plot. The shift from n=0.5 to n=0.333... reflects the "cube root" concept of the title.
+
+========================================
+CONDENSED DESCRIPTION:
+========================================
+
+Alex and Lea return from their coffee break to find themselves in a smaller, secure briefing room with only Marcus and
+Edgar - the rest of the team has been excluded. Marcus reveals the true project: the n=0.333... (one-third) dimension.
+While they can successfully retrieve objects from this fractional dimension, people who enter cannot be extracted. When
+Alex objects to the assignment and tries to decline, Edgar calmly threatens her with the company's "competitive
+intelligence department" that handles departures and references. Alex backs down. When she asks whether those trapped are
+prisoners or employees, Marcus responds "Does it matter?" Edgar casually reveals that if the project fails, everyone on
+the team will be sent to the cube themselves - company policy to turn failed projects into test cases. The threat
+establishes the stakes: solve this or become the research subjects.
+
+========================================
+                    SCREENPLAY
+          ========================================
+
+INT. QUANTUM LOGISTICS BUILDING - CONFERENCE ROOM
+
+Marcus stands at the front with a presentation screen. Edgar sits at the head of the table,
+tablet out. Lea and Alex enter together, coffee in hand.
+
+The door closes behind them with a heavy CLICK.
+
+Alex feels worried now.
+
+                    ALEX
+          Time for the fun stuff?
+
+Marcus and Edgar exchange a glance.
+
+                    MARCUS
+          What we're about to discuss is need-to-
+          know. For now, that's the four of us.
+
+Lea sits down, composed but tense. Alex hesitates, then takes a seat across from her.
+
+The slide is still on n=0 explanation.
+
+                    MARCUS (CONT'D)
+          The n=0 cube - zero-space - has
+          been our primary money maker.
+
+ Marcus clicks and n=0.333 is shown - complex mathematical equations and dimensional diagrams.
+
+                    MARCUS (CONT'D)
+          But we've been working on something
+          else. Something we thought we understood.
+
+He clicks to the next slide. A strange, fractional dimensional diagram.
+
+                    MARCUS (CONT'D)
+          N equals zero point three three three,
+          repeating. One-third dimension.
+
+Alex stares at the diagram, her scientific mind trying to process it.
+
+Edgar squints at the screen, confused.
+
+                    EDGAR
+          Wait. N equals what now? Is that like...
+          math notation? What does that actually
+          mean?
+
+Marcus glances at him, then realizes he needs to translate.
+
+                    MARCUS
+          Right. Dimensional notation. N is the
+          number of dimensions. N=3 is three-space
+          - our normal reality. Three dimensional.
+
+He clicks to show a simple diagram.
+
+                    MARCUS (CONT'D)
+          N=4 is hyperspace - the tesseract,
+          fourth dimension. N=0 is a singularity
+          - zero-space, a single point. We've
+          been calling it that for years.
+
+Edgar nods, following along.
+
+                    MARCUS (CONT'D)
+          This - n=0.333 - we're calling root-
+          space. Cube root. One-third dimension.
+
+                    EDGAR
+          Root-space. Okay. That I can remember.
+
+He clicks to show bar graph of density comparing zero-space and root-space with root space much higher.
+
+                    MARCUS
+          In zero-space things are sizeless, but in root-space we can stack sizeless things.
+
+Alex processes this, her scientific mind working through the implications.
+
+                    ALEX
+          A fractional dimension?
+
+                    MARCUS
+          Theoretically and mathematically
+          possible. And now... the possibilities are endless.
+
+Lea's hands tighten around her coffee cup.
+
+Marcus clicks to add things to the slide - test results, success rates.
+
+                    MARCUS (CONT'D)
+          We've successfully stored and retrieved
+          objects. Small items.
+
+                    ALEX
+          But not people.
+
+Beat. Marcus meets her eyes.
+
+                    MARCUS
+          No. Not people. We'd ideally start with mice, but..
+
+                    ALEX
+          What happens to them?
+
+                    LEA
+          They go in. We just... can't get them
+          out.
+
+Her voice is tight, controlled. Alex glances at her friend - this is what's been weighing on her.
+
+                    MARCUS
+          The physical limitations weren't
+          realized until after the incident. We've tried
+          different approaches, but the uncertainty is too high. Dimensional anchoring,
+          temporal phasing—
+
+                    ALEX
+          And that's why you need food science?
+
+Edgar leans forward, interested in where this is going.
+
+                    MARCUS
+          We need fresh perspectives. Different
+          expertise. The company thinks there's
+          synergy potential between molecular
+          compression and dimensional storage.
+
+Alex processes this. Her practical mind working through the implications.
+
+                    ALEX
+          How many people are in there?
+
+Silence. Marcus looks at Lea. Lea looks down at her coffee.
+
+                    MARCUS
+          Classified.
+
+                    ALEX
+          You're asking me to help extract people
+          you won't tell me about, using science
+          I don't understand, for a project that's
+          already failed.
+
+Her voice is direct, not hostile - just stating facts.
+
+                    ALEX (CONT'D)
+          I can't help with this. I'm sorry, but
+          molecular compression doesn't translate
+          to dimensional physics. You need
+          mathematicians, not food scientists.
+
+Edgar sets down his tablet with a deliberate CLICK.
+
+                    EDGAR
+          You're free to decline the assignment,
+          Alex. Walk away. Find another job.
+
+He says it pleasantly, almost kindly.
+
+                    EDGAR (CONT'D)
+          But I should mention - the company has
+          a whole department dedicated to
+          competitive intelligence. They handle
+          departures. Exit interviews. References.
+          Social media management.
+
+Alex meets his eyes, understanding the threat.
+
+                    EDGAR (CONT'D)
+          Not me, personally. I just do the
+          dollarinos and KPIs. But they're very
+          thorough.
+
+Beat. Alex looks to Lea. Lea won't meet her eyes.
+
+Alex sits back down, slowly.
+
+                    ALEX
+          I understand.
+
+Edgar smiles, satisfied.
+
+                    EDGAR
+          Great. Marcus, continue.
+
+Marcus's expression doesn't change.
+
+                    MARCUS
+          We need round the clock testing to fully
+          calibrate retrieval. Edgar's boss wants
+          results by end of quarter.
+
+                    ALEX
+          So you're risking us getting trapped in there?
+
+The question hangs in the air. Marcus stops mid-presentation.
+
+                    MARCUS
+          Like I said, retrieval will be complete by
+          end of quarter. So does it matter?
+
+                    ALEX
+          Of course it matters.
+
+                    MARCUS
+          We're trying to get them out. That's
+          what matters. Their original status is—
+
+                    EDGAR
+          (interrupting)
+          If this root-space doesn't become profitable,
+          we all get sent to the cube anyway.
+
+He says it casually, checking his tablet.
+
+                    EDGAR (CONT'D)
+          Company policy. Failed projects get
+          turned into test cases. Very efficient.
+
+Alex goes very still. Lea's hands are shaking now.
+
+                    LEA
+          He's not joking.
+
+                    EDGAR
+          Nope. Jefe made it very clear. Results
+          or we become the research. Synergy in,
+          synergy out.
+
+He does a small synergy hand gesture, completely oblivious to the horror of what he's saying.
+
+The threat hangs in the air. Alex looks at Marcus, searching for reassurance. He meets her eyes - honest, direct.
+
+                    MARCUS
+          We need to make this work. All of us.
+
+FADE TO BLACK.
+
+END OF SCENE 7

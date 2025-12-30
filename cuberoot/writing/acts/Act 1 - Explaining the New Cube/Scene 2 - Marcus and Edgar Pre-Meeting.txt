@@ -1,0 +1,234 @@
+SCENE 2 - MARCUS AND EDGAR PRE-MEETING
+======================================
+
+LOCATION: INZO facility - hallway outside Edgar's office, Edgar's office
+
+CHARACTERS:
+- MARCUS - Head of Quantum Logistics
+- EDGAR - Corporate VP of Logistics
+- Unknown person exiting prior meeting (background)
+
+SCENE LAYOUT:
+
+1. MARCUS WAITING
+   - Marcus stands in hallway outside Edgar's office
+   - Watching wall-mounted screen displaying company video
+   - Video explains quantum logistics projects (briefly, sanitized version)
+   - Marcus kind of laughs at the details left out
+   - Knows what they're not showing
+
+2. EDGAR'S OFFICE DOOR OPENS
+   - Edgar opens door to let someone out from prior meeting
+   - Brief professional goodbye to departing person
+   - Edgar greets Marcus
+   - They enter office together
+
+3. INSIDE EDGAR'S OFFICE
+   - Edgar asks for quick update
+   - Marcus begins to explain singularity/quantum problem
+   - Edgar interrupts/corrects - he meant update on team transition
+   - Shows Edgar doesn't understand or care about the science
+   - Marcus shifts gears
+
+4. TEAM TRANSITION DISCUSSION
+   - Marcus describes how teams will work together
+   - Food Experimentation team members reassigned to Quantum Logistics
+   - Integration plan, responsibilities
+   - Explains collaboration structure
+
+5. HEADING TO MEETING
+   - Marcus mentions team meeting is about to start
+   - Edgar says he should attend also
+   - Both start heading toward meeting room
+   - Transition to next scene (team meeting)
+
+TONE: Professional, hints at knowledge gap between Marcus and Edgar
+CONTRAST: Marcus knows the real stakes, Edgar thinks it's routine logistics
+KEY DYNAMIC: Marcus has to code-switch between technical reality and corporate speak
+
+================================================================================
+                    FULL SCRIPT
+          ================================================================================
+
+FADE IN:
+
+INT. INZO FACILITY - HALLWAY OUTSIDE EDGAR'S OFFICE - DAY
+
+MARCUS (late 30s, focused, pragmatic) stands in the hallway, arms crossed, watching a WALL-MOUNTED SCREEN.
+
+ON SCREEN: Corporate video with sleek graphics shows rotating 3D models of cube structures. Professional NARRATOR
+voice-over.
+
+                    NARRATOR (V.O.)
+          Quantum Logistics Division continues
+          to pioneer dimensional efficiency
+          solutions, optimizing space-time
+          resource allocation for modern
+          correctional infrastructure.
+
+The video shows sanitized animations of prisoners entering cube rooms - looks safe, clean, futuristic.
+
+                    NARRATOR (V.O.) (CONT'D)
+          Our proprietary n-dimensional
+          containment systems provide cost-
+          effective solutions...
+
+The video shows prisoners in mess hall each with a sof-tak ball on their plate.
+
+                    NARRATOR (V.O.) (CONT'D)
+          for maintaining humane environments for our users...
+
+Marcus lets out a quiet, bitter laugh. Shakes his head slightly.
+
+                    MARCUS
+               (under breath)
+          Humane.
+
+The office door with sign "Head of Logistics" opens. A BUSINESS EXECUTIVE exits, shaking hands with EDGAR (50s, polished, corporate VP in pressed
+suit).
+
+                    EDGAR
+          Great, let's circle back on those
+          KPIs next week. Really appreciate
+          your bandwidth on this.
+
+                    EXECUTIVE
+          Absolutely. Synergy across divisions
+
+The two do a hand wave/shake to symbolize synergy flowing and both laugh. The Executive leaves. Edgar notices Marcus, his
+demeanor brightens.
+
+                    EDGAR
+          Marcus! Mr. Quantum! Perfect timing. Come on in.
+
+Marcus follows Edgar into the office.
+
+INT. EDGAR'S OFFICE - CONTINUOUS
+
+Typical corporate VP office - motivational posters, awards, organized desk. Edgar gestures to a chair as he settles
+behind his desk.
+
+                    EDGAR
+          So, you know I'm just regular logistics
+          and this quantum stuff is all new to me.
+          Jefe there had some worries so I'll be
+          more hands-on. Now give me the full
+          breakdown.
+
+Marcus shifts uncomfortably, shifts into science explanation mode.
+
+                    MARCUS
+          The extraction is showing promise.
+          We're seeing  information come
+          through with more frequency and--
+
+                    EDGAR
+               (interrupting, friendly)
+          Sorry, I should clarify. I meant the
+          team transition. How's the integration
+          going?
+
+Beat. Marcus recalibrates and relaxes, since he does not have to explain yet.
+
+                    MARCUS
+          Right. The team.
+
+                    EDGAR
+          The science stuff, that's your
+          department. I trust you've got it
+          handled. I'm more concerned with
+          the dollarinos. I don't want these
+          guys getting paid to do nothing.
+
+                    MARCUS
+               (measured)
+          The integration is... proceeding.
+          We're bringing in Alex and three others
+          from Food Science. Their experience
+          with dimensional compression
+          could translate well.
+
+Edgar pulls up a tablet, scrolling through what appears to be an org chart.
+
+                    EDGAR
+          And knowing dimensional compression
+          helps with your re-biggification?
+
+                    MARCUS
+          Yes..technically.
+
+                    EDGAR
+          Perfect. We'll all avoid en-shit-
+          ification then.
+               (laughs)
+          Alex, yes. I see that name a lot
+          for sof-tak.
+
+Marcus's expression darkens slightly at the mention of sof-tak - he considers it far beneath his level.
+
+                    MARCUS
+          She's competent. They all are.
+
+                    EDGAR
+          And they're up to speed?
+
+                    MARCUS
+          We're coordinating currently. The
+          team meeting starts in a few minutes.
+          First session with the combined group.
+
+Edgar stands, grabbing his tablet.
+
+                    EDGAR
+               (nodding approvingly)
+          I'm actually free should sit in on
+          that. Good to show leadership support
+          during transitions. Plus, on the
+          ground level you can see the real dirt.
+
+Marcus stands as well, a flicker of concern crosses his face.
+
+                    MARCUS
+          It's going to be fairly technical.
+          Dimensional mathematics, quantum
+          containment protocols--
+
+                    EDGAR
+               (seriously)
+          I also need to make sure the team is
+          run well. Since we're giving Quantum
+          Logistics these resources, we're
+          expecting you can hit all Q3
+          deliverables. Or we're both
+          going to need to explain.
+
+Edgar moves toward the door, Marcus follows with visible hesitation.
+
+                    EDGAR (CONT'D)
+               (calmly)
+          But you just make sure everyone keeps
+          attacking the crap pile, keep them
+          working toward the same goal.
+
+                    MARCUS
+          De-shittification?
+
+                    EDGAR
+               (smiling, pointing at Marcus)
+          Close. Profit maximization!
+
+Marcus pauses at the door, something unspoken in his expression.
+
+                    MARCUS
+               (uncertain smile)
+          Synergy.
+
+But the way he says it suggests he doesn't quite believe it.
+
+                    EDGAR
+          Synergy indeed.
+
+They exit the office together. Edgar cheerful and oblivious, starting to describe old transitions. Marcus carrying the
+weight of what he knows.
+
+FADE OUT.

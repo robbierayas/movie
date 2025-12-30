@@ -1,0 +1,421 @@
+# Animation System - AI Instructions
+
+**PRIMARY INSTRUCTION FILE** for working with the Three.js animation system.
+
+---
+
+## DOCUMENTATION HIERARCHY
+
+When working on animation tasks, use these files:
+
+1. **THIS FILE (claude.md.animation)** - Decision tree, workflows, critical rules, scene setup process
+2. **ANIMATION_GUIDE.md** - Technical reference (camera systems, character actions, code examples)
+3. **README.md** - Code organization and file structure
+
+---
+
+## WHEN USER SAYS... (Command Recognition)
+
+### Scene Creation
+| User Command | Action |
+|-------------|--------|
+| "Create basic scene structure for scene X in [location] with grid" | **ONLY if cam_ file exists** - Follow **Scene Structure Workflow** below |
+| "Create base scene files for [Scene Name]" | **ONLY if cam_ file exists** - Follow **Scene Structure Workflow** below |
+
+**IMPORTANT:** Only create scene structure for scenes that have a corresponding `cam_` camera-ready screenplay file (e.g., `cam_Scene 4 - Meeting Lea.txt`). Skip scene creation if no `cam_` file exists.
+
+### Character Positioning
+| User Command | Action |
+| "The marks are how I want them" | Scene is ready for action generation |
+| "For scene X the marks are how I want them, add the scene actions for it to take Y minutes" | See **ACTION GENERATION** section below - Generate all actions |
+
+### Scene Finalization
+| User Command | Action |
+| "Remove the grid and axes from act N scene X" | Remove grid helper, axes helper, and pause flag from setupBackground() |
+| "Finalize scene X" | Remove grid helper, axes helper, and pause flag from setupBackground() |
+
+---
+
+## CRITICAL RULES (NEVER BREAK THESE)
+
+### Scene Setup
+1. **ALWAYS expose scene globally in index.html**: `window.scene = new SceneClass()`
+2. **ALWAYS add grid + axes helpers** when creating new scenes
+3. **ALWAYS set `this.paused = true`** initially in constructor
+4. **ALWAYS use `act[N]_scene[N]` folder naming** (e.g., `act1_scene6`)
+
+### Character Actions
+1. **DO NOT manually set rotation** for movement actions (walk, climb, crawl) - automatically calculated
+2. **ALWAYS set rotation manually** for stationary actions (sitting, standing)
+3. **Characters positioned via console**: `scene.characters.chen.getModel().position.set(x, y, z)`
+4. **Character heights from utils.js**:
+   - Standing/Walking: `CHARACTER_HEIGHT.STANDING` (0.1)
+   - Sitting: `CHARACTER_HEIGHT.SITTING` (-0.25)
+
+### Camera System
+1. **ALL camera moves in sceneConfig.cameraMoves** - NEVER in scene.js methods
+2. **Use variety of camera types** - Don't rely only on trackCharacter
+3. **DO NOT track during crawling** - use cutToPosition or panToPosition instead
+4. **Stop tracking before walking/standing** if camera would shoot through walls
+
+### Event-Based Timing
+1. **Use named events** not absolute times
+2. **Change one event time, all actions update** automatically
+3. Format: `{ event: 'eventName', delay: milliseconds, ... }`
+
+---
+
+## SCENE STRUCTURE WORKFLOW
+
+**Trigger:** User says "Create basic scene structure for scene X in [location] with grid"
+
+**Reference:** ANIMATION_GUIDE.md "SCENE SETUP WORKFLOW - CHARACTER MARKS" section
+
+### Files to Create
+
+#### 1. Folder Structure
+```
+animation/
+  act[N]_scene[N]/
+    [location]/
+      index.html
+      scene.js
+      sceneConfig.js
+```
+
+#### 2. index.html Template
+```html
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Act [N] Scene [N] - [Title]</title>
+    <style>
+        body { margin: 0; overflow: hidden; }
+        canvas { display: block; }
+    </style>
+</head>
+<body>
+    <script type="module">
+        import { Act[N]Scene[N][Location] } from './scene.js';
+
+        // CRITICAL: Expose scene globally for console access
+        window.scene = new Act[N]Scene[N][Location]();
+    </script>
+</body>
+</html>
+```
+
+#### 3. scene.js Template
+```javascript
+import { BaseScene } from '../../../BaseScene.js';
+import { [EnvironmentClass] } from '../../../[EnvironmentClass].js';
+import { sceneConfig } from './sceneConfig.js';
+
+export class Act[N]Scene[N][Location] extends BaseScene {
+    constructor() {
+        super(sceneConfig);
+
+        // CRITICAL: Pause scene by default for mark setting
+        this.paused = true;
+    }
+
+    setupBackground() {
+        // Build environment
+        this.[environment] = new [EnvironmentClass]({
+            // environment-specific options
+        });
+        this.scene.add(this.[environment].getGroup());
+
+        // CRITICAL: Add grid for positioning
+        const gridHelper = new THREE.GridHelper(50, 50);
+        this.scene.add(gridHelper);
+
+        // CRITICAL: Add axes for orientation
+        const axesHelper = new THREE.AxesHelper(5);
+        this.scene.add(axesHelper);
+
+        console.log('[SETUP] Environment created with grid and axes');
+    }
+
+    // Placeholder timeline action methods
+    sceneStart() {
+        console.log('[ACTION] Scene starting');
+    }
+
+    // Add more placeholder methods based on screenplay beats
+}
+```
+
+#### 4. sceneConfig.js Template
+```javascript
+import { CHARACTER_HEIGHT, CHARACTER_SCALE, ROTATION } from '../../../utils.js';
+
+export const sceneConfig = {
+    // Main beats in the scene
+    events: {
+        sceneStart: 0,
+        // Add more events based on screenplay
+    },
+
+    // Characters positioned on marks (NO movements yet)
+    characters: [
+        {
+            id: 'characterId',
+            name: 'CharacterName',
+            scale: CHARACTER_SCALE,
+            actions: [
+                {
+                    type: 'standing',
+                    event: 'sceneStart',
+                    delay: 0,
+                    startPosition: { x: 0, y: CHARACTER_HEIGHT.STANDING, z: 0 },
+                    rotation: { x: 0, y: ROTATION.SOUTH, z: 0 }
+                }
+            ]
+        }
+        // Add more characters
+    ],
+
+    // Camera moves - empty for now
+    cameraMoves: [],
+
+    timeline: [
+        { event: 'sceneStart', delay: 0, action: 'sceneStart' }
+    ]
+};
+```
+
+---
+
+## CHARACTER MARK SETTING
+
+**After scene structure created**, user positions characters:
+
+1. **User opens** `animation/act[N]_scene[N]/[location]/index.html`
+2. **Scene loads paused** with grid, axes, and characters visible
+3. **User positions via console**:
+   ```javascript
+   scene.characters.chen.getModel().position.set(2.5, 0.1, 9.5)
+   console.log('Chen:', scene.characters.chen.getModel().position)
+   ```
+4. **User documents** final positions in sceneConfig.js comment block
+5. **User says** "the marks are how I want them"
+
+---
+
+## ACTION GENERATION
+
+**Trigger:** User says "For scene X the marks are how I want them, add the scene actions for it to take Y minutes"
+
+### What to Generate
+
+1. **Entrance walks with collision detection**
+   - Paths from door → character marks
+   - Collision checked against environment objects AND other characters
+   - Waypoints added if direct path blocked
+   - Staggered delays (200ms apart)
+   - **Hardcoded paths** - no runtime calculation
+
+2. **Talking animations** based on dialogue
+   - `type: 'talking'` for speaking moments
+   - Duration scaled to dialogue length
+   - Includes hand gestures (Talking.fbx)
+
+3. **Face actions** for conversations
+   - `type: 'face'` with `targetCharacter`
+   - Auto-calculates rotation
+   - Key conversation moments only
+
+4. **Standing/position actions** at marks
+   - Manual rotation for stationary poses
+   - Mark positions from character setup
+
+5. **Timeline events** scaled to target duration
+   - Event structure based on screenplay beats
+   - All timings proportional to target minutes
+
+6. **30+ camera moves** with variety
+   - Establishing shots (wide)
+   - cutToPosition (dramatic)
+   - panToPosition (reveals)
+   - trackCharacter (following movement)
+   - **Dialogue framing using 160° geometry** (see below)
+   - stopTracking (before wall issues)
+
+### Collision Detection System
+
+**Environment Collision:**
+- Reads environment class (Lab.js, ConferenceRoom.js, etc.)
+- Extracts obstacle boundaries (desks, tables, transmitter)
+- Raycasts path from door → mark
+- If blocked → generates waypoint
+
+**Temporal Collision (Character-to-Character):**
+- Tracks all character positions over time
+- Uses staggered delays to calculate positions at each timestamp
+- If two characters occupy same space → adjusts timing or adds waypoint
+- 0.5m radius per character
+- Checked at 100ms intervals
+
+**Waypoint Generation:**
+```javascript
+// Example: Path blocked by desk
+// Original: door { x: -7, z: -11 } → mark { x: -8, z: -5 }
+// Generated:
+{
+    type: 'walk',
+    startPosition: { x: -7, y: 0.1, z: -11 },
+    endPosition: { x: -3, y: 0.1, z: -8 },  // Waypoint
+    distancePerCycle: 2
+},
+{
+    type: 'walk',
+    delay: 3000,
+    startPosition: { x: -3, y: 0.1, z: -8 },
+    endPosition: { x: -8, y: 0.1, z: -5 },  // Final mark
+    distancePerCycle: 2
+}
+```
+
+### Dialogue Camera Geometry: The 160° Rule
+
+When two characters are talking, position camera geometrically:
+
+**Calculation:**
+```javascript
+// 1. Get positions
+const speakerPos = { x: -8, y: 0.1, z: -5 };    // Morris
+const listenerPos = { x: -11, y: 0.1, z: -5 };  // Nina
+
+// 2. Calculate midpoint (center of conversation)
+const centerX = (speakerPos.x + listenerPos.x) / 2;  // -9.5
+const centerZ = (speakerPos.z + listenerPos.z) / 2;  // -5
+
+// 3. Calculate distance between them
+const dx = listenerPos.x - speakerPos.x;
+const dz = listenerPos.z - speakerPos.z;
+const diameter = Math.sqrt(dx * dx + dz * dz);  // 3.0
+
+// 4. Radius for camera distance FROM CENTER
+const radius = diameter / 2;  // 1.5
+
+// 5. Direction from speaker to listener
+const forwardAngle = Math.atan2(dz, dx);
+
+// 6. Camera at 160° from speaker's forward direction
+const cameraAngle = forwardAngle + (160 * Math.PI / 180);
+
+// 7. Camera position - FROM CENTER/MIDPOINT, not speaker
+const cameraX = centerX + Math.cos(cameraAngle) * radius;
+const cameraZ = centerZ + Math.sin(cameraAngle) * radius;
+const cameraY = 1.55;  // Eye level
+
+// Result: Natural over-the-shoulder shot
+const cameraPos = { x: cameraX, y: cameraY, z: cameraZ };
+const lookAt = { x: speakerPos.x, y: 1.6, z: speakerPos.z };
+```
+
+**Why 160°?**
+- 0° to 90°: Behind speaker (can't see face)
+- 90° to 135°: Side angle (profile)
+- 135° to 180°: Over-the-shoulder range
+- **160°**: Sweet spot - partial profile + listener in background
+- 180°: Flat facing (no depth)
+
+**Benefits:**
+- ✅ Natural over-the-shoulder framing
+- ✅ Both characters in frame
+- ✅ Proper eyeline
+- ✅ Consistent framing
+- ✅ No arbitrary offsets
+
+See collision detection and dialogue geometry sections above for complete implementation details.
+
+---
+
+## GRID REMOVAL
+
+**Trigger:** User says "Remove the grid and axes from act N scene X"
+
+### What to Remove from scene.js setupBackground()
+
+```javascript
+// REMOVE THESE LINES:
+const gridHelper = new THREE.GridHelper(50, 50);
+this.scene.add(gridHelper);
+
+const axesHelper = new THREE.AxesHelper(5);
+this.scene.add(axesHelper);
+
+// REMOVE THIS FROM CONSTRUCTOR:
+this.paused = true;
+```
+
+---
+
+## QUICK LOOKUPS
+
+### Character Action Types
+See **ANIMATION_GUIDE.md "CHARACTER ACTIONS REFERENCE"**
+- walk, sitting, standing, waving, pointing, talking, climbing, crawling, face
+
+### Camera Move Types
+See **ANIMATION_GUIDE.md "CAMERA SYSTEM"**
+- panToPosition, panKeepAngle, cutToPosition, trackCharacter, stopTracking
+
+### Camera Offset Patterns
+See **ANIMATION_GUIDE.md "Common trackCharacter Offset Patterns"** table
+
+### Coordinate System
+- X axis: Negative = West, Positive = East
+- Y axis: Up (height)
+- Z axis: Negative = North, Positive = South
+
+### Rotation Constants
+```javascript
+ROTATION.NORTH = Math.PI
+ROTATION.SOUTH = 0
+ROTATION.EAST = -Math.PI / 2
+ROTATION.WEST = Math.PI / 2
+```
+
+### Common Positions
+See **ANIMATION_GUIDE.md "Position Reference Examples"** for ConferenceRoom and Lab layouts
+
+---
+
+## COMMON MISTAKES TO AVOID
+
+1. ❌ Setting rotation for walk/climb/crawl actions (auto-calculated)
+2. ❌ Not exposing window.scene in index.html
+3. ❌ Camera moves in scene.js instead of sceneConfig.cameraMoves
+4. ❌ Tracking camera during crawling (looks bad)
+5. ❌ Using absolute times instead of event-based timing
+6. ❌ Missing grid/axes when creating new scenes
+7. ❌ Forgetting to pause scene initially
+
+---
+
+## FILE CROSS-REFERENCE
+
+| Need... | Look in... |
+|---------|-----------|
+| Technical details on camera systems | ANIMATION_GUIDE.md "CAMERA SYSTEM" |
+| Character action specifications | ANIMATION_GUIDE.md "CHARACTER ACTIONS REFERENCE" |
+| Scene setup step-by-step | THIS FILE "SCENE STRUCTURE WORKFLOW" |
+| Action generation process | THIS FILE "ACTION GENERATION" |
+| Collision detection system | THIS FILE "Collision Detection System" |
+| Dialogue camera geometry | THIS FILE "Dialogue Camera Geometry: The 160° Rule" |
+| Code organization | README.md |
+| Environment class patterns | ANIMATION_GUIDE.md "Creating Environment Classes" |
+| Common issues and fixes | ANIMATION_GUIDE.md "COMMON ISSUES AND SOLUTIONS" |
+| Best practices | ANIMATION_GUIDE.md "BEST PRACTICES" |
+
+---
+
+## RESOURCES
+
+- **Mixamo**: https://www.mixamo.com (free characters + animations)
+- **Three.js Docs**: https://threejs.org/docs/

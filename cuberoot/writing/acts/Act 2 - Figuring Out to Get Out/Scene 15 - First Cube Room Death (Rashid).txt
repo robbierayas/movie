@@ -1,0 +1,509 @@
+SCENE 5 - FIRST CUBE ROOM DEATH (RASHID)
+=========================================
+
+LOCATION: Mathematical trap room - deadlier than Scene 4, The room the escape to at the end of Scene 4
+
+CHARACTERS:
+- All 11 team members
+
+SCENE LAYOUT:
+
+1. DISCOVERY
+   - Team looks around room cautiously
+   - Josh: "Careful. The gradient is high in this area."
+   - Team approaches cautiously
+
+2. ASSESSING THE SITUATION
+   - Marcus steps in the middle of the room. Trap activates with chains deploying from 5 corners to grap him by hands, ankles and neck
+   - Marcus: desperate, can't free themselves
+   - Mechanism complex - mathematical lock system
+   - Rashid examines it with Nina and Yuki
+   - Symbols and patterns on trap mechanism
+   - Marcus: "Can we break it?"
+   - Chen: "Might kill them if we force it."
+
+3. RASHID TAKES LEAD
+   - Rashid analyzing trap mechanism symbols
+   - Finds pattern in the locking system
+   - More complex than Scene 4's puzzle
+   - Rashid confident: "I can solve this. I haven't seen it since my thesis but I remember"
+   - Yuki: "Can you do it in time? Those are hard calculations in your head. Nina and I will help."
+   - Morris unsure how to help, holds one chain to keep it from moving
+   - Edgar: "How long will it take?"
+   - Rashid: "Give me a few minutes."
+   - Tile light sequence indicating timer starts.
+
+4. WORKING THE PUZZLE
+   - Rashid calculating sequence to unlock trap gets ankle and speaks tip to Yuki and Nina. They get the other ankle and a hand free
+   - Rashid switches to neck and Nina and Yuki to the other hand
+   - The others stay near doors away from corners
+   - Marcus anxious, trying to stay calm
+   - Alex reassuring them: "We're getting you out."
+   - Josh watching, tense
+   - Darius: "What if we can't?"
+   - Marcus: "We can. Rashid's got this."
+
+5. THE SOLUTION
+   - The other hand is freed but the neck is more complex
+   - Light timer approaches the end and Rashid finds unlock sequence in nick of time
+   - Final symbol touched
+   - Mechanism clicks, releases
+   - Trapped person freed
+   - Falls into team's arms
+   - Relief, gratitude, tears
+   - Team celebrating
+   - Rashid modest: "Just math."
+   - Nina hugging Rashid: "You did it!"
+   - Yuki: "That was brilliant!"
+
+8. RASHID'S DEATH
+   - As they help Marcus away from trap, Marcus says make sure it doesn't hurt anyone else
+   - Rashid still by mechanism, examining it
+   - Wants to understand it fully for future rescues
+   - Nina: "Rashid, come on. We need to go."
+   - Rashid: "Just one more second..."
+   - Trap reactivates but timer didn't restart and is right at the end
+   - Rashid caught in deadly trap mechanism
+   - Team screams, tries to reach him
+   - Too fast - no time to save him
+   - Rashid dies after saving someone, killed by same trap
+   - Tragic irony: solved the puzzle but trap still kills
+   - Team horrified - victory turned to tragedy
+   - First major team member death
+
+9. AFTERMATH
+   - Team, shaken
+   - Marcus, somewhat guilty and having difficulty justifying
+   - Yuki breaking down, Nina comforting her
+   - Morris pale, rambling about adaptive systems
+   - Darius: "We're going to die here."
+   - Alex trying to rally: "Rashid's death means something if we learn from it."
+   - Edgar quiet, processing first team death under his leadership
+   - Lea staying close to Josh
+   - Josh: "Keep moving. Grief later. Survive now."
+
+10. MOVING FORWARD
+   - Team continues, devastated but determined
+   - Rashid's sacrifice proven his value - saved a life
+   - Nina and Yuki grieving their mathematician colleague
+   - Hope mixed with loss - they can help people but at cost
+   - Not just escaping - rescuing, but dangerous
+   - Edgar: "Keep moving. Honor Rashid by getting out."
+   - Team proceeds with grief and purpose
+
+TONE: Tension to triumph to sudden tragedy, first major grief
+CHARACTER DYNAMICS: Team collaboration turns to horror, Rashid's heroic sacrifice, first death under Edgar's leadership
+
+================================================================================
+
+Description:
+Team enters mathematical trap room. Marcus accidentally triggers trap mechanism and gets caught by chains restraining his hands, ankles, and neck. Rashid, with help from Nina and Yuki, solves the complex mathematical puzzle to free Marcus. After successfully rescuing Marcus, Rashid lingers to study the mechanism for future encounters. Trap reactivates without warning and kills Rashid. First major team death - victory immediately turned to tragedy. Shows traps have adaptive/secondary mechanisms and no victory is safe in the cube.
+
+Key Elements:
+- Someone already trapped when team arrives
+- Rashid's expertise crucial to rescue
+- Mathematical/mechanical puzzle to free trapped person
+- Success builds confidence and hope
+- Shows team can help others, not just survive
+- Rescued person may join team or provide information
+- Validates exploring approach - found someone to help
+
+Characters Present:
+All 11 team members + trapped person
+
+Scene Beats:
+
+1. DISCOVERY
+- Team enters room with trap mechanism
+- Hear voice crying for help
+- Someone trapped in mechanical restraints/cage
+- Person panicked, exhausted, been there for unknown time
+- Josh: "Careful. The trap is still active."
+- Team approaches cautiously
+
+2. ASSESSING THE SITUATION
+- Trapped person: desperate, relieved to see them
+- Explains: stepped wrong, trap activated, been stuck since
+- Can't free themselves
+- Mechanism complex - mathematical lock system
+- Rashid examines it with Nina and Yuki
+- Symbols and patterns on trap mechanism
+- Marcus: "Can we break it?"
+- Chen: "Might kill them if we force it."
+
+3. RASHID TAKES LEAD
+- Rashid analyzing trap mechanism symbols
+- Finds pattern in the locking system
+- More complex than Scene 4's puzzle
+- Nina and Yuki helping with calculations
+- Rashid confident: "I can solve this."
+- Lea recognizing some of the mathematical principles
+- Morris rambling nervously about mechanisms
+- Edgar: "How long will it take?"
+- Rashid: "Give me a few minutes."
+
+4. WORKING THE PUZZLE
+- Rashid calculating sequence to unlock trap
+- Nina verifying his work
+- Yuki checking alternate solutions
+- Chen examining mechanical components
+- Trapped person anxious, trying to stay calm
+- Alex reassuring them: "We're getting you out."
+- Josh watching, tense
+- Darius: "What if we can't?"
+- Marcus: "We can. Rashid's got this."
+
+5. THE SOLUTION
+- Rashid finds unlock sequence
+- Explains to team what he's doing
+- Must input pattern in correct order
+- Chen helping with mechanical execution
+- Sequence: touch symbols in calculated order
+- Team holding breath
+- Trapped person praying
+
+6. SUCCESS
+- Final symbol touched
+- Mechanism clicks, releases
+- Trapped person freed
+- Falls into team's arms
+- Relief, gratitude, tears
+- Team celebrating
+- Rashid modest: "Just math."
+- Nina hugging Rashid: "You did it!"
+- Yuki: "That was brilliant!"
+
+7. THE RESCUED PERSON
+- Introduce freed person
+- [Name TBD - could be INZO employee or other victim]
+- Thanks team profusely
+- Provides information about cube
+- Confirms others are trapped throughout
+- Josh's warnings validated
+- Alex: "See? We can help people. This is why we explore."
+- Marcus even admits: "Good work."
+
+8. RASHID'S DEATH
+- As they help rescued person away from trap
+- Rashid still by mechanism, examining it
+- Wants to understand it fully for future rescues
+- Nina: "Rashid, come on. We need to go."
+- Rashid: "Just one more second..."
+- Trap reactivates/secondary mechanism triggers
+- Rashid caught in deadly trap mechanism
+- Team screams, tries to reach him
+- Too fast - no time to save him
+- Rashid dies after saving someone, killed by same trap
+- Tragic irony: solved the puzzle but trap still kills
+- Team horrified - victory turned to tragedy
+- First major team member death
+
+8.5. INFORMATION GATHERED
+- Rescued person shares what they know
+- Trap rooms locations
+- Other survivors possibly nearby
+- Dangers they've encountered
+- Josh listening carefully
+- Team learning valuable intel
+- Edgar: "This is what we needed."
+- Lea to Alex: "You were right. Exploring helps."
+
+9. AFTERMATH
+- Team on other side, shaken
+- Yuki breaking down, Nina comforting her
+- Morris pale, rambling about adaptive systems
+- Darius: "We're going to die here."
+- Alex trying to rally: "Rashid's death means something if we learn from it."
+- Edgar quiet, processing first team death under his leadership
+- Marcus calculating odds grimly
+- Lea staying close to Josh
+- Josh: "Keep moving. Grief later. Survive now."
+
+10. MOVING FORWARD
+- Team continues, devastated but determined
+- Rashid's sacrifice proven his value - saved a life
+- Nina and Yuki grieving their mathematician colleague
+- Found survivor means others are findable
+- Hope mixed with loss - they can help people but at cost
+- Not just escaping - rescuing, but dangerous
+- Josh: "Keep moving. Honor Rashid by saving more."
+- Team proceeds with grief and purpose
+
+Character Moments:
+- Rashid: Brilliant problem-solver, saves someone's life, then dies to the trap - heroic sacrifice
+- Nina: Devastated by Rashid's death, loses colleague and friend
+- Yuki: Grieves fellow mathematician, witnesses cost of helping
+- Alex: Vindicated but guilty - exploration saves people but costs Rashid
+- Marcus: Conflicted - success proved value but cost too high
+- Edgar: First major death under his leadership, heavy burden
+- Lea: Supports Alex but sees the danger
+- Josh: Validates risk warnings, first "I told you so" moment
+- Darius: Fear confirmed - helping others can kill you
+- Morris: Shaken by adaptive trap that killed Rashid
+- Chen: Witnessed mechanical death, practical horror
+
+Establishes:
+- Team can rescue people, but at terrible cost
+- First major team member death - Rashid
+- Success and tragedy intertwined - saved one, lost one
+- Information from rescued person is valuable but came at price
+- Alex's philosophy validated AND questioned - was it worth it?
+- Traps have secondary mechanisms/adaptive responses
+- No victory is safe in the cube
+- Sets emotional stakes for future rescue attempts
+
+Death Count:
+1 - Rashid (saved someone, then killed by same trap)
+
+Tone:
+- Tension of trap situation
+- Problem-solving under pressure
+- Brief relief and joy at rescue success
+- Sudden horror as Rashid dies
+- Hope crushed by tragedy
+- Team bonding through shared loss
+- Bitter validation - can help, but at cost
+- First major grief and mourning
+
+================================================================================
+FULL SCRIPT
+================================================================================
+
+FADE IN:
+
+INT. ROOT CUBE - TRAP ROOM - CONTINUOUS
+
+Team cautiously near door they entered from. Unclear where danger could be.
+
+JOSH stops at threshold.
+
+                    JOSH
+          Careful. The gradient is high in this
+          area.
+
+Team slowly steps forward, approaching cautiously. MARCUS scans the room.
+
+                    MARCUS
+          I see the pattern—
+
+MARCUS steps toward center of room. His foot hits pressure plate.
+
+SNAP!
+
+CHAINS deploy from five corners - whip out and grab MARCUS by hands, ankles, and neck. Mathematical lock symbols glow on restraints.
+
+                    MARCUS
+               (struggling)
+          What—
+
+Chains tighten. Marcus suspended, can't free himself. Grimacing in pain.
+
+                    ALEX
+          Marcus!
+
+Team rushes forward. RASHID, NINA, YUKI immediately examine mechanism.
+
+                    RASHID
+          Mathematical lock. Complex.
+
+MARCUS trying to stay calm through pain.
+
+                    MARCUS
+          Can we break it?
+
+CHEN studies mechanism from safe angle.
+
+                    CHEN
+          Might kill him if we force it.
+
+RASHID analyzing symbols on restraints, finds pattern.
+
+                    RASHID
+          I can solve this. I haven't seen it
+          since my thesis but I remember.
+
+YUKI concerned, stepping closer.
+
+                    YUKI
+          Can you do it in time? Those are hard
+          calculations in your head. Nina and I
+          will help.
+
+MORRIS unsure how to help, grabs one chain to keep it from moving.
+
+EDGAR tense, watching.
+
+                    EDGAR
+          How long will it take?
+
+RASHID focused on symbols.
+
+                    RASHID
+          Give me a few minutes.
+
+Floor tiles begin GLOWING in sequence - timer starting. Light moves slowly across pattern.
+
+RASHID calculates frantically, touching symbols. Gets ankle lock mechanism.
+
+                    RASHID (CONT'D)
+          Nina - sequence three-seven-five on
+          the left ankle. Yuki - eight-two-one
+          on the right hand.
+
+NINA and YUKI work on their respective locks. Left ankle CLICKS FREE. Right hand CLICKS FREE.
+
+                    RASHID (CONT'D)
+          I'll take the neck. You two get the
+          other hand.
+
+NINA and YUKI move to other hand restraint.
+
+Others stay near doors away from corners. DARIUS watches skeptically.
+
+                    DARIUS
+          What if we can't?
+
+MARCUS through pain, voice strained.
+
+                    MARCUS
+          We can. Rashid's got this.
+
+ALEX reassuring, moving closer.
+
+                    ALEX
+          We're getting you out.
+
+JOSH watches from doorway, tense.
+
+RASHID, NINA, YUKI working. Other hand CLICKS FREE.
+
+Rashid switches to neck lock. More complex - more symbols, layered patterns.
+
+Tile timer approaching end - halfway through now.
+
+RASHID calculating, muttering numbers. Tries sequence. Wrong - mechanism buzzes.
+
+                    RASHID
+          No, no... let me recalculate...
+
+Tile timer accelerating. Three quarters through.
+
+RASHID frantically calculating. Finds sequence. Touches symbols in order.
+
+                    RASHID (CONT'D)
+          Final sequence - two-nine-four-six.
+
+Mechanism CLICKS. RELEASES.
+
+Marcus FALLS forward. LEA and EDGAR catch him.
+
+Relief floods faces. NINA rushes to hug RASHID.
+
+                    NINA
+          You did it!
+
+YUKI excited, smiling.
+
+                    YUKI
+          That was brilliant!
+
+RASHID modest, slight smile.
+
+                    RASHID
+          Just math.
+
+MARCUS rubbing restraint marks on wrists, catching breath.
+
+                    MARCUS
+               (to Rashid)
+          Thank you.
+
+MARCUS looks back at trap mechanism as team helps him away.
+
+                    MARCUS (CONT'D)
+          Make sure it doesn't hurt anyone else.
+
+RASHID lingers by mechanism, examining symbols closely.
+
+NINA calling from doorway.
+
+                    NINA
+          Rashid, come on. We need to go.
+
+RASHID studying mechanism, tracing patterns.
+
+                    RASHID
+          Just one more second...
+
+Trap REACTIVATES. Timer didn't restart - still at end.
+
+Chains SNAP out. Catch RASHID by all limbs and neck.
+
+Team SCREAMS. Rushes toward him.
+
+                    YUKI
+          RASHID!
+
+Too fast. Chains tighten violently.
+
+Rashid caught in deadly mechanism. Brutal. Fast.
+
+                    NINA
+          NO!
+
+Mechanism CRUSHES. Rashid dies.
+
+Victory to tragedy. Solved puzzle but trap killed him.
+
+Team frozen in horror. First major death.
+
+FADE TO:
+
+INT. ROOT CUBE - BEYOND TRAP ROOM - MOMENTS LATER
+
+Team in next room, shaken. Some sitting, some standing.
+
+MARCUS against wall, guilty expression. Difficulty justifying.
+
+YUKI breaking down, crying. NINA beside her, both crying, comforting each other.
+
+MORRIS pale, rambling nervously.
+
+                    MORRIS
+          Adaptive systems... the trap adapted...
+          even after solving it... it was
+          waiting for... I mean, it's like it
+          knew someone would...
+
+DARIUS bitter, cutting him off.
+
+                    DARIUS
+          We're going to die here.
+
+ALEX stepping forward, trying to rally.
+
+                    ALEX
+          Rashid's death means something if we
+          learn from it. Don't linger. Don't
+          assume you're safe. Keep moving.
+
+Everyone realizes she repeated a line from Josh.
+
+EDGAR quiet. Processing. First death under his leadership. Weight visible.
+
+LEA stays close to JOSH near corner.
+
+JOSH cryptic, watching.
+
+                    JOSH
+          Keep moving. Never stop.
+
+Team slowly gathers, devastated but determined.
+
+                    EDGAR
+          Keep moving. Honor Rashid by getting
+          out.
+
+Team proceeds toward next door. Grief and purpose. Rashid saved Marcus but cost his life.
+
+FADE OUT.

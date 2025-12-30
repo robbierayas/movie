@@ -1,0 +1,414 @@
+# LUCKY IN HAVANA
+
+## Logline
+An exiled mob boss builds a drug empire from Cuba in 1946, while an FBI agent and a Cuban cop team up to deport him - unknowingly empowering a more ruthless criminal who will flood America with heroin for the next two decades.
+
+## Synopsis
+October 1946: Lucky Luciano, America's most powerful mob boss, arrives in Havana after being deported from the U.S. Just 90 miles from Florida, he sees Cuba as his new kingdom - a paradise where he can run his criminal empire beyond American law. With Cuban President Batista on his payroll, Lucky invests in casinos, builds an airline, and begins constructing the "French Connection" heroin network that will replace the collapsing China route.
+
+In December, Lucky hosts the Havana Conference - the last time the entire American Mafia leadership meets in one place. Twenty mob bosses gather to divide territories and plan the future of organized crime. But Lucky's ambitious underboss Vito Genovese challenges his authority. When Albert Anastasia stands and delivers his famous defense - "For me, you are the Big Boss, whether you like it or not" - Lucky wins. But Genovese begins plotting revenge.
+
+Jack Brennan, an FBI agent whose brother died from a heroin overdose, goes undercover in Havana to document Lucky's operation. He recruits hotel informants and builds a case. Carlos Delgado, a Cuban Secret Police agent assigned to protect Lucky, is torn between duty to his corrupt government and doing what's right for his family. When Delgado and Brennan form an unlikely alliance, they gather the evidence needed to deport Lucky.
+
+But there's a twist: Genovese has been secretly feeding information to U.S. authorities, using the FBI as his weapon. When Lucky is arrested and deported in March 1947, Genovese seizes control. Over the next decade, he expands the heroin network aggressively, assassinates Lucky's allies, and builds the largest drug empire in American history - flooding U.S. cities with heroin and causing the epidemic of the 1950s-60s.
+
+The "heroes" won. But they made everything worse.
+
+## Theme
+Pyrrhic victory / Unintended consequences / The devil you know
+
+The cost of doing the "right" thing when the system is corrupt - sometimes removing one evil just empowers a greater one.
+
+## Genre
+Crime Drama / Historical Thriller / Noir
+
+## Setting
+**Havana, Cuba - October 1946 to March 1947**
+
+A vibrant, corrupt paradise 90 miles from Florida. Vintage cars, colonial architecture, casinos, racetracks, nightclubs. Wealth and poverty side by side. The city is controlled by President Batista and the mob, with American money flowing through every level of government.
+
+**Key Locations:**
+- **Hotel Nacional de Cuba** - Grand casino hotel (Havana Conference venue)
+- **Miramar Mansion** - Lucky's residence (owned by General Pérez Dámera)
+- **Oriental Park Racetrack** - Jockey Club gambling tables
+- **Casino Nacional** - Major gambling venue
+- **El Jardin Restaurant** - Vedado district (arrest location)
+- **Tiscornia Immigration Camp** - Detention facility on island
+- **Havana Harbor** - Deportation dock
+
+## Historical Context
+See **history.txt** for complete historical documentation, dates, sources, and fact-checking.
+
+**Key Real Events:**
+- Lucky Luciano in Cuba: October 29, 1946 - March 19, 1947 (141 days)
+- Havana Conference: December 22-26, 1946
+- Arrest: February 23, 1947 (El Jardin restaurant)
+- Deportation: March 19, 1947 (S.S. Bakir to Italy)
+
+**Heroin Networks:**
+- China route collapsing (Communist Civil War, victory 1949)
+- French Connection emerging (Turkey → Sicily → France → Cuba → U.S.)
+- 1950s-1960s: Over 80% of U.S. heroin from French Connection
+
+---
+
+## MAIN CHARACTERS
+
+### Jack Brennan (FBI/FBN Agent) - COMPOSITE CHARACTER
+Federal Bureau of Narcotics agent, late 30s. Personal stake: brother died from heroin overdose. Believes Lucky is the mastermind he must stop. Goes undercover in Havana, recruits informants, documents the Havana Conference. Will discover removing Lucky empowers Genovese - a worse villain.
+
+**Based on:** Harry Anslinger (FBN Director 1930-1962) and his agents.
+
+### Carlos Delgado (Cuban Secret Police) - COMPOSITE CHARACTER
+Cuban Secret Police officer, early 40s. Family man (wife Maria, two young daughters). Believes in serving Cuba but works for a corrupt government. Assigned to protect Lucky, witnesses everything. Forms alliance with Brennan. Must choose between duty and conscience.
+
+**Based on:** Various Cuban officials including Benito Herrera (Secret Police Chief).
+
+### Lucky Luciano (Salvatore Lucania) - HISTORICAL
+Age 49. Exiled mob boss rebuilding empire from Cuba. Professional, charismatic, believes he's untouchable. Has been trafficking heroin since 1916. In Cuba: invests in casinos, builds airline, plans French Connection. Hubris leads to downfall.
+
+**Historical figure:** Born 1897, died 1962 in Naples.
+
+### Vito Genovese - HISTORICAL (MAIN ANTAGONIST)
+Age 49. Ambitious underboss who wants to take over. Challenges Lucky at Havana Conference, loses. Secretly feeds information to U.S. authorities to get Lucky deported. More ruthless and violent than Lucky - no restraints. Will build massive heroin empire 1947-1959.
+
+**Historical figure:** Died in federal prison 1969.
+
+### Albert "The Mad Hatter" Anastasia - HISTORICAL
+Age 44. Boss of Murder Inc. Fierce loyalty to Lucky. Famous quote at Havana Conference defending Lucky's authority. Will be assassinated by Genovese's orders in 1957.
+
+**Historical figure:** Killed October 25, 1957 in barbershop.
+
+### Meyer Lansky - HISTORICAL
+Age 44. Lucky's lifelong friend and partner. Financial genius. Manages Cuba gambling operations (Hotel Nacional, racetracks). Greets Lucky at airport, organizes Havana Conference. Will lose everything when Castro takes power in 1959.
+
+**Historical figure:** Died 1983 in Miami, outlived everyone.
+
+### Frank Costello - HISTORICAL
+Acting boss of Luciano family in New York. Elegant, political connections. Ally of Lucky at Havana Conference. Will be forced out by Genovese in 1957.
+
+### Igea Lissoni - HISTORICAL
+Lucky's girlfriend from New York. Young, beautiful. Accompanies him in Cuba. Present at arrest and deportation.
+
+---
+
+## STORY STRUCTURE
+
+### ACT ONE: THE EXILE KING
+**Timeline:** October - November 1946 (~35-40 minutes)
+**Theme:** False paradise / The illusion of power
+
+Lucky arrives in Havana and builds his new empire. Brennan goes undercover. Delgado is assigned to protect Lucky. The Havana Conference is planned.
+
+**Major Beats:**
+- Miami FBN office: Brennan learns Lucky is in Cuba, volunteers undercover
+- Havana airport: Lucky arrives, greeted by Meyer Lansky
+- Hotel Nacional: Lucky checks in, invests $150,000
+- Delgado's home: Family man conflicted about assignment
+- November montage: Lucky at racetracks, casinos, mansion, building operations
+- Brennan recruits informants: telephone operator, elevator attendant
+- Delgado assigned as Lucky's security, witnesses mob meetings
+- Brennan and Delgado first encounter at hotel bar
+- Lucky's meetings building heroin network (Corsican, Sicilian connections)
+- Conference preparations begin
+
+**Act One Climax:** Late November - Brennan's informants report massive meeting planned for December. The entire American Mafia leadership is coming to Havana.
+
+---
+
+### ACT TWO: THE CONFERENCE
+**Timeline:** December 1946 - February 1947 (~45-50 minutes)
+**Theme:** Betrayal / Choosing sides
+
+The Havana Conference. Genovese challenges Lucky. Assassination attempt. Brennan and Delgado investigate. U.S. government pressure builds.
+
+**The Havana Conference - December 22-26, 1946:**
+
+**Arrival (Dec 20-22):**
+- 20+ mob bosses arrive: Costello, Genovese, Anastasia, Bonanno, Trafficante, Fischettis, Adonis, Moretti
+- Delgado assigned security, positioned to hear everything
+- Brennan's informants activated
+
+**Opening Night (Dec 22):**
+- Lavish dinner at Hotel Nacional
+- Frank Sinatra performs (cover story)
+- "Christmas Presents": $200,000+ in envelopes
+- Fischetti Brothers deliver $2 million suitcase
+
+**Business Day (Dec 23):**
+- Power struggle: Genovese challenges Lucky's authority from exile
+- Lucky proposes "Boss of All Bosses" position
+- **DRAMATIC CONFRONTATION:** Anastasia stands, famous quote: "For me, you are the Big Boss, whether you like it or not. That's the way I look at it, and I would like to hear from anybody who don't feel the same way."
+- Vote: Lucky wins
+- Lucky forces Genovese to shake hands (humiliating)
+- Heroin network presented: Turkey/Lebanon → Sicily → France → Cuba → U.S. ports
+- Projected: $50 million annually
+- Distribution territories divided
+
+**Christmas Eve (Dec 24):**
+- Bugsy Siegel situation: Flamingo budget $1M → $6M, suspected skimming
+- Decision: Wait for opening December 26
+- Delgado's choice: Meets Brennan, agrees to share information
+
+**Christmas Day (Dec 25):**
+- Genovese making secret phone calls (informing to FBN)
+
+**Conference Ends (Dec 26):**
+- News: Flamingo opening is disaster
+- Lucky convinces Commission to give Bugsy until spring
+
+**Assassination Attempt (Late December):**
+- Gunmen attack Lucky's mansion
+- Lucky survives
+- Who ordered it: Unknown (Genovese suspected)
+- Aftermath: Delgado assigned as Lucky's personal bodyguard
+
+**January 1947 - Investigation Intensifies:**
+- Brennan compiles evidence from informants
+- Documents complete heroin network
+- Discovers Genovese is secretly informing
+- Delgado and Brennan meet regularly, form alliance
+- Delgado sees Lucky has restraint, Genovese has none
+- Debate: Are they making things worse?
+
+**February 1947 - The Pressure:**
+- Sinatra returns to Havana for 4 days
+- Photographed constantly with Lucky at racetracks
+- Photos published in U.S., public outrage
+- Anslinger uses this to pressure State Department
+
+**Act Two Climax:** February 10-15 - Anslinger proposes economic blackmail. February 21 - U.S. delivers ultimatum to Cuba: Deport Luciano or lose all medical supplies. Batista has no choice.
+
+---
+
+### ACT THREE: THE FALL
+**Timeline:** February - March 1947 (~35-40 minutes)
+**Theme:** Justice / Consequences / Pyrrhic victory
+
+Lucky's arrest, detention, and deportation. Genovese's betrayal revealed. The "victory" that makes everything worse.
+
+**February 21, 1947 - The Ultimatum:**
+- U.S. threatens to cut all medical drug shipments to Cuba
+- Hospitals will run out of morphine, anesthesia, antibiotics
+- Batista forced to choose: Luciano or healthcare
+- Decision: Luciano must go
+- Lucky informed by General Pérez Dámera
+
+**February 22 - Final Decisions:**
+- Delgado meets Brennan one last time
+- Agrees to help with arrest
+- Provides Lucky's schedule
+
+**February 23, 1947 - The Arrest:**
+- **Location:** El Jardin restaurant, Vedado district
+- **Time:** Saturday afternoon, lunchtime
+- Lucky having lunch with Igea
+- Assistant Police Chief Hernandez arrives
+- Lucky arrested without resistance
+- **Historical quote:** "I'm having lunch in a restaurant; it was a Saturday afternoon. I think it was February 23, and the assistant police chief, Hernandez, come up to my table and arrested me."
+- Photographers present (publicity arrest)
+- Taken to Tiscornia detention camp
+
+**February 23 - March 19 - Detention:**
+- Tiscornia: Cuba's camp for extraditable foreigners
+- Harsh conditions, 24 days
+- Lansky visits: settles finances, warns about Genovese
+- **Genovese's visit (early March):** Final confrontation
+  - Genovese admits tipping off Americans
+  - Demands Lucky turn over heroin network
+  - Lucky refuses but powerless
+  - Genovese reveals expansion plans
+  - Lucky warns Lansky and Anastasia
+
+**Mid-March - Hollow Victories:**
+- Brennan receives telegram: Mission accomplished
+- But feels no triumph, Delgado's warnings echo
+- Writes report warning about Genovese (will be ignored)
+- Delgado's goodbye to Lucky: mutual respect despite being enemies
+
+**March 19, 1947 - The Deportation:**
+- **Ship:** S.S. Bakir (Turkish cargo freighter)
+- Late evening departure
+- Igea present for tearful goodbye
+- **Historical quote:** "I'll be back when the current government is gone."
+- (Lucky never returned - died 1962, Castro took power 1959)
+- 23-day voyage to Italy
+- Brennan watches from dock, doubt in his eyes
+- Delgado returns home to family, troubled
+
+**Epilogue Sequence:**
+
+**April 11, 1947 - Italy:**
+- S.S. Bakir arrives Genoa
+- Lucky arrested by Italian authorities
+- Detained 10 days, released
+- Sets up in Naples
+
+**1947-1957 - Genovese Takes Over:**
+- 1951: French Connection fully operational (Lucky and Corsicans partner)
+- 1950s: Over 80% of U.S. heroin from Southern France
+- 1957 (Oct 25): Albert Anastasia assassinated in barbershop (Genovese's orders)
+- 1957: Frank Costello forced out
+- 1959: Genovese arrested for narcotics
+- 1950s-1960s: Heroin epidemic in American cities
+
+**Final Outcomes:**
+- 1959 (Jan 1): Castro's revolution, mob expelled from Cuba
+- 1962 (Jan 26): Lucky dies of heart attack in Naples, age 64
+- 1969: Genovese dies in federal prison
+- Early 1970s: French Connection finally broken
+
+**Final Image:**
+Split screen / cross-cutting between three men, three different times:
+- **1947:** Lucky on S.S. Bakir, sailing into exile
+- **1950s:** Genovese standing victorious, heroin empire at peak
+- **1959:** Delgado watching Castro enter Havana
+
+Three men. Three paths. All shaped by five months in Cuba, 1946-1947.
+
+Two men - Brennan and Delgado - tried to do the right thing. But sometimes doing the right thing just changes which evil is in power.
+
+---
+
+## KEY STORY ELEMENTS
+
+### The Havana Conference
+**December 22-26, 1946** - Last time entire American Mafia leadership met in one place. 20+ bosses. Hotel Nacional closed to public. Official cover: "Celebrity party" with Frank Sinatra. Real agenda: Power struggle, heroin network, Bugsy Siegel's fate.
+
+### The French Connection
+**The New Heroin Route (replacing China):**
+1. Turkey & Lebanon: Opium poppy farmers
+2. Sicily: Convert to morphine base
+3. Southern France (Marseille): Corsican labs process into heroin
+4. Cuba: Distribution hub (90 miles from Florida)
+5. U.S. Ports: Tampa, New Orleans, New York
+
+**Why it matters:** This network will dominate 1950s-1970s, causing massive heroin epidemic. Over 80% of U.S. heroin from this route.
+
+### Cuba's Gambling Empire
+- **Hotel Nacional:** Lansky 30% owner, Batista silent partner, Lucky invests $150K
+- **Oriental Park Racetrack:** Lucky leases Jockey Club tables for $50K/season
+- **Aerovías Q Airline:** Lucky's company, Havana-Key West flights, military runway access
+- **Corruption:** Entire Cuban government on mob payroll
+
+### Economic Blackmail
+**The Ultimatum (Feb 21, 1947):** U.S. threatens to cut ALL medical drug shipments to Cuba. Hospitals would run out of morphine, anesthesia, antibiotics within weeks. Cuba completely dependent on American pharmaceuticals. Batista forced to choose: Luciano or healthcare. No choice at all.
+
+### Anastasia's Famous Quote
+At Havana Conference, when Genovese challenges Lucky:
+
+"For me, you are the Big Boss, whether you like it or not. That's the way I look at it, and I would like to hear from anybody who don't feel the same way."
+
+Seconds Lucky's motion. Glares around room. Hand rests near waist (implied gun). Genovese checkmated.
+
+### The Tragic Irony
+**What Brennan and Delgado don't know:**
+- Lucky has some restraint, follows a code
+- Genovese is more ruthless, more violent, no rules
+- By removing Lucky, they empower Genovese
+- The heroin network won't stop - it will expand
+- 1950s-60s epidemic is the direct result of their "victory"
+
+**Delgado's warning (that Brennan ignores):** "You're creating a bigger monster."
+
+He was right.
+
+---
+
+## DRAMATIC THEMES
+
+1. **Pyrrhic Victory** - Winning the battle, losing the war
+2. **The Devil You Know** - Lucky is criminal with restraint; Genovese has none
+3. **Unintended Consequences** - Law enforcement removes one drug lord, empowers worse one
+4. **Betrayal as Strategy** - Genovese uses U.S. government as weapon to eliminate rival
+5. **Loyalty's Price** - Anastasia's defense of Lucky marks him for death (1957)
+6. **Systemic Corruption** - When governments are bought (Batista, Cuban officials)
+7. **Moral Complexity** - Brennan and Delgado are good men, but outcome is worse
+8. **Power Vacuum** - Removing a leader doesn't eliminate organization, destabilizes it
+9. **Generational War** - Old guard professionalism vs. new ruthless ambition
+
+---
+
+## PRODUCTION NOTES
+
+**Visual Style:**
+- 1940s period noir aesthetic
+- Vintage Havana: colorful, vibrant, corrupt paradise
+- Contrast: Opulent casinos vs. harsh detention camp
+- Film references: The Godfather Part II (Cuba scenes), The Irishman, Chinatown
+
+**Key Visuals:**
+- Hotel Nacional ballroom (Havana Conference)
+- Mob bosses arriving in fedoras and suits
+- Frank Sinatra performing for criminals
+- $2 million in suitcase
+- Oriental Park racetrack crowds
+- Miramar mansion with ocean view
+- El Jardin restaurant arrest
+- Tiscornia detention camp
+- S.S. Bakir cargo ship (rusty, old)
+- Split-screen epilogue
+
+**Music:**
+- 1940s Cuban music
+- Sinatra songs ("Silent Night" ironic)
+- Noir score
+
+---
+
+## TIMELINE
+
+**Estimated Runtime:** 120-130 minutes (2+ hours)
+
+**Act Breakdown:**
+- Act One: 35-40 minutes
+- Act Two: 45-50 minutes
+- Act Three: 35-40 minutes
+
+**Total Scenes:** Approximately 60 scenes (to be broken down in table of contents)
+
+**Locations:**
+- Havana (Hotel Nacional, Miramar mansion, racetracks, casinos, restaurants, Tiscornia, harbor)
+- Miami (FBN office - opening)
+- Washington D.C. (State Department - brief)
+- Italy (Genoa, Naples - epilogue)
+
+---
+
+## HISTORICAL ACCURACY NOTES
+
+### What's Confirmed:
+- All dates and timeline
+- Havana Conference attendance and location
+- FBN informants in Hotel Nacional
+- Assassination attempt on Lucky
+- Frank Sinatra's performances and visits
+- Arrest details (date, location, officer name)
+- Deportation details (ship name, date, voyage duration)
+- Subsequent fates of all major figures
+- Heroin network routes and scale
+- Economic ultimatum from U.S.
+
+### What's Fictionalized:
+- Jack Brennan (composite of FBN agents)
+- Carlos Delgado (composite of Cuban officials)
+- Specific personal relationships
+- Most dialogue (except famous historical quotes)
+- Some timeline compression for dramatic effect
+- Exact nature of assassination attempt
+
+### Sources:
+See **history.txt** for complete bibliography and source reliability notes.
+
+**Key reliable sources:**
+- FBI files (declassified)
+- "The Cuban Connection" by Eduardo Sáenz Rovner (academic)
+- "Havana Nocturne" by T.J. English
+- The Mob Museum archives
+
+**Unreliable source:**
+- "The Last Testament of Lucky Luciano" (largely fabricated)
+
+---
+
+END OF MAIN OUTLINE

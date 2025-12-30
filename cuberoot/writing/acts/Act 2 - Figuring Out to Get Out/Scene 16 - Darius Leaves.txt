@@ -1,0 +1,612 @@
+SCENE 6 - DARIUS LEAVES
+========================
+
+LOCATION: Root cube exploration area - safe room for rest
+
+CHARACTERS:
+- All 10 remaining team members (Alex, Edgar, Marcus, Lea, Morris, Darius, Nina, Chen, Yuki, Josh)
+- Darius leaves alone, 9 stay together
+
+SCENE LAYOUT:
+
+1. TEAM RESTING
+   - Exhausted after Rashid's death
+   - Found relatively safe room
+   - Edgar insisting on brief rest despite Josh's warnings
+   - Team catching breath, processing loss
+   - Darius sitting apart, agitated
+
+2. DARIUS'S BREAK
+   - Darius stands suddenly: "I'm done."
+   - "Rashid's dead because we followed them." Points at Marcus, Edgar, Lea
+   - "The company leaders. They'll let the rest of us die so they can survive and build more death traps."
+   - Alex: "Darius, that's not—"
+   - Darius to Alex: "I trust you, Alex. But them?"
+   - "We're never getting out. Josh said it - there is no out, only through."
+   - "We need to stop chasing escape. Find somewhere we can farm. Survive."
+   - "I'm resigning from INZO. Right here. Right now."
+
+3. THE ARGUMENT
+   - Marcus: "You can't survive here by staying put."
+   - Darius: "Watch me. We find a room with water. We farm the sof-tak we have. We make it work."
+   - Edgar: "That's not realistic—"
+   - Darius: "Of course YOU say that. You need us to keep exploring. Keep dying. So you can gather data for the next death cube."
+   - Alex: "Darius, we're trying to find Sofia. We're trying to get out."
+   - Darius: "There is no out, Alex! And Sofia's probably already dead!"
+   - Lea angry: "Don't use Rashid's and Sofia's deaths to justify abandoning the team."
+   - Darius: "I'm not abandoning anyone. I'm saving whoever's smart enough to come with me."
+   - Turns to team: "They'll sacrifice us. The company always does. Marcus told me himself - low performers become test subjects."
+
+4. THE CHOICE
+   - Darius to team: "Who's with me? We resign from INZO. We find a room with resources. We farm. We survive."
+   - Marcus: "That revelation was to show you the stakes, not turn you against—"
+   - Darius: "Against you? I was already against you. You just confirmed it."
+   - Edgar: "We stay together. That's how we survive."
+   - Darius: "Together under THEIR leadership? Following them to our deaths? No thanks."
+   - Looks around at non-managers: "Last chance. Who's coming with me? Who wants to live?"
+
+5. THE SPLIT
+   - Silence as team members look at each other
+   - Morris shifts uncomfortably, almost steps forward
+   - Alex catches his eye, shakes her head slightly
+   - Morris stays, loyal to Alex despite temptation
+   - Lea steps closer to Alex and Josh: "I'm not following fear. We find Sofia. We get out."
+   - Nina and Yuki stay together
+   - Nina idealistic: "We can't abandon our teammates. That's not who we are."
+   - Chen: "I'm staying. Darius, your plan won't work. You need more than sof-tak to farm."
+   - Josh cryptic: "Staying still is death. The cube will find you."
+   - No one steps forward to join Darius
+   - Darius looks around, realizing he's alone
+   - "Fine. I'll do it myself."
+
+6. TAKING SUPPLIES AND FINAL CONFRONTATION
+   - Darius grabs two backpacks: "I'll need these."
+   - Takes more than his share of food, water, measurement equipment
+   - Marcus moves to stop him: "You can't—"
+   - Darius pulls tool from belt (crowbar/equipment): "Don't. I'm done taking orders from you."
+   - Tense standoff
+   - Edgar: "Let him go. We'll manage."
+   - Alex: "Darius, please. Don't do this."
+   - Darius to Alex: "I wish you'd come with me. But you won't leave them."
+   - Turns to whole team, bitter: "Bootlickers. All of you."
+   - Points at Edgar and Marcus: "THEY will let you die. Every single one of you."
+   - Looks at Alex, Nina, Yuki, Morris, Chen, Lea, Josh: "Next time I see you? You're dead. Because you followed them."
+   - Marcus reluctantly backs down
+   - Darius shoulders both backpacks
+
+7. SEPARATE EXITS
+   - Edgar warns: "We should go our own ways. At least for now."
+   - Marcus: "If he's out there, angry with supplies... we need distance."
+   - Edgar points to different walls: "We leave from separate doors. Put space between us."
+   - Darius nods coldly: "Good. Don't want to see your corpses too soon."
+   - Team divides to opposite walls/doors
+   - Edgar's group at one door, Darius at opposite wall
+   - Alex to team: "Stay close. Watch each other."
+   - Darius to Edgar's group one last time: "Bootlickers."
+   - Both groups leave through separate doors simultaneously
+   - Cube separates them further
+
+8. EDGAR'S GROUP MOVES FORWARD
+   - Team of 9 exits through their door, leaving Darius behind
+   - Lighter packs after Darius took extra supplies
+   - Less food means stricter rationing going forward
+   - Chen: "We lost some measurement tools. But we have the essentials."
+   - Alex to team: "We work smarter. Lean on each other more."
+   - Josh: "Keep moving. The cube is watching."
+   - Edgar: "Stay alert. We find Sofia."
+   - Darius words echo: "Next time I see you? You're dead."
+   - Team moves forward, tense and determined
+
+TONE: Paranoia and fear, class divide tension, team unity tested and proven, bitter betrayal and isolation
+CHARACTER DYNAMICS: Darius vs company leaders, Alex caught in middle, team chooses unity over fear
+
+================================================================================
+
+Description:
+After Rashid's death, Darius has a complete break. He stands and declares "I'm done," accusing the company leaders (Marcus, Edgar, Lea) of being willing to sacrifice non-managers to save themselves and build more death traps. Though he trusts Alex, he believes escape is impossible. He proposes they stop chasing escape and instead find a room to farm sof-tak and survive long-term. He dramatically "resigns from INZO" right there in the cube. When he tries to recruit team members to join him, NO ONE steps forward - though Morris nearly does until Alex catches his eye and shakes her head. Rejected and alone, Darius becomes bitter. He takes two backpacks of supplies (more than his share), threatening Marcus with a crowbar when he tries to intervene. Darius calls the team "bootlickers" and predicts "Next time I see you? You're dead." Edgar wisely organizes separate exits to avoid conflict, and the groups leave through opposite doors. The team of 9 continues forward, diminished in supplies but unified. Darius is now a solo antagonist, close enough to hear when called but completely isolated by his own choice.
+
+Key Elements:
+- Darius's distrust of corporate leaders (Marcus, Edgar, Lea) boiling over
+- Betrayal rooted in class divide and hopelessness, not pure malice
+- Trusts Alex but believes escape is impossible
+- "Resigns from INZO" - rejects corporate authority
+- Wants to farm/survive long-term instead of escaping
+- Tries to recruit team but NO ONE joins him
+- Team stays unified despite temptation
+- Takes extra supplies in anger and leaves alone
+- Team weakened in resources but stronger in unity
+- First major betrayal but Darius completely isolated
+- Marcus's Scene 10 revelation backfires - created the distrust
+- Morris almost leaves but Alex's eye contact keeps him loyal
+
+Characters Present:
+All 10 remaining team members (Darius leaves alone, 9 stay together)
+
+Scene Beats:
+
+1. TEAM RESTING
+- Exhausted after Rashid's death
+- Found relatively safe room
+- Edgar insisting on brief rest despite Josh's warnings
+- Team catching breath, processing loss
+- Darius sitting apart, agitated
+
+2. DARIUS'S BREAK
+- Darius stands suddenly: "I'm done."
+- Team looks at him
+- "Rashid's dead because we followed them." Points at Marcus, Edgar, Lea
+- "The company leaders. They'll let the rest of us die so they can survive and build more death traps."
+- Alex: "Darius, that's not—"
+- Darius to Alex: "I trust you, Alex. But them?" Gestures to Marcus, Edgar, Lea
+- "We're never getting out. Josh said it - there is no out, only through."
+- "We need to stop chasing escape. Find somewhere we can farm. Survive."
+- Looks at team: "I'm resigning from INZO. Right here. Right now."
+
+3. THE ARGUMENT
+- Marcus: "You can't survive here by staying put."
+- Darius: "Watch me. We find a room with water. We farm the sof-tak we have. We make it work."
+- Edgar: "That's not realistic—"
+- Darius cuts him off: "Of course YOU say that. You need us to keep exploring. Keep dying. So you can gather data for the next death cube."
+- Alex: "Darius, we're trying to find Sofia. We're trying to get out."
+- Darius: "There is no out, Alex! And Sofia's probably already dead!"
+- Lea angry: "Don't use Rashid's and Sofia's deaths to justify abandoning the team."
+- Darius: "I'm not abandoning anyone. I'm saving whoever's smart enough to come with me."
+- Turns to team: "They'll sacrifice us. The company always does. Marcus told me himself - low performers become test subjects."
+
+4. THE CHOICE
+- Darius to team: "Who's with me? We resign from INZO. We find a room with resources. We farm. We survive."
+- Marcus steps forward: "That revelation was to show you the stakes, not turn you against—"
+- Darius: "Against you? I was already against you. You just confirmed it."
+- Some team members hesitate - his argument has logic to it
+- Edgar: "We stay together. That's how we survive."
+- Darius: "Together under THEIR leadership? Following them to our deaths? No thanks."
+- Looks around at non-managers: "Last chance. Who's coming with me? Who wants to live?"
+
+5. THE SPLIT
+- Silence as team members look at each other
+- Morris shifts uncomfortably, almost steps forward
+- Alex catches his eye, shakes her head slightly
+- Morris stays, loyal to Alex despite temptation
+- Lea steps closer to Alex and Josh: "I'm not following fear. We find Sofia. We get out."
+- Nina and Yuki stay together, Yuki's hand on Nina's arm
+- Nina idealistic: "We can't abandon people out there. That's not who we are."
+- Chen: "I'm staying. Darius, your plan won't work. You need more than sof-tak to farm."
+- Josh cryptic: "Staying still is death. The cube will find you."
+- No one steps forward to join Darius
+- Darius looks around, realizing he's alone
+- "Fine. I'll do it myself."
+
+6. TAKING SUPPLIES AND FINAL CONFRONTATION
+- Darius grabs two backpacks: "I'll need these."
+- Takes more than his share of food, water, measurement equipment
+- Marcus moves to stop him: "You can't—"
+- Darius pulls tool from belt (crowbar/equipment): "Don't. I'm done taking orders from you."
+- Tense standoff
+- Edgar: "Let him go. We'll manage."
+- Alex: "Darius, please. Don't do this."
+- Darius to Alex: "I wish you'd come with me. But you won't leave them." Gestures to Marcus and Edgar
+- Turns to whole team, bitter: "Bootlickers. All of you."
+- Points at Edgar and Marcus: "THEY will let you die. Every single one of you."
+- Looks at Alex, Nina, Yuki, Morris, Chen, Lea, Josh: "Next time I see you? You're dead. Because you followed them."
+- Marcus reluctantly backs down
+- Darius shoulders both backpacks
+
+7. SEPARATE EXITS
+- Edgar warns: "We should go our own ways. At least for now."
+- Marcus: "If he's out there, angry with supplies... we need distance."
+- Edgar points to different walls: "We leave from separate doors. Put space between us."
+- Darius nods coldly: "Good. Don't want to see your corpses too soon."
+- Team divides to opposite walls/doors
+- Edgar's group at one door, Darius at opposite wall
+- Alex to team: "Stay close. Watch each other."
+- Darius to Edgar's group one last time: "Bootlickers."
+- Both groups leave through separate doors simultaneously
+- Cube separates them further
+
+8. EDGAR'S GROUP MOVES FORWARD
+- Team of 9 exits through their door, leaving Darius behind
+- Lighter packs after Darius took extra supplies
+- Less food means stricter rationing going forward
+- Chen: "We lost some measurement tools. But we have the essentials."
+- Alex to team: "We work smarter. Lean on each other more."
+- Josh: "Keep moving. The cube is watching."
+- Edgar: "Stay alert. We find Sofia."
+- Team enters next room - will lead to Scene 7 (dissolution room and Sofia's death)
+- Darius words echo: "Next time I see you? You're dead."
+- Team moves forward, tense and determined
+
+Character Moments:
+- Darius: Betrayal from distrust of corporate leaders, genuinely believes they'll sacrifice non-managers, trusts Alex but won't leave without her, calls team "bootlickers," tells them Edgar and Marcus will let them die, predicts "next time I see you? You're dead," leaves alone when rejected, bitter and angry
+- Alex: Tries to prevent split, hurt that Darius trusts her but still left, catches Morris's eye to keep him loyal, focuses team on finding Sofia, stung by "bootlickers" insult
+- Marcus: Realizes his Scene 10 revelation backfired and created this distrust, burdened by consequences, ready to fight but backs down
+- Edgar: Prevents violence, doesn't understand why Darius includes him with "company leaders" (still oblivious to full truth), practical leadership, warns they should separate from Darius, organizes separate exits
+- Josh: Predicted this (cube divides), knows Darius's farming plan is doomed, cryptic - "Keep moving. The cube is watching."
+- Lea: Angry at being lumped in with "company leaders," called "bootlicker," chooses mission over fear, stays close to Alex and Josh, focused on finding Sofia
+- Morris: Almost betrays, chooses to stay with Alex through eye contact, loyalty tested and proven, stung by "bootlickers" insult but committed
+- Nina: Idealistic - refuses to abandon people who need help, stays with Yuki, grief over Rashid keeps them committed, called "bootlicker" for following leaders
+- Yuki: Stays with Nina, quiet determination, grief channeled into unity, insulted as "bootlicker"
+- Chen: Practical voice - points out Darius's farming plan won't work, loyal to team, immediately problem-solves reduced resources
+
+Establishes:
+- Darius as solo antagonist motivated by distrust of corporate leadership
+- "Bootlickers" insult - Darius's contempt for those who follow Edgar/Marcus
+- Darius predicts they'll all be dead: "Next time I see you? You're dead."
+- Separate exits - Edgar wisely separates groups to avoid immediate conflict
+- Darius and Edgar's group only 2 rooms apart (close proximity for Scene 8 reunion)
+- Team reduced in supplies but stays unified - all 9 choose to stay together
+- Marcus's Act 1 Scene 10 revelation about INZO's brutality backfired - created distrust
+- Class/hierarchy divide: Darius sees non-managers vs company leaders, but non-managers stay loyal anyway
+- "Resigning from INZO" in the cube - rejecting corporate authority
+- Main team's commitment tested and proven - NO ONE joins Darius despite temptation
+- Morris's loyalty to Alex specifically (not to company) - eye contact keeps him from leaving
+- Nina's idealism holds - "We can't abandon people out there"
+- Nina and Yuki bonded by grief over Rashid
+- Chen's practicality points out Darius's plan is flawed
+- Stakes increased - less supplies, tighter rationing
+- Edgar still doesn't understand the depth of INZO's evil (confused why he's included as "company leader")
+- Darius fails to recruit anyone - his isolation is complete and bitter
+- Edgar's group proceeds to Scene 7 (dissolution room, Sofia's death)
+- Darius close enough to hear when called in Scene 7
+
+Team Status After Scene:
+Main Team: Alex, Edgar, Marcus, Lea, Josh, Morris, Nina, Yuki, Chen (9 total - stayed unified)
+Darius: Alone with stolen supplies (solo antagonist)
+
+Tone:
+- Fear and paranoia (Darius's perspective)
+- Class divide tension - non-managers vs company leaders
+- Team unity tested - Morris almost leaves but stays
+- Anger and hurt at betrayal from both sides
+- "Bootlickers" - bitter insult stings the team
+- Darius's dark prediction: "Next time I see you? You're dead."
+- Darius's isolation - rejected by everyone, leaves alone and angry
+- Loss of resources but gain in unity
+- Edgar's practical wisdom - separate exits to avoid immediate conflict
+- Grim determination to prove Darius wrong
+- Tighter bonds through adversity and shared choice to stay
+- Foreshadowing - Darius only 2 rooms away, will be proven wrong soon (Scene 7)
+- Bridge to Scene 7 - team proceeds to dissolution room and Sofia's death
+
+================================================================================
+FULL SCRIPT
+================================================================================
+
+FADE IN:
+
+INT. ROOT CUBE - SAFE ROOM - CONTINUOUS
+
+White walls glow with soft light. No visible traps. The room feels stable - deceptively peaceful.
+
+The team of TEN is scattered throughout, exhausted. ALEX leans against a wall, eyes closed. MORRIS sits nearby,
+ head down. LEA and JOSH stand in a corner, both watchful. NINA and YUKI huddle together, grief etched on
+  their faces. CHEN checks equipment methodically. EDGAR paces, trying to project leadership through exhaustion. MARCUS stands at center, arms crossed, observing.
+
+DARIUS sits apart from everyone, back against the far wall. His jaw is tight. Hands clenched.
+
+EDGAR stops pacing.
+
+                    EDGAR
+          We need to keep moving. But we're
+          running on fumes. Five minutes.
+
+JOSH's head turns sharply.
+
+                    JOSH
+          Staying still is death.
+
+                    EDGAR
+               (firm but kind)
+          Five minutes, Josh. We just lost
+          Rashid. People need a moment.
+
+Josh returns to scanning the walls, haunted intensity in his eyes.
+
+Across the room, DARIUS suddenly stands. The abruptness makes several people look up.
+
+                    DARIUS
+          I'm done.
+
+Silence. Everyone stares.
+
+                    ALEX
+          Darius--
+
+                    DARIUS
+          Rashid's dead because we followed them.
+
+He points directly at MARCUS, EDGAR, and LEA.
+
+                    DARIUS (CONT'D)
+          The company leaders. They'll let the
+          rest of us die so they can survive
+          and build more death traps.
+
+EDGAR steps forward, hands raised.
+
+                    EDGAR
+          Darius, now, we're all trying --
+
+                    DARIUS
+               (bitter laugh)
+          All trying to what? Get out?
+               (harder)
+          There is no out.
+
+ALEX stands, moving toward him carefully.
+
+                    ALEX
+          Darius, that's not--
+
+Darius looks at her. His expression softens slightly but remains hard.
+
+                    DARIUS
+          I trust you, Alex. But them?
+
+He gestures sharply at Marcus, Edgar, Lea.
+
+                    DARIUS (CONT'D)
+          We're never getting out. Josh said
+          it himself - there is no out, only
+          through.
+
+JOSH nods slightly, watching with those intense eyes.
+
+                    DARIUS (CONT'D)
+          We need to stop chasing escape. Find
+          somewhere we can farm. Survive.
+               (looks around at team)
+          I'm resigning from INZO. Right here.
+          Right now.
+
+MARCUS steps forward, voice measured.
+
+                    MARCUS
+          You can't survive here by staying put.
+
+                    DARIUS
+          Watch me. We find a room with water.
+          We farm the sof-tak we have. We make
+          it work.
+
+EDGAR shakes his head, genuinely trying to help.
+
+                    EDGAR
+          That's not realistic--
+
+                    DARIUS
+               (cutting him off)
+          Of course YOU say that. You need us
+          to keep exploring. Keep dying. So you
+          can gather data for the next death cube.
+
+The accusation hangs in the air. Edgar looks genuinely hurt and confused.
+
+                    ALEX
+          Darius, we're trying to find Sofia.
+          We're trying to get out.
+
+                    DARIUS
+          There is no out, Alex!
+               (harder)
+          And Sofia's probably already dead!
+
+LEA steps forward, pleading.
+
+                    LEA
+          Don't leave us.
+
+                    DARIUS
+          I'm not leaving anyone.
+               (looks at team)
+          I'm saving whoever's smart enough to
+          come with me.
+
+He turns to address the group, pointing at Marcus, Edgar, Lea.
+
+                    DARIUS (CONT'D)
+          They'll sacrifice us. The company
+          always does. Marcus told me himself -
+          low performers become test subjects.
+
+MARCUS's jaw tightens. Brief, uncomfortable silence.
+
+                    DARIUS (CONT'D)
+          Who's with me? We resign from INZO.
+          We find a room with resources. We
+          farm. We survive.
+
+MARCUS steps forward.
+
+                    MARCUS
+          That revelation was to show you the
+          stakes, not turn you against--
+
+                    DARIUS
+          Against you? I was already against
+          you. You just confirmed it.
+
+Team members shift uncomfortably. Morris looks torn. Nina and Yuki exchange glances.
+
+EDGAR tries again.
+
+                    EDGAR
+          We stay together. That's how we
+          survive.
+
+                    DARIUS
+          Together under YOUR leadership?
+               (gestures to Marcus and Edgar)
+          Following you to my death? No thanks.
+
+He looks at the non-managers - Morris, Nina, Yuki, Chen, Alex.
+
+                    DARIUS (CONT'D)
+          Last chance. Who's coming with me?
+          Who wants to live?
+
+Long, tense silence. Team members look at each other, uncertain.
+
+MORRIS shifts uncomfortably. His body language suggests he might step forward.
+
+ALEX catches his eye. Shakes her head slightly - a silent plea.
+
+Morris hesitates. Stays where he is.
+
+NINA looks at Yuki, then speaks, voice firm.
+
+                    NINA
+          We can't abandon our teammates.
+          That's not who we are.
+
+YUKI's hand rests on Nina's arm. They stay together.
+
+CHEN crosses his arms.
+
+                    CHEN
+          I'm staying. Darius, your plan won't
+          work. You need more than sof-tak to
+          farm.
+
+JOSH speaks, cryptic voice cutting through.
+
+                    JOSH
+          Staying still is death. The cube will
+          find you.
+
+Darius looks around. No one has moved to join him.
+
+His expression hardens - hurt, anger, bitter determination.
+
+                    DARIUS
+          Fine. I'll do it myself.
+
+He moves quickly to the backpacks. Grabs TWO of them.
+
+                    DARIUS (CONT'D)
+          I'll need these.
+
+He starts loading them - food, water, measurement equipment. More than his share.
+
+MARCUS moves toward him.
+
+                    MARCUS
+          You can't--
+
+DARIUS pulls a CROWBAR from his belt. Holds it ready. Not threatening, but clear.
+
+                    DARIUS
+          Don't. I'm done taking orders from you.
+
+Tense standoff. Marcus's hand hovers near his equipment. The room is silent.
+
+EDGAR steps forward, voice calm.
+
+                    EDGAR
+          Let him go. We'll manage.
+
+ALEX moves closer, genuine emotion in her voice.
+
+                    ALEX
+          Darius, please. Don't do this.
+
+Darius looks at her. For a moment, his expression softens.
+
+                    DARIUS
+               (quiet, almost sad)
+          I wish you'd come with me. But you
+          won't leave them.
+
+He gestures toward Marcus and Edgar with the crowbar.
+
+Then he turns to the whole team. His voice turns bitter and hard.
+
+                    DARIUS (CONT'D)
+          Bootlickers. All of you.
+
+The word stings. Morris flinches. Nina's jaw tightens.
+
+Darius points the crowbar at Edgar and Marcus.
+
+                    DARIUS (CONT'D)
+          THEY will let you die. Every single
+          one of you.
+
+He looks at each of them - Alex, Nina, Yuki, Morris, Chen, Lea, Josh.
+
+                    DARIUS (CONT'D)
+          Next time I see you? You're dead.
+
+MARCUS slowly backs down. Not fear - calculation. His face is grim.
+
+Darius shoulders both backpacks, loaded with stolen supplies.
+
+EDGAR looks around the room, assessing.
+
+                    EDGAR
+          We should go our own ways. At least
+          for now.
+
+Darius continues adjusting bags. Edgar points to different walls.
+
+                    EDGAR
+          We leave from separate doors. Put
+          space between us.
+
+Darius nods coldly.
+
+                    DARIUS
+          Good. Don't want to see your corpses
+          too soon.
+
+The team divides. EDGAR leads his group of nine toward one door. DARIUS moves to the opposite wall.
+
+ALEX turns to her team, voice low and firm.
+
+                    ALEX
+          Stay close. Watch each other.
+
+Darius looks back one last time.
+
+                    DARIUS
+          Bootlickers.
+
+The word echoes.
+
+Both groups move toward their doors simultaneously. Edgar's group reaches theirs first - Alex, Edgar, Marcus, Lea, Josh, Morris, Nina, Yuki, Chen.
+
+They step through.
+
+Darius, alone with his two heavy backpacks, enters his door on the opposite wall.
+
+The cube separates them.
+
+INT. ROOT CUBE - NEW ROOM - CONTINUOUS
+
+Edgar's group of nine emerges.
+
+CHEN checks his equipment bag.
+
+                    CHEN
+          We lost some measurement tools. But
+          we have the essentials.
+
+ALEX looks around at her reduced team. Less food. Less equipment. But they're together.
+
+                    ALEX
+          We work smarter. Lean on each other
+          more.
+
+EDGAR nods, trying to project confidence despite the loss.
+
+                    EDGAR
+          Keep it up, everyone. We're almost..
+
+Edgar stops before saying "out". The team moves forward, but Darius's words echo in their minds:
+
+"Next time I see you? You're dead."
+
+Tense. Determined. Diminished in supplies but unified in purpose.
+
+They continue deeper into the cube.
+
+FADE OUT.

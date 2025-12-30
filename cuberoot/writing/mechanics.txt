@@ -1,0 +1,304 @@
+CUBE^(0.333) - MECHANICS REFERENCE
+================================================================================
+
+This document contains all the technical mechanics and pseudo-science explanations
+for the Cube^(0.333) screenplay.
+
+TABLE OF CONTENTS
+-----------------
+1. CUBE MECHANICS REFERENCE
+   - Dimensional Terminology
+   - N=3 Cube Configuration
+   - Visual Design
+   - Door Mechanics
+   - Important Note
+
+2. ROOT CUBE SPECIFIC MECHANICS REFERENCE (Dimensional Navigation)
+   - The Danger Zone Problem
+   - How It Works (Pseudo-Science)
+   - Navigation Methods and Gradient Detection (Discovered by Barry and Josh)
+   - Dimensional Orbitals Theory
+   - Three Nuclei Navigation
+
+3. MEMORY ERASURE MECHANICS
+   - The Problem
+   - How It Works (Pseudo-Science)
+   - The Solution (Discovered in Act 3, Scene 21)
+   - Writing Notes
+
+4. DIMENSIONAL TRANSPORT MECHANICS
+   - Barry's Cryptic Message (No Explanation Yet)
+   - Dimensional Harmonics
+   - Quantameter Functionalities
+   - Chronological Discovery Timeline
+
+================================================================================
+
+## 1. CUBE MECHANICS REFERENCE
+
+### Dimensional Terminology
+
+The screenplay uses mathematical notation (n=X) for formal/technical contexts, but characters use colloquial terms in dialogue after Act 1, Scene 7 (when Marcus explains the concept to Edgar).
+
+**Formal → Colloquial:**
+- **n=0** → "singularity" (for a single cube shrunk to n=0) or "0-space" (for the space it exists in)
+- **n=0.333** → "root-space" (referencing cube root)
+- **n=1** → "1D"
+- **n=2** → "2D"
+- **n=3** → "3-space" or "3D"
+- **n=4** → "hypercube" or "hyperspace"
+
+**Usage in scenes:**
+- Act 1, Scene 7: Edgar is confused and asks what the dimensional notation means; Marcus explains
+- After Scene 7: Use colloquial terms in dialogue and informal narration
+- Scene descriptions, technical explanations, and formal contexts can still use mathematical notation
+
+### N=3 Cube Configuration
+- 3×3×3 = 27 total cube rooms
+- Each room has 6 equal-sized faces (floor, ceiling, 4 walls)
+- Center of each face has a door to the next room
+- 4 sets of ladder rungs per door, positioned 90° apart
+
+### Visual Design
+- Fractal-like tiles on blank wall spaces
+- Tiles can change color when story requires it
+- Walls do NOT shimmer or move (except the apparent shimmer of acid room)
+- Walls emit light at normal brightness
+
+### Door Mechanics
+- Small square door located directly in the center of each cube face (not along the floor)
+- Just big enough for a person with a backpack to crawl through
+- No handle - doors open and close mechanically
+- Doors can close and trap people
+- When doors close, the cube mechanically rearranges entire rooms
+- Rearrangement is physical, not dimensional
+- Creates extreme disorientation through sameness and mechanical shuffling
+- **In root-space:** When the cube rearranges, you're knocked off the orbital you were on - no pattern to follow, making every room potentially trapped
+- 4 sets of ladder rungs positioned 90° apart around each door for climbing
+
+### Important Note
+There are no actual dimensional effects in the n=3 rooms themselves - just mechanical rearrangement of identical spaces. The team perceives impossible geometry but it's actually confusion from sameness.
+
+================================================================================
+
+## 2. ROOT CUBE SPECIFIC MECHANICS REFERENCE
+
+### The Danger Zone Problem
+The root-space cube contains areas of varying danger. The three nuclei are the danger zone centers - highly concentrated danger at these three points. Movement is NOT based on xyz spatial dimensions - you can't avoid danger by moving "left" or "right" in normal space. Instead, danger is based on dimensional saturation gradients that don't align with physical direction.
+
+### How It Works (Pseudo-Science)
+**The Three Nuclei:**
+- Root-space has exactly three nuclei (danger zone centers)
+- Each nucleus is a point of extreme danger and dimensional instability
+- The three nuclei generate overlapping fields throughout root-space
+
+**Orbital Shells (Safe Zones):**
+- Orbital shells are safe zones at specific distances from the nuclei
+- Like electron orbitals in atomic physics, these are shells based on distance from the nucleus
+- Each nucleus generates its own set of orbital shells
+- Being within an orbital shell = safe navigation
+- Where orbital shells from different nuclei overlap = safest zones
+
+**Dimensional Saturation Gradient:**
+- The gradient is the change in danger as you move closer to a nucleus
+- Higher concentration near the nuclei, dissipating as you move away
+- Moving toward a nucleus = increasing danger
+- Moving toward an orbital shell = decreasing danger
+- The danger is dimensional, not spatial
+
+**Non-Spatial Navigation:**
+- You cannot navigate away from danger using xyz movement alone
+- Moving through a door may bring you closer to or further from a nucleus
+- The relationship between physical direction and dimensional saturation is not intuitive
+- Random door selection = random movement through the danger gradient
+- **This is specific to this film's cube mechanics**
+
+### Navigation Methods and Gradient Detection (Discovered by Barry and Josh)
+**Observable Gradients and Markers:**
+- Temperature gradients (protection field pulls heat from surrounding dimensional space)
+- Electromagnetic field strength variations
+- Visual distortion at thresholds between zones
+- Acoustic resonance patterns (different echo patterns indicate proximity to landmarks)
+- **Quantum gradient measurement:** Lower gradient = safer/closer to orbital; higher gradient = more dangerous/farther from orbital
+- **Moving away from an orbital = increasing the gradient = increasing danger**
+
+### Dimensional Orbitals Theory
+**What Orbitals Are:**
+- A "dimensional orbital" is a stable region or shell at a specific distance from a dimensional nucleus
+- Like electron orbitals in atomic physics, these are shells based on distance, not trajectory paths
+- Being within a stable orbital shell = safe navigation
+- Being between orbital shells = random/dangerous movement
+
+**Why This Matters:**
+- In n=3 space, movement is intuitive (left/right/up/down corresponds to physical location)
+- In n=0.333 space, physical direction doesn't correspond to dimensional position
+- You must navigate by orbital shells (distance from nuclei), not spatial direction
+- Without understanding orbitals, all movement is effectively random
+
+### Three Nuclei Navigation
+**Root-Space Has Three Nuclei:**
+- Each nucleus generates its own single orbital shell
+- The three orbital shells overlap in certain locations
+- Where orbital shells overlap = safest zones for navigation and ideal zones for safe re-alignment
+- Where all three orbital patterns reinforce each other instead of canceling out
+
+**The Lab Building and Its Room:**
+- The lab building was transported into the cube using cube technology (explained in Scene 12)
+- The building takes up about 1/8 of the cube room space
+- **Important distinction:** The ROOM is what matters for re-alignment, not the building itself
+- The room is located at an orbital shell overlap zone (appears random, but may not be coincidence)
+- The field generator in the building protects it from dimensional instability
+- The protection field is reinforced by the natural stability that's already at the overlap zone (not fighting against instability)
+- **Cube rearrangement:** When the n=3 cube mechanically rearranges rooms, the lab building room does NOT move - the cube rearranges around it
+- This makes the room the most reliable/stable location in root-space
+- The building is essentially a landmark indicating the safe room location
+
+**Barry's Death:**
+- Josh was there when Barry died
+- Barry's device (the quantameter) was destroyed
+- Josh managed to get Barry's notebook with all the research (equations, ideas, tables/charts to map the cube)
+- The device itself saved and sent the measurement data, not the notebook
+
+================================================================================
+
+## 3. MEMORY ERASURE MECHANICS
+
+### The Problem
+When people transition from n=0.333 BACK to n=3 space, their memories are erased. This is a major obstacle to escape.
+
+### How It Works (Pseudo-Science)
+- The transition from n=3 to n=0.333 has NO memory effect
+- Memory erasure occurs during the RETURN from n=0.333 to n=3
+- When returning to three-space, the dimensional vibration shift erases memories
+- The vibrational energy damps (decreases) during the transition back to n=3
+- As the vibration damps, the memory information encoded in it is lost
+- This is why previous cube victims (referenced in earlier Cube films) woke up with no memory of how they got there
+
+### The Solution (Discovered in Act 3, Scene 21)
+- Morris proposes replicating the lab building's protective field as an "electron cloud shield" on memories
+- Nina corrects: this would only slow the dampening, not fully solve the problem
+- Yuki realizes: an electron barrier can shield neural patterns during the transition
+- The electron shield protects memory information during the vibration shift
+- Two potential methods emerge from the discussion:
+  1. **Measurement method**: Scan and save memory information before it fully damps (Morris's initial idea)
+  2. **Direct absorption**: If vibration dissipates slowly enough in 3D space, it can be directly absorbed at subatomic level (Nina and Yuki's refinement)
+- Nina and Yuki design and build small personal devices to create this electron shield (one device per person)
+- The shield energy must dissipate properly in three-space after transition
+- Concept inspired by the protective field around the lab building that maintains stability in root-space
+- **Important**: The theoretical breakthrough happens ON-SCREEN in Scene 21, practical application happens OFF-SCREEN
+- Josh's final wink implies the devices may not even be necessary (ambiguous ending note)
+
+### Writing Notes
+- Scene 21 establishes the theoretical foundation through Morris/Nina/Yuki discussion
+- Keep technical details vague but consistent with Scene 21's established mechanics
+- Morris contributes initial "mind shield" thought experiment (Act 3, Scene 21)
+- Nina corrects and refines the concept (vibrational dampening)
+- Yuki makes the breakthrough (electron barrier shields neural patterns)
+- Between scenes, Nina and Yuki work out mathematics and build the devices
+- Avoid overly technical explanations beyond what's in Scene 21
+
+================================================================================
+
+## 4. DIMENSIONAL TRANSPORT MECHANICS
+
+### Barry's Cryptic Message (No Explanation Yet)
+Before losing contact, Barry sent fragmentary messages to the team. One phrase stood out: **"re-aligning the harmonic to the dimensional orbital."**
+
+### Dimensional Harmonics
+- Every dimensional space (n=0, n=0.333, n=3, etc.) vibrates at a natural harmonic frequency
+- Objects and people naturally resonate at the harmonic of their origin dimension
+- This is related to the dimensional vibrations that cause memory erasure (see MEMORY ERASURE MECHANICS)
+- When you enter a different dimensional space, your matter begins resonating with that new harmonic
+- The resonance shift is what allows you to exist in the alternate dimension
+- **Root-space (n=0.333) is a natural harmonic of three-space (n=3)**: The fact that humans can exist in root-space means it's a harmonic resonance, not an incompatible dimension (Nina's explanation in Act 3, Scene 21)
+
+**Re-Alignment Principle (Barry's Theory):**
+- To transport back from root-space to three-space, you must re-align your harmonic frequency
+- **The process:** Increase the energy of your harmonic vibration → this changes your harmonic frequency → allows safe transport through dimensional space
+- What keeps people from going back is their harmonics aren't "in tune" with three-space anymore
+- **Re-alignment can happen anywhere if you have the device**, but:
+  - The device must be properly calibrated for safety
+  - Re-alignment at orbital overlap zones is even safer due to higher dimensional stability
+  - Not required to be at overlap zone, but it's the optimal location
+
+### Quantameter Functionalities
+**Barry's Device:**
+- Barry built a dimensional resonance detector from a quantameter
+- The quantameter is linked to the root-cube transport machine in the lab
+- This link is why it can reliably reach Barry (though this may only be clear to Marcus and Josh)
+- **One-way communication**: Barry can only send data back, cannot receive messages
+
+**What It Measures:**
+- The quantameter is a "measure everything" tool - it can measure both known and unknown gradients
+- **Quantum gradient:** The dimensional gradient/danger level of a location
+- **Calibration process:** Barry analyzed the data and manually reprogrammed/reconfigured the device to track specific gradients
+- In Scene 25, Josh will calibrate Marcus's quantameter correctly based on Barry's notebook
+- The team has some idea about what the actual gradients are, but there are too many to memorize - they have to trust the machine
+- **For navigation:** The device determines whether a room is on a safe orbital shell by measuring the quantum gradient
+
+**Two Functions:**
+1. **Collecting Data** - Measuring the gradients when a transport happens; device saves and sends this data automatically
+2. **Initiating Harmonic Shift** - Actually performing the transport (re-alignment)
+
+**Transport Capabilities:**
+- **Barry's device:** Could only transport to the root-space transmitter (linked to the lab building's equipment)
+- **Marcus's device (Act 3, Scene 25):** Can transport to anywhere - not limited to the transmitter
+- Marcus built his device better than Barry's prototype, giving it more flexible transport capabilities
+
+**What Barry Sent Back (Only Two Transmissions):**
+1. **First transmission** (Scene 25): Message sent when Lea and Marcus are alone
+2. **Second transmission** (Scene 6): "WE'RE ALL DYING" message scratched on sof-tak skin
+
+**What QL Team Sends To Barry:**
+- When QL team sends things in to him, they include analysis of the data he uses plus whatever else might help
+- Barry cannot send messages back, only receive
+
+**What Others Know:**
+- The QL team knows the data is trying to find the right conditions to transport back, but can't figure out what else could help Barry
+- Marcus's device is able to create a link back on its own
+- Device was destroyed when Barry died
+
+**By Scene 25, Known Information:**
+- Josh, Lea, Alex, and possibly Marcus know that the lab building room is safe to transport from
+
+### Chronological Discovery Timeline
+
+**First Transmission from Barry (Referenced in Scene 25, Before Act 1):**
+- Message sent when Lea and Marcus are alone
+- Cryptic message: "re-aligning the harmonic to the dimensional orbital"
+- [Additional details TBD based on script]
+
+**What QL Team Learned Before Entering (Act 1):**
+- Lea and her team researched Barry's cryptic message
+- Developed theoretical understanding of dimensional harmonics
+- [Additional details TBD based on script]
+
+**Second Transmission from Barry (Act 1, Scene 6):**
+- "WE'RE ALL DYING" message scratched on sof-tak skin
+- This is the last message Barry ever sends
+
+**What Barry Told Josh (While Together in Cube):**
+- [Details TBD based on script]
+
+**What Josh Learned (From Barry's Notebook After Barry Died):**
+- Josh managed to get Barry's notebook
+- Notebook contains research: equations, ideas, tables/charts to map the cube
+- The quantameter device saved and sent the measurement data separately
+- [Additional details TBD based on script]
+
+**What Was Solved in Scene 23 (Lea and Josh's Scientific Discussion):**
+- Lea explains the generic theory based on research from Barry's cryptic message
+- Josh reveals Barry's notebook which contains the root-space specific research
+- Josh didn't share it before because he "didn't think it would help" until Lea explained the theory
+- After hearing Lea's explanation, Josh realizes Barry's research matches her theory perfectly
+- Combining theory + practical research = ability to transport back to root-space
+- [Additional details TBD based on script]
+
+**What Was Explained in Scene 25:**
+- [Details TBD based on script]
+
+### Connection to Other Mechanics
+- The dimensional vibrations that cause memory erasure (MEMORY ERASURE MECHANICS) are the same harmonics used for transport
+- Transport requires understanding both navigation (ROOT CUBE SPECIFIC MECHANICS) and harmonic re-alignment
+
+================================================================================

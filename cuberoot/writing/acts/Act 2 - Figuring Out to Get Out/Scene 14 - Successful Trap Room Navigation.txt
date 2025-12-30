@@ -1,0 +1,532 @@
+SCENE 4 - SUCCESSFUL TRAP ROOM NAVIGATION
+==========================================
+
+LOCATION: Trap room in root cube - color-coded floor grid with deadly mechanisms
+
+CHARACTERS:
+- All 11 team members (Alex, Edgar, Marcus, Lea, Morris, Darius, Nina, Chen, Rashid, Yuki, Josh)
+
+SCENE LAYOUT:
+
+1. DISCOVERY
+   - Team at door to next room
+   - Josh: "Careful. This one tests intelligence."
+   - Edgar: "No one goes in until we know what we're dealing with."
+   - Edgar volunteers to scout: "I'll describe what I see. Stay back."
+   - Edgar slowly climbs through door into next room
+   - Calls back description: "Floor's a grid. Tiles. All white... no, wait."
+   - Door fully opens - tile directly in front turns YELLOW
+   - Edgar freezes: "One just turned yellow. Right in front of me."
+   - Edgar doesn't move, keeps describing: "Just the one tile. Everything else white."
+   - Alex climbs ladder to top, peers through doorway from safe side
+   - Alex: "Don't step on anything yet. Describe everything you see."
+
+2. TESTING (Edgar in room, Alex at doorway, team yelling from behind)
+   - Marcus from previous room: "Test it first! Don't touch anything!"
+   - Edgar pulls insulated electric wire wrapped around screwdriver from backpack
+   - Edgar tosses screwdriver onto yellow tile - lands safely, nothing happens
+   - Edgar: "Nothing. It's just sitting there."
+   - Edgar carefully retrieves screwdriver, tosses it around to different tiles
+   - No response from any tiles
+   - Edgar: "I don't think it's weight sensitive. The screwdriver's doing nothing."
+   - Alex from doorway: "Maybe it needs actual contact. Body weight."
+   - Chen from previous room: "I'll go. Test it properly."
+   - Alex: "Chen, wait—"
+   - Chen already climbing through door into room with Edgar
+   - Edgar steps back toward door nervously
+
+3. CHEN'S FIRST ATTEMPT
+   - Chen studies the single yellow tile in front of him
+   - Chen: "Here goes."
+   - Chen steps onto yellow tile
+   - Tile turns GREEN, next tile one space away turns YELLOW
+   - Chen: "Okay, it changed! Yellow to green, next one's yellow now—"
+   - Chen steps to second yellow tile (one space from first)
+   - Second turns GREEN, tile THREE SPACES away turns yellow
+   - Chen: "Three spaces? That's a big jump."
+   - Chen jumps forward three tiles toward new yellow
+   - ELECTRICAL SHOCK hits Chen - bright flash, he jerks back
+   - ALL tiles reset to white
+   - Chen staggers, breathing hard: "Ow! Okay, that hurt."
+   - Team yelling from doorway: "Chen!" "Are you okay?!"
+   - Chen waving hand: "I'm fine! It wasn't that bad. Just... unexpected."
+
+4. CHEN'S SECOND ATTEMPT
+   - Chen catches his breath: "Let me try again. Slower this time."
+   - Edgar still in room: "Chen, maybe someone else—"
+   - Chen: "No, I've got this. I just need to figure out the pattern."
+   - First tile turns yellow again
+   - Chen steps on it - turns green, next tile one space away turns yellow
+   - Chen: "One space." Steps carefully to second tile
+   - Second turns green, third turns yellow - one space from second
+   - Chen: "One space again..." hesitates, uncertain
+   - Chen slowly extends foot toward tile one space ahead
+   - SHOCK hits him before he even touches it - timing ran out
+   - Chen jerks back, tiles reset
+   - Chen frustrated: "I was too slow that time!"
+
+5. NINA REALIZES THE PATTERN
+   - Nina from doorway calling: "Wait! Chen, say the numbers out loud!"
+   - Chen: "What numbers?"
+   - Nina: "The spaces! How many spaces each time!"
+   - Chen: "Uh... one space, then one space, then—"
+   - Rashid catching on: "Then you jumped three spaces and got shocked!"
+   - Nina excited: "One, one, two! That's Fibonacci! The next number is the sum!"
+   - Chen: "What?"
+   - Yuki calling out: "One, one, TWO, three, five, eight! Each tile is the sum of the previous two!"
+   - Chen looking at tiles: "So... one, one, then two spaces, then three..."
+   - Alex from doorway: "Nina, are you sure?"
+   - Nina confident: "Yes! It's the Fibonacci sequence!"
+
+6. CHEN'S SUCCESSFUL ATTEMPT
+   - Chen now understands the pattern
+   - Chen steps on first yellow - turns green, next yellow one space away
+   - Chen: "One." Steps to it - turns green
+   - Next yellow one space away
+   - Chen: "One." Steps to it - turns green
+   - Next yellow TWO spaces away
+   - Chen: "Two!" Jumps two spaces - hits it clean
+   - Next yellow THREE spaces away
+   - Chen: "Three!" Makes it - pattern continues
+   - Chen calling out numbers: "Five! Eight!"
+   - Moving confidently through Fibonacci sequence
+   - Completes all tiles, exits through far door
+   - Team cheers from doorway - first person across!
+   - Tiles reset to white
+   - Chen from other side, breathing hard but grinning: "Next person!"
+   - Edgar still in starting room: relieved Chen made it
+
+7. MORE CROSSINGS
+   - Rashid goes next - gets medium-length path, makes it
+   - Yuki crosses - short lucky path, easy
+   - Marcus - moderate path, crosses successfully
+   - Nina, Lea, Edgar, Darius, Morris all cross one by one
+   - Each gets different random path
+   - Some easier, some harder, all manageable
+   - Josh crosses last with practiced ease
+   - Alex still on starting side: "I'll go last, make sure everyone's through"
+
+8. ALEX'S ATTEMPT - THE LONG PATH
+   - Everyone else safely on far side watching
+   - Alex steps onto first yellow tile
+   - Next yellow appears ACROSS THE ROOM - far corner
+   - Alex's eyes widen: "You've got to be kidding me"
+   - Team from far side: "That's far!"
+   - Alex sprints full speed to far corner, barely makes timer
+   - Third yellow - back across room the opposite direction
+   - Pattern progressing: yellows appearing at extreme distances
+   - Alex breathing hard, zigzagging across entire massive room
+   - Marcus: "How many tiles is that?"
+   - Nina counting: "She's on the five-sequence... eight more to go"
+   - Team watching tensely - this is brutal
+   - Alex exhausted but determined - worst luck possible
+   - Fifth yellow - Alex mistimes slightly, green flashing urgent
+   - Makes it just before shock - tile turns blue
+   - Yuki to Nina, tears in eyes: "It's not fair. If it's random, why is it always so hard?"
+   - Nina puts hand on Yuki's back, tries to comfort her: "She's almost through"
+   - Nina meets Josh's sympathetic gaze quickly but doesn't feel better
+   - Eight tiles remain - Alex's legs burning, gasping
+   - Yellows appearing at maximum distances - spanning room edge to edge
+   - Team calling encouragement: "You can do it!" "Keep going!"
+   - Alex pushes through sheer willpower
+   - Final yellow appears at exit door - Alex lunges, hits it
+   - Staggers through doorway, collapses on other side
+   - Team surrounds her, helping her up
+
+9. SUCCESS AND CONFIDENCE
+   - Team all on far side, Alex catching her breath
+   - Celebration - relief and pride
+   - Nina: "That path was insane! Yours was three times longer than mine!"
+   - Rashid: "You got the absolute worst luck possible"
+   - Chen: "Mine was easy compared to that"
+   - Alex waving it off: "Everyone made it. That's what matters."
+   - Lea: "You didn't have to go last"
+   - Alex: "Someone had to make sure everyone got through"
+   - Edgar: "That trap's lethality did not match the risk assessment. Is that normal?"
+   - Marcus to Alex: "That took guts."
+   - Even Darius grudging respect: "You didn't quit"
+   - Josh watching: notes Alex's endurance, leadership through action
+
+10. JOSH'S WARNING
+   - As team celebrates, Josh serious
+   - "This was easy. They get harder."
+   - "The cube starts gentle. Learns what you can do."
+   - "Then it adjusts."
+   - Dampens celebration slightly
+   - Team sobered but still proud of success
+   - Alex: "Then we adjust too."
+
+11. MOVING FORWARD
+   - Team continues with renewed confidence
+   - Buddy system still in effect
+   - Better coordinated now
+   - Lesson learned: together they're stronger
+   - Each person's expertise valuable
+   - Josh's guidance + team's skills = survival
+
+TONE: Tension building to collaborative triumph, brief celebration tempered by warning
+CHARACTER DYNAMICS: Each member's expertise showcased, teamwork essential
+
+================================================================================
+
+Description:
+Team encounters their first true trap room with Fibonacci sequence pattern. Edgar tests with screwdriver (no response), Chen volunteers to test with body weight and gets shocked twice trying to figure out pattern. Nina realizes it's Fibonacci from Chen calling out numbers. Chen succeeds, then everyone crosses with random paths - Alex gets worst possible path requiring brutal sprint across entire room. Yuki recognizes cube's unfairness: "It's rigged." Darius's ears perk up at this. Team succeeds but exhausted. Alex defiant: "This box won't beat us." Establishes they CAN survive traps with teamwork, but also reveals cube may target certain people. Sets up contrast for later deadly rooms.
+
+Key Elements:
+- First trap room - Fibonacci tile sequence with electrical shocks
+- Chen's practical testing reveals pattern through trial/error
+- Nina/Rashid/Yuki mathematician trio solves it
+- Alex gets statistically improbable worst path - leadership through sacrifice
+- Yuki's "rigged" comment plants seeds for Darius's later betrayal
+- Success builds confidence but hints at cube's intelligence/targeting
+- Josh doesn't understand Edgar's corporate risk assessment language
+
+Characters Present:
+All 11 team members
+
+Scene Beats:
+
+1. DISCOVERY
+- Team enters room that looks different
+- Floor divided into grid pattern with colored tiles
+- Walls show color sequence patterns
+- Obvious trap mechanism visible - spikes, acid, something deadly
+- Josh: "Careful. This one tests intelligence."
+- Team stops, assesses
+
+2. ANALYSIS
+- Nina, Rashid, Yuki examine color patterns on walls
+- Sequence shows: red-blue-red-blue-yellow, red-blue-yellow-red-blue-yellow-yellow, etc.
+- Lea recognizes it's a recursive pattern - Fibonacci-like structure
+- Marcus identifies it's a path-finding puzzle
+- Chen finds mechanical trigger points under wrong-colored tiles
+- Morris rambles correctly about pattern recognition and color theory
+- Edgar organizes team approach
+- Alex coordinates efforts
+
+3. WORKING THE PUZZLE
+- Nina calculates safe path based on color sequence progression
+- Pattern: each sequence adds colors in Fibonacci-style growth
+- Lea maps which tiles correspond to "safe" colors in sequence
+- Chen identifies which floor tiles are pressure-sensitive vs safe
+- Rashid and Yuki verify color pattern calculations
+- Josh watches, nods: "They learn quick."
+- Darius skeptical but follows along
+- Morris helping with color identification despite nervousness
+
+4. TEST RUN
+- Marcus suggests testing with equipment first
+- Chen rigs device to traverse path
+- Team watches as device crosses successfully
+- No traps trigger
+- Team relieved - solution works
+- Edgar: "Alright. Who goes first?"
+
+5. CROSSING
+- Alex volunteers to go first
+- Follows calculated path precisely
+- Team holds breath
+- Alex reaches other side safely
+- One by one, team crosses following same path
+- Josh goes last, moves confidently
+- Morris almost steps wrong, Darius catches him
+- Small moment of Darius helping despite growing paranoia
+- All team members make it across
+
+6. SUCCESS AND CONFIDENCE
+- Team on other side, unharmed
+- Celebration - relief and pride
+- Nina excited: "We did it!"
+- Lea: "Together."
+- Alex: "See? We can do this."
+- Edgar: "Smart beats traps."
+- Marcus nods approval
+- Even Darius allows small smile
+
+7. JOSH'S WARNING
+- As team celebrates, Josh serious
+- "This was easy. They get harder."
+- "The cube starts gentle. Learns what you can do."
+- "Then it adjusts."
+- Dampens celebration slightly
+- Team sobered but still proud of success
+- Alex: "Then we adjust too."
+
+8. MOVING FORWARD
+- Team continues with renewed confidence
+- Buddy system still in effect
+- Better coordinated now
+- Lesson learned: together they're stronger
+- Each person's expertise valuable
+- Josh's guidance + team's skills = survival
+
+Character Moments:
+- Nina/Rashid/Yuki: Mathematical brilliance solving puzzle
+- Lea: Dimensional expertise crucial
+- Chen: Practical engineering skills
+- Marcus: Strategic planning
+- Alex: Leadership coordinating efforts
+- Edgar: Organizational skills
+- Morris: Helps despite nervousness, accurate observations
+- Darius: Skeptical but helps, catches Morris (moment of connection before betrayal)
+- Josh: Watches team learn, warns of escalation
+
+Establishes:
+- Team CAN survive traps with cooperation
+- Each member's expertise is valuable
+- Working together is essential
+- Confidence boost before future failures
+- Josh's warnings about escalation (foreshadowing)
+- Darius still capable of helping despite distrust
+- Success makes later failures more impactful
+
+Technical Notes:
+- Puzzle should be visually interesting but solvable
+- Team collaboration showcases each character's strengths
+- Success here makes Rashid's death in Scene 5 more tragic
+- Establishes pattern: smart cooperation can win
+- But Josh's warning: cube adapts, gets harder
+
+Tone:
+- Tension of first trap encounter
+- Collaborative problem-solving
+- Relief and pride at success
+- Brief celebration
+- Sobering reminder from Josh
+- Renewed determination
+
+================================================================================
+FULL SCRIPT
+================================================================================
+
+FADE IN:
+
+INT. ROOT CUBE - TRAP ROOM DOORWAY - CONTINUOUS
+
+JOSH stops at a doorway. Pauses.
+
+                    JOSH
+          Careful. This one tests intelligence.
+
+EDGAR steps forward, climbs through. A tile turns BRIGHT YELLOW directly in front of him.
+
+                    EDGAR
+          Floor's a grid. One yellow tile just
+          appeared.
+
+ALEX climbs up beside the doorway.
+
+                    ALEX
+          Don't step on anything.
+
+MARCUS (O.S.)
+          Test it first!
+
+Edgar pulls INSULATED WIRE wrapped around a SCREWDRIVER from his pack. Tosses it onto the yellow tile.
+
+Nothing happens. He retrieves it, tosses it around. No response.
+
+                    EDGAR
+          Not weight sensitive.
+
+                    ALEX
+          Body weight, maybe.
+
+CHEN (O.S.)
+          I'll test it.
+
+CHEN climbs through before Alex can stop him.
+
+                    CHEN
+          Here goes.
+
+He steps on the yellow tile. It turns GREEN. Another tile ONE SPACE away turns YELLOW.
+
+                    CHEN (CONT'D)
+          Changed. Yellow to green, next one's
+          yellow—
+
+Chen steps to the second yellow. GREEN. A tile THREE SPACES away turns YELLOW.
+
+                    CHEN (CONT'D)
+          Three spaces away?
+
+Chen JUMPS forward three tiles.
+
+ELECTRICAL SHOCK — Chen JERKS back violently. Tiles RESET to white.
+
+                    CHEN (CONT'D)
+               (breathing hard)
+          That hurt.
+
+MULTIPLE VOICES (O.S.)
+          Chen! You okay?!
+
+                    CHEN
+          I'm fine. Let me try slower.
+
+The first tile turns YELLOW. Chen steps on it. GREEN. Next tile ONE space away turns YELLOW.
+
+                    CHEN (CONT'D)
+          One space.
+
+Steps to it. GREEN. Next tile ONE space away turns YELLOW.
+
+                    CHEN (CONT'D)
+          One space again...
+
+Chen HESITATES. Extends his foot.
+
+SHOCK hits him before he touches it. RESET.
+
+                    CHEN (CONT'D)
+               (frustrated)
+          Too slow!
+
+NINA (O.S.)
+          Chen! Say the numbers out loud!
+
+CHEN
+          What numbers?
+
+NINA (O.S.)
+          The spaces!
+
+CHEN
+          One space, then one space, then—
+
+RASHID (O.S.)
+          Then you jumped three and got shocked!
+
+NINA (O.S.)
+          Fibonacci! One, one, two — the next
+          is the sum!
+
+YUKI (O.S.)
+          One, one, two, three, five, eight!
+
+ALEX (O.S.)
+          Nina, you sure?
+
+NINA (O.S.)
+          It's Fibonacci!
+
+First tile turns YELLOW. Chen steps. GREEN. One space.
+
+                    CHEN
+          One.
+
+Steps. GREEN. One space.
+
+                    CHEN (CONT'D)
+          One.
+
+Steps. GREEN. Two spaces.
+
+                    CHEN (CONT'D)
+          Two!
+
+JUMPS. GREEN. Three spaces.
+
+                    CHEN (CONT'D)
+          Three! Five! Eight!
+
+Chen completes the sequence. Exits.
+
+TEAM CHEERS.
+
+CHEN (O.S.)
+          Next!
+
+INT. ROOT CUBE - TRAP ROOM - MONTAGE
+
+RASHID, YUKI, MARCUS, NINA, LEA, EDGAR, DARIUS, MORRIS cross one by one. Different paths. All manageable.
+
+JOSH crosses last with practiced ease.
+
+ALEX alone on starting side.
+
+                    ALEX
+          I'll go last.
+
+INT. ROOT CUBE - TRAP ROOM - ALEX'S ATTEMPT
+
+Alex steps on first yellow. GREEN. Next yellow appears ACROSS THE ROOM.
+
+                    ALEX
+          You're kidding me.
+
+Alex SPRINTS. Barely makes it. GREEN. Next yellow opposite direction.
+
+Alex ZIGZAGGING across the entire room.
+
+MARCUS (O.S.)
+          How many tiles?
+
+NINA (O.S.)
+          Five-sequence... eight more.
+
+Alex exhausted. Fifth yellow — mistimes. Green FLASHING. Makes it just before shock. BLUE.
+
+YUKI's eyes tear up.
+
+                    YUKI
+               (to Nina)
+          It's not fair. If it's random, why is
+          it always so hard? It's rigged.
+
+Darius' ear's perk up but he does not look.
+
+Nina puts hand on Yuki's back.
+
+                    NINA
+          She'll get through.
+
+Meets JOSH's sympathetic gaze briefly but looks away.
+
+Eight tiles remain. Alex's legs burning, gasping. Yellows at MAXIMUM distances.
+
+MULTIPLE VOICES (O.S.)
+          You can do it!
+
+Alex pushes through. Final yellow at EXIT. LUNGES. Hits it.
+
+Staggers through. COLLAPSES.
+
+Team surrounds her, helping her up.
+
+INT. ROOT CUBE - BEYOND TRAP ROOM - CONTINUOUS
+
+Celebration. Alex catching breath.
+
+                    NINA
+          Your path was three times longer than
+          mine!
+
+                    ALEX
+          Everyone made it. That's what matters.
+
+                    LEA
+          You didn't have to go last.
+
+                    ALEX
+          Someone had to make sure.
+
+                    EDGAR (to Josh)
+          That lethality didn't match the risk
+          assessment. Is that normal?
+
+Josh seems to not understand.
+
+Team's celebration dampens.
+
+ALEX steps forward, still breathing hard.
+
+                    ALEX
+          This box won't beat us.
+
+Team sobered but proud. Better coordinated. Each person's expertise proved valuable.
+
+They continue forward with renewed confidence.
+
+FADE OUT.

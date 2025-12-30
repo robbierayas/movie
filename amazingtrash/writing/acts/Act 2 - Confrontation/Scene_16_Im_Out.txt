@@ -1,0 +1,367 @@
+# Scene 16 - I'm Out
+
+## LOCATION
+INT. GEOFF'S OFFICE - DAY
+
+## CHARACTERS
+Adam, Geoff, Moosk
+
+## SCENE LAYOUT
+
+### Opening
+Adam arrives at Geoff's office during the day. Sleek, modern, expensive - the opposite of Tracktown. He's been summoned for what he thinks is another disposal job, but he's decided: this is where he tells Geoff he's done. Geoff sits at his desk, Moosk standing nearby. The contrast is stark - Adam in his worn clothes in this pristine billionaire's office.
+
+### Key Beats
+1. **The Declaration** - Adam tells Geoff he's done. Can't do this anymore. The risk is too great - not just for him, but
+for his friends, his community.
+2. **Geoff's Refusal** - Geoff calmly explains that Adam doesn't get to quit. He knows too much. He's seen too much.
+3. **The Threat** - Geoff makes it explicit: if Adam tries to quit or talk to anyone (police, media, friends), Moosk will
+make sure everyone Adam cares about suffers. Not just Adam - Tyson, Gal, Joe, everyone at Tracktown.
+4. **Adam's Realization** - Adam understands he's completely trapped. There's no walking away. The only exit is death -
+his or Geoff's.
+5. **Geoff Leaves** - Geoff departs, confident Adam will comply. Moosk lingers a moment, a silent reminder of the threat,
+then follows.
+
+### Character Moments
+- **Adam**: Tries to assert himself, to reclaim agency. But realizes he has none. His attempt to protect his friends by
+quitting actually puts them in more danger - now they're explicit hostages. His desperation turns to cold determination -
+if he can't quit, he'll have to find another way out.
+- **Geoff**: Reveals the full extent of control. Not angry, just matter-of-fact. This is how power works. Adam is
+trapped, and Geoff wants him to understand that completely. No false hope.
+- **Moosk**: Physical embodiment of the threat. His presence makes Geoff's words concrete and terrifying.
+
+### Closing
+Adam leaves Geoff's office, defeated. He's trapped - can't quit, can't run, can't tell anyone. Geoff has weaponized his community against him. Everyone at Tracktown is now a hostage. The only option left: eliminate Geoff himself. This scene plants the seed for his assassination attempt.
+
+---
+
+## FULL SCRIPT
+
+INT. GEOFF'S OFFICE - DAY
+
+Sleek. Modern. Floor-to-ceiling windows overlooking the city. Everything pristine and expensive.
+
+GEOFF sits at his desk, scrolling through his tablet. Bored.
+
+MOOSK stands in the corner. Red eyes scanning.
+
+The door opens. ADAM enters, looking out of place in his worn clothes.
+
+Geoff glances up.
+
+                    GEOFF
+          Adam. You're early.
+
+                    ADAM
+          We need to talk.
+
+                    GEOFF
+          About the next job? It's simple. Same as usual--
+
+                    ADAM
+          I can't do this anymore.
+
+Geoff sets down the tablet. Looks at Adam properly now.
+
+                    GEOFF
+          Can't?
+
+                    ADAM
+          I'm done. I'm out.
+
+Silence.
+
+Geoff leans back in his chair. Studies Adam. Then smiles.
+
+                    GEOFF
+          No.
+
+                    ADAM
+          I'm not asking. I'm telling you. I'm done.
+
+                    GEOFF
+          And I'm telling you: no.
+
+                    ADAM
+          I've done everything you asked. For months. But I can't anymore.
+
+                    GEOFF
+          Can't? Or won't?
+
+                    ADAM
+          Does it matter?
+
+Geoff, pleasant.
+
+                    GEOFF
+          It doesn't. Because the answer is the same. No.
+
+Adam, desperate.
+
+                    ADAM
+          Geoff, the risk is too high. That thing at the warehouse, the police--
+
+                    GEOFF
+          We handled it.
+
+                    ADAM
+          Joe helped me carry a body! MY FRIEND--
+
+                    GEOFF
+          Keep your voice down.
+
+Adam catches himself. The watchers are closer now, curious about the confrontation.
+
+Adam shakes their head.
+
+                    ADAM
+          This can't continue. Eventually someone will figure it out. I'll get caught, or worse--
+
+                    GEOFF
+          You'll be careful.
+
+                    ADAM
+          I'm trying to be careful! That's why I'm quitting!
+
+Geoff, harder.
+
+                    GEOFF
+          You're not quitting.
+
+                    ADAM
+          Yes, I am.
+
+                    GEOFF
+          Adam. Think about what you're saying.
+
+                    ADAM
+          I have thought about it. I'm done.
+
+Geoff's smile fades.
+
+                    GEOFF
+          You know too much.
+
+                    ADAM
+          I won't say anything. I'll just... disappear. You'll never hear from me--
+
+                    GEOFF
+          You've seen me kill people. Multiple people. You know my face, my name, my methods. You think I'm just going to
+          let you walk away with that?
+
+                    ADAM
+          I said I won't--
+
+Geoff, cutting him off.
+
+                    GEOFF
+          Your word means nothing. You're a liability.
+
+                    ADAM
+          Then what do you want from me?
+
+                    GEOFF
+          The same thing I've always wanted. You do your job. I do mine. It's simple.
+
+                    ADAM
+          And if I refuse?
+
+Geoff glances around the railyard. At the people. The shelters. The community.
+
+                    GEOFF
+          Then I'll have to insulate myself from the liability.
+
+                    ADAM
+          Meaning?
+
+                    GEOFF
+          You know what I mean.
+
+Adam, cold.
+
+                    ADAM
+          Say it.
+
+                    GEOFF
+          Moosk?
+
+Moosk's head turns toward Adam. Red eyes glowing.
+
+                    GEOFF (CONT'D)
+          How many people live in... what do you call it? Tracktown?
+
+                    MOOSK
+          Sixty-three residents identified. An additional twenty-one individuals frequent the area.
+          Total: eighty-four individuals.
+
+The casual precision is chilling.
+
+                    GEOFF
+          And you have data on all of them?
+
+                    MOOSK
+          Affirmative. Facial recognition complete. Social connections mapped. Real-time location tracking available.
+
+Geoff looks at Adam.
+
+                    GEOFF
+          See? It's not just about you anymore.
+
+Adam, horror dawning.
+
+                    ADAM
+          You wouldn't...
+
+                    GEOFF
+          Let me be clear. If you try to quit, I'll handle the liability. If you go to the police, I'll handle the
+          liability. If you tell anyone what you do for me... I'll handle the liability.
+
+                    ADAM
+          These are innocent people.
+
+                    GEOFF
+          These are your friends. Your community. The people you care about.
+          (leans in)
+          Which means they're leverage.
+
+                    ADAM
+          You can't--
+
+                    GEOFF
+          I absolutely can. You've seen what I can do. You've cleaned it up. Don't pretend you don't know exactly what
+          I'm capable of.
+
+Adam's hands shake.
+
+                    GEOFF (CONT'D)
+          That kid. Tyson? He's what, sixteen? Moosk could find him in twenty minutes. The girl, Gal - even faster. That
+          busybody Joe who helped you with the barrel?
+
+Adam lunges forward.
+
+Moosk catches him mid-step. One hand. Effortless.
+
+Lifts Adam off the ground by his shirt collar.
+
+Adam, choking.
+
+                    ADAM
+          Let... go...
+
+                    GEOFF
+          (calm)
+          Put him down.
+
+Moosk releases Adam. He drops to the floor, gasping.
+
+                    GEOFF (CONT'D)
+          You're emotional. I understand. This work is difficult. But you're good at it, Adam. Better than good.
+          Essential.
+
+Adam, on the floor, coughing.
+
+                    ADAM
+          I won't do it.
+
+                    GEOFF
+          Then people will die. Not me. Not Moosk. Them. Tyson. Gal. Joe. All of them. Because of you.
+
+                    ADAM
+          Because of YOU.
+
+                    GEOFF
+          No. Because of your choice. I'm offering you a deal: keep working, and they stay safe. Quit, and...
+          (shrugs)
+          You know the rest.
+
+Adam stares up at Geoff from the floor. Sees the cold certainty in his eyes.
+
+He's trapped. Completely.
+
+Adam, broken.
+
+                    ADAM
+          I can't keep doing this...
+
+                    GEOFF
+          You can. You will. Because the alternative is watching everyone you care about suffer and die, knowing it's
+          your fault.
+
+Geoff straightens his jacket.
+
+                    GEOFF (CONT'D)
+          Moosk will contact you about the next job. I expect your usual professionalism.
+
+He gestures to the door.
+
+                    GEOFF (CONT'D)
+          You can go.
+
+Adam slowly gets to his feet. Legs shaking.
+
+Geoff sits back down at his desk. Picks up his tablet. Already bored again.
+
+                    GEOFF (CONT'D)
+          Oh, and Adam?
+
+Adam stops at the door. Doesn't turn around.
+
+                    GEOFF (CONT'D)
+          Don't try anything stupid. I have eyes everywhere. Heh-heh-heh.
+
+Moosk's red eyes glow brighter for a moment.
+
+Adam opens the door and leaves.
+
+---
+
+EXT. AMAZING COMPANY HEADQUARTERS - DAY
+
+Adam exits the building, walking through the pristine lobby and out into the sunlight.
+
+The city bustles around him. Cars. People in business suits. Normal life.
+
+He stands on the sidewalk, breathing hard.
+
+Trapped.
+
+Can't quit. Can't run. Can't tell anyone.
+
+And everyone he cares about - Tyson, Gal, Joe, all of Tracktown - is now a hostage.
+
+He thought he could escape this. Build a life. A community.
+
+Now that community is his prison.
+
+Adam's expression shifts.
+
+The desperation fades.
+
+Something colder settles in.
+
+If he can't quit...
+
+He'll have to eliminate the problem.
+
+Permanently.
+
+Adam starts walking back toward Tracktown.
+
+But his mind is already working.
+
+Planning.
+
+FADE OUT.
+
+---
+
+## Production Notes
+- Geoff's office: sleek, modern, floor-to-ceiling windows, expensive furniture
+- Contrast between Geoff's pristine office and Adam's worn clothes
+- Moosk as silent threat - red eyes, effortless physical dominance
+- Adam lifted off ground by shirt collar - shows Moosk's inhuman strength
+- Geoff's casual cruelty - matter-of-fact delivery of threats
+- Moosk's surveillance data on Tracktown (84 people tracked, facial recognition, real-time location)
+- Adam leaving office - transitions from interior to exterior
+- Final shot: Adam on city sidewalk, surrounded by normal life while planning murder
+- Adam's shift from desperate hope to cold realization

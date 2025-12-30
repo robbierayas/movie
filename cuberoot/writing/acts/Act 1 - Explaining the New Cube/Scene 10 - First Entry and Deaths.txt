@@ -1,0 +1,595 @@
+SCENE 10 - FIRST ENTRY AND DEATHS
+==================================
+
+LOCATION: Quantum Logistics building - lab area, then lobby
+TIME: Late night
+
+CHARACTERS:
+- EDGAR - Corporate VP of Logistics
+- ALEX - Food scientist, protagonist
+- LEA - Dimensional expert
+- MARCUS - Head of Quantum Logistics
+- MORRIS - Food scientist, enthusiastic
+- NINA - Mathematician
+- RASHID - Quantum team member
+- YUKI - Quantum team member
+- DARIUS - Food scientist
+- CHEN - Quantum team member
+- SOFIA - Food scientist (left in Scene 9, not present - only her purse is found)
+
+SCENE LAYOUT:
+
+1. LATE NIGHT LAB - KIT READY
+   - Late evening/night atmosphere
+   - Expedition kit mostly ready
+   - Boxes of sof-tak laid out
+   - Measurement devices, communication equipment
+   - Team members poking around doing final checks
+   - Tired but focused energy
+
+2. EDGAR ANNOUNCES DINNER RUN
+   - Edgar approaches expedition kit and does time check
+   - Alex confirms they're just about ready
+   - Edgar does fist pump: "Care package complete!"
+   - Chen mentions to Lea they'll have to stay to see what data comes through
+   - Edgar deflates, checks watch
+   - Offers to pick up dinner for everyone so they don't get distracted
+   - Marcus thanks him
+   - Edgar: "Don't start without me. Wouldn't wanna miss it!"
+   - Edgar exits
+   - Marcus mutters: "Anything but sof-tak..."
+
+3. CHARACTER CONVERSATIONS - SCIENTIFIC ENTHUSIASM
+   - Morris talks with Nina, Rashid, and Yuki
+   - Discussion about exciting scientific possibilities
+   - Despite the danger, pure researcher enthusiasm
+   - Wonder at what they might discover
+   - Comic relief mixed with genuine excitement
+
+4. CHARACTER CONVERSATIONS - IDEALISM VS REALITY
+   - Alex and Lea in quieter corner
+   - More serious, reflective conversation
+   - Comparing current situation to their aspirations
+   - When they graduated from college - what they hoped to do
+   - The compromise between ideals and reality
+   - Burden of what they're facing
+
+5. CHARACTER CONVERSATIONS - CORPORATE BRUTALITY
+   - Marcus pulls Darius aside privately
+   - Marcus: willing to trust Darius in his "inner circle"
+   - Cryptic statement about performance measurement
+   - After they solve this crisis
+   - Low performers will probably get death penalty
+   - Reveals INZO's brutal corporate culture
+   - Darius uncertain how to respond
+
+6. EDGAR'S EARLY RETURN
+   - Edgar returns much earlier than expected
+   - Team notices, looks up
+
+7. THE QUESTION
+   - Edgar asks: "Did you send the kit through yet?"
+   - Team confirms: No, not yet
+   - Edgar responds: "Good."
+   - Tells everyone: "Come with me"
+   - Confusion on faces
+
+8. TO THE LOBBY
+   - Team follows Edgar, confused
+   - Walking through hallways to lobby
+   - Building tension - what's happening?
+   - Alex notices Sofia's purse on floor near lobby entrance
+   - Sofia is not with the group (left earlier, never returned)
+
+9. THE REVEAL - INTERIOR
+   - Through lobby windows
+   - Impossible geometry visible outside
+   - The building is inside a cube room
+   - Walls, ceiling, floor forming perfect cube around building
+   - Horror dawns on their faces
+
+10. THE REVEAL - EXTERIOR SHOT
+    - Visual: Quantum Logistics building
+    - Makes up roughly 1/8 of massive cube room
+    - They've been pulled into n=0.333 dimension
+    - No one knew when it happened
+
+11. THE REALIZATION
+    - Team stands frozen at windows
+    - Darius asks when this happened
+    - Marcus: the root cube pulled them in
+    - Alex: they didn't even feel it
+    - Edgar tries to explain but can't finish
+    - Darius stares at expedition kit visible through doorway
+    - Darius: "We were preparing to send supplies in"
+    - The pieces click into place
+    - Alex: "We're not sending an expedition"
+    - Edgar turns to face them, grim and resigned
+    - Edgar: "We are the expedition"
+    - Morris looks sick, Nina grips table, Lea's breath comes short
+    - Chen: "But we didn't even power it up..."
+    - Marcus: "It's not the transmitter, it's the root cube"
+    - Edgar tries to maintain control
+    - Edgar explains he went to get dinner and this was already here
+    - Edgar's voice cracks
+    - Edgar's dark humor: "Hope you don't mind sof-tak for dinner"
+    - Dark humor falls flat, no one laughs
+    - Alex: "The care package... it's all we have"
+
+12. END OF ACT 1
+    - Faces of horror, shock, despair
+    - Expedition supplies they prepared = survival supplies
+    - Edgar discovered this when he went to get dinner
+    - NOTE: Josh (trapped earlier) is NOT in the same room as Barry
+    - Not shown: Josh is too scared to move, lost somewhere else in the dimension
+    - Cliffhanger ending
+    - Transition to Act 2
+
+TONE: Quiet preparation building to shocking horror, dark humor masking terror
+DYNAMICS: Team bonding before catastrophe, Marcus revealing corporate brutality
+KEY TENSION: When did they get pulled in? Are they trapped forever? The supplies they prepared for "sending in" are now
+all they have to survive.
+
+VISUAL NOTES:
+- Late night lighting - tired, focused work atmosphere
+- Contrast between casual conversations and final reveal
+- Exterior shot should be visually striking - building sitting in a cube room
+
+CHARACTER NOTES:
+- Barry (bearded, instrumentation physicist) - dead in microwave trap room
+- Josh (30s, theoretical physicist) - trapped earlier, found Barry's body
+- Josh is too scared to navigate after Barry's death, lost somewhere in dimension
+- Josh and Lea had unspoken romantic feelings - adds emotional weight
+- Barry is dead and Josh is alone when team arrives in cube
+
+========================================
+CONDENSED DESCRIPTION:
+========================================
+
+Late at night, the team works in the lab finalizing the expedition kit - compressed sof-tak, measurement devices, and
+communication equipment. Edgar announces he's going to pick up dinner before they send the kit through. While he's gone,
+the team has various conversations: Morris, Nina, Rashid, and Yuki discuss the exciting scientific possibilities despite
+the danger; Alex and Lea have a more serious conversation about how their careers diverged from their college ideals;
+Marcus privately tells Darius he's bringing him into his "inner circle" and cryptically reveals that after the crisis,
+low performers will probably get the death penalty - exposing INZO's brutal corporate culture. Edgar returns much earlier
+than expected and asks if they've sent the kit through yet. When they confirm they haven't, he tells everyone to come
+with him. He leads the confused team to the lobby where they look out the windows to see impossible geometry - the
+building is inside a massive cube room. They've been pulled into the n=0.333 dimension without realizing it. Alex notices
+Sofia's purse on the floor (she left earlier and never returned). Edgar turns to the team: "Hope you don't mind sof-tak
+for dinner." The realization hits - they're not preparing to SEND an expedition, they ARE the expedition. The supplies
+they prepared are now their survival rations. End of Act 1.
+
+========================================
+                    SCREENPLAY
+          ========================================
+
+INT. QUANTUM LOGISTICS BUILDING - LAB AREA - NIGHT
+
+Late night. The lab has the tired, focused energy of people working against the clock. Overhead lights cast harsh
+shadows.
+
+The expedition kit is laid out in a pile at the center of the tables and desks:
+- Stacks of compressed sof-tak in small packages
+- Measurement devices and dimensional sensors
+- Communication equipment
+- Everything organized, ready
+
+Team members move around doing final checks. Alex, Darius and Morris are near the expedition kit shrinking down sof-tak.
+Lea is sitting at a computer showing something to Marcus standing behind her.
+
+Chen stands near the transmitter - at a safe distance - reviewing safety protocols on a tablet.
+Nina, Yuki, and Rashid stand by the chalkboard.
+
+Edgar approaches the expedition kit from the loading bay.
+
+                    EDGAR
+          Hey, folks. I know you're all doing important work, but I wanted to do a quick time check.
+
+                    ALEX
+          We're just about ready here.
+
+Edgar does a fist pump.
+
+                    EDGAR
+          Okay! Care package complete!
+
+He looks around at the assembled kit unsure what to focus on
+
+                    CHEN(to Lea)
+          We'll have to stay to see what data comes through.
+
+Edgar deflates hearing this, then checks his watch.
+
+                    EDGAR
+          No problemo. I'll go pick up dinner for
+          everyone, so none of you get distracted.
+
+                    MARCUS
+          Great idea. Thanks a lot, Edgar.
+
+Edgar heads toward the exit.
+
+                    EDGAR
+          Don't start without me. Wouldn't wanna miss it!
+
+Edgar exits. The door closes behind him.
+
+                    MARCUS
+          I hope he gets something good. I'm so hungry.
+
+                    LEA
+          There's sof-tak if...
+
+                    MARCUS
+          Anything but that.
+
+The team continues working for a beat, then the energy shifts slightly - relief at the "boss" leaving the room.
+
+
+NEAR THE SUPPLY BOXES - CONTINUOUS
+
+Nina, Rashid, and Yuki near the chalkboard talking and discussing the board and equipment kit. Morris stands near them
+partly understanding but not fully.
+
+                    RASHID
+          So if Barry can send us some data back,
+          we can confirm the excitation threshold
+          inside a fractional dimension... that's
+          never been done. Ever.
+
+                    YUKI
+          The data will only apply to that dimension though.
+
+                    RASHID
+          If we CAN extrapolate, it would apply to all spatial dimensions.
+
+                    NINA
+          But it is still assuming time is passing normally.
+
+Yuki and Rashid nod agreeing like it is obvious. Morris gestures enthusiastically, nearly knocking over a sensor.
+
+                    MORRIS
+          Masters of time and space!
+
+Nina, Rashid, and Yuki laugh slightly.
+
+                    MORRIS(CONT'D)
+          I mean, yes, I was just listening and, the sof-tak we sent through would have lasted two weeks...
+
+Nina, Rashid, and Yuki begin to lose smiles. Morris tries to recover.
+
+                    MORRIS(CONT'D)
+          But the care package has a hundred times that much, even if it's just that small bag. And what
+          I was really getting at was we'll have a lot of data quickly and get them out of there...
+
+Morris does air-quotes.
+
+                    MORRIS(CONT'D)
+          "sooner"
+
+Nina smiles despite herself.
+
+                    NINA
+          You're not wrong.
+
+                    YUKI
+          I wonder if Barry can increase his upload rate.
+
+                    RASHID
+          With that homemade device? He's
+          probably collecting more data than we
+          could process.
+
+Morris steps more toward the group. They share a moment of genuine scientific excitement - researchers fascinated by the
+impossible, even in crisis.
+
+
+LEA'S DESK - CONTINUOUS
+
+Marcus walks to Chen. Alex takes the change to approach Lea at her desk for a quiet serious talk.
+
+Lea stares at nothing, exhausted, absently holding a sof-tak ball. Lea speaks before Alex gets a chance to
+
+                    LEA
+          Do you remember what we told ourselves? Senior
+          year?
+
+Alex is taken slightly aback.
+
+                    ALEX
+          Party hardy til we're farty?
+
+Lea ignoring the joke, rolling the ball on the desk in front of her.
+
+                    LEA
+          When I graduated...I wanted to do good work.
+          Important work.
+
+Beat.
+
+                    LEA (CONT'D)
+          And this? Quantum Logistics? I
+          thought... I thought this was it. We were solving
+          impossible problems. Making scientific
+          breakthroughs.
+
+                    ALEX
+          You did.
+
+                    LEA
+          For profit. For prisons. For...
+
+She throws the ball at the transmitter.
+
+                    LEA (CONT'D)
+          For this.
+
+Alex waits a moment before responding.
+
+                    ALEX
+          I made sof-tak. Compressed food. I
+          thought I was helping solve hunger.
+
+                    LEA
+          It's different. Sof-tak actually works.
+
+                    ALEX
+          It solved hunger...for millions of prisoners. INZO decided giving it to the
+          public would make it too easy to copy. That's what matters to them.
+
+They sit in silence.
+
+                    LEA
+          Is this what we wanted?
+
+                    ALEX
+          No.
+
+                    LEA
+          Is this what we deserved?
+
+Alex looks at her friend - the weight Lea's carrying, the guilt, the grief for Josh.
+
+                    ALEX
+          No.
+
+Lea nods. Swallows.
+
+                    LEA
+          We have to get them out. Barry.
+
+Lea's voice cracks.
+
+                    LEA
+          Josh. We have to.
+
+                    ALEX
+          We will.
+
+Lea wants to believe it.
+
+
+BY THE TRANSMITTER - CONTINUOUS
+
+Marcus stands with Darius, reviewing safety measurements. Marcus glances around, then pulls Darius slightly aside - more
+private.
+
+                    MARCUS
+          So I saw your company record when you all got transferred. You're smart.
+
+Darius looks uncertain where this is going.
+
+                    MARCUS (CONT'D)
+          I can tell you're not going to go off on your own. You're a team player, a company man. That's... that's
+          valuable.
+
+                    DARIUS
+          Thank you?
+
+Marcus leans in slightly.
+
+                    MARCUS
+          When we solve this - if we will solve
+          this - INZO's going to evaluate
+          everyone's performance.
+
+                    DARIUS
+          I understand.
+
+                    MARCUS
+          I don't think you do.
+
+Beat. Marcus's voice drops.
+
+                    MARCUS (CONT'D)
+          Failed projects don't
+          get severance packages. They become research subjects.
+
+Darius stares at him.
+
+                    MARCUS (CONT'D)
+          Probably death penalty, realistically.
+
+                    DARIUS
+          You're joking.
+
+Marcus holds his gaze.
+
+                    MARCUS
+          And new policy will have the same thing apply to low performers on successful projects.
+
+                    MARCUS
+          I'm bringing you into my inner circle.
+          The people who perform well will be
+          protected. I'll make sure they know you were a high performer. The ones who aren't team players...
+
+He doesn't finish. Doesn't need to.
+
+                    MARCUS (CONT'D)
+          Just wanted you to understand the
+          stakes.
+
+Marcus walks away, leaving Darius standing there, processing the brutal reality of INZO's corporate culture.
+
+
+MAIN LAB AREA - CONTINUOUS
+
+The team continues working. Chen connects wiring. The quiet industry of late-night work.
+
+Then the door opens.
+
+Edgar enters slightly flustered - much earlier than twenty minutes.
+
+The team looks up. Surprised.
+
+                    CHEN
+          That was fast.
+
+Edgar's expression is odd. Tense. Focused.
+
+                    EDGAR
+          Did you send the kit through yet?
+
+                    MARCUS
+          No. We're still doing final checks.
+
+                    EDGAR
+          Good.
+
+The word lands strangely. Everyone's attention is on him now. Edgar speaks loud enough for everyone to here.
+
+                    EDGAR (CONT'D)
+          I need everyone to come with me. Right
+          now.
+
+                    ALEX
+          What's wrong?
+
+                    EDGAR
+          Just... come with me. Please.
+
+The urgency in his voice is unmistakable. The team exchanges confused glances.
+
+
+INT. QUANTUM LOGISTICS BUILDING - CONFERENCE HALLWAY - CONTINUOUS
+
+The team follows Edgar through the hallways. Their footsteps echo. The building feels different - quieter, emptier.
+
+Morris walks near Nina.
+
+                    MORRIS
+               (whispered)
+          Do you think something happened? I
+          mean, obviously something happened,
+          but what kind of something—
+
+Nina shakes her head - she doesn't know either.
+
+Alex and Lea exchange a look. Something's very wrong.
+
+INT. QUANTUM LOGISTICS BUILDING - LOBBY - CONTINUOUS
+
+The group approaches the front door. As they approach the door, Alex notices something on the floor outside the door - a
+purse. Sofia's purse.
+
+Edgar stops near the windows.
+
+                    EDGAR
+          Look.
+
+The team moves to the windows. Then stops.
+
+Through the glass, they see...
+
+IMPOSSIBLE GEOMETRY.
+
+Where there should be the parking lot, the courtyard, the other INZO buildings...
+
+There are walls like a cube, but the pattern is different than they are used to. The building sits inside a massive cube
+structure.
+
+                    NINA
+          That's not...
+
+                    LEA
+          That can't be...
+
+Morris's face goes pale.
+
+Chen steps closer to the window, transfixed and horrified.
+
+
+EXTERIOR SHOT - THE REVEAL
+
+The Quantum Logistics building sits in the center of an enormous cube room. The building takes up roughly 1/8 of the
+space - small, isolated, trapped.
+
+The walls of the cube emanate white light. This is n=0.333 space. The root cube.
+
+No parking lot. No courtyard. No Earth.
+
+Just the cubes.
+
+
+                    BACK TO LOBBY
+
+The team stands frozen at the windows. The realization spreading.
+
+                    DARIUS
+               (barely a whisper)
+          When did this...
+
+                    EDGAR
+          Now I hope someone has an explanation for...
+
+He can't finish.
+
+                    MARCUS
+          The root cube. It pulled us in.
+
+                    NINA
+          Because the building is a cube.
+
+                    DARIUS
+          We were preparing to send supplies in.
+
+The pieces click into place for everyone.
+
+Morris's eyes widen.
+
+                    MORRIS
+          We're not sending an expedition.
+
+Alex turns to face them. Her expression is grim, resigned.
+
+                    ALEX
+          We are the expedition.
+
+The words hang in the air.
+
+Edgar steps forward, trying to maintain some control.
+
+                    EDGAR
+          I was gonna get dinner and... and this was already
+          here. I was wanting to get something before it started...
+
+His voice cracks slightly.
+
+                    EDGAR (CONT'D)
+          Hope you don't mind sof-tak for dinner.
+
+The dark humor falls flat. No one laughs.
+
+They stand in the lobby, staring out at their new reality.
+
+Trapped.
+
+The supplies they prepared for rescue are now their survival rations.
+
+Somewhere in this impossible space, Barry and Josh are trapped. Suffering.
+
+And now, so are they all.
+
+FADE OUT.
+
+END OF ACT 1
