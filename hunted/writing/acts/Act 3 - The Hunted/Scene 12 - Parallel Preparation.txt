@@ -4,7 +4,8 @@
 Parallel Montage / Intercut
 
 ## PURPOSE
-Show both Liam and the Reeves family preparing for the final confrontation. Establish the contrast between Liam's healing/planning and the family's transformation.
+Show both Liam and the Reeves family preparing for the final confrontation. Establish the contrast between Liam's
+healing/planning and the family's transformation.
 
 ## TIME SPAN
 Days to weeks
@@ -38,21 +39,22 @@ Split screen or intercut: Liam approaches. The family waits.
 
 INT. ABANDONED BUILDING - DAY
 
-LIAM sits in a dusty corner. Makeshift camp—sleeping bag, first aid supplies, bottled water.
+Liam sits in a dusty corner. Makeshift camp—sleeping bag, first aid supplies, bottled water.
 
 He unwraps bloody bandages from his torso. Examines the wounds. Grimaces.
 
 On the floor beside him: HANK'S BLACKBELT. He picks it up. Studies it.
 
-LIAM
-(quietly)
-You earned this.
+Liam, quietly.
+
+                    LIAM
+          You earned this.
 
 He sets it aside carefully. A trophy.
 
 INT. REEVES HOUSE - DAY
 
-SARAH and ELI work on a trap. Sarah guides a CABLE through an eyelet. Eli tests the tension.
+Sarah and ELI work on a trap. Sarah guides a CABLE through an eyelet. Eli tests the tension.
 
 Behind them, EMMA and OLIVIA sort supplies. Their movements are mechanical. Reluctant.
 
@@ -60,7 +62,8 @@ Emma glances at the window. The outside world.
 
 INT. ABANDONED BUILDING - DAY
 
-Liam unpacks a DRONE from a box. Small, commercial model. He attaches something to its underside—a modified BB gun mechanism.
+Liam unpacks a DRONE from a box. Small, commercial model. He attaches something to its underside—a modified BB gun
+mechanism.
 
 He tests the controls. The drone lifts, hovers, responds.
 
@@ -70,23 +73,25 @@ INT. REEVES HOUSE - NIGHT
 
 Emma and Olivia sit on the floor, wiring a simple alarm. Olivia's hands shake.
 
-OLIVIA
-(whispered)
-I want to go to Aunt Rachel's.
+Olivia, quietly.
 
-EMMA
-(whispered back)
-Me too.
+                    OLIVIA
+          I want to go to Aunt Rachel's.
+
+Emma, whispered back.
+
+                    EMMA
+          Me too.
 
 They hear footsteps. Sarah appears in the doorway.
 
-SARAH
-How's it coming?
+                    SARAH
+          How's it coming?
 
 The girls put on brave faces.
 
-EMMA
-Almost done.
+                    EMMA
+          Almost done.
 
 Sarah nods. Moves on. The girls exchange another look.
 
@@ -106,13 +111,13 @@ The house is transformed. TRIP WIRES. POSITIONED WEAPONS. Sealed windows. Blocka
 
 Sarah stands at the center, surveying.
 
-ELI
-We're ready.
+                    ELI
+          We're ready.
 
 Sarah shakes her head.
 
-SARAH
-Not yet. More.
+                    SARAH
+          Not yet. More.
 
 Emma watches from the stairs. Her expression: this will never end.
 
@@ -134,15 +139,16 @@ The car pulls off the road. Disappears into the trees.
 
 A figure emerges. Drone in hand. Armor glinting in moonlight.
 
-LIAM walks toward the house.
+Liam walks toward the house.
 
 INT. REEVES HOUSE - NIGHT
 
 Sarah's eyes narrow. Movement in the treeline.
 
-SARAH
-(calling softly)
-He's here.
+Sarah, calling softly.
+
+                    SARAH
+          He's here.
 
 ---
 

@@ -5,7 +5,7 @@
 - **Age**: 18
 - **Occupation**: Student (assumed)
 - **Family**: Child of Hank (deceased) and Sarah (deceased), sibling to Emma (12) and Olivia (10)
-- **Gender**: TBD
+- **Gender**: Male
 - **Hunting**: Has own hunting award - equally capable as rest of family
 
 ## ARCHETYPE
@@ -22,6 +22,8 @@ Represents the tragic cost of shared obsession. Goes all-in on revenge with Sara
 - All-in on the dangerous traps
 - Willing to engage Liam directly
 - Committed to the cause to the point of death
+- Pride in being the oldest - feels responsibility to step up after father's death
+- Impatient - can't wait for plan to play out because of desire for revenge
 
 ## RELATIONSHIPS
 - Hank: learned skills from father
@@ -29,6 +31,7 @@ Represents the tragic cost of shared obsession. Goes all-in on revenge with Sara
 - Emma: younger sibling, diverging paths
 - Olivia: youngest sibling, diverging paths
 - Liam: the target, dies confronting him
+- Bobby: family friend, never sees him again (dies before Bobby arrives)
 
 ## CHARACTER ARC
 - **Beginning State (Act 1)**: Serious kid, takes training seriously. Trying to be cool while still being young. Pride in his skills.

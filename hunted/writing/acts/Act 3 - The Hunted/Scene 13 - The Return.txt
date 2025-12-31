@@ -13,11 +13,16 @@ Night. Liam returns to the Reeves property, expecting easy cleanup kills.
 
 ### Key Beats
 1. Liam approaches the house confidently. Camera spots him and he breaks open the front door.
-2. First floor doors are made to close multiple ways so they still seal him out. Kids drop flashbang and Sarah shoots. They realize he has protection from this and retreat.
-3. At bottom of stairs, archers fire at Liam as he dodges. Sarah gets into position and they fight. Sarah hits him some but gets hurt and retreats.
-4. Liam tries to catch her but door molotov trap springs. Some fire gets on his leg and house starts burning from the fire. Family runs upstairs while he is slowed.
+2. First floor doors are made to close multiple ways so they still seal him out. Kids drop flashbang and Sarah shoots.
+They realize he has protection from this and retreat.
+3. At bottom of stairs, archers fire at Liam as he dodges. Sarah gets into position and they fight. Sarah hits him some
+but gets hurt and retreats.
+4. Liam tries to catch her but door molotov trap springs. Some fire gets on his leg and house starts burning from the
+fire. Family runs upstairs while he is slowed.
 5. Familytriees to go out window to see Liam has attack drone keeping them from leaving.
-6. Liam yells while going up stairwell "how dare you burn me" as hot oil starts to  pour down. he misses most but removes more armor from burns. he pulls back to recover. when he tries to leave house, eli shoots at him yelling "2 men enter, 1 man leaves". liam knows he can't just leave
+6. Liam yells while going up stairwell "how dare you burn me" as hot oil starts to  pour down. he misses most but removes
+more armor from burns. he pulls back to recover. when he tries to leave house, eli shoots at him yelling "2 men enter, 1
+man leaves". liam knows he can't just leave
 
 ### Character Moments
 - **Liam**: Overconfident, then shocked, then desperate.
@@ -34,13 +39,14 @@ Liam is now the prey. The family has the advantage—for now.
 
 EXT. REEVES PROPERTY - NIGHT
 
-LIAM crosses the open ground. Confident. WELDING HELMET tucked under his arm. MAKESHIFT ARMOR visible beneath his jacket. DRONE controller in one hand. TASER in the other.
+Liam crosses the open ground. Confident. WELDING HELMET tucked under his arm. MAKESHIFT ARMOR visible beneath his jacket.
+DRONE controller in one hand. TASER in the other.
 
 He's halfway across the yard when—
 
 BARKING. Loud. Aggressive.
 
-GIRLY charges from the side of the house. Eighty pounds of Rottweiler, teeth bared.
+Girly charges from the side of the house. Eighty pounds of Rottweiler, teeth bared.
 
 Liam doesn't flinch. Waits.
 
@@ -54,9 +60,10 @@ Girly yelps. Convulses. Drops to the grass, twitching.
 
 Liam looks down at her. No emotion.
 
-LIAM
-(quietly)
-Good dog.
+Liam, quietly.
+
+                    LIAM
+          Good dog.
 
 He steps over her body. Continues toward the house.
 
@@ -68,12 +75,12 @@ He pulls on the welding helmet.
 
 INT. REEVES HOUSE - LIVING ROOM - NIGHT
 
-SARAH watches him approach on a laptop screen—security feed.
+Sarah watches him approach on a laptop screen—security feed.
 
-SARAH
-Positions. Now.
+                    SARAH
+          Positions. Now.
 
-ELI grabs his crossbow. Moves to the second floor. EMMA and OLIVIA huddle near the stairs, ready to retreat.
+Eli grabs his crossbow. Moves to the second floor. EMMA and OLIVIA huddle near the stairs, ready to retreat.
 
 EXT. REEVES HOUSE - FRONT PORCH - NIGHT
 
@@ -87,9 +94,10 @@ The MOLOTOV TRAP triggers. Glass shatters. Fire ERUPTS.
 
 Liam stumbles back, arm raised. Flames lick his jacket. He pats them out.
 
-LIAM
-(laughing)
-Nice try.
+Liam laughs.
+
+                    LIAM
+          Nice try.
 
 INT. REEVES HOUSE - FOYER - CONTINUOUS
 
@@ -101,8 +109,8 @@ SECONDARY DOORS SLAM SHUT around him. Mechanical. Rigged to close from multiple 
 
 He's sealed in the foyer.
 
-LIAM
-What the—
+                    LIAM
+          What the—
 
 A FLASHBANG drops from above. Through a gap in the ceiling.
 
@@ -114,9 +122,10 @@ GUNSHOTS from the second floor. Sarah fires through the floor—bullets punching
 
 Liam drops flat. Bullets spark off his armor. One grazes his leg.
 
-LIAM
-(growling)
-Body armor, bitch!
+Liam, growling.
+
+                    LIAM
+          Body armor, bitch!
 
 He crawls toward a door. Kicks it. It doesn't budge—reinforced.
 
@@ -124,16 +133,16 @@ INT. REEVES HOUSE - SECOND FLOOR - CONTINUOUS
 
 Sarah reloads. Eli readies the crossbow.
 
-ELI
-Did we get him?
+                    ELI
+          Did we get him?
 
-SARAH
-Not yet.
+                    SARAH
+          Not yet.
 
 She listens. Movement below.
 
-SARAH
-Fall back. Stairs.
+                    SARAH
+          Fall back. Stairs.
 
 They retreat to the stairwell position. Emma and Olivia move higher.
 
@@ -147,7 +156,7 @@ He's through. Reaches the bottom of the stairs.
 
 Looks up.
 
-ELI stands at the top, crossbow raised.
+Eli stands at the top, crossbow raised.
 
 Eli FIRES.
 
@@ -157,13 +166,13 @@ Liam rips the bolt out. Starts up the stairs.
 
 Sarah appears beside Eli. She has a HUNTING KNIFE.
 
-SARAH
-Go!
+                    SARAH
+          Go!
 
 Eli hesitates—
 
-SARAH
-GO!
+                    SARAH
+          GO!
 
 Eli retreats. Sarah descends to meet Liam halfway.
 
@@ -189,8 +198,8 @@ The MOLOTOV TRAP at the door—a SECOND ONE—ignites. Fire races up the wall. C
 
 He SCREAMS. Beats at the flames. His pant leg burns.
 
-LIAM
-YOU FUCKING—
+                    LIAM
+          YOU FUCKING—
 
 Sarah scrambles up the stairs. The family retreats to the second floor.
 
@@ -210,34 +219,35 @@ INT. REEVES HOUSE - SECOND FLOOR - CONTINUOUS
 
 Emma screams, ducking back.
 
-EMMA
-There's something out there!
+                    EMMA
+          There's something out there!
 
 Sarah looks. Sees the drone hovering.
 
-SARAH
-He's got a drone. We can't go out that way.
+                    SARAH
+          He's got a drone. We can't go out that way.
 
-OLIVIA
-(crying)
-What do we do?
+Olivia, crying.
+
+                    OLIVIA
+          What do we do?
 
 Below, Liam's voice echoes up the stairwell—
 
-LIAM (O.S.)
-HOW DARE YOU BURN ME!
+                    LIAM (O.S.)
+          HOW DARE YOU BURN ME!
 
 Heavy footsteps on the stairs. He's coming.
 
 Sarah moves to the stairwell entrance. The HOT OIL TRAP. Eli is already there, hand on the release.
 
-SARAH
-Wait for it...
+                    SARAH
+          Wait for it...
 
 Liam appears on the stairs. Limping. Armor scorched. Helmet dented.
 
-ELI
-NOW!
+                    ELI
+          NOW!
 
 He releases the mechanism. The pot TIPS. Boiling oil POURS down.
 
@@ -255,20 +265,22 @@ He finds a window. Tries to climb out—
 
 A CROSSBOW BOLT slams into the frame inches from his head.
 
-ELI (O.S.)
-(shouting from above)
-TWO MEN ENTER! ONE MAN LEAVES!
+Eli (o.s.), shouting from above.
+
+                    ELI (O.S.)
+          TWO MEN ENTER! ONE MAN LEAVES!
 
 Liam spins. Eli stands at the top of the stairs, reloading.
 
-LIAM
-(to himself)
-Can't leave. Can't go up.
+Liam turns to himself.
+
+                    LIAM
+          Can't leave. Can't go up.
 
 He looks at the burning walls around him. The smoke thickening.
 
-LIAM
-Fine.
+                    LIAM
+          Fine.
 
 He moves toward the basement door.
 
@@ -276,21 +288,21 @@ INT. REEVES HOUSE - SECOND FLOOR - CONTINUOUS
 
 Sarah pulls Eli back from the stairs.
 
-SARAH
-He went down. Basement.
+                    SARAH
+          He went down. Basement.
 
-ELI
-I can go after him—
+                    ELI
+          I can go after him—
 
-SARAH
-No. We hold the high ground. Let him come to us.
+                    SARAH
+          No. We hold the high ground. Let him come to us.
 
 Eli's jaw tightens. He wants the kill. But he nods.
 
 Sarah looks at Emma and Olivia, huddled together by the wall.
 
-SARAH
-Stay close. Stay quiet.
+                    SARAH
+          Stay close. Stay quiet.
 
 Emma nods, arm around Olivia.
 

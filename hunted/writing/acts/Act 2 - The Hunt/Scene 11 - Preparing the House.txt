@@ -13,7 +13,8 @@ Sarah has lost Liam's trail but prepares anyway. She knows he'll come back—for
 
 ### Key Beats
 1. Sarah gathers Hank's prepper supplies—the materials for traps. Hiding is not enough. Need active traps.
-2. Eli is all-in, eager to help with the most dangerous setups starting a hotplate and setting arrow quiver on second floor
+2. Eli is all-in, eager to help with the most dangerous setups starting a hotplate and setting arrow quiver on second
+floor
 3. Emma participates but shows growing fear
 4. Olivia follows Emma's lead, clearly scared. they close windows and doors of first floor.
 5. The house begins its transformation into a fortress
@@ -34,17 +35,18 @@ The house is being transformed. The family is split between those consumed by re
 
 INT. REEVES HOUSE - BASEMENT - NIGHT
 
-Sarah descends the stairs, flashlight in hand. She scans Hank's prepper storage: shelves of supplies, tools, emergency gear.
+Sarah descends the stairs, flashlight in hand. She scans Hank's prepper storage: shelves of supplies, tools, emergency
+gear.
 
 She starts pulling items: trip wire, steel cables, a propane tank, containers of oil.
 
-ELI appears behind her.
+Eli appears behind her.
 
-ELI
-What do you need?
+                    ELI
+          What do you need?
 
-SARAH
-Everything.
+                    SARAH
+          Everything.
 
 INT. REEVES HOUSE - SECOND FLOOR - NIGHT
 
@@ -52,27 +54,28 @@ Eli sets up a HOTPLATE near the stairwell. Places a large pot on top. Fills it w
 
 He positions a QUIVER OF ARROWS against the wall. Checks sight lines to the stairs below.
 
-ELI
-(to himself)
-Perfect.
+Eli turns to himself.
+
+                    ELI
+          Perfect.
 
 INT. REEVES HOUSE - FIRST FLOOR - NIGHT
 
-EMMA and OLIVIA move through the first floor. Emma closes and locks windows. Olivia follows, doing the same with doors.
+Emma and OLIVIA move through the first floor. Emma closes and locks windows. Olivia follows, doing the same with doors.
 
-OLIVIA
-Why are we doing this?
+                    OLIVIA
+          Why are we doing this?
 
-EMMA
-Mom said to.
+                    EMMA
+          Mom said to.
 
-OLIVIA
-But... shouldn't we just leave?
+                    OLIVIA
+          But... shouldn't we just leave?
 
 Emma pauses. Looks at her little sister.
 
-EMMA
-I don't think Mom wants to leave.
+                    EMMA
+          I don't think Mom wants to leave.
 
 They exchange a look. Fear.
 
@@ -90,40 +93,42 @@ MONTAGE of trap-building:
 
 INT. REEVES HOUSE - LIVING ROOM - NIGHT
 
-The family gathers. The house looks different now—weapons positioned, trip wires barely visible, defensive positions established.
+The family gathers. The house looks different now—weapons positioned, trip wires barely visible, defensive positions
+established.
 
-EMMA
-Mom... this feels wrong.
+                    EMMA
+          Mom... this feels wrong.
 
-SARAH
-It'll feel right when he's dead.
+                    SARAH
+          It'll feel right when he's dead.
 
-OLIVIA
-(small voice)
-What if he doesn't come back?
+Olivia, small voice.
+
+                    OLIVIA
+          What if he doesn't come back?
 
 Sarah's expression hardens.
 
-SARAH
-He'll come back. He can't help himself.
+                    SARAH
+          He'll come back. He can't help himself.
 
 Eli puts a hand on Emma's shoulder.
 
-ELI
-Hey. Dad taught us to protect ourselves. That's what we're doing.
+                    ELI
+          Hey. Dad taught us to protect ourselves. That's what we're doing.
 
-EMMA
-Dad never wanted us to—
+                    EMMA
+          Dad never wanted us to—
 
-ELI
-Dad's dead.
+                    ELI
+          Dad's dead.
 
 Silence. Emma looks away. Olivia buries her face in Emma's side.
 
 Sarah stares at the front door. Waiting.
 
-SARAH
-He'll come. And we'll be ready.
+                    SARAH
+          He'll come. And we'll be ready.
 
 ---
 

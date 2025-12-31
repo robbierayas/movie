@@ -48,8 +48,15 @@ AMAZINGTRASH_CHARACTERS = [
     'VICTIM', 'BODY', 'NIGHT', 'POLICE', 'OFFICERS', 'STANDARD', 'CLASS', 'PASSENGER'
 ]
 
+# Hunted characters
+HUNTED_CHARACTERS = [
+    'LIAM', 'HANK', 'BOBBY', 'SARAH', 'ELI', 'EMMA', 'OLIVIA', 'GIRLY',
+    'REGULAR CUSTOMER', 'ATTRACTIVE WOMAN', 'MAN WITH GLASSES',
+    'EMPLOYEE', 'BARTENDER', 'OFFICER', 'FEMALE OFFICER', 'DETECTIVE'
+]
+
 # Combine all character names
-CHARACTER_NAMES = CUBE_CHARACTERS + AMAZINGTRASH_CHARACTERS
+CHARACTER_NAMES = CUBE_CHARACTERS + AMAZINGTRASH_CHARACTERS + HUNTED_CHARACTERS
 
 def wrap_line(line, max_width=121):
     """
@@ -136,6 +143,8 @@ def format_screenplay_dialogue(content):
 
         # Check if this is a character dialogue header (not an action line)
         # Character headers are: ALL CAPS, alphabetic only (no commas/periods), on their own line
+        # Note: (V.O.) and (O.S.) annotations contain periods but are valid character headers
+        line_for_punct_check = re.sub(r'\s*\((V\.O\.|O\.S\.)\)', '', line_stripped)
         is_character_header = (line_stripped and
             line_stripped == line_stripped.upper() and
             len(line_stripped) < 40 and
@@ -146,8 +155,9 @@ def format_screenplay_dialogue(content):
             not line_stripped.startswith('CUT') and
             not line_stripped.startswith('SCENE') and
             # Not an action line (action lines have punctuation like commas/periods)
-            ',' not in line_stripped and
-            '.' not in line_stripped)
+            # Exclude V.O./O.S. from punctuation check
+            ',' not in line_for_punct_check and
+            '.' not in line_for_punct_check)
 
         if is_character_header:
 

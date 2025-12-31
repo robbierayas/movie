@@ -36,6 +36,8 @@ class ScreenplayParser:
     # Patterns to identify different screenplay elements
     # Character headers: ALL CAPS, alphabetic only (no commas/periods), centered with indentation
     CHARACTER_PATTERN = re.compile(r'^\s*([A-Z][A-Z\s]+?)(?:\s*\([^)]*\))?\s*$')
+    # V.O./O.S. character headers at left margin (not indented)
+    VO_CHARACTER_PATTERN = re.compile(r'^([A-Z][A-Z\s]+?)\s*\((V\.O\.|O\.S\.)\)\s*$')
     DIALOGUE_PATTERN = re.compile(r'^["\']')
     SCENE_HEADER_PATTERN = re.compile(r'^(INT\.|EXT\.|SCENE|LOCATION:|FADE)')
     # Action lines: Start with capital, has lowercase, ends with period OR has comma (character actions)
@@ -43,6 +45,7 @@ class ScreenplayParser:
 
     def __init__(self):
         self.current_speaker = None
+        self.in_vo_mode = False  # Track when we're reading V.O. dialogue (left-aligned)
 
     def parse_file(self, filepath: str, line_by_line: bool = False) -> List[DialogueLine]:
         """Parse a screenplay file and extract dialogue/action lines
@@ -94,9 +97,20 @@ class ScreenplayParser:
             if not stripped or stripped.startswith('===') or stripped.startswith('---'):
                 continue
 
-            # Check for character name
+            # Check for V.O./O.S. character (left-aligned, like "LIAM (V.O.)")
+            vo_match = self.VO_CHARACTER_PATTERN.match(stripped)
+            if vo_match:
+                # Flush any pending dialogue before switching speakers
+                if not line_by_line:
+                    flush_pending_dialogue()
+
+                self.current_speaker = vo_match.group(1).strip()
+                self.in_vo_mode = True  # Next lines are V.O. dialogue (not indented)
+                print(f"[DEBUG] Line {i}: Found V.O. character: '{self.current_speaker}'")
+                continue
+
+            # Check for regular character name (centered/indented)
             # Character headers have NO punctuation (commas, periods) - those are action lines
-            # Exception: (V.O.) and (O.S.) are valid character annotations
             char_match = self.CHARACTER_PATTERN.match(stripped)
             # Remove V.O./O.S. annotations before checking for punctuation
             stripped_for_punct_check = re.sub(r'\s*\((V\.O\.|O\.S\.)\)\s*$', '', stripped)
@@ -106,6 +120,7 @@ class ScreenplayParser:
                     flush_pending_dialogue()
 
                 self.current_speaker = char_match.group(1).strip()
+                self.in_vo_mode = False  # Regular dialogue is indented
                 print(f"[DEBUG] Line {i}: Found character: '{self.current_speaker}'")
                 continue
 
@@ -157,6 +172,23 @@ class ScreenplayParser:
                     pending_dialogue_lines.append(stripped)
                 continue
 
+            # V.O. dialogue: non-indented lines after a V.O. character header
+            # These look like action but are actually dialogue (e.g., "After Zaroff, I knew...")
+            if self.in_vo_mode and self.current_speaker and not is_indented and len(stripped) > 0:
+                # Check if this looks like a new character or scene header
+                if not self.VO_CHARACTER_PATTERN.match(stripped) and not self.CHARACTER_PATTERN.match(stripped):
+                    if line_by_line:
+                        print(f"[DEBUG] Line {i}: V.O. dialogue for '{self.current_speaker}': {stripped[:50]}...")
+                        lines.append(DialogueLine(self.current_speaker, stripped, i))
+                    else:
+                        if not pending_dialogue_lines:
+                            pending_dialogue_start_line = i
+                        pending_dialogue_lines.append(stripped)
+                    continue
+                else:
+                    # It's a new character, exit V.O. mode
+                    self.in_vo_mode = False
+
             # Check for action lines (scene descriptions) - non-indented only
             # Action lines: start with capital, contain lowercase OR all caps with punctuation
             # Examples: "Marcus turns, annoyed." or "MARCUS turns, annoyed." or "Josh, suddenly lucid, sharp."
@@ -170,6 +202,7 @@ class ScreenplayParser:
                     print(f"[DEBUG] Line {i}: Action description: {stripped[:50]}...")
                     lines.append(DialogueLine("ACTION", stripped, i))
                     self.current_speaker = None  # Reset after action line
+                    self.in_vo_mode = False  # Exit V.O. mode on action line
                     continue
 
         # Flush any remaining dialogue at end of file

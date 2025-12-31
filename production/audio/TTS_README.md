@@ -60,7 +60,7 @@ hunted/production/audio/audio_output/
 └── ...
 ```
 
-**Note:** ACTION narrator lines are spoken at 1.5x speed to reduce file length.
+**Note:** ACTION narrator lines use a separate voice (lessac by default).
 
 ## Character Voice Mapping
 
@@ -68,15 +68,17 @@ Edit `character_voices.json` in your movie's production/audio folder to assign v
 
 ```json
 {
-  "ELI": "voices/en_US-ryan-high.onnx",
-  "EMMA": "voices/en_US-amy-medium.onnx",
-  "HANK": "voices/en_US-joe-medium.onnx",
-  "ACTION": "voices/en_US-lessac-medium.onnx",
-  "_default": "voices/en_US-lessac-medium.onnx"
+  "HANK": { "voice": "voices/en_US-ryan-high.onnx", "model": "hank" },
+  "SARAH": { "voice": "voices/en_US-amy-medium.onnx", "model": "sarah" },
+  "LIAM": { "voice": "voices/en_GB-alan-medium.onnx", "model": "liam" },
+  "ACTION": { "voice": "voices/en_US-lessac-medium.onnx", "model": null },
+  "_default": { "voice": "voices/en_US-lessac-medium.onnx", "model": null }
 }
 ```
 
-Available voices: amy, kathleen, kristin (female); ryan, danny, joe, john, bryce (male); lessac, libritts (narrator)
+**Note:** Voice files are stored in the shared `production/audio/voices/` directory. The script automatically checks there if voices aren't found in the movie-specific directory.
+
+Available voices: amy, kathleen, kristin, ljspeech (female); ryan, danny, joe, john, bryce, alan (male); lessac, libritts (narrator)
 
 ## Features
 
@@ -124,7 +126,7 @@ pip install -r production/audio/requirements.txt
 
    Select which voices to download (you can choose multiple or 'all')
 
-3. Voice files will be automatically placed in the `voices/` directory
+3. Voice files will be automatically placed in the `production/audio/voices/` directory (shared across all movies)
 
 ## Character Voice Configuration
 
@@ -133,16 +135,17 @@ Create/edit `character_voices.json` in your movie's `production/audio/` folder:
 **Example for hunted (hunted/production/audio/character_voices.json):**
 ```json
 {
-  "ELI": "voices/en_US-ryan-high.onnx",
-  "EMMA": "voices/en_US-amy-medium.onnx",
-  "HANK": "voices/en_US-joe-medium.onnx",
-  "SARAH": "voices/en_US-kristin-medium.onnx",
-  "ACTION": "voices/en_US-lessac-medium.onnx",
-  "_default": "voices/en_US-lessac-medium.onnx"
+  "HANK": { "voice": "voices/en_US-ryan-high.onnx", "model": "hank" },
+  "SARAH": { "voice": "voices/en_US-amy-medium.onnx", "model": "sarah" },
+  "LIAM": { "voice": "voices/en_GB-alan-medium.onnx", "model": "liam" },
+  "ELI": { "voice": "voices/en_US-bryce-medium.onnx", "model": "eli" },
+  "EMMA": { "voice": "voices/en_US-kathleen-low.onnx", "model": "emma" },
+  "ACTION": { "voice": "voices/en_US-lessac-medium.onnx", "model": null },
+  "_default": { "voice": "voices/en_US-lessac-medium.onnx", "model": null }
 }
 ```
 
-- Each character name maps to a voice model path
+- Each character name maps to an object with `voice` (path to .onnx file) and `model` (animation model name or null)
 - `_default` is used for any character not in the mapping
 - Download multiple voices using: `python production/audio/download_voice.py`
 

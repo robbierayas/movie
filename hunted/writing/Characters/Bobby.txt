@@ -3,14 +3,14 @@
 ## BASIC INFORMATION
 - **Full Name**: Bobby (last name TBD)
 - **Age**: Early 40s (same as Hank)
-- **Occupation**: TBD
-- **Family**: TBD
+- **Occupation**: Construction (works with Hank sometimes)
+- **Family**: Single
 
 ## ARCHETYPE
-**The Buddy** - Hank's longtime friend and hunting companion. Provides contrast to Hank's capability.
+**The Buddy / The Sacrifice** - Hank's longtime friend and hunting companion. Provides contrast to Hank's capability. Arrives to help in Act 3 and dies trying.
 
 ## CHARACTER FUNCTION
-Establishes Hank's social world and provides someone for Hank to interact with naturally. His "pray and spray" gun preference contrasts with Hank's knife expertise, highlighting what makes Hank special.
+Establishes Hank's social world and provides someone for Hank to interact with naturally. His "pray and spray" gun preference contrasts with Hank's knife expertise, highlighting what makes Hank special. Returns in Act 3 as cavalry that fails—reinforces that outside help can't save the family; they must save themselves (or call 911).
 
 ## PHYSICAL DESCRIPTION
 - Typical neckbeard - unkempt facial hair
@@ -26,8 +26,9 @@ Establishes Hank's social world and provides someone for Hank to interact with n
 - Good-natured, not mean-spirited
 
 ## RELATIONSHIPS
-- Hank: longtime friend, hunting buddy - one of the few people he can fully be himself around
+- Hank: longtime friend, hunting buddy, coworker - one of the few people he can fully be himself around
 - Sarah/kids: respectful, keeps his rougher edges hidden
+- Liam: saw him at Cabela's, never formally met, killed by him
 
 ## CHARACTER ARC
 - **Beginning State (Act 1)**: Hank's buddy, admires but can't match his friend's skills and family life. The "pray and spray" guy—relies on firepower over finesse.

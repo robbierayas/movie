@@ -96,6 +96,7 @@ See **[production/SCREENPLAY_WORKFLOW.md](production/SCREENPLAY_WORKFLOW.md)** f
 **Movie-specific screenplay documentation:**
 - **[cuberoot/writing/dialogue.md](cuberoot/writing/dialogue.md)** - Cube^(0.333) screenplay project (cube mechanics, characters, status)
 - **[amazingtrash/writing/dialogue.md](amazingtrash/writing/dialogue.md)** - Amazingtrash screenplay project (world-building, characters, status)
+- **[hunted/writing/dialogue.md](hunted/writing/dialogue.md)** - Hunted screenplay project (home invasion thriller, characters, status)
 
 ---
 
@@ -275,6 +276,7 @@ Scene is now production-ready with clean visuals.
 - **[production/SCREENPLAY_WORKFLOW.md](production/SCREENPLAY_WORKFLOW.md)** - Complete screenplay workflows (Workflows 1-6)
 - **[cuberoot/writing/dialogue.md](cuberoot/writing/dialogue.md)** - Cube^(0.333) project specifics
 - **[amazingtrash/writing/dialogue.md](amazingtrash/writing/dialogue.md)** - Amazingtrash project specifics
+- **[hunted/writing/dialogue.md](hunted/writing/dialogue.md)** - Hunted project specifics
 
 ### Animation Production
 - **[production/animation/claude.md.animation](production/animation/claude.md.animation)** - PRIMARY: AI workflows, scene setup, collision detection, dialogue geometry

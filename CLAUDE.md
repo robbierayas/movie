@@ -21,6 +21,7 @@ See: **[production/SCREENPLAY_WORKFLOW.md](production/SCREENPLAY_WORKFLOW.md)** 
 **Movie-specific screenplay documentation:**
 - **[cuberoot/writing/dialogue.md](cuberoot/writing/dialogue.md)** - Cube^(0.333) screenplay project
 - **[amazingtrash/writing/dialogue.md](amazingtrash/writing/dialogue.md)** - Amazingtrash screenplay project
+- **[hunted/writing/dialogue.md](hunted/writing/dialogue.md)** - Hunted screenplay project
 
 ### Animation Workflows
 
