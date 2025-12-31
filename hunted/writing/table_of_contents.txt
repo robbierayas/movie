@@ -17,12 +17,17 @@
 - Characters: Liam, Hank
 - Summary: Liam spots Hank in his element among survival gear—knowledgeable, confident, clearly capable. This is the worthy prey he's been looking for. Liam follows him to the parking lot, gets his license plate, and begins tracking him home.
 
-### Scene 4 - The Surveillance
-- Location: EXT./INT. REEVES PROPERTY - VARIOUS (MONTAGE)
-- Characters: Liam, Hank, Sarah, Children (observed)
-- Summary: Liam stalks the family over weeks. Goes through their mail (voiceover narrates). Gives family overview: wife Sarah, three kids, Hank's prepper lifestyle. Notes hunting awards through windows. Learns schedules, routines, the layout of the large property. Plans the attack.
+### Scene 4 - Family Time
+- Location: EXT./INT. REEVES PROPERTY - VARIOUS
+- Characters: Hank, Bobby, Sarah, Eli, Emma, Olivia, Girly (dog)
+- Summary: Liam is not shown for a few minutes. Bobby and Hank arrive with groceries for a cookout. The family is eager to eat but Olivia reminds about their "homeschool". All look to Hank to decide and he says they will do homeschool first. Homeschool is self-defense class taught by Hank. The kids take turns practicing with Hank or a dummy. Bobby mostly plays with Girly the dog, but joins in doing something wacky to make the kids laugh. Sarah watches all of it while grilling. After, they all sit to eat, with feeling that everything is fine. Cut to..
 
-### Scene 5 - Let's Do This
+### Scene 5 - The Surveillance
+- Location: EXT./INT. REEVES PROPERTY - VARIOUS (MONTAGE)
+- Characters: Liam, Hank, Sarah, Children, Girly (observed)
+- Summary: Liam staring through binoculars. Liam stalks the family over weeks. Goes through their mail (voiceover narrates). Gives family overview: wife Sarah, three kids, Hank's prepper lifestyle. Notes hunting awards through windows. Observes the family dog Girly—a Rottweiler. Learns schedules, routines, the layout of the large property. Plans the attack.
+
+### Scene 6 - Let's Do This
 - Location: EXT. REEVES PROPERTY - DAY
 - Characters: Liam, Family (leaving)
 - Summary: Liam watches the family leave—Sarah and the kids drive off. Only Hank's car remains, but Hank isn't home yet. Voiceover ends with "Let's do this." Liam approaches the property to begin the hunt.
@@ -31,67 +36,72 @@
 
 ## Act 2 - The Hunt
 
-### Scene 6 - The Flat Tire
+### Scene 7 - The Flat Tire
 - Location: EXT. SUBURBAN STREET / REEVES PROPERTY - DAY
 - Characters: Liam, Hank
 - Summary: Liam flattens Hank's tire down the block, forcing him to walk home. Hank starts the walk but spots something wrong before reaching the house. The hunt begins outside—Hank fights back immediately on his own territory. Chase across the large property.
 
-### Scene 7 - The Battle Inside
+### Scene 8 - The Battle Inside
 - Location: INT. REEVES HOUSE - DAY
 - Characters: Liam, Hank
 - Summary: The fight moves inside. Liam notices hunting awards on the walls. Hank uses everything—tools, furniture, his knowledge of the layout. Liam is injured, frustrated. The fight is ugly, desperate, nothing like the elegant hunt Liam imagined. Hank nearly wins multiple times.
 
-### Scene 8 - The Hostage
+### Scene 9 - The Hostage
 - Location: INT./EXT. REEVES HOUSE - DUSK
 - Characters: Liam, Hank (dead), Sarah, Children
 - Summary: Liam finally kills Hank—messy, exhausting. Before he can escape, headlights. Family returns early. The youngest runs to the door. Liam grabs them hostage. Sarah sees Hank's body through the window. The exchange: "If you ever come back, you're dead." "I already got what I came for." "Then I'll have to come for you." Liam releases the child and escapes.
 
-### Scene 9 - Sarah's Investigation
+### Scene 10 - Sarah's Investigation
 - Location: VARIOUS - DAY/NIGHT
 - Characters: Sarah, Eli, Liam (observed, not POV)
 - Summary: Sarah investigates without police. We shift to an unbiased view of Liam—not his voiceover, but who he really is: invisible bartender, cramped apartment, pathetic life. Sarah pieces together clues, gets close to identifying him. She finds him with Eli and attacks—but Liam barely escapes. As he flees, he tells Sarah he'll visit soon. Sarah has confirmed her target but lost him.
 
-### Scene 10 - Preparing the House
+### Scene 11 - Preparing the House
 - Location: INT. REEVES HOUSE - NIGHT
-- Characters: Sarah, Children
-- Summary: Sarah has lost Liam's trail but prepares anyway. She knows he'll come back—for the challenge, not to silence witnesses. With her children, she begins transforming the house. The 18-year-old is all-in. The younger two grow scared. The house becomes a fortress.
+- Characters: Sarah, Eli, Emma, Olivia
+- Summary: Sarah has lost Liam's trail but prepares anyway. She knows he'll come back—for the challenge, not to silence witnesses. With her children, she begins transforming the house. Eli is all-in. The younger two grow scared. The house becomes a fortress.
 
 ---
 
 ## Act 3 - The Hunted
 
-### Scene 11 - Parallel Preparation
+### Scene 12 - Parallel Preparation
 - Location: INT. LIAM'S HIDING SPOT / INT. REEVES HOUSE - DAY/NIGHT (INTERCUT)
-- Characters: Liam, Sarah, Children
-- Summary: Liam heals, plans his return, learns from his mistakes. Meanwhile, Sarah and the 18-year-old build traps throughout the house—using Hank's prepper supplies. The 12-year-old and 10-year-old participate but are increasingly frightened. This has gone beyond defense into something darker.
+- Characters: Liam, Sarah, Eli, Emma, Olivia
+- Summary: Liam heals, plans his return, learns from his mistakes. Meanwhile, Sarah and Eli build traps throughout the house—using Hank's prepper supplies. Emma and Olivia participate but are increasingly frightened. This has gone beyond defense into something darker.
 
-### Scene 12 - The Return
+### Scene 13 - The Return
 - Location: EXT./INT. REEVES HOUSE - NIGHT
-- Characters: Liam, Sarah, Children
-- Summary: Liam returns for what he thinks will be easy cleanup kills. He deploys a surveillance drone to patrol the exterior, keeping everyone pinned inside. He walks into a prepared battlefield. Molotov door trap triggers—first floor catches fire but fire-resistant construction contains it. First trap springs. The structure inverts—now Liam is the one being hunted. Liam takes the first floor; family retreats upstairs but loses access to basement weapons cache. Running battle through the modified house begins. Each trap uses skills Hank taught his family. Kids shoot down the drone with something they grabbed before retreating upstairs.
+- Characters: Liam, Sarah, Eli, Emma, Olivia, Girly
+- Summary: Liam returns for what he thinks will be easy cleanup kills. He deploys a surveillance drone to patrol the exterior, keeping everyone pinned inside. Girly the dog runs out to attack him but he uses a taser on her. He walks up the steps into a prepared battlefield. Molotov door trap triggers—first floor catches fire but fire-resistant construction contains it. First trap springs. The structure inverts—now Liam is the one being hunted. Liam takes the first floor; family retreats upstairs but loses access to basement weapons cache. Running battle through the modified house begins. Each trap uses skills Hank taught his family. Kids shoot down the drone with something they grabbed before retreating upstairs.
 
-### Scene 13 - The 18-Year-Old's Death
+### Scene 14 - Eli's Death
 - Location: INT. REEVES HOUSE - NIGHT
-- Characters: Liam, Sarah, 18-year-old, 12-year-old, 10-year-old
-- Summary: The battle continues. The 18-year-old, committed to revenge like their mother, engages Liam directly. They die for it—killed during the confrontation. Sarah witnesses her oldest child's death. The younger two are horrified. Sarah's obsession deepens rather than breaks.
+- Characters: Liam, Sarah, Eli, Emma, Olivia
+- Summary: The battle continues. Eli, committed to revenge like his mother, engages Liam directly. He dies for it—killed during the confrontation. Sarah witnesses her oldest child's death. Emma and Olivia are horrified. Sarah's obsession deepens rather than breaks.
 
-### Scene 14 - The Escape
+### Scene 15 - Bobby's Return
+- Location: EXT./INT. REEVES HOUSE - NIGHT
+- Characters: Liam, Bobby, Girly
+- Summary: Liam runs to the basement to collect himself. Bobby shows up after the girls called him. He sees what he thinks is dead Girly and immediately grabs his shotgun. He checks on the dog and she wakes up. They have hunted together and already have their rhythm. The smoke messes with Girly's smell but they make their way to the basement. Bobby tells Girly to wait as he goes down the stairs. Liam has already poured oil or gas on the stairs and lights it, starting Bobby on fire and he falls down the stairs useless. Liam stands over him and Girly jumps down the stairs to attack. They struggle until Liam gets a weapon and kills the dog. The stairs collapse and he heartlessly uses Bobby's body as a step stool.
+
+### Scene 16 - The Escape
 - Location: INT./EXT. REEVES HOUSE - NIGHT
-- Characters: Sarah, Liam, 12-year-old, 10-year-old
-- Summary: Sarah confronts Liam directly on the 2nd floor, sends the two younger children to "finish him off" while she holds him. But Emma (12)—seeing what revenge cost Eli—grabs Olivia (10) and makes the practical choice. While Liam and Sarah fight on the 2nd floor, they slip through the secret passage: attic → hidden tunnel → secret larder → basement → outside. Liam doesn't notice them escaping below. We don't see the 911 call, only the result later.
+- Characters: Sarah, Liam, Emma, Olivia
+- Summary: Sarah confronts Liam directly on the 2nd floor, sends Emma and Olivia to "finish him off" while she holds him. But Emma—seeing what revenge cost Eli—grabs Olivia and makes the practical choice. While Liam and Sarah fight on the 2nd floor, they slip through the secret passage: attic → hidden tunnel → secret larder → basement → outside. Liam doesn't notice them escaping below. We don't see the 911 call, only the result later.
 
-### Scene 15 - The Crawling Struggle
+### Scene 17 - The Crawling Struggle
 - Location: INT. REEVES HOUSE / EXT. REEVES PROPERTY - NIGHT
-- Characters: Liam, Sarah, Police, 12-year-old, 10-year-old
-- Summary: Liam catches Sarah. While torturing her, he accidentally activates one of her traps—now both are wounded, disabled. Brutal, crawling struggle. Liam kills her. Exhausted, he staggers toward escape—and finds police cars surrounding the property. The two younger children watch from a safe distance. Liam is arrested. The killer is caught not by survivalist ingenuity, but by a phone call.
+- Characters: Liam, Sarah, Police, Emma, Olivia
+- Summary: Liam catches Sarah. While torturing her, he accidentally activates one of her traps—now both are wounded, disabled. Brutal, crawling struggle. Liam kills her. Exhausted, he staggers toward escape—and finds police cars surrounding the property. Emma and Olivia watch from a safe distance. Liam is arrested. The killer is caught not by survivalist ingenuity, but by a phone call.
 
 ---
 
 ## Scene Count Summary
-- Act 1: 5 scenes
-- Act 2: 5 scenes
-- Act 3: 5 scenes
-- **Total: 15 scenes**
+- Act 1: 6 scenes (1-6)
+- Act 2: 5 scenes (7-11)
+- Act 3: 6 scenes (12-17)
+- **Total: 17 scenes**
 
 ## Estimated Runtime
 - Act 1: 20-25 minutes (setup, voiceover-driven, surveillance montage)

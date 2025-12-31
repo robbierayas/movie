@@ -1,0 +1,12 @@
+{
+  "HANK": { "voice": "voices/en_US-ryan-high.onnx", "model": "hank" },
+  "BOBBY": { "voice": "voices/en_US-joe-medium.onnx", "model": "bobby" },
+  "SARAH": { "voice": "voices/en_US-amy-medium.onnx", "model": "sarah" },
+  "ELI": { "voice": "voices/en_US-bryce-medium.onnx", "model": "eli" },
+  "EMMA": { "voice": "voices/en_US-kathleen-low.onnx", "model": "emma" },
+  "OLIVIA": { "voice": "voices/en_US-ljspeech-medium.onnx", "model": "olivia" },
+  "LIAM": { "voice": "voices/en_GB-alan-medium.onnx", "model": "liam" },
+  "NARRATOR": { "voice": "voices/en_US-libritts-high.onnx", "model": null },
+  "ACTION": { "voice": "voices/en_US-lessac-medium.onnx", "model": null },
+  "_default": { "voice": "voices/en_US-lessac-medium.onnx", "model": null }
+}

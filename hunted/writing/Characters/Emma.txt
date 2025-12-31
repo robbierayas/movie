@@ -8,7 +8,7 @@
 - **Hunting**: Has own hunting award - equally capable as rest of family
 
 ## ARCHETYPE
-[Primary ensemble role - to be determined after screenplay is written]
+**The Pragmatist** - Makes the sensible choice when everyone else is consumed by revenge. Saves herself and Olivia by calling 911.
 
 ## CHARACTER FUNCTION
 The practical one. Makes the sensible choice that saves both herself and Olivia. Represents the story's ironic theme: the unglamorous option (calling 911) succeeds where survivalist ingenuity fails.
@@ -31,10 +31,23 @@ The practical one. Makes the sensible choice that saves both herself and Olivia.
 - Liam: fear rather than revenge
 
 ## CHARACTER ARC
-[Character's journey through the story - to be expanded after scenes are written]
+- **Beginning State (Act 1)**: Normal 12-year-old. Sibling rivalry with Olivia, ketchup diplomacy with Eli. Training is just routine.
+- **Inciting Incident**: Witnesses father's murder, screams for him.
+- **Escalation (Act 2)**: Participates in preparation but grows scared. Whispers with Olivia about leaving. Sees the obsession consuming her mother and brother.
+- **Crisis Point (Act 3)**: Witnesses Eli's death. Realizes revenge cost her brother. When told to "finish" Liam, she makes a different choice.
+- **End State**: Grabs Olivia and escapes through the secret passage. Calls 911. Survives because she chose the unglamorous practical option over revenge.
 
 ## DIALOGUE STYLE
-[How this character speaks - to be expanded after scenes are written]
+- Normal kid banter in Act 1 ("Say please", "I didn't quit. I... graduated.")
+- Growing fear shows through hesitation ("Mom... this feels wrong.")
+- Whispered conspiracies with Olivia ("I want to go to Aunt Rachel's.")
+- Final decision is action, not words—grabs Olivia and goes
 
 ## KEY SCENES
-[To be filled in as scenes are written using Workflow 4]
+- **Act 1, Scene 4: Family Time** - Normal kid. Sibling rivalry ("Show-off", "I didn't quit. I... graduated."). Tries at self-defense training. Just enjoying family time before everything changes.
+- **Act 2, Scene 9: The Hostage** - Screams "DAD!" seeing Hank's body. Held back by Eli during hostage standoff.
+- **Act 2, Scene 11: Preparing the House** - Helps reluctantly. "Mom... this feels wrong." Growing fear as obsession consumes Sarah/Eli.
+- **Act 3, Scene 12: Parallel Preparation** - Whispers with Olivia: "I want to go to Aunt Rachel's." / "Me too." Putting on brave face.
+- **Act 3, Scene 13: The Return** - "There's something out there!" (drone). Huddles with Olivia, scared.
+- **Act 3, Scene 14: Eli's Death** - "Maybe we should just go." Realizes drone can't shoot through glass. Asks "Mom? Where's Eli?" Escapes through secret passage with Olivia.
+- **Act 3, Scene 17: The Crawling Struggle** - Watches from police car as Liam is shot. "Let's go." Chose the sensible option. Survived.

@@ -8,7 +8,7 @@ Python script that converts screenplay files to audio using [Piper TTS](https://
 
 ```bash
 # 1. Format your screenplay FIRST (IMPORTANT!)
-python production/audio/format_screenplay_dialogue.py "writing/acts/Act 1 - Explaining the New Cube/Scene X.txt"
+python production/audio/format_screenplay_dialogue.py "hunted/writing/acts/Act 1 - The Predator/Scene 1.txt"
 
 # 2. Install dependencies
 pip install -r production/audio/requirements.txt
@@ -16,11 +16,11 @@ pip install -r production/audio/requirements.txt
 # 3. Download voices
 python production/audio/download_voice.py
 
-# 4. Generate audio (auto-detects Act folders in writing/acts/)
-python production/audio/screenplay_to_tts.py
+# 4. Generate audio (specify the movie folder)
+python production/audio/screenplay_to_tts.py --movie hunted
 ```
 
-Done! Audio files will be in `production/audio/audio_output/` folder.
+Done! Audio files will be in `hunted/production/audio/audio_output/` folder.
 
 **IMPORTANT:** Always format your screenplay using `format_screenplay_dialogue.py` before generating TTS. See [SCREENPLAY_FORMATTING.md](../SCREENPLAY_FORMATTING.md) for details.
 
@@ -28,31 +28,34 @@ Done! Audio files will be in `production/audio/audio_output/` folder.
 
 **Run all commands from the project root directory.**
 
-**Simplest usage (process all Act folders):**
+**Simplest usage (specify movie folder, processes all Act folders):**
 ```bash
-python production/audio/screenplay_to_tts.py
+python production/audio/screenplay_to_tts.py --movie hunted
+python production/audio/screenplay_to_tts.py --movie cuberoot
+python production/audio/screenplay_to_tts.py --movie amazingtrash
 ```
 
 **Process specific Act folder:**
 ```bash
-python production/audio/screenplay_to_tts.py "Act 1 - Explaining the New Cube"
+python production/audio/screenplay_to_tts.py --movie hunted "Act 1 - The Predator"
 ```
 
 **Process single file:**
 ```bash
-python production/audio/screenplay_to_tts.py "writing/acts/Act 1 - Explaining the New Cube/Scene 1.txt"
+python production/audio/screenplay_to_tts.py "hunted/writing/acts/Act 1 - The Predator/Scene 1.txt"
 ```
+(Movie folder is auto-detected from the path when processing specific files)
 
 ## Output
 
 The script creates separate WAV files for each dialogue line:
 
 ```
-production/audio/audio_output/
-├── Scene 1 - Food Team Introduction/
-│   ├── 0001_ALEX.wav
-│   ├── 0002_MORRIS.wav
-│   ├── 0003_ALEX.wav
+hunted/production/audio/audio_output/
+├── Scene 1 - The Humiliation/
+│   ├── 0001_ELI.wav
+│   ├── 0002_EMMA.wav
+│   ├── 0003_ELI.wav
 │   └── ...
 └── ...
 ```
@@ -61,13 +64,13 @@ production/audio/audio_output/
 
 ## Character Voice Mapping
 
-Edit `character_voices.json` to assign voices to characters:
+Edit `character_voices.json` in your movie's production/audio folder to assign voices to characters:
 
 ```json
 {
-  "ALEX": "voices/en_US-amy-medium.onnx",
-  "MARCUS": "voices/en_US-ryan-high.onnx",
-  "LEA": "voices/en_US-lessac-medium.onnx",
+  "ELI": "voices/en_US-ryan-high.onnx",
+  "EMMA": "voices/en_US-amy-medium.onnx",
+  "HANK": "voices/en_US-joe-medium.onnx",
   "ACTION": "voices/en_US-lessac-medium.onnx",
   "_default": "voices/en_US-lessac-medium.onnx"
 }
@@ -81,7 +84,8 @@ Available voices: amy, kathleen, kristin (female); ryan, danny, joe, john, bryce
 - ✅ **Screenplay Parsing**: Handles standard screenplay format
 - ✅ **Character Voices**: Different voices per character
 - ✅ **Batch Processing**: Process entire Act folders at once
-- ✅ **Auto-detection**: Finds `character_voices.json` automatically
+- ✅ **Multi-Movie Support**: Works with any movie folder (hunted, cuberoot, amazingtrash)
+- ✅ **Auto-detection**: Finds `character_voices.json` automatically from movie folder
 
 ## Prerequisites
 
@@ -91,7 +95,7 @@ The TTS script requires properly formatted screenplay files. See [SCREENPLAY_FOR
 
 **Quick formatting (run from project root):**
 ```bash
-python production/audio/format_screenplay_dialogue.py "writing/acts/Act 1 - Explaining the New Cube/Scene X.txt"
+python production/audio/format_screenplay_dialogue.py "hunted/writing/acts/Act 1 - The Predator/Scene 1.txt"
 ```
 
 This converts parentheticals to action lines and ensures proper indentation for character names and dialogue.
@@ -124,48 +128,49 @@ pip install -r production/audio/requirements.txt
 
 ## Character Voice Configuration
 
-Edit `character_voices.json` to map characters to voice models:
+Create/edit `character_voices.json` in your movie's `production/audio/` folder:
 
+**Example for hunted (hunted/production/audio/character_voices.json):**
 ```json
 {
-  "ALEX": "voices/en_US-amy-medium.onnx",
-  "MARCUS": "voices/en_US-ryan-high.onnx",
-  "LEA": "voices/en_US-lessac-medium.onnx",
-  "NARRATOR": "voices/en_US-lessac-medium.onnx",
+  "ELI": "voices/en_US-ryan-high.onnx",
+  "EMMA": "voices/en_US-amy-medium.onnx",
+  "HANK": "voices/en_US-joe-medium.onnx",
+  "SARAH": "voices/en_US-kristin-medium.onnx",
+  "ACTION": "voices/en_US-lessac-medium.onnx",
   "_default": "voices/en_US-lessac-medium.onnx"
 }
 ```
 
 - Each character name maps to a voice model path
 - `_default` is used for any character not in the mapping
-- Download multiple voices using `python download_voice.py`
+- Download multiple voices using: `python production/audio/download_voice.py`
 
-## Usage
+## Usage Examples
 
-### Simplest Usage (Run from project root):
+### Basic Usage (specify movie):
 ```bash
-python production/audio/screenplay_to_tts.py
+python production/audio/screenplay_to_tts.py --movie hunted
 ```
 
 That's it! The script will:
-- Auto-detect `character_voices.json` from production/audio/ for voice mapping
-- Find all "Act 1", "Act 2", "Act 3" folders in writing/acts/
+- Use voice config from `hunted/production/audio/character_voices.json`
+- Find all "Act 1", "Act 2", "Act 3" folders in `hunted/writing/acts/`
 - Process all `.txt` files in those folders
 - Create separate audio files for each dialogue line
-- Use different voices for each character
+- Output to `hunted/production/audio/audio_output/`
 
 ### Output:
-Running the command creates `audio_output/` folder with subfolders for each screenplay:
+Running the command creates `audio_output/` folder in the movie's production/audio directory:
 ```
-audio_output/
-├── Scene 1 - Food Team Introduction/
-│   ├── 0001_ALEX.wav
-│   ├── 0002_MORRIS.wav
-│   ├── 0003_ALEX.wav
+hunted/production/audio/audio_output/
+├── Scene 1 - The Humiliation/
+│   ├── 0001_ELI.wav
+│   ├── 0002_EMMA.wav
 │   └── ...
-├── Scene 2 - Marcus and Edgar Pre-Meeting/
-│   ├── 0001_MARCUS.wav
-│   ├── 0002_EDGAR.wav
+├── Scene 2 - Bar Revenge/
+│   ├── 0001_ELI.wav
+│   ├── 0002_HANK.wav
 │   └── ...
 └── ...
 ```
@@ -174,52 +179,47 @@ audio_output/
 
 **Process specific Act folder:**
 ```bash
-python production/audio/screenplay_to_tts.py "Act 1 - Explaining the New Cube"
+python production/audio/screenplay_to_tts.py --movie hunted "Act 1 - The Predator"
 ```
 
 **Combined file with multiple voices:**
 ```bash
-python production/audio/screenplay_to_tts.py --combine
+python production/audio/screenplay_to_tts.py --movie hunted --combine
 ```
 Creates ONE WAV file per screenplay with different voices per character (requires pydub)
 
 **Single voice mode (testing):**
 ```bash
-python production/audio/screenplay_to_tts.py --voice-model production/audio/voices/en_US-lessac-medium.onnx
+python production/audio/screenplay_to_tts.py --movie hunted --voice-model production/audio/voices/en_US-lessac-medium.onnx
 ```
 All characters use the same voice.
 
 **Custom output directory:**
 ```bash
-python production/audio/screenplay_to_tts.py --output-dir my_audio
-```
-
-**Remove narrator prefix (just dialogue, no "CHARACTER says:"):**
-```bash
-python production/audio/screenplay_to_tts.py --no-narrator-prefix
+python production/audio/screenplay_to_tts.py --movie hunted --output-dir my_audio
 ```
 
 **Use GPU acceleration (requires onnxruntime-gpu):**
 ```bash
-python production/audio/screenplay_to_tts.py --cuda
+python production/audio/screenplay_to_tts.py --movie hunted --cuda
 ```
 
 ## Options
 
-- `input_path`: Screenplay file or folder (default: current directory, searches for Act folders)
-- `--voice-config`: Path to JSON config mapping characters to voices (default: auto-detect `character_voices.json`)
+- `input_path`: Screenplay file or folder (default: movie's writing/acts/)
+- `--movie`: Movie folder name (e.g., 'hunted', 'cuberoot', 'amazingtrash'). Required unless detectable from input path.
+- `--voice-config`: Path to JSON config mapping characters to voices (default: auto-detect from movie folder)
 - `--voice-model`: Path to Piper .onnx voice model (single voice mode)
-- `--output-dir`: Output directory for audio files (default: `./audio_output`)
+- `--output-dir`: Output directory for audio files (default: movie's production/audio/audio_output)
 - `--mode`: Output mode - `separate` (default, one WAV per line) or `single` (one WAV per file)
 - `--combine`: Combine into one file with multiple voices (requires pydub)
-- `--no-narrator-prefix`: Don't prefix dialogue with speaker name
+- `--narrator-prefix`: Prefix dialogue with speaker name
 - `--cuda`: Use CUDA for GPU acceleration
 
 **Defaults:**
-- Input: Current directory (searches for "Act 1", "Act 2", "Act 3" folders)
-- Voice config: Auto-detects `character_voices.json` if present
+- Input: Movie's writing/acts/ directory (searches for "Act 1", "Act 2", "Act 3" folders)
+- Voice config: Auto-detects from movie folder's production/audio/character_voices.json
 - Mode: `separate` (individual files per dialogue line)
-- Uses multiple voices if `character_voices.json` is found
 
 ## Output
 
@@ -244,25 +244,24 @@ The parser recognizes:
 
 ## Examples
 
-**Process all acts with default settings:**
+**Process all acts for a movie:**
 ```bash
-python production/audio/screenplay_to_tts.py
+python production/audio/screenplay_to_tts.py --movie hunted
 ```
-Processes all "Act 1", "Act 2", "Act 3" folders with character voices
 
 **Process only Act 1:**
 ```bash
-python production/audio/screenplay_to_tts.py "Act 1 - Explaining the New Cube"
+python production/audio/screenplay_to_tts.py --movie hunted "Act 1 - The Predator"
 ```
 
 **Combine into single files with multiple voices:**
 ```bash
-python production/audio/screenplay_to_tts.py --combine
+python production/audio/screenplay_to_tts.py --movie cuberoot --combine
 ```
 
 **Custom output directory:**
 ```bash
-python production/audio/screenplay_to_tts.py --output-dir my_screenplay_audio
+python production/audio/screenplay_to_tts.py --movie amazingtrash --output-dir my_screenplay_audio
 ```
 
 ## Troubleshooting
@@ -272,22 +271,26 @@ python production/audio/screenplay_to_tts.py --output-dir my_screenplay_audio
 
 **"pydub not installed" (when using --combine)**
 - Run: `pip install pydub`
-- Or install all dependencies: `pip install -r requirements.txt`
+- Or install all dependencies: `pip install -r production/audio/requirements.txt`
 
 **"Voice model not found"**
 - Ensure both `.onnx` and `.onnx.json` files are present
 - Use absolute or correct relative path to voice model
-- Download voices using: `python download_voice.py`
+- Download voices using: `python production/audio/download_voice.py`
 
 **"No dialogue found"**
 - Check screenplay file format
 - Ensure character names are in ALL CAPS
 - Ensure dialogue follows proper formatting
 
+**"Could not detect movie folder"**
+- Use the `--movie` parameter: `--movie hunted`
+- Or provide full path to screenplay file
+
 ## Advanced Tips
 
 **Adjusting pause duration in combined files:**
-Edit line 242 in `screenplay_to_tts.py`:
+Edit line 363 in `screenplay_to_tts.py`:
 ```python
 combined_audio += AudioSegment.silent(duration=500)  # Change 500 to adjust milliseconds
 ```

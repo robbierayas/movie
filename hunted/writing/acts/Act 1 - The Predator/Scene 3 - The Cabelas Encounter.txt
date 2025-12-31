@@ -4,7 +4,7 @@
 INT. CABELA'S - DAY
 
 ## CHARACTERS
-Liam, Hank
+Liam, Hank, Bobby
 
 ## SCENE LAYOUT
 
@@ -13,15 +13,21 @@ Liam enters Cabela's, voiceover still running. He's looking for something specif
 
 ### Key Beats
 1. Liam observes customers, dismissing them as unworthy. Voiceover explains different things wrong with them.
-2. He spots Hank—a man clearly in his element among survival gear- and his friend. Friend also resembles REGULAR CUSTOMER but more redneck, so Liam gravitates to choosing him. Voiceover begins sizing him up. Hank walks through talking loudly with his friend as they browse.
-3. Hank is knowledgeable, confident, comfortable with the equipment. The friend points out a gun saying "pray and spray". Hank says yeah that's nice but not for me. Friend says oh yeah karate man. Hank laughs and says guns are fine but knives are better close up. Seeing Liam by the knives, he says "like my man over there"
-4. Voiceover: "This is the one. I've been too overconfident to now. I can't risk a bullet to the face first thing. First the knife man then the gun man."
+2. He spots Hank—a man clearly in his element among survival gear- and his friend. Friend also resembles REGULAR CUSTOMER
+but more redneck, so Liam gravitates to choosing him. Voiceover begins sizing him up. Hank walks through talking loudly
+with his friend as they browse.
+3. Hank is knowledgeable, confident, comfortable with the equipment. The friend points out a gun saying "pray and spray".
+Hank says yeah that's nice but not for me. Friend says oh yeah karate man. Hank laughs and says guns are fine but knives
+are better close up. Seeing Liam by the knives, he says "like my man over there"
+4. Voiceover: "This is the one. I've been too overconfident to now. I can't risk a bullet to the face first thing. First
+the knife man then the gun man."
 5. Liam follows Hank to the parking lot
 6. Gets Hank's license plate, begins tracking him home
 
 ### Character Moments
 - **Liam**: Predator selecting prey. Clinical, excited, certain.
-- **Hank**: Unaware he's being watched. His competence is on display—the very thing that makes him a target.
+- **Hank**: Unaware he's being watched. His competence and warmth are on display—the very thing that makes him a target.
+- **Bobby**: Crass and unfiltered with his friend, enthusiastic about guns, provides contrast to Hank's knife expertise.
 
 ### Closing
 Liam follows at a distance as Hank drives toward the Reeves property.
@@ -32,7 +38,8 @@ Liam follows at a distance as Hank drives toward the Reeves property.
 
 INT. CABELA'S - DAY
 
-The massive outdoor retailer sprawls before us. Taxidermied animals mounted on walls. Rows of camping gear, fishing equipment, firearms behind glass. A hunter's paradise.
+The massive outdoor retailer sprawls before us. Taxidermied animals mounted on walls. Rows of camping gear, fishing
+equipment, firearms behind glass. A hunter's paradise.
 
 LIAM enters, hands in pockets. He looks like every other weekend warrior browsing—unremarkable. Invisible.
 
@@ -56,148 +63,319 @@ All the gear, none of the skill. Probably never left the suburbs.
 
 Liam pauses near the knife display, pretending to examine a hunting blade. His eyes continue scanning.
 
-LOUD LAUGHTER from across the store. Two men enter the camping section—HANK REEVES (early 40s, built like he actually uses his muscles) and his FRIEND BOBBY (similar age, softer, resembles the Regular Customer but more rural).
+LOUD LAUGHTER booms from across the store—the kind of laugh that makes strangers smile. Two men round the corner into the
+camping section.
+
+HANK REEVES (early 40s) has the build of a thinner, younger John Goodman—big frame, presence that fills the aisle. His
+FRIEND BOBBY trails behind him—soft around the middle, patchy beard, camo jacket even though they're indoors.
 
 LIAM (V.O.)
 Now that's interesting.
 
-Hank moves through the store like he owns it. Not arrogant—comfortable. He knows where everything is. Bobby trails behind, picking things up and putting them down randomly.
+Hank moves through the store like he owns it. Not arrogant—comfortable. He knows where everything is.
 
-Liam drifts closer, keeping displays between them.
+                    HANK
+          —and she's standing there, covered in mud, holding this tiny fish like it's a trophy marlin.
 
-BOBBY
-You see the game last night?
+Bobby, cackling.
 
-HANK
-Didn't catch it. Had the girls helping me reinforce the chicken coop.
+                    BOBBY
+          No shit?
 
-BOBBY
-Man, you got those kids doing everything. Next you'll have 'em digging a bunker.
+                    HANK
+          Hand to God. Olivia goes, "Daddy, I caught dinner." Thing was maybe four inches.
 
-HANK
-(laughs)
-Already got one.
+                    BOBBY
+          Please tell me you ate it.
 
-Bobby stops at a display of emergency rations.
+                    HANK
+          Hell yes we ate it. Breaded it, fried it up. She was so damn proud. Sarah had to cut it in pieces so everyone
+          could have a bite.
 
-BOBBY
-Hey, how long do these things last?
+Bobby shakes his head, grinning. Liam drifts closer, keeping displays between them.
 
-HANK
-Those? Twenty-five years if you store 'em right. Temperature controlled, low humidity. I got a rotation system—first in, first out.
+                    BOBBY
+          Man, your kids are something else. Mine just stare at their phones.
 
-He picks up a package, examines the seal.
+                    HANK
+          You gotta get 'em outside, Bobby. Drag 'em if you have to.
 
-HANK
-This brand's decent. Not the best sodium content but the calorie density is solid.
+                    BOBBY
+          Yeah, yeah. Hey, you see the game last night?
+
+                    HANK
+          Didn't catch it. Had the girls helping me reinforce the chicken coop. That fox has been circling again.
+
+                    BOBBY
+          You and that damn fox. Just shoot it already.
+
+                    HANK
+          Where's the sport in that? Besides, I want the kids to figure out the problem. Eli rigged up a motion sensor
+          last week. Thing goes off, lights up the whole yard.
+
+Bobby laughs.
+
+                    BOBBY
+          Next you'll have 'em digging trenches.
+
+                    HANK
+          Already got a bunker.
+
+Bobby stops walking.
+
+                    BOBBY
+          Wait, for real?
+
+Hank, winking.
+
+                    HANK
+          Storm shelter. Tornado country, Bobby. You know that.
+
+                    BOBBY
+          Uh huh. "Storm shelter."
+
+Bobby stops at a display of emergency rations, picks one up.
+
+                    BOBBY
+          How long do these things last anyway?
+
+                    HANK
+          Those? Twenty-five years if you store 'em right. Temperature controlled, low humidity.
+
+He takes the package from Bobby, examines the seal with practiced eyes.
+
+                    HANK
+          This brand's decent. Not the best sodium content, but the calorie density is solid. I got a rotation system at
+          home—first in, first out. Never eat anything older than ten years.
+
+                    BOBBY
+          Jesus, Hank. You expecting the apocalypse?
+
+                    HANK
+          I'm expecting nothing. That's the whole point.
+
+He sets the package back, straightens the display without thinking about it.
+
+                    HANK
+          My grandfather told me something once. "The time to fix the roof is when the sun is shining."
+
+                    BOBBY
+          That's some fortune cookie shit right there.
+
+Hank laughs.
+
+                    HANK
+          JFK said it, asshole.
 
 LIAM (V.O.)
 Listen to him. He's not guessing. He knows.
 
-Bobby shrugs, puts it back. They move toward the firearms section. Liam follows at a distance, pausing to examine a camping stove.
+They move toward the firearms section. Liam follows at a distance, pausing to examine a camping stove.
 
-The FIREARMS COUNTER stretches across the back wall. Rifles, shotguns, handguns gleaming under fluorescent lights. Bobby's eyes go wide like a kid at Christmas.
+The FIREARMS COUNTER stretches across the back wall. Rifles, shotguns, handguns gleaming under fluorescent lights.
+Bobby's eyes go wide.
 
-BOBBY
-Oh hell yes.
+                    BOBBY
+          Oh hell yes. Now we're talking.
 
-He points at a tactical shotgun with an extended magazine.
+He practically jogs to the display, pointing at a tactical shotgun with an extended magazine.
 
-BOBBY
-Now that's what I'm talking about. Pray and spray, baby.
+                    BOBBY
+          Look at this beautiful bastard. Pray and spray, baby. Pray and spray.
 
-HANK
-Yeah, that's nice.
+                    HANK
+          That's nice.
 
-BOBBY
-You should get one.
+                    BOBBY
+          Nice? This thing could stop a bear.
 
-HANK
-Not really my style.
+                    HANK
+          So could a .45. So could a crossbow. So could a sharpened stick if you know where to put it.
 
-BOBBY
-(grinning)
-Oh right, right. Mister Karate Man over here.
+                    BOBBY
+          Here we go.
 
-Hank chuckles, shakes his head.
+                    HANK
+          I'm just saying—
 
-HANK
-Guns are fine. Don't get me wrong. But close quarters? Knife's better.
+Bobby, mock announcer voice.
 
-BOBBY
-The hell it is.
+                    BOBBY
+          Ladies and gentlemen, Mister Karate Man is about to tell us why his bare hands are better than firearms.
 
-HANK
-Knife doesn't jam. Doesn't run out of ammo. Doesn't make noise that brings more trouble. And in tight spaces—
+Hank laughs, that booming sound again.
 
-He makes a quick, efficient gesture.
+                    HANK
+          Not my bare hands. Knives.
 
-HANK
-—you can't miss.
+                    BOBBY
+          The hell is the difference?
 
-Bobby rolls his eyes good-naturedly. Hank glances toward the knife display—and spots Liam examining blades nearby.
+                    HANK
+          About eight inches of steel.
 
-HANK
-(nodding toward Liam)
-Like my man over there. He gets it.
+He moves toward the knife display. Bobby follows, still glancing back at the shotgun longingly.
 
-Liam looks up. Their eyes meet. He gives a small, awkward nod—playing the part of the shy customer caught eavesdropping.
+                    HANK
+          Look, guns are fine. I got three at home. But close quarters? Home invasion? Knife's better.
 
-LIAM
-Sorry, couldn't help overhearing. You military?
+                    BOBBY
+          Bullshit.
 
-HANK
-Nah. Just practical. You?
+                    HANK
+          Knife doesn't jam.
 
-LIAM
-Just... learning.
+                    BOBBY
+          Neither does a Glock.
 
-Hank nods approvingly.
+                    HANK
+          Knife doesn't run out of ammo.
 
-HANK
-Best time to learn is before you need it.
+                    BOBBY
+          That's what extended mags are for.
 
-He claps Bobby on the shoulder.
+                    HANK
+          Knife doesn't make noise that tells everyone in a mile radius where you are and that you're fighting for your
+          life.
 
-HANK
-Come on, I gotta grab some paracord before Sarah calls wondering where I am.
+Bobby opens his mouth. Closes it.
+
+                    HANK
+          And in tight spaces—hallway, doorway, around a corner—
+
+He makes a quick, efficient gesture with his hand.
+
+                    HANK
+          —you can't miss. Gun, you gotta aim. Knife, you just move.
+
+                    BOBBY
+          Alright, alright. I still say you're crazy.
+
+Hank picks up a hunting knife, tests the balance.
+
+                    HANK
+          Sarah thought so too. Then I taught her. Now she's better than me with a blade.
+
+                    BOBBY
+          No way.
+
+                    HANK
+          Way. Faster hands. Lower center of gravity. She'd gut you before you knew she was there.
+
+Bobby laughs nervously.
+
+                    BOBBY
+          Remind me to never piss off your wife.
+
+Hank spots Liam examining knives nearby. Their eyes meet.
+
+Hank nods.
+
+                    HANK
+          Hey, my man over there gets it. Look at him—he's not just browsing. He's testing the weight, checking the edge.
+          That's someone who takes it serious.
+
+Liam looks up, gives a small awkward nod—playing the shy customer caught eavesdropping.
+
+                    LIAM
+          Sorry, couldn't help overhearing. You military?
+
+                    HANK
+          Nah. Just practical. You?
+
+                    LIAM
+          Just... learning.
+
+Hank nods approvingly, that warm presence radiating out.
+
+                    HANK
+          Best time to learn is before you need it. Most people think they'll figure it out when something happens. They
+          won't. The time to prepare—
+
+Bobby, muttering.
+
+                    BOBBY
+          —is when the sun is shining.
+
+Hank, grinning.
+
+                    HANK
+          He's learning.
+
+He claps Bobby on the shoulder hard enough to stagger him.
+
+                    HANK
+          Come on, I gotta grab some paracord before Sarah calls wondering where I am.
+
+                    BOBBY
+          You're so whipped.
+
+                    HANK
+          Happily, brother. Happily.
 
 They head toward another aisle. Liam watches them go.
 
 LIAM (V.O.)
-This is the one. He's not pretending. He's actually dangerous.
+This is the one. He's not pretending. He actually knows what he's doing.
 
 Liam sets down the knife he was holding.
 
 LIAM (V.O.)
-But I've been overconfident before. Can't risk a bullet to the face first thing.
+The friend... gun guy. Spray and pray. That means panicking and hoping. The knife man though...
 
-His eyes track Bobby, then return to Hank.
-
-LIAM (V.O.)
-The gun man's too scared. Spray and pray means hide and live. But the knife man...
-
-Hank picks up a bundle of paracord, tests its strength with a sharp tug.
+Hank picks up a bundle of paracord, tests its strength with a sharp tug. Even from across the store, the confidence in
+his hands is obvious.
 
 LIAM (V.O.)
-First him. Then if his friend's around, him too.
+He's the one I want.
 
 EXT. CABELA'S PARKING LOT - DAY
 
 Hank and Bobby exit, bags in hand. They walk toward a WEATHERED PICKUP TRUCK—practical, well-maintained, not flashy.
 
-Liam exits thirty seconds later. Hangs back near a row of cars.
+Bobby pulls out a cigarette, lights it.
 
-Hank tosses his bags in the truck bed. Says something to Bobby that makes him laugh. They do that handshake-to-hug thing men do.
+                    BOBBY
+          Same time next week?
 
-Bobby heads toward a different vehicle—a newer SUV.
+                    HANK
+          You know it. Bring Tyler this time. Get that kid out of the house.
+
+                    BOBBY
+          Yeah, I'll try. He's got that whole gamer thing going on.
+
+                    HANK
+          So did Eli. Now he can field dress a deer in under ten minutes.
+
+Bobby takes a long drag, exhales.
+
+                    BOBBY
+          I don't know how you do it, man. The whole... family thing. You make it look easy.
+
+Hank pauses, looks at his friend.
+
+                    HANK
+          It's not easy. It's just worth it.
+
+They do that handshake-to-hug thing men do.
+
+                    BOBBY
+          See you, brother.
+
+                    HANK
+          Drive safe.
+
+Bobby heads toward a newer SUV. Hank tosses his bags in the truck bed.
+
+Thirty feet away, Liam exits the store. Hangs back near a row of cars. Watching.
 
 LIAM (V.O.)
-Separate cars. Interesting.
+Separate cars. He lives alone out there. Interesting.
 
 Hank climbs into the pickup. Engine turns over.
 
-Liam walks casually to his own car—a bland sedan, forgettable. He pulls out his phone, pretends to check something while watching Hank's truck pull out of the space.
+Liam walks casually to his own car—a bland sedan, forgettable. He pulls out his phone, pretends to check something while
+watching Hank's truck pull out of the space.
 
 The license plate is clearly visible.
 
@@ -212,29 +390,18 @@ Hank's truck drives down a two-lane highway, farmland stretching on either side.
 
 Half a mile back, Liam's sedan follows. Patient. Unhurried.
 
-LIAM (V.O.)
-Everyone thinks predators are fast. Chase down their prey. But the best predators? They're patient. They watch. They learn.
-
 The truck turns off onto a smaller road. A sign reads: PRIVATE PROPERTY - REEVES.
 
 Liam slows. Doesn't follow. Instead, he pulls over to the shoulder.
 
 Through the trees, he catches glimpses of the truck heading up a long driveway toward a distant house.
 
-LIAM (V.O.)
-They wait until they know everything about their prey. Every habit. Every weakness.
-
 He pulls out his phone. Takes a photo of the road sign.
 
 LIAM (V.O.)
-Every strength.
+The knife man lives out here. Isolated. Property. Family.
 
 He puts the car in gear and drives past the driveway, continuing down the main road.
-
-LIAM (V.O.)
-The knife man lives out here. Isolated. Thinks he's safe.
-
-A small smile crosses his face.
 
 LIAM (V.O.)
 Perfect.

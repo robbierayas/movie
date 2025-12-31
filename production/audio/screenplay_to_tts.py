@@ -96,8 +96,11 @@ class ScreenplayParser:
 
             # Check for character name
             # Character headers have NO punctuation (commas, periods) - those are action lines
+            # Exception: (V.O.) and (O.S.) are valid character annotations
             char_match = self.CHARACTER_PATTERN.match(stripped)
-            if char_match and ',' not in stripped and '.' not in stripped:
+            # Remove V.O./O.S. annotations before checking for punctuation
+            stripped_for_punct_check = re.sub(r'\s*\((V\.O\.|O\.S\.)\)\s*$', '', stripped)
+            if char_match and ',' not in stripped_for_punct_check and '.' not in stripped_for_punct_check:
                 # Flush any pending dialogue before switching speakers
                 if not line_by_line:
                     flush_pending_dialogue()
@@ -216,11 +219,33 @@ class PiperTTSConverter:
 
         # Resolve voice paths relative to config file's directory
         config_dir = Path(config_path).parent
+        # Shared voices directory at production/audio/voices/
+        script_dir = Path(__file__).parent
+        shared_voices_dir = script_dir / "voices"
+
         self.character_voice_map = {}
-        for char, voice_path in raw_map.items():
-            # If path is relative, make it relative to config file's directory
-            if not Path(voice_path).is_absolute():
-                resolved_path = str(config_dir / voice_path)
+        for char, value in raw_map.items():
+            # Handle both formats: plain string or dict with "voice" key
+            if isinstance(value, dict):
+                voice_path = value.get("voice", "")
+            else:
+                voice_path = value
+
+            # If path is relative, try config dir first, then shared voices dir
+            if voice_path and not Path(voice_path).is_absolute():
+                local_path = config_dir / voice_path
+                if local_path.exists():
+                    resolved_path = str(local_path)
+                else:
+                    # Try shared voices directory (production/audio/voices/)
+                    # voice_path is like "voices/en_US-ryan-high.onnx", extract just the filename
+                    voice_filename = Path(voice_path).name
+                    shared_path = shared_voices_dir / voice_filename
+                    if shared_path.exists():
+                        resolved_path = str(shared_path)
+                    else:
+                        # Fallback to original relative path for error reporting
+                        resolved_path = str(local_path)
             else:
                 resolved_path = voice_path
             self.character_voice_map[char] = resolved_path
@@ -457,6 +482,10 @@ def main():
         action="store_true",
         help="Keep line breaks in dialogue blocks (old behavior). Default: combine dialogue lines into continuous blocks"
     )
+    parser.add_argument(
+        "--movie",
+        help="Movie folder name (e.g., 'cuberoot', 'amazingtrash', 'hunted'). Required unless detectable from input path."
+    )
 
     args = parser.parse_args()
 
@@ -464,13 +493,17 @@ def main():
     input_path_str = str(Path(args.input_path).resolve())
     project_root = Path(__file__).parent.parent.parent  # Go up to untitled/
 
-    movie_folder = None
-    if "amazingtrash" in input_path_str:
-        movie_folder = "amazingtrash"
-    elif "cuberoot" in input_path_str:
-        movie_folder = "cuberoot"
+    # Use explicit --movie parameter if provided, otherwise try auto-detection
+    movie_folder = args.movie
+    if not movie_folder:
+        if "amazingtrash" in input_path_str:
+            movie_folder = "amazingtrash"
+        elif "cuberoot" in input_path_str:
+            movie_folder = "cuberoot"
+        elif "hunted" in input_path_str:
+            movie_folder = "hunted"
 
-    # Set default output directory and voice config based on detected movie folder
+    # Set default output directory and voice config based on movie folder
     if movie_folder:
         movie_audio = project_root / movie_folder / "production" / "audio"
 
@@ -485,33 +518,45 @@ def main():
             else:
                 parser.error(f"{movie_folder} voice config not found: {movie_config}")
     else:
-        # Could not detect movie folder - require explicit config
-        parser.error("Could not detect movie folder (amazingtrash or cuberoot) from input path. Please specify --voice-config and --output-dir")
+        # Could not detect movie folder - require explicit --movie parameter
+        parser.error("Could not detect movie folder from input path. Please specify --movie (e.g., --movie hunted)")
 
     # Validate input path
     input_path = Path(args.input_path)
 
-    # If input_path is ".", look in writing/acts from project root
+    # If input_path is ".", look in movie_folder/writing/acts from project root
     if str(input_path) == ".":
-        # Find project root (where writing/ directory is)
-        # Try current directory first, then script's parent directories
-        current_dir = Path.cwd()
-        if (current_dir / "writing" / "acts").exists():
-            input_path = current_dir / "writing" / "acts"
+        # Use movie folder's writing/acts directory
+        if movie_folder:
+            input_path = project_root / movie_folder / "writing" / "acts"
         else:
-            # Fallback: assume script is in production/audio
-            input_path = Path(__file__).parent.parent.parent / "writing" / "acts"
+            # Fallback: try current directory
+            current_dir = Path.cwd()
+            if (current_dir / "writing" / "acts").exists():
+                input_path = current_dir / "writing" / "acts"
+            else:
+                input_path = project_root / "writing" / "acts"
 
     # If input_path doesn't exist, try prepending writing/acts/
     if not input_path.exists():
-        # Try relative to current directory
-        alt_path = Path.cwd() / "writing" / "acts" / input_path.name
-        if alt_path.exists():
-            input_path = alt_path
+        # Try movie folder's writing/acts first
+        if movie_folder:
+            movie_alt_path = project_root / movie_folder / "writing" / "acts" / input_path.name
+            if movie_alt_path.exists():
+                input_path = movie_alt_path
+            else:
+                print(f"Error: Path not found: {input_path}")
+                print(f"Also tried: {movie_alt_path}")
+                sys.exit(1)
         else:
-            print(f"Error: Path not found: {input_path}")
-            print(f"Also tried: {alt_path}")
-            sys.exit(1)
+            # Try relative to current directory
+            alt_path = Path.cwd() / "writing" / "acts" / input_path.name
+            if alt_path.exists():
+                input_path = alt_path
+            else:
+                print(f"Error: Path not found: {input_path}")
+                print(f"Also tried: {alt_path}")
+                sys.exit(1)
 
     # Files to exclude (not screenplay content)
     EXCLUDED_FILES = {

@@ -9,7 +9,7 @@
 - **Hunting**: Has own hunting award - equally capable as rest of family
 
 ## ARCHETYPE
-[Primary ensemble role - to be determined after screenplay is written]
+**The Zealot** - Shares mother's obsession with revenge. Where Emma chooses practicality, Eli chooses confrontation. Dies for it.
 
 ## CHARACTER FUNCTION
 Represents the tragic cost of shared obsession. Goes all-in on revenge with Sarah, dies for it. Their death reinforces the story's theme that revenge consumes as much as it protects.
@@ -31,11 +31,23 @@ Represents the tragic cost of shared obsession. Goes all-in on revenge with Sara
 - Liam: the target, dies confronting him
 
 ## CHARACTER ARC
-[Character's journey through the story - to be expanded after scenes are written]
+- **Beginning State (Act 1)**: Serious kid, takes training seriously. Trying to be cool while still being young. Pride in his skills.
+- **Inciting Incident**: Witnesses father's murder, sister held hostage. Frozen with horror but anger building.
+- **Escalation (Act 2)**: Goes all-in on mother's revenge mission. Helps track Liam, fights him at apartment, prepares traps. "Dad's dead." No hesitation.
+- **Crisis Point (Act 3)**: Traps Liam inside—"TWO MEN ENTER! ONE MAN LEAVES!" But can't wait for him to come to them.
+- **End State**: Dies confronting Liam. "I'm not Dad" proves tragically true—he wasn't ready. His death is the cost of shared obsession.
 
 ## DIALOGUE STYLE
-[How this character speaks - to be expanded after scenes are written]
+- Trying to sound mature/cool in Act 1 ("I've been practicing", sibling banter with Emma)
+- Becomes intense after father's death—direct, blunt ("Dad's dead.")
+- Movie references when escalated ("TWO MEN ENTER! ONE MAN LEAVES!")
+- Last words are for his mother: "Mom... run..."
 
 ## KEY SCENES
-- **Act 2, Scene 8: The Hostage** - Witnesses father's body, sister held hostage. Holds Emma back, frozen with horror.
-- **Act 2, Scene 9: Sarah's Investigation** - Helps Sarah track Liam. "What are you going to do?" At apartment, swings baton at Liam but gets knocked down by bookshelf. Fully committed to mother's revenge mission.
+- **Act 1, Scene 4: Family Time** - Takes self-defense training seriously. Shows off his disarm technique—"I've been practicing." Archery going well, might make varsity. Trying to look cool while still being a kid.
+- **Act 2, Scene 9: The Hostage** - Witnesses father's body, sister held hostage. Holds Emma back, frozen with horror.
+- **Act 2, Scene 10: Sarah's Investigation** - Helps Sarah track Liam. "What are you going to do?" At apartment, swings baton at Liam but gets knocked down by bookshelf. Fully committed to mother's revenge mission.
+- **Act 2, Scene 11: Preparing the House** - Sets up hotplate/oil trap, positions arrows. "Dad taught us to protect ourselves." / "Dad's dead." Shares Sarah's obsession.
+- **Act 3, Scene 12: Parallel Preparation** - Tests crossbow sight lines. "We're ready." Eager for confrontation.
+- **Act 3, Scene 13: The Return** - Fires crossbow at Liam. Releases hot oil trap. Shoots at Liam trying to escape: "TWO MEN ENTER! ONE MAN LEAVES!"
+- **Act 3, Scene 14: Eli's Death** - Refuses to wait. "I'm not Dad." Goes down to confront Liam, gets shotgun blast to shoulder. Last words: "Mom... run..." Killed by Liam: "Not even worth the effort." The cost of shared obsession.

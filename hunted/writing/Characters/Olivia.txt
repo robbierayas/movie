@@ -8,7 +8,7 @@
 - **Hunting**: Has own hunting award - equally capable as rest of family
 
 ## ARCHETYPE
-[Primary ensemble role - to be determined after screenplay is written]
+**The Innocent** - Youngest, follows Emma's lead, survives through trust in her sister.
 
 ## CHARACTER FUNCTION
 The youngest survivor. Follows Emma's lead to safety. Represents innocence preserved through practical choice rather than violence.
@@ -30,10 +30,23 @@ The youngest survivor. Follows Emma's lead to safety. Represents innocence prese
 - Liam: source of terror
 
 ## CHARACTER ARC
-[Character's journey through the story - to be expanded after scenes are written]
+- **Beginning State (Act 1)**: Happy 10-year-old. Daddy's girl. Reminds everyone about homeschool. Made the travel team. Just a kid.
+- **Inciting Incident**: Taken hostage by Liam. Terror.
+- **Escalation (Act 2)**: Follows Emma's lead, clearly scared. Hands shake wiring alarms.
+- **Crisis Point (Act 3)**: Small voice asking for Eli. Realizes the horror around her.
+- **End State**: Follows Emma through the secret passage. Survives because her sister made the practical choice. Innocence preserved.
 
 ## DIALOGUE STYLE
-[How this character speaks - to be expanded after scenes are written]
+- Enthusiastic kid in Act 1 ("Daddy!", "Wait! What about homeschool?", "I made the travel team!")
+- Corrects adults playfully ("Her name is Girly, Uncle Bobby!")
+- Becomes quiet and scared after trauma—questions, not statements ("What if he doesn't come back?", "What do we do?")
+- Small voice in the darkness ("Eli...?")
 
 ## KEY SCENES
-[To be filled in as scenes are written using Workflow 4]
+- **Act 1, Scene 4: Family Time** - Daddy's girl—sprints to greet Hank. Reminds everyone about homeschool. Giggles through training. Corrects Bobby about Girly's name. Made the travel team! Happy kid before everything changes.
+- **Act 2, Scene 9: The Hostage** - Runs to door first. "Dad! We're home!" Taken hostage by Liam. Terrified.
+- **Act 2, Scene 11: Preparing the House** - Follows Emma's lead, clearly scared. "What if he doesn't come back?"
+- **Act 3, Scene 12: Parallel Preparation** - Whispers with Emma about leaving. Hands shake wiring alarm. "I want to go to Aunt Rachel's."
+- **Act 3, Scene 13: The Return** - "What do we do?" (crying). Huddles with Emma.
+- **Act 3, Scene 14: Eli's Death** - "It can't shoot through the glass." (realizes drone weakness). Small voice: "Eli...?" Escapes through secret passage with Emma.
+- **Act 3, Scene 17: The Crawling Struggle** - Watches from police car. Safe because she followed Emma. Innocence preserved through practical choice.

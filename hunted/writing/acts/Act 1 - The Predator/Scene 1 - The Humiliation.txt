@@ -9,21 +9,32 @@ Liam, Regular Customer, Customer's Friends
 ## SCENE LAYOUT
 
 ### Opening
-Liam works his bartending shift, invisible to the customers around him. Voiceover begins—Liam explains how he has always been "unlucky."
+Liam works his bartending shift, invisible to the customers around him. Voiceover begins—Liam explains how he has always
+been "unlucky."
 
 ### Key Beats
-1. A friendly seeming customer sits at the bar as Liam brings him a drink. Hear customer say "This guy at work.." as voiceover takes over
-2. Voiceover says Liam is unlucky. Everytime things went good something took a shit on him. He got screwed out of the best school. Then the one he went to he got the worst professors. After that, as soon as he made a little money, his mom kicked him out.
+1. A friendly seeming customer sits at the bar as Liam brings him a drink. Hear customer say "This guy at work.." as
+voiceover takes over
+2. Voiceover says Liam is unlucky. Everytime things went good something took a shit on him. He got screwed out of the
+best school. Then the one he went to he got the worst professors. After that, as soon as he made a little money, his mom
+kicked him out.
 3. Customer says "Sometimes I wish I could.."
-4. Voiceover claims Liam IS lucky—lucky that he possesses "so much skill" to overcome the bad luck. When he got shut out, he put his mind to it and unlocked chasms that he didn't even know were there. Then HE had the skill to fill those with all the knowledge he needed
+4. Voiceover claims Liam IS lucky—lucky that he possesses "so much skill" to overcome the bad luck. When he got shut out,
+he put his mind to it and unlocked chasms that he didn't even know were there. Then HE had the skill to fill those with
+all the knowledge he needed
 5. Liam tells customer "You know what you could do.."
-6. Voiceover says Liam has gotten to a good point even with the bad luck. Customer seems to smile at what Liam says unheard. He's figured out how to make his way around without too much trouble. But if he wants to get anywhere he's going to have to press his luck again.
-7. Others walk in to join the customer—one an attractive woman. They begin to ask what they should order from Liam. Customer says maybe they should order from the other bartender then pretending to hide from Liam "..in case this guy puts something in the drink". All laugh leaving Liam alone
+6. Voiceover says Liam has gotten to a good point even with the bad luck. Customer seems to smile at what Liam says
+unheard. He's figured out how to make his way around without too much trouble. But if he wants to get anywhere he's going
+to have to press his luck again.
+7. Others walk in to join the customer—one an attractive woman. They begin to ask what they should order from Liam.
+Customer says maybe they should order from the other bartender then pretending to hide from Liam "..in case this guy puts
+something in the drink". All laugh leaving Liam alone
 8. Liam takes it as humiliation, his demeanor shifts
 9. Voiceover explains people who get all the luck don't realize they have no skill
 
 ### Character Moments
-- **Liam**: Internalizes the joke as a personal attack. We see the gap between his mundane exterior and his dangerous interior.
+- **Liam**: Internalizes the joke as a personal attack. We see the gap between his mundane exterior and his dangerous
+interior.
 - **Regular Customer**: Friendly, oblivious to the darkness he's awakened.
 
 ### Closing
@@ -35,80 +46,89 @@ The humiliation festers. The voiceover's tone shifts from self-pity to cold calc
 
 INT. BAR - NIGHT (FLASHBACK)
 
-A generic sports bar. TVs flicker. LIAM (29) wipes down the counter with mechanical precision. Customers talk around him, through him, never to him.
+A generic sports bar. TVs flicker. LIAM (29) wipes down the counter with mechanical precision. Customers talk around him,
+through him, never to him.
 
 LIAM (V.O.)
-I've always been unlucky.
+I'm the most skilled guy I know. I've just always been unlucky.
 
-A REGULAR CUSTOMER slides onto a stool. Liam places a beer in front of him without being asked. The customer doesn't acknowledge him, already mid-conversation with someone on his phone.
+A REGULAR CUSTOMER slides onto a stool. Unheard due to V.O., Liam gets the customer's order and makes the drink. Customer
+keeps talking to Liam.
 
-REGULAR CUSTOMER
-This guy at work, I swear to God—
-
-LIAM (V.O.)
-Every time things started going good, something took a shit on me. Got screwed out of the best school. The one I went to? Worst professors. Soon as I made a little money, my mom kicked me out.
-
-Liam moves to the register, organizing receipts. His movements are precise, invisible.
-
-The Regular Customer hangs up. Stares at his beer. Lost in thought.
-
-REGULAR CUSTOMER
-Sometimes I wish I could just...
-
-He trails off. Liam appears beside him.
-
-LIAM
-You know what you could do?
-
-The customer looks up—surprised Liam exists.
+                    REGULAR CUSTOMER
+          This guy at work, I swear to God—
 
 LIAM (V.O.)
-But I'm lucky too. Lucky I possess so much skill to overcome the bad luck. When I got shut out, I put my mind to it. Unlocked chasms I didn't even know were there. Then I had the skill to fill them with everything I needed.
+Every time things started going good, something took a shit on me. Got good grades in high school, just to get screwed
+out of the best school.
 
-The Regular Customer listens to whatever Liam says. Nods. Almost smiles.
+Liam finishes making the drink and brings it over. He sits back against back bar listening to customer continue.
+
+                    REGULAR CUSTOMER
+          Sometimes I wish I could just...
+
+Unheard due to V.O., customer continues gesturing beating up coworker, laughing with Liam.
 
 LIAM (V.O.)
-I've gotten to a good point. Figured out how to make my way around without too much trouble.
+The college I went to? They just tried to force me in a cookiecutter. Then I am back at home and, soon as I made a little
+money, my mom kicked me out.
 
-The bar door opens. THREE FRIENDS enter—two men and an ATTRACTIVE WOMAN. They spot the Regular Customer and descend on him with the easy confidence of people who've never been invisible.
+                    LIAM
+          You know what you could do?
+
+LIAM (V.O.)
+But I'm lucky too. Lucky I possess so much skill to overcome the bad luck. When I got shut out, I put my mind to it.
+Unlocked chasms I didn't even know were there. Then I had the skill to fill them with everything I needed.
+
+The Regular Customer looks interested and listens to whatever Liam says. Nods. Almost smiles, but looks uncomfortable
+now.
+
+LIAM (V.O.)
+Now, I've gotten to a good point. Figured out how to make my way around without too much trouble. And all my skill is
+actually paying off.
+
+The bar door opens. THREE FRIENDS enter—two men and an ATTRACTIVE WOMAN. They spot the Regular Customer and descend on
+him with the easy confidence of people who've never been invisible.
 
 FRIEND #1
 There he is!
 
-ATTRACTIVE WOMAN
-What are we drinking?
+                    ATTRACTIVE WOMAN
+          What are we drinking?
 
 They crowd the bar. The Regular Customer gestures toward Liam.
 
-REGULAR CUSTOMER
-Whatever you can handle, m'dear.
+                    REGULAR CUSTOMER
+          Whatever you can handle, m'dear.
 
 FRIEND #2
 What's good here?
 
 Liam opens his mouth to answer—
 
-REGULAR CUSTOMER
-(mock whisper, loud enough for everyone)
-Actually, maybe order from the other bartender...
+Regular customer, mock whisper, loud enough for everyone.
+
+                    REGULAR CUSTOMER
+          Actually, maybe order from the other bartender...
 
 He leans toward his friends conspiratorially.
 
-REGULAR CUSTOMER
-...in case this guy puts something in the drink.
+                    REGULAR CUSTOMER
+          ...in case this guy puts something in the drink.
 
-Laughter. The Attractive Woman covers her mouth. Friend #1 claps the Regular Customer on the shoulder. They migrate to the other end of the bar, still laughing.
-
-Liam stands frozen. The rag in his hand drips onto the counter.
+Laughter.
+Liam stands frozen. Unsure what to do. The Attractive Woman covers her mouth. Friend #1 claps the Regular Customer on the
+shoulder. They migrate to the other end of the bar, still laughing. Liam pretends to be looking the other direction and
+looking for his rag.
 
 LIAM (V.O.)
 (cold)
-People who get all the luck don't realize they have no skill.
+People who get all the luck don't realize they have no skill. So I need to show me.
 
-His eyes track the group. The Regular Customer is already telling another story, Liam forgotten completely.
+His eyes track the group in a mirror. The Regular Customer is already telling another story, Liam forgotten completely.
 
 LIAM (V.O.)
-But if I want to get anywhere... I'm going to have to press my luck again and use my skills.
+But if I want to get anywhere... get what I deserve... I'm going to have to press my luck again and use my skills.
 
 Liam's expression hasn't changed. But something behind his eyes has shifted. Calculated. Patient.
 

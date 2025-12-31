@@ -8,13 +8,15 @@
 - **Hunting**: Has his own hunting award - taught whole family to hunt
 
 ## ARCHETYPE
-[Primary ensemble role - to be determined after screenplay is written]
+**The Protector / The Mentor** - Family's center, teaches self-sufficiency and survival. His competence makes him both admirable and a target. His death drives the entire revenge plot.
 
 ## CHARACTER FUNCTION
 The catalyst. His murder drives the entire second and third acts. His prepper skills and teachings become the foundation for both his family's defense and his legacy.
 
 ## PHYSICAL DESCRIPTION
-[Physical appearance, distinctive features - to be determined from screenplay]
+- Build like a thinner, younger John Goodman - big frame but not overweight
+- Booming voice that carries across rooms
+- Presence that fills a space without trying
 
 ## PERSONALITY TRAITS
 - Prepper and homesteader at heart
@@ -28,15 +30,29 @@ The catalyst. His murder drives the entire second and third acts. His prepper sk
 ## RELATIONSHIPS
 - Sarah: wife, partner in prepper lifestyle
 - Children: teacher, protector
+- Bobby: longtime friend, hunting buddy - can be himself around him
 - Liam: unknowing target, fights back with everything
 
 ## CHARACTER ARC
-[Character's journey through the story - to be expanded after scenes are written]
+- **Beginning State (Act 1)**: Content family man, prepper by philosophy not paranoia. Confident in his skills, proud of his family. Living his best life.
+- **Inciting Incident**: Unknowingly marks himself as Liam's target through his displayed competence at Cabela's.
+- **Escalation (Act 2)**: Recognizes the threat immediately. Fights with everything he has—nearly wins multiple times despite being ambushed and wounded.
+- **Crisis Point**: Stabbed, dying, but his final words protect his family even in death: "My family. They're not part of this."
+- **End State**: Dies, but his legacy lives on. His teachings enable his family to fight back. His spirit haunts the final act through the skills he passed down. A Flat Arc: his beliefs were right, but the world still took him.
 
 ## DIALOGUE STYLE
-[How this character speaks - to be expanded after scenes are written]
+- Big personality - says likeable things without trying
+- Booming voice matches his presence
+- Natural storyteller - draws people in when he talks (Olivia's fish story)
+- Comfortable teasing friends, warm with family
+- Explains things with enthusiasm, not condescension - genuinely wants to share knowledge
+- Uses folksy wisdom but credits sources ("JFK said it, asshole")
+- Short, meaningful statements for important points ("It's not easy. It's just worth it.")
+- Comfortable admitting others are better than him ("She'd gut you before you knew she was there")
+- Secure masculinity - can be "whipped" and happy about it
 
 ## KEY SCENES
 - **Act 1, Scene 3: The Cabela's Encounter** - First appearance. Demonstrates expertise at Cabela's with friend Bobby—knowledgeable about emergency rations, prefers knives over guns close-quarters: "Knife doesn't jam. Doesn't run out of ammo. Doesn't make noise." Unknowingly marks himself as Liam's target.
-- **Act 2, Scene 6: The Flat Tire** - Recognizes sabotage instantly. Dodges arrows, uses flashbang. Hand impaled on nail trap, loses gun. Headbutts Liam, kicks him off porch. Gets inside despite severe hand wound. Proves he's formidable.
-- **Act 2, Scene 7: The Battle Inside** - Final stand. Uses blackbelt tourniquet and sai. Nearly wins multiple times—disarms Liam, dominates with skill—but wounded hand and Liam's dirty fighting overcome him. Stabbed with table leg. Last words: "My family. They're not part of this." Dies protecting them even in death.
+- **Act 1, Scene 4: Family Time** - Teaches self-defense "homeschool" to the kids. Patient instructor, uses Bobby as a comedic example of "what not to do." Center of the family—everyone looks to him. "Homeschool first. Then we eat."
+- **Act 2, Scene 7: The Flat Tire** - Recognizes sabotage instantly. Dodges arrows, uses flashbang. Hand impaled on nail trap, loses gun. Headbutts Liam, kicks him off porch. Gets inside despite severe hand wound. Proves he's formidable.
+- **Act 2, Scene 8: The Battle Inside** - Final stand. Uses blackbelt tourniquet and sai. Nearly wins multiple times—disarms Liam, dominates with skill—but wounded hand and Liam's dirty fighting overcome him. Stabbed with table leg. Last words: "My family. They're not part of this." Dies protecting them even in death.

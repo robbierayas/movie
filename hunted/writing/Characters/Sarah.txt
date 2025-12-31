@@ -8,7 +8,7 @@
 - **Hunting**: Has her own hunting award - equally capable as rest of family
 
 ## ARCHETYPE
-[Primary ensemble role - to be determined after screenplay is written]
+**The Avenger** - Transforms from content wife/mother to revenge-obsessed hunter. Her journey embodies the story's theme: revenge consumes the avenger as much as the target.
 
 ## CHARACTER FUNCTION
 The protagonist of Acts 2-3. Her transformation from practical wife to revenge-obsessed hunter embodies the story's theme about the cost of revenge.
@@ -34,13 +34,27 @@ The protagonist of Acts 2-3. Her transformation from practical wife to revenge-o
 - Liam: the target of her revenge
 
 ## CHARACTER ARC
-[Character's journey through the story - to be expanded after scenes are written]
+- **Beginning State (Act 1)**: Content wife and mother. Watches her family with love. Learned Hank's skills—she's capable, but not obsessed with preparedness.
+- **Inciting Incident**: Comes home to find Hank dead, daughter held hostage. Face-to-face with the killer awakens something primal.
+- **Escalation (Act 2)**: Rejects police, investigates alone. Nearly catches Liam. Transforms the house into a fortress. Her obsession grows while her younger children's fear is ignored.
+- **Crisis Point (Act 3)**: Watches Eli die for the same revenge she's pursuing. Sends the younger girls to safety—but stays to fight. Both she and Liam are caught in the final trap.
+- **End State**: Dies to Liam, but her last words are victory: "The girls got out. Police coming." A Tragic Arc: her revenge consumed her, but her sacrifice wasn't completely in vain—the girls survived by making the practical choice she couldn't.
 
 ## DIALOGUE STYLE
-[How this character speaks - to be expanded after scenes are written]
+- Brief, practical in Act 1 ("You get everything?", "Uh huh")
+- Transforms to cold and threatening after Hank's death
 - Key line: "If you ever come back, you're dead."
 - Key line: "Then I'll have to come for you."
+- Commands become tactical: "Positions. Now.", "We hold the high ground."
+- Final words show acceptance mixed with defiance: "The girls got out. Police coming."
 
 ## KEY SCENES
-- **Act 2, Scene 8: The Hostage** - Comes home to find Hank dead, Olivia held hostage. Face-to-face with Liam. "If you ever come back, you're dead." / "Then I'll have to come for you." Fires blindly after mace attack. Whispers: "I'll find you."
-- **Act 2, Scene 9: Sarah's Investigation** - Stonewalls police, investigates alone with Eli. Tracks Liam through Cabela's → Bobby → bar → apartment. Attacks Liam—"YOU TOOK EVERYTHING FROM ME!"—but he escapes. Sees "CYA SOON" on his car. "We need to get ready."
+- **Act 1, Scene 4: Family Time** - Watches from the grill as Hank teaches the kids self-defense. Content, smiling—this is her family, her life. Brief warmth before everything changes.
+- **Act 2, Scene 9: The Hostage** - Comes home to find Hank dead, Olivia held hostage. Face-to-face with Liam. "If you ever come back, you're dead." / "Then I'll have to come for you." Fires blindly after mace attack. Whispers: "I'll find you."
+- **Act 2, Scene 10: Sarah's Investigation** - Stonewalls police, investigates alone with Eli. Tracks Liam through Cabela's → Bobby → bar → apartment. Attacks Liam—"YOU TOOK EVERYTHING FROM ME!"—but he escapes. Sees "CYA SOON" on his car. "We need to get ready."
+- **Act 2, Scene 11: Preparing the House** - Transforms house into fortress with traps. "It'll feel right when he's dead." Obsession taking hold while Emma/Olivia grow scared.
+- **Act 3, Scene 12: Parallel Preparation** - Continues building traps. "Not yet. More." The obsession never ends.
+- **Act 3, Scene 13: The Return** - Commands family positions. Fights Liam on stairs with knife, triggers molotov trap. "We hold the high ground."
+- **Act 3, Scene 14: Eli's Death** - Watches Eli die. Sends girls to attic, follows. Kicks Liam in face escaping to attic. Sends Emma/Olivia through secret passage: "This ends one way or another."
+- **Act 3, Scene 16: The Escape** - Final fight in attic. "They're not here. Just me." Triggers crossbow trap. Both caught in spring trap. "Gone. You lose."
+- **Act 3, Scene 17: The Crawling Struggle** - Strangled by Liam: "The girls got out. Police coming." Dies to her own obsession. The tragedy of revenge.

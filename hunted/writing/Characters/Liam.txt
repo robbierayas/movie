@@ -7,7 +7,7 @@
 - **Family**: Unknown/unstated
 
 ## ARCHETYPE
-[Primary ensemble role - to be determined after screenplay is written]
+**The Predator** - Drives entire narrative through obsession with hunting "worthy prey." Secondary: The Invisible Man - his mundane invisibility fuels his need to prove superiority through violence.
 
 ## CHARACTER FUNCTION
 The antagonist. A serial killer who wants to "level up" by hunting worthy prey. Drives the entire narrative through his obsession with challenge.
@@ -31,19 +31,39 @@ The antagonist. A serial killer who wants to "level up" by hunting worthy prey. 
 - The children: collateral, not targets
 
 ## CHARACTER ARC
-[Character's journey through the story - to be expanded after scenes are written]
+- **Beginning State (Act 1)**: Invisible bartender with grandiose self-image, has killed before but finds "unworthy" victims unsatisfying. Seeks a real challenge to prove his self-proclaimed skill.
+- **Inciting Incident**: Humiliation at the bar triggers his decision to hunt "worthy prey" - someone who can fight back.
+- **Escalation (Act 2)**: Finds Hank, stalks him, launches attack. Wins the fight but barely - Hank nearly kills him multiple times. Wounded, he escapes but faces an unexpected new opponent: Sarah.
+- **Crisis Point (Act 3)**: Returns armored and prepared, but the family's traps wound him severely. Kills Eli but Sarah nearly kills him. Both are caught in the final trap.
+- **End State**: Dies in suicide-by-cop wearing Hank's blackbelt as a trophy. Got the challenge he wanted - and it consumed him. A Negative Arc: his obsession with proving his "skill" leads to his destruction.
 
 ## DIALOGUE STYLE
-[How this character speaks - to be expanded after scenes are written]
 - Voiceover throughout Act 1 - self-aggrandizing, views himself as skilled
+- V.O. uses formal, pseudo-intellectual language ("unlocked chasms," "possess so much skill") that masks narcissistic grandiosity as objective self-assessment
+- Consistently reframes failures as external forces ("took a shit on me," "got screwed") - never accepts personal responsibility
+- Shifts abruptly from self-pitying to coldly calculating when humiliated
+- V.O. tone is clinical and detached even when discussing grievances
+- Does NOT directly explain his motivations - never says "I do this because..." or connects his violence to his insecurities out loud. His delusion keeps him from that level of self-awareness.
+- Frames murder casually as "a little game" - playful, almost bored tone about killing
+- Uses dismissive labels for victims ("this chump," "regular asshat") - dehumanizing language
+- Contemptuous when speaking directly to victims: "Does everyone think skill can be bought?"
+- Literary pretension - references Zaroff, sees himself as cultured predator rather than common criminal
+- Victim-blaming worldview: "They just have luck. Bad luck." - victims deserve it for lacking skill
+- Minimal spoken dialogue - when he does speak, it's performative ("Just... learning."), playing a role to blend in
 
 ## KEY SCENES
 - **Act 1, Scene 1: The Humiliation** - Liam bartends invisibly while his V.O. reveals self-aggrandizing worldview ("I possess so much skill"). A customer's casual joke about poisoning drinks triggers his shift from self-pity to cold calculation: "People who get all the luck don't realize they have no skill."
 - **Act 1, Scene 2: Bar Revenge** - Liam stalks and kills a look-alike victim, revealing this is his second kill. Trophy box contains glasses and a child's hair bow. After reading "The Most Dangerous Game," he realizes random victims offer no challenge: "The only prey worth hunting is prey that can hunt you back."
 - **Act 1, Scene 3: The Cabela's Encounter** - Liam hunts for worthy prey at Cabela's, dismissing unworthy targets. Spots Hank demonstrating survival expertise. Brief interaction: "Just... learning." Follows Hank home, noting his isolation: "The knife man lives out here. Isolated. Thinks he's safe. Perfect."
-- **Act 1, Scene 4: The Surveillance (Montage)** - Weeks of reconnaissance. Learns the family, routines, property layout. Notes Hank's hunting trophies: "So he does hunt. The liar." Plans to catch Hank outside: "Time to hunt."
-- **Act 1, Scene 5: Let's Do This** - Family leaves. Liam gears up (knife, rope, bear mace). Watches Hank arrive home alone. Final V.O.: "He's good. Maybe even great. But I'm better... Let's do this." VOICEOVER ENDS.
-- **Act 2, Scene 6: The Flat Tire** - First real engagement. Slashed tire, arrows, nail trap in handrail. Gets nose broken by Hank's headbutt, kicked off porch. "Oh, you're good..." Hank escapes inside. Liam hurls objects through windows: "We're just getting started!"
-- **Act 2, Scene 7: The Battle Inside** - Brutal indoor fight. Disarmed by Hank's sai, forced to use furniture and dirty tricks. "This wasn't supposed to be this hard." Stabs Hank with broken table leg. "Good game... You were [the challenge]." Executes Hank with his own gun. Headlights arrive—family returning.
-- **Act 2, Scene 8: The Hostage** - Takes Olivia hostage to escape. "I already got what I came for." Sarah threatens him; he's intrigued: "I'd like that." Maces the room and flees.
-- **Act 2, Scene 9: Sarah's Investigation** - Seen objectively for first time—pathetic apartment, murder wall. Bumps into Sarah/Eli leaving. Nearly caught—tackled, hit with lamp—but escapes via fire escape. Writes "CYA SOON" on car window. The hunt continues.
+- **Act 1, Scene 5: The Surveillance (Montage)** - Weeks of reconnaissance. Learns the family, routines, property layout. Notes the Rottweiler: "Eighty pounds, maybe more. Noted." Notes Hank's hunting trophies: "So he does hunt. The liar." Plans to catch Hank outside: "Time to hunt."
+- **Act 1, Scene 6: Let's Do This** - Family leaves. Liam gears up (knife, rope, bear mace). Watches Hank arrive home alone. Final V.O.: "He's good. Maybe even great. But I'm better... Let's do this." VOICEOVER ENDS.
+- **Act 2, Scene 7: The Flat Tire** - First real engagement. Slashed tire, arrows, nail trap in handrail. Gets nose broken by Hank's headbutt, kicked off porch. "Oh, you're good..." Hank escapes inside. Liam hurls objects through windows: "We're just getting started!"
+- **Act 2, Scene 8: The Battle Inside** - Brutal indoor fight. Disarmed by Hank's sai, forced to use furniture and dirty tricks. "This wasn't supposed to be this hard." Stabs Hank with broken table leg. "Good game... You were [the challenge]." Executes Hank with his own gun. Headlights arrive—family returning.
+- **Act 2, Scene 9: The Hostage** - Takes Olivia hostage to escape. "I already got what I came for." Sarah threatens him; he's intrigued: "I'd like that." Maces the room and flees.
+- **Act 2, Scene 10: Sarah's Investigation** - Seen objectively for first time—pathetic apartment, murder wall. Bumps into Sarah/Eli leaving. Nearly caught—tackled, hit with lamp—but escapes via fire escape. Writes "CYA SOON" on car window. The hunt continues.
+- **Act 3, Scene 12: Parallel Preparation** - Heals in abandoned building. Keeps Hank's blackbelt as trophy. Builds attack drone, makeshift armor, welding helmet. Approaches the house at night.
+- **Act 3, Scene 13: The Return** - Returns armored. Tases Girly the dog. Triggers molotov trap, sealed doors, flashbang, gunfire. Armor saves him. Fights Sarah on stairs, gets burned by second molotov. Hot oil trap burns him further. Eli traps him inside: "Two men enter, one man leaves." Retreats to basement.
+- **Act 3, Scene 14: Eli's Death** - Finds shotgun in basement. Ambushes Eli—"The one who wouldn't let me leave." Kills him: "Not even worth the effort." Pursues Sarah to attic, climbs exterior to enter through window.
+- **Act 3, Scene 15: Bobby's Return** - Bobby arrives with shotgun. Burns him on basement stairs with accelerant. Girly attacks—brutal fight—kills the dog with a pipe. Uses Bobby's body as step stool to escape collapsed stairs.
+- **Act 3, Scene 16: The Escape** - Attic fight with Sarah. Crossbow bolt to thigh. Drags Sarah through passage. Both caught in final spring trap—nails through both their legs.
+- **Act 3, Scene 17: The Crawling Struggle** - Strangles Sarah: "Say hi to Hank." Crawls toward escape. Police arrive. Ties Hank's blackbelt around head, does suicide-by-cop: "BANG BANG." Shot dead.
