@@ -93,6 +93,15 @@ class ScreenplayParser:
             if not script_started:
                 continue
 
+            # Stop parsing at end-of-screenplay markers
+            if stripped.upper().startswith("## PRODUCTION") or \
+               stripped.upper().startswith("# PRODUCTION") or \
+               stripped.upper() == "PRODUCTION NOTES" or \
+               stripped.upper().startswith("## NOTES") or \
+               stripped.upper().startswith("## END"):
+                print(f"[DEBUG] Found end marker at line {i}: {stripped[:50]}, stopping parse")
+                break
+
             # Skip empty lines and separators
             if not stripped or stripped.startswith('===') or stripped.startswith('---'):
                 continue
@@ -284,9 +293,11 @@ class PiperTTSConverter:
             self.character_voice_map[char] = resolved_path
 
         print(f"Loading voice models from config: {config_path}")
-        print(f"[DEBUG] Character mappings in config:")
+        print(f"[DEBUG] Character mappings in config (resolved paths):")
         for char, voice_path in self.character_voice_map.items():
-            print(f"[DEBUG]   '{char}' -> {os.path.basename(voice_path)}")
+            exists = os.path.exists(voice_path)
+            status = "EXISTS" if exists else "NOT FOUND"
+            print(f"[DEBUG]   '{char}' -> {voice_path} [{status}]")
 
         # Get unique voice model paths
         unique_voices = set(self.character_voice_map.values())
@@ -323,22 +334,28 @@ class PiperTTSConverter:
         """Get the appropriate voice model for a character"""
         if not self.character_voice_map:
             # Single-voice mode
-            print(f"[DEBUG] Character '{character}' -> default voice (single-voice mode)")
+            print(f"[VOICE] '{character}' -> default (single-voice mode)")
             return self.default_voice
 
         # Multi-voice mode: lookup character
         voice_path = self.character_voice_map.get(character)
-        if voice_path and voice_path in self.voices:
-            print(f"[DEBUG] Character '{character}' -> {os.path.basename(voice_path)}")
-            return self.voices[voice_path]
-
-        # Fallback to default
-        print(f"[DEBUG] Character '{character}' NOT FOUND in config, using default voice")
-        return self.default_voice
+        if voice_path:
+            if voice_path in self.voices:
+                print(f"[VOICE] '{character}' -> {os.path.basename(voice_path)}")
+                return self.voices[voice_path]
+            else:
+                # Path in map but not in loaded voices - check why
+                print(f"[VOICE] '{character}' -> path '{voice_path}' NOT in self.voices keys!")
+                print(f"[VOICE]   Available keys: {list(self.voices.keys())}")
+                return self.default_voice
+        else:
+            # Character not in config at all
+            print(f"[VOICE] '{character}' -> NOT IN CONFIG, using default")
+            return self.default_voice
 
     def convert_to_speech(self, dialogue_lines: List[DialogueLine],
                          output_path: str, narrator_prefix: bool = False,
-                         multi_voice: bool = False):
+                         multi_voice: bool = None):
         """Convert dialogue lines to a single WAV file
 
         Args:
@@ -346,7 +363,12 @@ class PiperTTSConverter:
             output_path: Output WAV file path
             narrator_prefix: If True, prefix dialogue with speaker name
             multi_voice: If True, use different voices per character (requires pydub)
+                        If None (default), auto-detect based on whether voice config was loaded
         """
+        # Auto-detect: use multi-voice if we have a character voice map
+        if multi_voice is None:
+            multi_voice = bool(self.character_voice_map)
+
         if multi_voice and self.character_voice_map:
             self._convert_multi_voice(dialogue_lines, output_path, narrator_prefix)
         else:
@@ -355,6 +377,7 @@ class PiperTTSConverter:
     def _convert_single_voice(self, dialogue_lines: List[DialogueLine],
                              output_path: str, narrator_prefix: bool = False):
         """Convert dialogue to single file using one voice"""
+        print(f"\n[CONVERT] Using SINGLE VOICE mode (all characters same voice)")
         full_text = []
 
         for line in dialogue_lines:
@@ -387,6 +410,8 @@ class PiperTTSConverter:
 
         import tempfile
 
+        print(f"\n[CONVERT] Starting multi-voice conversion")
+        print(f"[CONVERT] Processing {len(dialogue_lines)} lines with character_voice_map: {bool(self.character_voice_map)}")
         print(f"Generating audio for {len(dialogue_lines)} lines (multiple voices)...")
 
         combined_audio = AudioSegment.empty()
@@ -394,6 +419,13 @@ class PiperTTSConverter:
         for i, line in enumerate(dialogue_lines, 1):
             # Get voice for this character
             voice = self._get_voice_for_character(line.speaker)
+
+            # Find the voice name for debug output
+            voice_name = "unknown"
+            for path, v in self.voices.items():
+                if v is voice:
+                    voice_name = os.path.basename(path)
+                    break
 
             # Prepare text
             if narrator_prefix and line.speaker != "ACTION":
@@ -423,7 +455,7 @@ class PiperTTSConverter:
             # Clean up temp file
             os.remove(temp_path)
 
-            print(f"  [{i}/{len(dialogue_lines)}] {line.speaker}")
+            print(f"  [{i}/{len(dialogue_lines)}] {line.speaker} -> VOICE: {voice_name}")
 
         # Export final combined audio
         combined_audio.export(output_path, format="wav")
@@ -438,6 +470,8 @@ class PiperTTSConverter:
             output_dir: Directory to save individual audio files
         """
         os.makedirs(output_dir, exist_ok=True)
+        print(f"\n[CONVERT] Starting separate files conversion to: {output_dir}")
+        print(f"[CONVERT] Processing {len(dialogue_lines)} lines with character_voice_map: {bool(self.character_voice_map)}")
 
         for i, line in enumerate(dialogue_lines, 1):
             filename = f"{i:04d}_{line.speaker.replace(' ', '_')}.wav"
@@ -445,6 +479,13 @@ class PiperTTSConverter:
 
             # Get the appropriate voice for this character
             voice = self._get_voice_for_character(line.speaker)
+
+            # Find the voice name for debug output
+            voice_name = "unknown"
+            for path, v in self.voices.items():
+                if v is voice:
+                    voice_name = os.path.basename(path)
+                    break
 
             # Generate audio
             with wave.open(output_path, "wb") as wav_file:
@@ -461,7 +502,7 @@ class PiperTTSConverter:
             #         # pydub not available, skip speedup
             #         pass
 
-            print(f"  [{i}/{len(dialogue_lines)}] {filename}")
+            print(f"  [{i}/{len(dialogue_lines)}] {line.speaker} -> VOICE: {voice_name} -> {filename}")
 
         print(f"\nAll files saved to: {output_dir}")
 

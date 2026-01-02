@@ -9,16 +9,17 @@ Liam, Family (leaving)
 ## SCENE LAYOUT
 
 ### Opening
-Liam watches from his observation point. The family is preparing to leave.
+Mid-workday. Liam watches from his observation point as Sarah brings the kids home from school.
 
 ### Key Beats
-1. Sarah and the kids load into the car
-2. Liam dresses in attack gear at home
-3. They drive off—only Hank's car remains in the driveway
-4. Liam packs bag including bear mace
-3. But Hank isn't home yet (still at work). As darkness comes, Liam moves toward house.
-4. Liam confirms: this is the moment
-5. Putting on black leather gloves. Final line of voiceover: "Let's do this."
+1. Mid-workday. Hank's at work, house is empty.
+2. Sarah's SUV pulls up—she brings the kids home from school.
+3. They go inside briefly, then load back into the car to leave for activities.
+4. House is now completely empty. Liam watches them go.
+5. Liam dresses in attack gear at home, packs bag including bear mace.
+6. As dusk falls, Hank comes home from work alone.
+7. As darkness comes, Liam moves toward house.
+8. Putting on black leather gloves. Final line of voiceover: "Let's do this."
 
 ### Character Moments
 - **Liam**: Calm, prepared, excited. The hunt begins.
@@ -35,17 +36,31 @@ EXT. REEVES PROPERTY - DAY
 
 Liam watches from the treeline. Binoculars up.
 
-The FRONT DOOR opens. SARAH emerges, keys in hand. EMMA and OLIVIA follow, bickering about something. ELI trails behind,
-headphones on.
+The driveway is empty. Hank's truck is gone—still at work. The house sits quiet.
 
                     LIAM (V.O.)
-          There they go.
+          Mid-afternoon. He's at work. House is empty.
 
-Sarah loads the kids into her SUV. Doors slam. The engine starts.
+A beat. Then—SARAH's SUV turns off the main road. Pulls up the driveway.
+
+                    LIAM (V.O.)
+          There's the wife. School pickup.
+
+SARAH emerges from the driver's side. EMMA and OLIVIA pile out of the back, bickering about something. ELI climbs out last,
+headphones on. They head inside.
+
+Liam waits. Watches.
+
+Ten minutes later, the FRONT DOOR opens again. Sarah emerges, keys in hand. The kids follow.
+
+                    LIAM (V.O.)
+          And there they go.
+
+They load back into the SUV. Doors slam. Engine starts.
 
 The SUV pulls down the driveway. Disappears onto the main road.
 
-Hank's truck is NOT in the driveway. Still at work.
+The house is empty now.
 
                     LIAM (V.O.)
           He'll be home soon. Alone.

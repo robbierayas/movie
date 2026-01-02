@@ -25,17 +25,77 @@ Hank's prepper mindset informed every design choice.
 - No vehicles can approach without being heard/seen
 
 ### First Floor - The Outer Ward
-- Open floor plan for quick defense and retreat
-- Minimal furniture/obstacles - clear sight lines
+
+**Exterior Structure:**
+- Square footprint with covered porch wrapping all the way around
+- Porch has stone supports/foundation
+- Stone construction allows house to remain standing even if first floor interior burns
+- Front door (main entrance) and back door (kitchen exit)
+
+**Corner Sunrooms (4 total, one at each corner):**
+- Small rectangular rooms, approximately 8ft x 8ft each
+- Windows on exterior walls have emergency shutters (can seal rooms)
+- Two interior walls per sunroom, each with large center door
+- Doors have 270-degree range of motion
+- Door positioning allows sunroom doors to swing out and block front/back doors
+- Function: corner strongpoints that can isolate/block main entrances
+
+**Main Rooms:**
+```
+        [FRONT OF HOUSE]
+    ┌────┬─────────────┬────┐
+    │ SR │   FOYER     │ SR │
+    │    │             │    │
+    ├────┤             ├────┤
+    │    │             │    │
+    │ L  │  [STAIRS]   │ K  │
+    │ I  │             │ I  │
+    │ V  │             │ T  │
+    │ I  │             │ C  │
+    │ N  │             │ H  │
+    │ G  │             │ E  │
+    │    │             │ N  │
+    ├────┤             ├────┤
+    │ SR │   PANTRY    │ SR │
+    │    │  [CHIMNEY]  │    │
+    └────┴─────────────┴────┘
+        [BACK OF HOUSE]
+
+SR = Sunroom (corner)
+```
+
+- **Foyer**: Entry from front door, connects to living room and stairs
+- **Living Room**: West side of house, open archway to central area (no door)
+- **Kitchen**: East side of house, open archway to central area (no door)
+- **Pantry**: By back door, storage area
+- **Fireplace/Chimney**: Central location, conceals secret passage to all floors
+
+**Note**: Living room and kitchen have archways, not doors - keeps sight lines open across the first floor.
+
+**Secret Passage Access:**
+- Fireplace chimney on first floor hides entrance to secret passage
+- Passage runs vertically through all floors (basement to attic)
+- Accessible from each level
+
+**Tactical Purpose:**
+- Open floor plan allows quick defense and retreat
+- Sunroom doors can seal off entrances (trap attackers or block pursuit)
 - All paths funnel toward main stairwell
-- Purpose: slow attackers, inflict damage, fall back to stairs
-- NOT meant to be held - just to bleed the attacker
+- NOT meant to be held - bleed the attacker, then fall back to stairs
+- Emergency shutters allow selective room isolation
 
 ### Main Stairwell - The Gatehouse
 - Single main staircase (other access points can be blocked/trapped)
 - Top of stairs = primary defensive choke point
 - Narrow approach favors defenders above
 - Castle equivalent: the gatehouse
+
+**The Gatehouse Doors:**
+- Metal-reinforced double doors at top of stairs
+- Cannot be broken down by force
+- Transom windows above doors for air circulation
+- Transom glass is bulletproof - can see through but can't shoot through
+- When sealed, second floor becomes impenetrable from stairs
 
 ### Second Floor - The Inner Ward
 - Castle-style layout: tighter corridors, more choke points
@@ -55,9 +115,12 @@ Hank's prepper mindset informed every design choice.
 - Contains SECRET PASSAGE to basement
 
 ### Secret Passage
-- Hidden passage from attic to secret basement room
+- Hidden inside the fireplace chimney structure
+- Runs vertically through ALL floors: basement → first floor → second floor → attic
+- Access points concealed at each level (behind false panels/bricks)
 - Passage goes BOTH WAYS (can climb up or down)
 - Castle equivalent: the sally port / secret tunnel
+- Hank's craftsmanship makes it undetectable to outsiders
 
 ### Basement
 - Regular room contains sporting equipment + WEAPONS
@@ -176,8 +239,8 @@ Even if Sarah had a gun, Liam prepared for it:
 - Liam expects a prepper family to be armed
 - He returns wearing body armor / ballistic vest
 - Visible when he enters - audience sees he came prepared
-- Reinforces that he's not stupid, just arrogant
-- Traps work because they target areas armor doesn't cover
+- Reinforces that he's not completely stupid, just arrogant
+- Traps work because they target areas armor doesn't cover or he removed it from burns
 - Also makes him scarier - he's thought this through
 
 This subverts the "just shoot him" solution twice:
@@ -191,6 +254,146 @@ This subverts the "just shoot him" solution twice:
 - Liam's armor revealed in Act 3, Scene 12 (the return)
 - Audience realizes guns wouldn't have worked anyway
 - Validates the trap strategy
+
+
+LIAM'S ARMOR
+------------
+
+### Design Philosophy
+Liam studied medieval armor - specifically how plate and mail combined to
+deflect arrows, swords, and lances. His version is homemade and updated
+for modern threats: bullets and knives. Like a knight's harness, he had
+to make trade-offs between protection and mobility.
+
+His approach: protect the vitals from bullets, accept some knife
+vulnerability at joints for movement, keep weight manageable for
+extended combat.
+
+### Construction Method
+- Small metal plates (~3 inches x 2 inches each)
+- Hard metal - could be steel, titanium scrap, or armor plate offcuts
+- Plates SEWN together onto a backing (leather or heavy fabric)
+- Overlapping like fish scales for flexibility while maintaining coverage
+- DIY aesthetic - visible stitching, uneven edges, clearly homemade
+- Function over form - ugly but effective
+
+### Coverage Areas
+
+**Torso (Front and Back):**
+- Full plate coverage from collarbone to waist
+- Heaviest concentration of plates
+- Designed to stop handgun rounds and knife stabs
+- Allows bending at waist due to scale construction
+
+**Shoulders:**
+- Light shoulder pads as base (sports equipment)
+- Metal plates sewn onto the pads
+- Provides coverage but doesn't restrict arm movement
+- Gaps at the actual shoulder joint for mobility
+
+**Upper Arms:**
+- Plate coverage on outer/front of bicep area
+- Inner arm has less coverage (needs to bend)
+- Attached to shoulder pieces or separate sleeves
+
+**Lower Arms (Forearms):**
+- Plate coverage on outer forearm
+- Inner forearm lighter for wrist flexibility
+- Protects against defensive wounds (blocking strikes)
+
+**Upper Legs (Thighs):**
+- Plates on front and outer thigh
+- Inner thigh minimal (needs to walk/run)
+- Attached to belt or sewn into pants
+
+**Lower Legs (Shins):**
+- Plate coverage on front of shin
+- Calf area lighter
+- Must not interfere with ankle flexion
+
+### Helmet
+- Base: DIRTBIKE HELMET with sun visor (not welding helmet - too dark)
+- Visor can flip up for better visibility in low light
+- Metal plates DRILLED around the helmet exterior
+- Covers top, sides, and back of head
+- Chin bar provides some face protection
+- Face shield is polycarbonate, not metal (needs to see)
+
+### Hands
+- CHAINMAIL construction on front and back of hand
+- Small rings linked together (could be DIY from wire or salvaged)
+- FINGERS are just leather - needs dexterity to grip weapons, use tools
+- Wrist area connects to forearm plates
+- Trade-off: hand protection vs. finger mobility
+
+### Feet
+- 3 metal plates per shoe
+- Top of foot, outer ankle area, shin extension
+- Heel and sole unarmored (needs to walk normally)
+- Likely attached to sturdy boots
+
+### WEAK SPOTS (Critical for Fight Choreography)
+
+1. **Front of Neck/Throat**
+   - No plate coverage here - would restrict head movement
+   - Vulnerable to thrusts, slashes, choking
+   - Sarah's knife finds this target in stairwell fight
+
+2. **Eyes/Face**
+   - Visor is polycarbonate, not bulletproof
+   - Can be smashed, cracked, or flipped up
+   - Flashbang effectiveness goes through visor
+   - Direct face strikes still hurt
+
+3. **Fingers**
+   - Only leather protection
+   - Can be cut, broken, damaged
+   - Losing finger function affects weapon grip
+
+4. **Joint Gaps (Armpits, Inner Elbow, Back of Knee)**
+   - Where plates meet, there are gaps for movement
+   - Vulnerable to stabbing attacks from specific angles
+   - Difficult to hit in combat but possible
+
+5. **Inner Thighs/Groin**
+   - Minimal plate coverage for mobility
+   - Femoral artery accessible
+   - Sarah's slash catches his thigh in Scene 13
+
+6. **Areas Where Armor is Removed**
+   - Burns from fire traps damage plates
+   - He removes armor pieces as they become liabilities
+   - Hot metal against skin vs. exposed vulnerability
+   - Each fire trap potentially creates new weak spots
+
+### Mobility Trade-offs
+- Full medieval armor weighed 45-55 lbs
+- Liam's version probably 25-35 lbs (less coverage, modern materials)
+- Still causes fatigue over extended fight
+- Heat buildup inside (exhaustion factor)
+- Limits some movements (can't do full crouch, restricted reaching)
+- Running possible but slower than unarmored
+
+### What It Stops
+- Handgun rounds (9mm, .45) - absorbed by torso plates
+- Crossbow bolts - deflected or stopped (Scene 13, bolt hits chest plate)
+- Knife slashes to covered areas - plates prevent penetration
+- Blunt impacts - distributed across plate surface
+
+### What Gets Through
+- Rifle rounds (if family had access)
+- Sustained fire to same spot (plates can crack/deform)
+- Attacks to weak spots listed above
+- Fire/heat (conducts through metal, burns underneath)
+- Attacks that target AFTER armor is damaged/removed
+
+### Story Function
+- Explains why crossbow bolt doesn't penetrate (Scene 13)
+- Justifies why shooting through floor doesn't kill him (Scene 13)
+- Creates specific targets for Sarah in fights (neck, thighs)
+- Fire traps become strategic - damage armor, create openings
+- Progressive armor loss tracks accumulated damage
+- By final fight, he's lost significant protection to burns
 
 
 LIAM'S RETURN LOGIC
