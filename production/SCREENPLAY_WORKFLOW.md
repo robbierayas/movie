@@ -290,6 +290,12 @@ When the user indicates the scene screenplay is approved (e.g., "the screenplay 
 
 **Important**: These workflows ensure scene files, character files, and screenplay all stay synchronized as the project develops.
 
+**IMPORTANT - Character File Updates:**
+- Do NOT update character files after every screenplay edit
+- Character files are ONLY updated during Workflow 5 (Scene Screenplay Approved) or Workflow 6 (Character Profile Updates)
+- During normal screenplay writing/editing, focus on the scene file only
+- Batch character updates to the designated workflow steps to avoid wasted time
+
 ### Workflow 6: Character Profile Updates from Screenplay
 
 When character profiles need updating to reflect completed screenplay, use this workflow to ensure consistency and flag any issues:

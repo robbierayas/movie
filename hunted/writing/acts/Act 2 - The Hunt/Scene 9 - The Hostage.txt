@@ -12,17 +12,17 @@ Liam, Hank (dead), Sarah, Eli, Emma, Olivia
 Headlights. The family is home early. Liam is still inside with Hank's body.
 
 ### Key Beats
-1. The family pulls up to the house
-2. Olivia (the youngest) runs toward the front door. All the kids are inside before Sarah.
-3. Sarah walks in. Liam grabs Olivia as a hostage to escape
-4. Sarah sees Hank's body through the hall—knows he's dead
-5. Sarah's focus shifts from grief to protecting her children
+1. The family pulls up to the house—something feels wrong (no lights)
+2. Olivia runs inside before Sarah can stop her. Emma and Eli follow.
+3. Sarah hears Emma's scream from outside, runs to the door
+4. Sarah bursts in to see: destroyed room, Hank dead in hallway, Liam holding Olivia hostage
+5. Sarah's face cycles through grief, horror, rage—then goes cold
 6. The exchange:
    - Sarah: "If you ever come back, you're dead."
    - Liam: "I already got what I came for."
    - Sarah: "Then I'll have to come for you."
-7. Liam releases Olivia, fires mace into room and runs. Sarah momentarily blinded then pulls gun to shoot wildly in the
-dark
+   - Liam: "Catch me if you can."
+7. Liam releases Olivia, maces the room, flees. Sarah pulls her own gun (same model as Hank's), fires blindly
 
 ### Character Moments
 - **Sarah**: Sees her husband dead. Rage and grief in an instant, but protects the kids first.
@@ -31,7 +31,7 @@ dark
 - **Eli/Emma**: Horrified, helpless.
 
 ### Closing
-Liam disappears into the night. Sarah holds her children, staring at the darkness where he vanished.
+Liam vanishes into the trees. Sarah holds her children on the porch, eyes streaming from the mace, staring at the darkness. Her whispered vow: "I'll find you."
 
 ---
 
@@ -41,7 +41,7 @@ EXT. REEVES DRIVEWAY - DUSK
 
 SARAH's SUV pulls up the driveway. The house looks dark. Wrong.
 
-Sarah turns to herself.
+Sarah frowns at the dark windows.
 
                     SARAH
           Why aren't the lights on?
@@ -59,32 +59,24 @@ neck.
 
 The front door is ajar. Olivia pushes through.
 
-Sarah's blood runs cold. She scrambles out of the car.
+EXT. REEVES DRIVEWAY - CONTINUOUS
 
-                    SARAH
-          KIDS! STOP!
+Sarah is halfway to the door when Emma SCREAMS from inside.
+
+                    EMMA (O.S.)
+          DAD!
+
+Sarah runs.
 
 INT. REEVES HOUSE - FOYER - CONTINUOUS
 
-Olivia freezes two steps inside. Emma bumps into her.
+Sarah bursts through the door.
 
 The living room is DESTROYED. Furniture shattered. Glass everywhere.
 
 And in the hallway—HANK. Motionless. Blood pooled beneath him.
 
-Emma, screaming.
-
-                    EMMA
-          DAD!
-
-Eli pulls Emma back. His face goes white.
-
-A HAND clamps over Olivia's mouth. LIAM emerges from the shadows, knife to her throat.
-
-                    LIAM
-          Nobody move.
-
-Sarah reaches the doorway. Sees her husband's body. Sees her daughter in a killer's grip.
+Eli holds Emma back, both frozen in horror. And in the corner—LIAM has Olivia, hand over her mouth, knife to her throat.
 
 Her face cycles through grief, horror, rage—then settles into something cold.
 
@@ -110,7 +102,7 @@ Liam smiles. Blood still crusted on his broken nose.
 Something flickers in Liam's eyes. Interest. Challenge.
 
                     LIAM
-          I'd like that.
+          Catch me if you can.
 
 He backs toward the door, Olivia still in his grip. Sarah doesn't move. Eli holds Emma, both frozen.
 
@@ -118,23 +110,32 @@ At the threshold, Liam shoves Olivia forward—
 
 And sprays BEAR MACE into the room.
 
-Sarah screams. Eyes burning. She reaches blindly—finds Hank's gun on the floor nearby.
+Sarah screams. Eyes burning. She reaches blindly—pulling her gun from her hidden holster. The gun is the same model as Hank's.
 
 She FIRES. Once. Twice. Three times. Wild shots into the darkness.
 
 EXT. REEVES HOUSE - CONTINUOUS
 
-Liam sprints across the open ground toward the treeline. A bullet splinters wood near his head. He doesn't slow.
+Liam sprints across the open ground toward the treeline. A bullet whizzes near his head. He doesn't slow.
 
 He vanishes into the trees.
 
 INT. REEVES HOUSE - CONTINUOUS
 
-Sarah drops to her knees, still half-blind. Olivia crashes into her, sobbing. Emma and Eli pile on.
+Sarah drops to her knees, still half-blind.
 
-Sarah holds them. All of them. Eyes streaming, staring at the darkness beyond the shattered windows.
+                    ELI
+          Mom?
 
-Sarah, quietly.
+                    SARAH
+          Come out here. Just stay out of the
+          mace. The police will get here soon.
+
+Olivia crashes into her, sobbing. Emma and Eli pile on.
+
+Sarah holds them. All of them. Eyes streaming, staring at the darkness beyond the porch.
+
+Sarah's voice, barely a whisper.
 
                     SARAH
           I'll find you.

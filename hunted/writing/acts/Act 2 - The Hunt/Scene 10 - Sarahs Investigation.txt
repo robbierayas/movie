@@ -1,117 +1,339 @@
 # Scene 10 - Sarah's Investigation
 
 ## LOCATION
-VARIOUS - DAY/NIGHT
+VARIOUS - NIGHT/DAY (Same night → Next morning → Afternoon)
 
 ## CHARACTERS
-Sarah, Eli, Liam (observed, not POV)
+Sarah, Eli, Emma, Olivia, Bobby (phone), Detectives, Cabela's Manager, Bartender, Liam
 
 ## SCENE LAYOUT
 
 ### Opening
-Sarah doesn't go to the police. She investigates on her own, with Eli's help.
+Same night as Hank's murder. Police are still at the house, processing the scene. Hank's body hasn't been moved yet.
 
 ### Key Beats
-1. Police questioning Sarah ask if she knows the guy and why she fired her gun. They can't tell which gun shot Hank yet.
-It'd be easier with the camera footage. Sarah says Hank was in charge of that, annoying police. They keep their guns
-4. Sarah pieces together clues from the crime scene and tracks leads. She shows camera footage picture of Liam to Bobby
-and Cabela's worker, gets close to identifying him
-2. We shift to an unbiased view of Liam—not his voiceover, but who he really is. She somehow gets his work address and
-questions people there. Liam's reality: invisible bartender, cramped apartment, pathetic life
-5. She finds him—Eli is with her. Walking up to the apartment door, he is about to leave and bumps into them.
-6. Sarah attacks Liam through the apartment building
-7. Liam barely escapes
-8. As he flees, Liam writes on car window: "cya soon"
-9. Sarah has confirmed her target but lost him
+
+**SAME NIGHT - Police Confrontation:**
+1. Detectives question Sarah while crime scene techs work around them
+2. Police ask about the guns—multiple shots fired, they're seizing ALL firearms as evidence (standard procedure)
+3. Sarah pushes back: "He said he's coming back. That's a credible threat."
+4. Police are skeptical—they'll look into it, but she should let them handle it
+5. Sarah's work history comes out—she's seen this before. "I was a public defender for eight years. I know exactly what happens next. You'll investigate for a few weeks, hit a dead end, and move on. Meanwhile he's out there planning."
+6. The cops don't take her seriously. One mutters something about "letting us do our job."
+7. Sarah watches them take Hank's body. Cold fury building.
+
+**NEXT MORNING - Bobby Arrives:**
+8. Bobby pulls up to the house. Emma and Olivia run to him—"Unky Buh-by!"
+9. Sarah thanks him for coming. Bobby's shaken—can't believe Hank's gone.
+10. Sarah tells Eli they're going. Emma asks where. "To find him."
+11. Eli insists on going with her. Sarah doesn't argue.
+
+**CABELA'S - Late Morning:**
+12. Sarah asks the manager to see security footage from a few weeks ago
+13. Manager is hesitant until Sarah explains her husband was murdered
+14. They find it: Hank and Bobby at the knife counter. And behind them—LIAM, watching.
+15. Sarah takes a PHOTO OF THE SCREEN with her phone
+
+**PHONE CALL TO BOBBY:**
+16. Sarah calls Bobby from the Cabela's parking lot, shows him the photo via text
+17. Bobby recognizes him—"That's the guy who was asking Hank questions about survival stuff"
+18. Bobby remembers Liam said he worked at a bar nearby. Mentioned learning.
+19. Sarah has a lead.
+
+**THE BAR - Around Noon:**
+20. Sarah shows the photo to the bartender working the day shift
+21. "Liam? Yeah, he worked here. Quit without notice a few weeks back."
+22. Sarah: "Address?" Bartender hesitates. Sarah: "He killed my husband."
+23. Bartender writes it on a napkin.
+
+**LIAM'S APARTMENT - Afternoon:**
+24. Sarah and Eli approach the building. Run-down, pathetic.
+25. They reach apartment 3B. Sarah reaches for the door—it OPENS.
+26. Liam stands there with a bag. Leaving. Everyone freezes.
+27. Sarah attacks. Brutal fight through the apartment.
+28. Eli tries to help—gets knocked down by a falling bookshelf.
+29. Liam escapes via fire escape. Sarah pursues, twists her ankle.
+30. In the alley, Liam writes "CYA SOON" on his car window. Drives off.
 
 ### Character Moments
-- **Sarah**: Cold determination. The skills Hank taught her now serve a darker purpose.
-- **Eli**: Shares Sarah's mission, helps with the investigation.
-- **Liam**: Revealed as pathetic when seen objectively. But still dangerous.
+- **Sarah**: Her legal background makes her distrust of police specific and personal—not paranoia, experience. Cold determination as she tracks Liam down.
+- **Eli**: Steps up, insists on going. Already channeling his grief into action.
+- **Bobby**: Grief-stricken but there for the family. The "Unky Buh-by" moment shows his bond with the kids.
+- **Liam**: Seen objectively for first time—pathetic apartment, murder wall of research. The contrast with his self-aggrandizing voiceover.
 
 ### Closing
-Sarah knows who he is. She knows he'll come back. She'll be ready.
+Sarah knows who he is. She knows he's coming back. "We need to get ready."
 
 ---
 
 ## FULL SCRIPT
 
-INT. REEVES HOUSE - DAY
+INT. REEVES HOUSE - FOYER - NIGHT
 
-Two DETECTIVES sit across from Sarah at her kitchen table. The house is still a crime scene—tape, markers, evidence bags.
+Crime scene tape. Evidence markers. TECHS photographing the destroyed living room.
 
-Detective 1
-The security footage. We need access.
+SARAH sits on the stairs, wrapped in a shock blanket. Her eyes are red but dry now. Watching everything.
 
-                    SARAH
-          Hank handled all that. I don't know the passwords.
+Two DETECTIVES stand over her. DETECTIVE MARTINEZ, sympathetic. DETECTIVE COLE, impatient.
 
-Detective 1
-(frustrated)
-Mrs. Reeves—
+                    DETECTIVE MARTINEZ
+          Mrs. Reeves, I know this is difficult. But we need
+          to understand what happened.
 
                     SARAH
-          I gave you a description. I fired my gun at him. That's all I know.
+          I told you what happened. He killed my husband.
+          He took my daughter hostage. I shot at him. He ran.
 
-The detectives exchange looks. They're not getting anywhere.
+                    DETECTIVE COLE
+          Multiple firearms discharged. We're going to need
+          to take all of them. Standard procedure.
 
-INT. SARAH'S BEDROOM - NIGHT
+Sarah's head snaps up.
 
-Sarah sits at a laptop. ELI beside her. Security footage plays—a grainy image of LIAM's face captured through a window.
+                    SARAH
+          All of them?
 
-She screenshots it. Prints it.
+                    DETECTIVE COLE
+          Ballistics. Chain of custody. We need to determine
+          which weapon killed your husband.
+
+                    SARAH
+          I know which weapon killed my husband. The knife
+          in that man's hand.
+
+                    DETECTIVE MARTINEZ
+          Mrs. Reeves—
+
+                    SARAH
+          He said he's coming back. Those were his words.
+          "Catch me if you can." That's a credible, specific
+          threat of future violence.
+
+Detective Cole exchanges a look with Martinez.
+
+                    DETECTIVE COLE
+          We'll look into it. But right now, we need to
+          process the scene and let you—
+
+                    SARAH
+          I was a public defender for eight years, Detective.
+
+She stands. The blanket falls away.
+
+                    SARAH (CONT'D)
+          I know exactly what happens next. You'll investigate
+          for a few weeks. Hit a dead end. The case goes cold.
+          Meanwhile, he's out there. Planning.
+
+                    DETECTIVE COLE
+          Ma'am, if you'd let us do our job—
+
+                    SARAH
+          I've seen your job. I've seen murderers walk because
+          evidence got lost. Because witnesses recanted. Because
+          some DA decided it wasn't worth the trouble.
+
+She steps closer to Cole.
+
+                    SARAH (CONT'D)
+          You're going to take my guns, tell me to sit tight,
+          and leave me here with three children and a man who
+          promised to come back.
+
+                    DETECTIVE MARTINEZ
+          We can arrange increased patrols—
+
+                    SARAH
+          Patrols.
+
+She laughs. No humor in it.
+
+A TECH approaches, interrupts.
+
+                    TECH
+          Detectives. Coroner's ready to move the body.
+
+Sarah goes still.
+
+Through the doorway, she watches them wheel Hank out on a gurney. A black bag. Zipped closed.
+
+Emma, Olivia, and Eli huddle in the kitchen doorway, watching too.
+
+Sarah's jaw tightens. Something hardens behind her eyes.
+
+EXT. REEVES HOUSE - DRIVEWAY - NEXT MORNING
+
+A pickup truck pulls up. BOBBY climbs out, looking like he hasn't slept.
+
+The front door opens. EMMA and OLIVIA run out.
+
+                    EMMA/OLIVIA
+          Unky Buh-by!
+
+Bobby catches them both. Holds them tight. His eyes are wet.
+
+                    BOBBY
+          Hey. Hey, I got you.
+
+Sarah steps onto the porch. ELI behind her.
+
+                    BOBBY (CONT'D)
+          Sarah. I came as soon as I could. I can't... Hank...
+
+                    SARAH
+          I know.
+
+                    BOBBY
+          What do you need?
+
+                    SARAH
+          Stay with the girls. We won't be long.
+
+Bobby looks at Eli, then back at Sarah. Understanding dawns.
+
+                    BOBBY
+          Sarah, maybe you should let the police—
+
+                    SARAH
+          The police took our guns and told me to sit tight.
+
+Bobby doesn't have an answer for that.
+
+                    EMMA
+          Where are you going?
+
+Sarah looks at her daughter.
+
+                    SARAH
+          To find him.
 
                     ELI
-          What are you going to do?
+          I'm going with you.
+
+Sarah meets his eyes. Sees the same cold fury she feels.
 
                     SARAH
-          What they won't.
+          Get in the car.
 
-EXT. CABELA'S PARKING LOT - DAY
+INT. CABELA'S - MANAGER'S OFFICE - LATE MORNING
 
-Sarah shows the photo to a STORE EMPLOYEE smoking by the loading dock.
+Sarah and Eli sit across from a nervous MANAGER. A security monitor shows camera feeds.
 
-                    EMPLOYEE
-          Yeah, I remember him. Was looking at knives. Talked to some guy for a bit.
-
-                    SARAH
-          What guy?
-
-INT. BOBBY'S HOUSE - DAY
-
-Bobby stares at the photo. Recognition.
-
-                    BOBBY
-          That's... that's the guy from the store. He was asking Hank questions about—
-
-His face goes pale.
-
-                    BOBBY
-          Oh God. He was at the store with us?
-
-Sarah's jaw tightens.
+                    MANAGER
+          Ma'am, we don't usually let customers review
+          footage without a police request—
 
                     SARAH
-          Where does he work? You said he was "learning." Learning what?
+          My husband was murdered two days ago. The man
+          who killed him was in this store. Talking to my
+          husband.
 
-INT. DIVE BAR - NIGHT
+The manager hesitates.
 
-Sarah stands at the bar. Different bartender working. She shows the photo.
+                    SARAH (CONT'D)
+          Please.
+
+The manager sighs. Starts clicking through footage.
+
+                    MANAGER
+          What day are we looking at?
+
+                    SARAH
+          Three weeks ago. Saturday afternoon. Knife counter.
+
+The manager scrubs through footage. Customers blur past.
+
+Then—there. HANK and BOBBY at the counter. Hank demonstrating a knife grip.
+
+And behind them, watching: LIAM.
+
+Sarah leans forward. Her hand grips the desk.
+
+                    SARAH (CONT'D)
+          Stop. There.
+
+The manager freezes the frame. Liam's face, slightly blurry but recognizable.
+
+Sarah pulls out her phone. Takes a photo of the screen.
+
+                    ELI
+          That's him?
+
+                    SARAH
+          That's him.
+
+EXT. CABELA'S PARKING LOT - CONTINUOUS
+
+Sarah and Eli walk to the car. Sarah's already dialing.
+
+                    SARAH
+          Bobby. I'm sending you a photo. Tell me if you
+          recognize him.
+
+She texts the image. Waits.
+
+                    BOBBY (V.O.)
+          Holy shit. That's... that's the guy from the store.
+          He was asking Hank questions about survival stuff.
+          Knives, traps, all that.
+
+                    SARAH
+          What else?
+
+                    BOBBY (V.O.)
+          He said he was learning. Worked at some bar
+          nearby. I don't remember which one.
+
+                    SARAH
+          Think.
+
+A long pause.
+
+                    BOBBY (V.O.)
+          Mulligan's? Maybe? It's that dive off Route 9.
+
+                    SARAH
+          Thanks, Bobby. Stay with the girls.
+
+She hangs up. Looks at Eli.
+
+                    SARAH (CONT'D)
+          Let's go.
+
+INT. MULLIGAN'S BAR - NOON
+
+A dark, mostly empty bar. A few day-drinkers nursing beers.
+
+Sarah approaches the BARTENDER wiping down glasses. Shows him the phone.
+
+                    SARAH
+          You know this man?
+
+The bartender squints at the photo.
 
                     BARTENDER
-          Liam? Yeah, he worked here. Quit a few weeks back. No notice, just gone.
+          Liam? Yeah, he worked here. Quit a few weeks
+          back. No notice, just gone.
 
                     SARAH
           Address?
 
-The bartender hesitates.
-
-Sarah, cold.
+                    BARTENDER
+          I can't just give out—
 
                     SARAH
           He killed my husband.
 
-The bartender writes something on a napkin.
+The bartender's face changes.
+
+                    BARTENDER
+          Jesus.
+
+He looks around. Grabs a napkin. Writes.
+
+                    BARTENDER (CONT'D)
+          I don't know if he's still there. But that's
+          what was on his paperwork.
 
 EXT. LIAM'S APARTMENT BUILDING - DAY
 
@@ -140,7 +362,11 @@ Then Sarah LUNGES.
 
 No hesitation. No words. Pure violence.
 
-She tackles Liam back into the apartment. They crash through the doorframe. Slam into his RESEARCH TABLE—the murder wall of photos and notes exploding around them. Pictures of her family scattering across the floor.
+INT. LIAM'S APARTMENT - CONTINUOUS
+
+She tackles Liam back into the apartment. They crash through the doorframe. Slam into his RESEARCH TABLE—the murder wall of photos and notes exploding around them.
+
+Pictures of her family scatter across the floor. Hank's face stares up at them.
 
 Sarah's on top. Straddling him. Fists HAMMERING down.
 
@@ -157,88 +383,129 @@ Her fist catches his jaw. His lip splits.
 
 Her palm strikes his nose—the one Hank broke. Still healing. It CRUNCHES again.
 
-Liam HOWLS. Bucks his hips. Throws her off.
+Liam HOWLS. Blood streams from his nostrils. He bucks his hips—throws her off.
 
 Sarah hits the floor. Rolls. Already getting up—
 
-Eli rushes in. BATON raised. Aiming for Liam's skull.
+Liam's faster. He grabs a KNIFE from the scattered mess. Lunges at her.
 
-Liam sees it coming. Twists sideways. The baton CRACKS against his shoulder instead.
+ELI crashes into him from the side. BATON swinging.
 
-He grabs the BOOKSHELF beside him. Cheap particle board. Shoves it.
+The baton CRACKS against Liam's wrist. The knife clatters away.
 
-The shelf TOPPLES onto Eli. Books and clothes and junk burying the boy. He goes down hard.
+Liam spins. Backhands Eli across the face. The boy staggers.
+
+Sarah's back up. Grabs a LAMP from the cluttered desk. Ceramic base. Heavy.
+
+Swings.
+
+CRACK. Connects with Liam's ribs. He doubles over.
+
+She swings again. He catches it. They struggle—
+
+He WRENCHES the lamp away. Raises it over her head—
+
+ELI tackles him from behind. They crash into the BOOKSHELF.
+
+The shelf TOPPLES. Books and clothes and junk avalanche over both of them.
+
+Liam kicks free first. Eli's buried under debris.
 
                     ELI
           Mom—!
 
-Sarah doesn't check on him. Eyes locked on Liam.
+Sarah doesn't wait. She charges Liam.
 
-She grabs a LAMP from the cluttered desk. Ceramic base. Heavy.
+He sidesteps. Grabs her arm. Uses her momentum.
 
-Swings.
+SLAMS her into the wall. Plaster cracks.
 
-CRACK. It connects with Liam's shoulder. His arm goes numb.
+His hands find her throat. Squeezing.
 
-He backpedals. She presses. Swings again.
+Sarah claws at his face. Can't breathe. Vision darkening—
 
-This time he's ready. Ducks under it.
+A BATON smashes into the back of Liam's skull.
 
-His foot SWEEPS her legs. Hard and fast.
+Eli. Standing over them. Breathing hard.
 
-Sarah's feet fly out from under her. She hits the floor HARD. Back of her head bouncing off cheap linoleum.
+Liam releases Sarah. Staggers. Dazed.
 
-Stars explode behind her eyes.
+He looks at Eli. At Sarah gasping on the floor. At the window.
 
-Liam doesn't press his advantage. He's already moving. Scrambling for the window. The fire escape.
+He runs.
+
+Sarah pushes herself up, coughing.
+
+                    SARAH
+          Don't let him—
+
+EXT. FIRE ESCAPE - CONTINUOUS
+
+Liam's already through the window. Stumbling down the rusted stairs.
+
+Sarah climbs through after him. Eli right behind her.
+
+Liam reaches the second floor platform. Blood dripping from his nose, his head. He looks down. Ten feet to the alley.
+
+He jumps.
+
+Sarah doesn't hesitate. She LEAPS from the platform—
+
+—and lands ON TOP OF HIM.
+
+They crash into the concrete together. A tangle of limbs.
+
+Liam's head bounces off the ground. He goes limp for a second. Dazed.
+
+Sarah tries to get up. Her ankle SCREAMS. Something's wrong. She collapses back down, grimacing.
+
+Liam stirs. Blinks. Blood in his eyes.
+
+Sarah crawls toward him. Grabs his jacket.
+
+He shoves her off. Weak. Both of them hurt.
+
+She swings. Catches his jaw. No power behind it.
+
+He swings back. Clips her temple.
+
+They grapple on the ground. Neither can finish it.
+
+Above them, Eli starts down the fire escape ladder. Rungs groaning.
+
+Liam looks up. Sees the kid coming.
+
+He shoves Sarah away. Forces himself to his feet. Wobbles.
+
+Sarah grabs for his ankle—misses.
+
+Liam stumbles toward the street. Half-running, half-staggering.
+
+Sarah tries to stand. Her ankle buckles. She goes down hard.
 
                     SARAH
           NO!
 
-She lunges from the floor. Grabs his ankle. Fingernails digging into flesh.
-
-He kicks. Once. Twice.
-
-His heel catches her forearm. Her grip breaks.
-
-He's through the window. Out onto the rusted metal platform.
-
-EXT. FIRE ESCAPE - CONTINUOUS
-
-Liam half-falls down the rusty ladder. Rungs groaning under his weight. Moving fast. Sloppy.
-
-Sarah's right behind him. Climbing through the window.
-
-He reaches the second floor platform. Looks down. Ten feet to the alley.
-
-Jumps.
-
-Lands hard. Rolls. Up and running.
-
-Sarah doesn't hesitate. She jumps after him—
-
-Her landing is bad. Ankle TWISTS on loose gravel. Something pops.
-
-She stumbles. Goes to one knee.
+Eli's still two floors up. Too far.
 
 EXT. ALLEY - CONTINUOUS
 
-Liam reaches his car. Yanks open the door.
+Liam reaches the street with a car with dirty windows parked on the street in front of him.
 
-Sarah limps toward him, fury in her eyes.
-
-Liam pauses. Pulls out a marker. Writes on his car window:
+Liam pauses. Uses his finger to write on his car window:
 
                     CYA SOON
 
-He gives her a little wave. Gets in. Drives.
+He runs away.
 
-Sarah stands in the alley, breathing hard. Eli catches up, holding his ribs.
+Sarah limps toward the street, fury in her eyes.
+
+Sarah stands at the end of the alley, breathing hard. Eli catches up, holding his ribs.
 
                     ELI
           Mom...
 
-Sarah, staring after the car.
+Sarah, staring at the message on the car and looking around.
 
                     SARAH
           Now I know who he is. And he's coming back.
@@ -251,7 +518,31 @@ She turns to Eli.
 ---
 
 ## Production Notes
-[Placeholder for animation requirements, technical considerations]
-- Show unbiased view of Liam—contrast with his self-aggrandizing voiceover from Act 1
-- The attack should be sudden and violent—Sarah isn't hesitating
-- "I'll visit soon" establishes Liam's arrogance and sets up Act 3
+
+**Timing:**
+- Same night (Hank's murder): Police scene, guns seized, body removed
+- Next morning: Bobby arrives to babysit
+- Late morning: Cabela's footage review
+- Noon: Mulligan's bar
+- Afternoon: Liam's apartment confrontation
+
+**Key Story Elements:**
+- Guns seized as evidence establishes why family can't just "shoot him" in Act 3
+- Sarah's legal background (public defender) makes her distrust specific, not paranoid
+- "Catch me if you can" callback from Scene 9 shows Sarah using his own words
+- Bobby's "Unky Buh-by" moment establishes his bond with kids (pays off in Scene 14)
+- Photo of Cabela's screen (not home security) keeps investigation grounded
+- Phone call to Bobby is more efficient than in-person visit
+- Liam's pathetic apartment contrasts with his self-aggrandizing Act 1 voiceover
+- "CYA SOON" establishes his arrogance and sets up Act 3
+
+**Fight Choreography Notes:**
+- Eli saves Sarah TWICE: (1) tackles Liam when he grabs knife, (2) baton to skull when Liam is strangling her
+- Sarah fights as "rage-driven avenger" - aggressive, reckless, burns out fast
+- Liam caught off-guard but recovers - still dangerous even surprised
+- Sarah JUMPS from fire escape and LANDS ON Liam (not just chasing)
+- Both injured in landing - Sarah's ankle, Liam's head (dazed)
+- Ground tussle: neither can finish it, both too hurt
+- Liam escapes because Eli is still two floors up on fire escape
+- Accumulated damage: Liam's nose (re-broken), head wound, ribs; Sarah's ankle, throat bruises
+- Estimated screen time: 2-3 minutes

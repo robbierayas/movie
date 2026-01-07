@@ -85,9 +85,29 @@ SR = Sunroom (corner)
 - Emergency shutters allow selective room isolation
 
 ### Main Stairwell - The Gatehouse
-- Single main staircase (other access points can be blocked/trapped)
+
+**T-Shaped Stair Layout:**
+```
+                [SECOND FLOOR DOOR]
+                      ↑
+                  [STAIRS UP]
+                      |
+    [LIVING    ←←← [LANDING] →→→    [KITCHEN
+     ROOM]         ↑     ↑           SIDE]
+     STAIRS]      /       \         [STAIRS]
+                 /         \
+              [UP]         [UP]
+
+        [BASEMENT DOOR UNDER STAIRS]
+```
+
+- Two sets of stairs start from first floor (living room side + kitchen side)
+- Both meet at a joined LANDING in the center
+- Single set of stairs continues UP from landing to second floor
+- BASEMENT DOOR located under the stairs (accessible from first floor)
 - Top of stairs = primary defensive choke point
-- Narrow approach favors defenders above
+- T-shape forces attackers to choose an approach, defenders can cover both
+- Narrow final approach favors defenders above
 - Castle equivalent: the gatehouse
 
 **The Gatehouse Doors:**
@@ -248,10 +268,10 @@ This subverts the "just shoot him" solution twice:
 2. Even if she did, he's armored
 
 ### Story Function
-- The gun seizure is addressed in Act 2, Scene 10 (preparing the house)
-- Sarah's frustration: "They took everything. We have nothing."
-- Eli: "We have the house. We have what Dad taught us."
-- Liam's armor revealed in Act 3, Scene 12 (the return)
+- The gun seizure is addressed in Act 2, Scene 10 (police confrontation, same night as murder)
+- Sarah's frustration: "The police took our guns and told me to sit tight."
+- In Scene 11: "They took everything. We have nothing." / Eli: "We have the house. We have what Dad taught us."
+- Liam's armor revealed in Act 3, Scene 13 (the return)
 - Audience realizes guns wouldn't have worked anyway
 - Validates the trap strategy
 
@@ -431,14 +451,11 @@ Normal person would call 911, let police handle it.
    - "They said call if he shows up again. He'll kill us before they arrive."
 
 2. **Sarah Has a Grudge with Police (Work History)**
-   - Sarah's occupation involved negative experience with law enforcement
-   - Possible backgrounds:
-     - Former public defender - saw police lie, lose evidence, let people walk
-     - Social worker - saw system fail families repeatedly
-     - Journalist who covered police misconduct
-     - Victim advocate who watched cases fall apart
+   - Sarah was a public defender for eight years
+   - Saw murderers walk because evidence got lost, witnesses recanted, DAs decided cases weren't worth the trouble
    - She's seen firsthand how people escape justice
    - Deep distrust: "I've seen what happens when you trust them to handle it."
+   - Her legal background makes her distrust specific and credible, not paranoid
 
 3. **She Doesn't Trust Them to Hold Liam**
    - Even if police catch him, she's seen people get out
@@ -463,6 +480,38 @@ Normal person would call 911, let police handle it.
 - The system Sarah didn't trust actually WORKS - Liam is caught
 - If Sarah had just let police handle it, she'd be alive
 - Her distrust was her tragic flaw
+
+
+TRAP DESIGNS
+------------
+
+### Hot Oil Trap (Stairwell)
+
+**Location**: Above the main stairwell, triggered from second floor
+
+**Components**:
+- A wooden board (horizontal platform)
+- 2 crockpots attached to the top of the board, filled with hot oil
+- A pipe running lengthwise along the underside of the board
+- 2 wall-mounted holders that the pipe rests in (like a rotisserie spit)
+- A string/rope attached to one end of the board
+
+**Mechanism**:
+1. The pipe sits in the holders, allowing the board to pivot/rotate
+2. At rest, the board is level - crockpots stay upright
+3. String runs from the board, through a window above the second floor door
+4. When string is pulled, the pipe spins in its holders
+5. The board tilts, dumping the hot oil contents onto anyone below
+
+**Trigger**: Pulled manually from safety (second floor, through window)
+
+**Target Area**: The stairwell landing - anyone climbing up gets doused
+
+**Why It Works**:
+- Liam's armor conducts heat - hot oil seeps into gaps, burns underneath
+- Even if armor blocks direct contact, the heat transfers through metal
+- Creates panic, forces him to remove burning armor pieces
+- Exposes previously protected areas for later attacks
 
 
 TRAP EFFECTIVENESS

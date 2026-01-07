@@ -222,6 +222,23 @@ Alex turns from the window. Her voice cuts through the hope.
 She steps to the center of the room, arms crossed.
 ```
 
+### Physical Impossibilities to Avoid
+
+**NEVER write "turns to herself" or "turns to himself"** - this is physically impossible. A character cannot turn toward themselves.
+
+**Common mistakes:**
+- ❌ `She turns to herself, conflicted.`
+- ❌ `He looks at himself uncertainly.` (unless there's a mirror)
+- ❌ `Marcus turns to himself and mutters.`
+
+**Fixes:**
+- ✅ `She looks down, conflicted.`
+- ✅ `He hesitates, uncertain.`
+- ✅ `Marcus turns away and mutters.`
+- ✅ `She stares into the distance, wrestling with herself.`
+
+If a character is having an internal moment, show it through body language, facial expressions, or turning away from others—not turning toward themselves.
+
 ## Character Introductions
 
 **IMPORTANT:** Character age/description appears ONLY on first appearance in the entire screenplay.

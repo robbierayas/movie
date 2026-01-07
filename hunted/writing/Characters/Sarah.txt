@@ -3,7 +3,7 @@
 ## BASIC INFORMATION
 - **Full Name**: Sarah Reeves
 - **Age**: Late 30s
-- **Occupation**: Lawyer (type TBD - public defender, criminal defense, or family law)
+- **Occupation**: Former public defender (8 years)
 - **Family**: Married to Hank (deceased), mother of Eli (18), Emma (12), Olivia (10)
 - **Hunting**: Has her own hunting award - equally capable as rest of family
 
@@ -20,8 +20,8 @@ The protagonist of Acts 2-3. Her transformation from practical wife to revenge-o
 ## PERSONALITY TRAITS
 - Practical, grounded
 - Initially skeptical of Hank's prepper lifestyle but learned the skills
-- Legal background: has seen criminals walk free, system fail victims
-- Deep distrust of police/courts to deliver justice
+- Eight years as a public defender: saw murderers walk because evidence got lost, witnesses recanted, DAs decided cases weren't worth the trouble
+- Deep distrust of police/courts to deliver justice—not paranoia, experience
 - Grief transforms into cold determination
 - Face-to-face moment with Liam awakens something primal
 - Obsession with revenge blinds her to simpler solutions
@@ -46,13 +46,17 @@ The protagonist of Acts 2-3. Her transformation from practical wife to revenge-o
 - Transforms to cold and threatening after Hank's death
 - Key line: "If you ever come back, you're dead."
 - Key line: "Then I'll have to come for you."
+- Legal background shows in confrontation with police—precise, argumentative: "That's a credible, specific threat of future violence." Knows the language.
+- Throws her experience at authority: "I was a public defender for eight years. I know exactly what happens next."
+- Contempt for system she once served: "I've seen murderers walk because evidence got lost. Because witnesses recanted. Because some DA decided it wasn't worth the trouble."
+- Remains practical even in extreme crisis—half-blinded by mace, still gives clear instructions: "Come out here. Just stay out of the mace. The police will get here soon."
 - Commands become tactical: "Positions. Now.", "We hold the high ground."
 - Final words show acceptance mixed with defiance: "The girls got out. Police coming."
 
 ## KEY SCENES
 - **Act 1, Scene 4: Family Time** - Watches from the grill as Hank teaches the kids self-defense. Content, smiling—this is her family, her life. Brief warmth before everything changes.
-- **Act 2, Scene 9: The Hostage** - Comes home to find Hank dead, Olivia held hostage. Face-to-face with Liam. "If you ever come back, you're dead." / "Then I'll have to come for you." Fires blindly after mace attack. Whispers: "I'll find you."
-- **Act 2, Scene 10: Sarah's Investigation** - Stonewalls police, investigates alone with Eli. Tracks Liam through Cabela's → Bobby → bar → apartment. Attacks Liam—"YOU TOOK EVERYTHING FROM ME!"—but he escapes. Sees "CYA SOON" on his car. "We need to get ready."
+- **Act 2, Scene 9: The Hostage** - Hears Emma's scream, bursts in to find Hank dead, Olivia held hostage. Face cycles through grief/horror/rage—settles into cold. "If you ever come back, you're dead." / "Then I'll have to come for you." Pulls her own gun (same model as Hank's), fires blindly after mace attack. Practical even in chaos: "Come out here. Just stay out of the mace." Whispers: "I'll find you."
+- **Act 2, Scene 10: Sarah's Investigation** - Same night: confronts police as they seize guns. "I was a public defender for eight years. I know exactly what happens next." Watches them take Hank's body. Next morning: Bobby babysits while she and Eli investigate. Cabela's footage → phone call to Bobby → bar → apartment. Attacks Liam—"YOU TOOK EVERYTHING FROM ME!" Eli saves her twice (from knife, from strangling). Sarah jumps from fire escape, lands on Liam. Both hurt—tussle on ground but Liam escapes. Sees "CYA SOON" on car. "We need to get ready."
 - **Act 2, Scene 11: Preparing the House** - Transforms house into fortress with traps. "It'll feel right when he's dead." Obsession taking hold while Emma/Olivia grow scared.
 - **Act 3, Scene 12: Parallel Preparation** - Continues building traps. "Not yet. More." The obsession never ends.
 - **Act 3, Scene 13: The Return** - Commands family positions. Fights Liam on stairs with knife, triggers molotov trap. "We hold the high ground."

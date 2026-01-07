@@ -1,7 +1,7 @@
 # Scene 11 - Preparing the House
 
 ## LOCATION
-INT. REEVES HOUSE - NIGHT
+INT. REEVES HOUSE - LATE AFTERNOON TO SUNDOWN
 
 ## CHARACTERS
 Sarah, Eli, Emma, Olivia
@@ -13,7 +13,7 @@ Sarah has lost Liam's trail but prepares anyway. She knows he'll come back—for
 
 ### Key Beats
 1. Sarah gathers Hank's prepper supplies—the materials for traps. Hiding is not enough. Need active traps.
-2. Eli is all-in, eager to help with the most dangerous setups starting a hotplate and setting arrow quiver on second
+2. Eli is all-in, eager to help with the most dangerous setups starting a crockpot and setting arrow quiver on second
 floor
 3. Emma participates but shows growing fear
 4. Olivia follows Emma's lead, clearly scared. they close windows and doors of first floor.
@@ -33,10 +33,9 @@ The house is being transformed. The family is split between those consumed by re
 
 ## FULL SCRIPT
 
-INT. REEVES HOUSE - BASEMENT - NIGHT
+INT. REEVES HOUSE - BASEMENT - LATE AFTERNOON
 
-Sarah descends the stairs, flashlight in hand. She scans Hank's prepper storage: shelves of supplies, tools, emergency
-gear.
+Sarah descends the stairs. She scans Hank's prepper storage: shelves of supplies, tools, emergency gear.
 
 She starts pulling items: trip wire, steel cables, a propane tank, containers of oil.
 
@@ -48,20 +47,20 @@ Eli appears behind her.
                     SARAH
           Everything.
 
-INT. REEVES HOUSE - SECOND FLOOR - NIGHT
+INT. REEVES HOUSE - SECOND FLOOR - LATE AFTERNOON
 
-Eli sets up a HOTPLATE near the stairwell. Places a large pot on top. Fills it with cooking oil.
+Eli sets up a CROCKPOT near the stairwell. Fills it with cooking oil.
 
 He positions a QUIVER OF ARROWS against the wall. Checks sight lines to the stairs below.
 
-Eli turns to himself.
+Eli nods to himself.
 
                     ELI
           Perfect.
 
-INT. REEVES HOUSE - FIRST FLOOR - NIGHT
+INT. REEVES HOUSE - FIRST FLOOR - LATE AFTERNOON
 
-Emma and OLIVIA move through the first floor. Emma closes and locks windows. Olivia follows, doing the same with doors.
+Emma and Olivia move through the first floor. Emma closes and locks windows. Olivia follows, doing the same with doors.
 
                     OLIVIA
           Why are we doing this?
@@ -79,7 +78,7 @@ Emma pauses. Looks at her little sister.
 
 They exchange a look. Fear.
 
-INT. REEVES HOUSE - VARIOUS - NIGHT
+INT. REEVES HOUSE - VARIOUS - AFTERNOON TO DUSK
 
 MONTAGE of trap-building:
 
@@ -91,41 +90,85 @@ MONTAGE of trap-building:
 
 - Emma and Olivia watch from a doorway, holding each other.
 
-INT. REEVES HOUSE - LIVING ROOM - NIGHT
+INT. REEVES HOUSE - LIVING ROOM - DUSK
 
-The family gathers. The house looks different now—weapons positioned, trip wires barely visible, defensive positions
-established.
+The family gathers. The house looks different now—weapons positioned, trip wires barely visible, defensive positions established. Late sunlight fades through the windows.
+
+Sarah stands before her children. Eli beside her. Emma and Olivia on the couch, holding hands.
+
+                    SARAH
+          I need to talk to you about what we're doing.
+          About staying safe.
 
                     EMMA
-          Mom... this feels wrong.
+          This isn't staying safe. This is—
 
                     SARAH
-          It'll feel right when he's dead.
+          Let me finish.
 
-Olivia, small voice.
+Emma falls silent. But her jaw is set.
+
+                    SARAH (CONT'D)
+          Actually... no. If you have something to say,
+          say it. All of you. I want to hear it.
+
+A long pause. Olivia looks at Emma. Emma looks at the floor.
 
                     OLIVIA
-          What if he doesn't come back?
-
-Sarah's expression hardens.
+          I'm scared.
 
                     SARAH
-          He'll come back. He can't help himself.
+          I know, baby. I know.
+
+                    EMMA
+          This is wrong. All of this. Dad taught us to
+          defend ourselves, not... not this.
+
+She gestures at the weapons. The trip wires. The transformed house.
+
+                    EMMA (CONT'D)
+          He wouldn't want this.
+
+Sarah's face tightens. Something flickers—pain, anger, grief.
+
+                    SARAH
+          Dad's dead.
+
+The words hang in the air. Too sharp. Too cold.
+
+Sarah's expression shifts. She regrets it immediately. But she doesn't take it back.
+
+                    SARAH (CONT'D)
+          I'm sorry. I shouldn't have...
+
+She takes a breath. Tries again.
+
+                    SARAH (CONT'D)
+          The police know who did this now. They have
+          his name. His face. It's only going to be
+          like this until they catch him.
+
+                    OLIVIA
+          What if he comes here first?
+
+                    SARAH
+          He might not even come here. He knows we're
+          ready now. He knows we're watching.
+
+She doesn't believe it. They can all tell.
+
+                    SARAH (CONT'D)
+          But if he does... we'll be ready.
 
 Eli puts a hand on Emma's shoulder.
 
                     ELI
-          Hey. Dad taught us to protect ourselves. That's what we're doing.
+          It's gonna be okay. We just have to be
+          smart. Stay together.
 
-                    EMMA
-          Dad never wanted us to—
+Emma doesn't look convinced. Olivia buries her face in Emma's side.
 
-                    ELI
-          Dad's dead.
-
-Silence. Emma looks away. Olivia buries her face in Emma's side.
-
-Sarah stares at the front door. Waiting.
+Sarah stares at the front door. The last light fading outside.
 
                     SARAH
           He'll come. And we'll be ready.

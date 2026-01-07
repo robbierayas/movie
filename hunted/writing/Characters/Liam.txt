@@ -55,6 +55,54 @@ The antagonist. A serial killer who wants to "level up" by hunting worthy prey. 
 - Literary pretension - references Zaroff, sees himself as cultured predator rather than common criminal
 - Victim-blaming worldview: "They just have luck. Bad luck." - victims deserve it for lacking skill
 - Minimal spoken dialogue - when he does speak, it's performative ("Just... learning."), playing a role to blend in
+- Premature confidence crumbles fast: "I thought this would be a challenge" → "This wasn't supposed to be this hard" → "Just... fucking... DIE." - fantasy vs. reality
+- "Sportsman" compliments for worthy opponents: "Oh, you're good..." and "Good game." - genuine respect, almost grateful for the challenge
+- Taunting invitations to continue the game: "Catch me if you can." - treats Sarah's threat as exciting rather than threatening
+- Mockery of targets that backfires: "Some expert." "Some fortress." - contempt before he understands the threat
+
+## ARMOR STATUS BY SCENE
+
+Liam's homemade armor (described in mechanics.txt) degrades throughout Act 3:
+
+### Scene 12 - Parallel Preparation
+- **Status**: FULL ARMOR
+- Torso plates (front/back), shoulder pads, arm plates, leg plates, dirtbike helmet with metal plates, chainmail gloves
+- All protection intact
+
+### Scene 13 - The Return
+- **Status**: ARMOR DAMAGED BY FIRE
+- Molotov trap burns torso armor - some plates conducting heat, causing burns underneath
+- Hot oil trap burns legs further
+- Removes some torso plates that are too hot
+- Helmet visor cracked by flashbang debris
+
+### Scene 14 - Bobby's Return (SWAPPED - now before Eli's Death)
+- **Status**: FURTHER DEGRADED
+- Accelerant burns on basement stairs damage more leg armor
+- Dog fight tears at arm armor - Girly does real damage before dying
+- Forearm plates loosened/bitten through
+- Chainmail gloves shredded from dog bites
+- Removes burned/damaged pieces after dog fight to move freely
+
+### Scene 15 - Eli's Death (SWAPPED - now after Bobby's Return)
+- **Status**: PARTIAL ARMOR REMAINING
+- Torso plates partially intact (some removed from burns)
+- Arm armor minimal - forearms exposed from dog damage
+- Leg armor reduced - shins still covered, thighs exposed
+- Helmet still on but visor damaged
+- Uses Bobby's shotgun to kill Eli
+
+### Scene 16 - The Escape
+- **Status**: MINIMAL ARMOR
+- Crossbow bolt to thigh penetrates now-exposed leg
+- Blows attic hatch lock off with shotgun (doesn't climb through window)
+- Most mobility-restricting pieces removed due to burns/damage
+
+### Scene 17 - The Crawling Struggle
+- **Status**: ARMOR REMOVED
+- After 3-story fall with Sarah, very hurt
+- Removes last of armor to walk out
+- Only Hank's blackbelt remains as trophy
 
 ## KEY SCENES
 - **Act 1, Scene 1: The Humiliation** - Liam bartends invisibly while his V.O. reveals self-aggrandizing worldview ("I possess so much skill"). A customer's casual joke about poisoning drinks triggers his shift from self-pity to cold calculation: "People who get all the luck don't realize they have no skill."
@@ -62,13 +110,13 @@ The antagonist. A serial killer who wants to "level up" by hunting worthy prey. 
 - **Act 1, Scene 3: The Cabela's Encounter** - Liam hunts for worthy prey at Cabela's, dismissing unworthy targets. Spots Hank demonstrating survival expertise. Brief interaction: "Just... learning." Follows Hank home, noting his isolation: "The knife man lives out here. Isolated. Thinks he's safe. Perfect."
 - **Act 1, Scene 5: The Surveillance (Montage)** - Weeks of reconnaissance. Learns the family, routines, property layout. Notes the Rottweiler: "Eighty pounds, maybe more. Noted." Notes Hank's hunting trophies: "So he does hunt. The liar." Plans to catch Hank outside: "Time to hunt."
 - **Act 1, Scene 6: Let's Do This** - Family leaves. Liam gears up (knife, rope, bear mace). Watches Hank arrive home alone. Final V.O.: "He's good. Maybe even great. But I'm better... Let's do this." VOICEOVER ENDS.
-- **Act 2, Scene 7: The Flat Tire** - First real engagement. Slashed tire, arrows, nail trap in handrail. Gets nose broken by Hank's headbutt, kicked off porch. "Oh, you're good..." Hank escapes inside. Liam hurls objects through windows: "We're just getting started!"
-- **Act 2, Scene 8: The Battle Inside** - Brutal indoor fight. Disarmed by Hank's sai, forced to use furniture and dirty tricks. "This wasn't supposed to be this hard." Stabs Hank with broken table leg. "Good game... You were [the challenge]." Executes Hank with his own gun. Headlights arrive—family returning.
-- **Act 2, Scene 9: The Hostage** - Takes Olivia hostage to escape. "I already got what I came for." Sarah threatens him; he's intrigued: "I'd like that." Maces the room and flees.
-- **Act 2, Scene 10: Sarah's Investigation** - Seen objectively for first time—pathetic apartment, murder wall. Bumps into Sarah/Eli leaving. Nearly caught—tackled, hit with lamp—but escapes via fire escape. Writes "CYA SOON" on car window. The hunt continues.
+- **Act 2, Scene 7: The Flat Tire** - First real engagement. Bear trap tire, arrows (second one hits Hank's thigh), nail trap in handrail. Premature confidence: "Looks like I overthought it. I thought this would be a challenge." Flashbanged, thrown over porch railing. Genuine surprise: "Oh, you're good..." Hurls objects through windows: "We're just getting started!"
+- **Act 2, Scene 8: The Battle Inside** - Brutal indoor fight. Disarmed by Hank's sai, forced to use furniture and dirty tricks. "This wasn't supposed to be this hard." Hank nearly kills him—spinning leg takedown, breaks Liam's ribs—but Liam grabs a broken table leg and stabs him. "Good game... You were [the challenge]." Executes Hank with his own gun. Headlights arrive—family returning.
+- **Act 2, Scene 9: The Hostage** - Takes Olivia hostage to escape, blood still crusted on his broken nose from Hank. Calm, transactional: "I'm walking out of here. She comes with me to the car." When Sarah threatens to come for him: "Catch me if you can." Smiles—he's found his next challenge. Maces the room and flees into the trees.
+- **Act 2, Scene 10: Sarah's Investigation** - Seen objectively for first time—pathetic apartment, murder wall. Bumps into Sarah/Eli leaving. Brutal fight: nose re-broken, nearly kills Sarah twice (knife, strangling) but Eli saves her both times. Baton to skull dazes him. Escapes via fire escape but Sarah JUMPS and lands on him. Ground tussle—both too hurt to finish it. Escapes before Eli can get down. Writes "CYA SOON" on car window. The hunt continues.
 - **Act 3, Scene 12: Parallel Preparation** - Heals in abandoned building. Keeps Hank's blackbelt as trophy. Builds attack drone, makeshift armor, welding helmet. Approaches the house at night.
 - **Act 3, Scene 13: The Return** - Returns armored. Tases Girly the dog. Triggers molotov trap, sealed doors, flashbang, gunfire. Armor saves him. Fights Sarah on stairs, gets burned by second molotov. Hot oil trap burns him further. Eli traps him inside: "Two men enter, one man leaves." Retreats to basement.
-- **Act 3, Scene 14: Eli's Death** - Finds shotgun in basement. Ambushes Eli—"The one who wouldn't let me leave." Kills him: "Not even worth the effort." Pursues Sarah to attic, climbs exterior to enter through window.
-- **Act 3, Scene 15: Bobby's Return** - Bobby arrives with shotgun. Burns him on basement stairs with accelerant. Girly attacks—brutal fight—kills the dog with a pipe. Uses Bobby's body as step stool to escape collapsed stairs.
-- **Act 3, Scene 16: The Escape** - Attic fight with Sarah. Crossbow bolt to thigh. Drags Sarah through passage. Both caught in final spring trap—nails through both their legs.
-- **Act 3, Scene 17: The Crawling Struggle** - Strangles Sarah: "Say hi to Hank." Crawls toward escape. Police arrive. Ties Hank's blackbelt around head, does suicide-by-cop: "BANG BANG." Shot dead.
+- **Act 3, Scene 14: Bobby's Return** - Bobby arrives, kids cheer "Unky Buh-by." Bobby dies with arm sticking out. Girly attacks—brutal fight damages Liam's armor. Liam gets Bobby's shotgun, shoots dog twice. Second shot flings Girly into Bobby's outstretched arm—holding her in death.
+- **Act 3, Scene 15: Eli's Death** - Mocks "Unky Buh-by?" from stairs. Eli hears, opens gatehouse doors seeking revenge. Fight on landing—Eli wounds Liam but is overpowered. Eli's dying words: "You aren't a man." Kills him viciously. NOW doors are open—races Sarah, blocks her. Sarah maces, retreats. Liam shoots off attic hatch lock.
+- **Act 3, Scene 16: The Escape** - Girls wait in secret room. Liam about to throw Sarah down passage, she yells for girls to run. Girls open secret door, scream at scene—distracts Liam. Sarah uses momentum to push both down shaft (3 stories). Sarah dies from fall (Liam's grip on her neck). Liam very hurt.
+- **Act 3, Scene 17: The Crawling Struggle** - Girls escape via step ladder from secret room. Liam removes last of armor, walks out. Police arrive. Ties Hank's blackbelt around head, does suicide-by-cop: "BANG BANG." Shot dead.

@@ -14,13 +14,13 @@
 
 ### Scene 3 - The Cabela's Encounter
 - Location: INT. CABELA'S - DAY
-- Characters: Liam, Hank
-- Summary: Liam spots Hank in his element among survival gear—knowledgeable, confident, clearly capable. This is the worthy prey he's been looking for. Liam follows him to the parking lot, gets his license plate, and begins tracking him home.
+- Characters: Liam, Hank, Bobby
+- Summary: Liam spots Hank in his element among survival gear—knowledgeable, confident, clearly capable. This is the worthy prey he's been looking for. Liam mentions he works at a bar (O'Malley's) and needs a knife for protection—Bobby remembers this detail. Liam follows him to the parking lot, gets his license plate, and begins tracking him home.
 
 ### Scene 4 - Family Time
 - Location: EXT./INT. REEVES PROPERTY - VARIOUS
 - Characters: Hank, Bobby, Sarah, Eli, Emma, Olivia, Girly (dog)
-- Summary: Liam is not shown for a few minutes. Bobby and Hank arrive with groceries for a cookout. The family is eager to eat but Olivia reminds about their "homeschool". All look to Hank to decide and he says they will do homeschool first. Homeschool is self-defense class taught by Hank. The kids take turns practicing with Hank or a dummy. Bobby mostly plays with Girly the dog, but joins in doing something wacky to make the kids laugh. Sarah watches all of it while grilling. After, they all sit to eat, with feeling that everything is fine. Cut to..
+- Summary: Liam is not shown for a few minutes. Bobby and Hank arrive with groceries for a cookout. The family is eager to eat but Olivia reminds about their "homeschool". All look to Hank to decide and he says they will do homeschool first. Homeschool is self-defense class taught by Hank. The kids take turns practicing with Hank or a dummy. Bobby plays with Girly—when Olivia tells him to call her "Girly," Bobby says "Then call me Unky Buh-by" and the kids laugh. Bobby joins in doing something wacky. Sarah watches all of it while grilling. After, they all sit to eat, with feeling that everything is fine. Cut to..
 
 ### Scene 5 - The Surveillance
 - Location: EXT./INT. REEVES PROPERTY - VARIOUS (MONTAGE)
@@ -75,25 +75,25 @@
 - Characters: Liam, Sarah, Eli, Emma, Olivia, Girly
 - Summary: Liam returns for what he thinks will be easy cleanup kills. He deploys a surveillance drone to patrol the exterior, keeping everyone pinned inside. Girly the dog runs out to attack him but he uses a taser on her. He walks up the steps into a prepared battlefield. Molotov door trap triggers—first floor catches fire but fire-resistant construction contains it. First trap springs. The structure inverts—now Liam is the one being hunted. Liam takes the first floor; family retreats upstairs but loses access to basement weapons cache. Running battle through the modified house begins. Each trap uses skills Hank taught his family. Kids shoot down the drone with something they grabbed before retreating upstairs.
 
-### Scene 14 - Eli's Death
+### Scene 14 - Bobby's Return
+- Location: EXT./INT. REEVES HOUSE - NIGHT
+- Characters: Liam, Bobby, Girly, Sarah, Emma, Olivia
+- Summary: The kids hear Bobby's truck and cheer "Unky Buh-by!" Liam hears the nickname from below. Bobby arrives, finds tased Girly, revives her. They enter together. Bobby goes to basement; Liam burns him on the stairs with accelerant. Bobby dies with one arm outstretched. Girly attacks—brutal fight damages Liam's armor. Liam gets Bobby's shotgun, shoots the dog twice. The second shot flings Girly into Bobby's outstretched arm—holding her in death. Liam mocks "Unky Buh-by?" up the stairs to confirm Bobby's death.
+
+### Scene 15 - Eli's Death
 - Location: INT. REEVES HOUSE - NIGHT
 - Characters: Liam, Sarah, Eli, Emma, Olivia
-- Summary: The battle continues. Eli, committed to revenge like his mother, engages Liam directly. He dies for it—killed during the confrontation. Sarah witnesses her oldest child's death. Emma and Olivia are horrified. Sarah's obsession deepens rather than breaks.
-
-### Scene 15 - Bobby's Return
-- Location: EXT./INT. REEVES HOUSE - NIGHT
-- Characters: Liam, Bobby, Girly
-- Summary: Liam runs to the basement to collect himself. Bobby shows up after the girls called him. He sees what he thinks is dead Girly and immediately grabs his shotgun. He checks on the dog and she wakes up. They have hunted together and already have their rhythm. The smoke messes with Girly's smell but they make their way to the basement. Bobby tells Girly to wait as he goes down the stairs. Liam has already poured oil or gas on the stairs and lights it, starting Bobby on fire and he falls down the stairs useless. Liam stands over him and Girly jumps down the stairs to attack. They struggle until Liam gets a weapon and kills the dog. The stairs collapse and he heartlessly uses Bobby's body as a step stool.
+- Summary: Family hears Liam's mocking "Unky Buh-by?" from below—Bobby is dead. Eli, enraged, opens the gatehouse doors seeking revenge. He charges Liam with crossbow and knife. Brutal fight—Eli wounds Liam but is overpowered. Eli's dying words: "You aren't a man." Liam kills him viciously. NOW the doors are open. Sarah and Liam race for them—Liam blocks her. Sarah retreats, maces Liam, slams interior door. Liam kicks it down. Family in attic with hatch locked. Liam shoots off the lock with shotgun. Sarah sends girls to wait in secret room.
 
 ### Scene 16 - The Escape
-- Location: INT./EXT. REEVES HOUSE - NIGHT
+- Location: INT. REEVES HOUSE - NIGHT
 - Characters: Sarah, Liam, Emma, Olivia
-- Summary: Sarah confronts Liam directly on the 2nd floor, sends Emma and Olivia to "finish him off" while she holds him. But Emma—seeing what revenge cost Eli—grabs Olivia and makes the practical choice. While Liam and Sarah fight on the 2nd floor, they slip through the secret passage: attic → hidden tunnel → secret larder → basement → outside. Liam doesn't notice them escaping below. We don't see the 911 call, only the result later.
+- Summary: Sarah flees into secret passage. Liam catches her at the top of the 3-story shaft. About to throw her down, Sarah screams for the girls to run. Emma and Olivia open the secret door below—see Liam holding their mother—and scream. The distraction allows Sarah to grab Liam and throw them both down the shaft. They fall 3 stories. Sarah dies (neck broken from fall and Liam's grip). Liam is very hurt but alive. Girls escape via step ladder. Liam removes last of his armor.
 
-### Scene 17 - The Crawling Struggle
-- Location: INT. REEVES HOUSE / EXT. REEVES PROPERTY - NIGHT
-- Characters: Liam, Sarah, Police, Emma, Olivia
-- Summary: Liam catches Sarah. While torturing her, he accidentally activates one of her traps—now both are wounded, disabled. Brutal, crawling struggle. Liam kills her. Exhausted, he staggers toward escape—and finds police cars surrounding the property. Emma and Olivia watch from a safe distance. Liam is arrested. The killer is caught not by survivalist ingenuity, but by a phone call.
+### Scene 17 - The End
+- Location: EXT. REEVES PROPERTY - NIGHT
+- Characters: Liam, Police, Emma, Olivia
+- Summary: Liam walks out of the burning house. Armorless, broken. Police arrive. Emma and Olivia watch from safety. Liam ties Hank's blackbelt around his head, raises finger-guns at officers: "BANG BANG." Suicide-by-cop. The killer is dead. The children survived because they called 911.
 
 ---
 
