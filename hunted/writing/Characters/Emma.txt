@@ -6,6 +6,7 @@
 - **Occupation**: Student
 - **Family**: Child of Hank (deceased) and Sarah (deceased), sibling to Eli (18, deceased) and Olivia (10)
 - **Hunting**: Has own hunting award - equally capable as rest of family
+- **Specialty**: Former gymnast ("I didn't quit. I... graduated."), now shoots .22 rifle for fun - enough for the drone, not enough for Liam
 
 ## ARCHETYPE
 **The Pragmatist** - Makes the sensible choice when everyone else is consumed by revenge. Saves herself and Olivia by calling 911.
@@ -44,12 +45,15 @@ The practical one. Makes the sensible choice that saves both herself and Olivia.
 - Growing fear shows through hesitation ("Mom... this feels wrong.")
 - Whispered conspiracies with Olivia ("I want to go to Aunt Rachel's.")
 - Final decision is action, not words—grabs Olivia and goes
+- Perceptive observations that cut through denial: "I don't think Mom wants to leave." - sees what adults won't admit
+- Invokes father's values against mother's obsession: "Dad taught us to defend ourselves, not... not this. He wouldn't want this."
+- Hope is loud and unguarded: "Unky Buh-by! UNKY BUH-BY!" - then silenced by horror
 
 ## KEY SCENES
 - **Act 1, Scene 4: Family Time** - Normal kid. Sibling rivalry ("Show-off", "I didn't quit. I... graduated."). Tries at self-defense training. Just enjoying family time before everything changes.
 - **Act 2, Scene 9: The Hostage** - Screams "DAD!" seeing Hank's body. Held back by Eli during hostage standoff.
-- **Act 2, Scene 11: Preparing the House** - Helps reluctantly. "Mom... this feels wrong." Growing fear as obsession consumes Sarah/Eli.
-- **Act 3, Scene 12: Parallel Preparation** - Whispers with Olivia: "I want to go to Aunt Rachel's." / "Me too." Putting on brave face.
-- **Act 3, Scene 13: The Return** - "There's something out there!" (drone). Huddles with Olivia, scared.
-- **Act 3, Scene 14: Eli's Death** - "Maybe we should just go." Realizes drone can't shoot through glass. Asks "Mom? Where's Eli?" Escapes through secret passage with Olivia.
+- **Act 3, Scene 11: Parallel Preparation (MONTAGE)** - Closes and locks windows with Olivia. Olivia: "Why are we doing this?" Emma: "Mom said to." Olivia: "Shouldn't we just leave?" Emma: "I don't think Mom wants to leave." Exchange look of fear. Later pushes back at family meeting: "This is wrong. All of this. Dad taught us to defend ourselves, not... not this. He wouldn't want this." Sarah's cold "Dad's dead" silences her but doesn't change her mind.
+- **Act 3, Scene 12: The Return** - "There's something out there!" (sees drone at window). Huddles with Olivia, scared. After Liam retreats to basement, grabs her .22 rifle and shoots down the drone: "I got it." One less advantage for Liam.
+- **Act 3, Scene 13: Bobby's Return** - Cheers with Olivia: "Unky Buh-by! UNKY BUH-BY!" Hope flooding her voice. Then hears Liam's mocking echo from below. Hope dies.
+- **Act 3, Scene 14: Eli's Death** - Witnesses Eli's fatal charge. Retreats to attic with Sarah and Olivia. Escapes through secret passage when Sarah sends them to the secret room: "Go to the secret room. Wait there." Takes Olivia's hand. They disappear into the passage.
 - **Act 3, Scene 17: The Crawling Struggle** - Watches from police car as Liam is shot. "Let's go." Chose the sensible option. Survived.

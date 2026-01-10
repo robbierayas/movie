@@ -59,50 +59,64 @@ The antagonist. A serial killer who wants to "level up" by hunting worthy prey. 
 - "Sportsman" compliments for worthy opponents: "Oh, you're good..." and "Good game." - genuine respect, almost grateful for the challenge
 - Taunting invitations to continue the game: "Catch me if you can." - treats Sarah's threat as exciting rather than threatening
 - Mockery of targets that backfires: "Some expert." "Some fortress." - contempt before he understands the threat
+- Crude vulgarity when desperate: "Body armor, bitch!" - drops the cultured predator facade under pressure
+- Superiority complex as comedy: "HOW DARE YOU BURN ME!" - genuinely indignant that prey would injure him, absurd given the context
+- Cruel psychological warfare: mocks "Unky Buh-by?" up the stairwell, knowing the children's silence confirms their hope is dead
+- Analyzes threats even mid-combat: "But the lock is store-bought. Amateur mistake." - maintains superiority complex through technical critique
 
 ## ARMOR STATUS BY SCENE
 
 Liam's homemade armor (described in mechanics.txt) degrades throughout Act 3:
 
-### Scene 12 - Parallel Preparation
+### Scene 11 - Parallel Preparation
 - **Status**: FULL ARMOR
-- Torso plates (front/back), shoulder pads, arm plates, leg plates, dirtbike helmet with metal plates, chainmail gloves
+- **Torso**: Front/back plates (fish-scale pattern, ~3x2" overlapping metal pieces)
+- **Shoulders**: Shoulder pads intact
+- **Arms**: Full arm plates, chainmail gloves with leather fingers
+- **Legs**: Full leg plates (thigh and shin coverage)
+- **Head**: Dirtbike helmet with metal plates drilled around outside (top, sides, back), big Oakley sunglasses underneath for flashbang protection
 - All protection intact
 
-### Scene 13 - The Return
+### Scene 12 - The Return
 - **Status**: ARMOR DAMAGED BY FIRE
-- Molotov trap burns torso armor - some plates conducting heat, causing burns underneath
-- Hot oil trap burns legs further
-- Removes some torso plates that are too hot
-- Helmet visor cracked by flashbang debris
+- **Legs**: Molotov trap catches RIGHT LEG on fire—pant leg smolders, calf scorched beneath leg plates. Plates conduct heat, causing burns underneath
+- **Arms/Shoulders**: Hot oil trap catches LEFT SHOULDER and LEFT ARM—burns on exposed skin where oil seeped through gaps
+- **Torso**: Rips off jacket; torso plates underneath saved him but some plates too hot, removes 2-3 from left side
+- **Head**: Oakleys cracked/damaged by flashbang debris, still functional
+- **Mobility**: Retreats to basement limping on burned right leg
 
-### Scene 14 - Bobby's Return (SWAPPED - now before Eli's Death)
-- **Status**: FURTHER DEGRADED
-- Accelerant burns on basement stairs damage more leg armor
-- Dog fight tears at arm armor - Girly does real damage before dying
-- Forearm plates loosened/bitten through
-- Chainmail gloves shredded from dog bites
-- Removes burned/damaged pieces after dog fight to move freely
+### Scene 13 - Bobby's Return
+- **Status**: FURTHER DEGRADED BY DOG
+- **Arms**: Girly's jaws clamp RIGHT FOREARM—tears plates from stitching, metal screeches as fish-scale plates rip away. Forearm plate GONE, teeth sink into flesh, hit bone. Blood pours from arm, muscle tearing
+- **Hands**: Chainmail gloves SHREDDED—rings burst apart when Girly bites down. Right hand exposed, bleeding from dozen punctures
+- **Legs**: Accelerant burns on basement stairs add more damage to already-burned leg armor
+- **Post-fight**: Strips off damaged forearm plates (both arms now), removes shredded chainmail gloves, drops warped leg plates that restrict movement
+- **Remaining**: Torso plates (partial), shoulder pads, shin guards, damaged helmet
 
-### Scene 15 - Eli's Death (SWAPPED - now after Bobby's Return)
+### Scene 14 - Eli's Death
 - **Status**: PARTIAL ARMOR REMAINING
-- Torso plates partially intact (some removed from burns)
-- Arm armor minimal - forearms exposed from dog damage
-- Leg armor reduced - shins still covered, thighs exposed
-- Helmet still on but visor damaged
-- Uses Bobby's shotgun to kill Eli
+- **Torso**: Chest plate deflects Eli's arrow (SPARKS). But side armor has gap from removed plates—Eli's knife finds it, sinks into side below ribs
+- **Arms**: Forearms fully exposed (dog damage). Upper arm plates still present
+- **Legs**: Shin guards remain, thighs exposed. Burned right calf still painful
+- **Hands**: No gloves—bare hands bleeding from dog bites
+- **Head**: Helmet still on, Oakleys cracked but helmet protects from Eli's headbutt
+- **Weapons**: Now has Bobby's shotgun (extended magazine)
 
-### Scene 16 - The Escape
+### Scene 15 - The Escape
 - **Status**: MINIMAL ARMOR
-- Crossbow bolt to thigh penetrates now-exposed leg
-- Blows attic hatch lock off with shotgun (doesn't climb through window)
-- Most mobility-restricting pieces removed due to burns/damage
+- **Torso**: Chest/back plates still present (stopped arrow in Scene 14)
+- **Arms**: Upper arm plates only, forearms bare
+- **Legs**: LEFT THIGH now exposed—takes arrow wound. Shin guards remain
+- **Head**: Helmet on, helps in final struggle
+- **Actions**: Blows attic hatch lock off with shotgun, pursues Sarah into attic
+- Most mobility-restricting pieces already removed
 
-### Scene 17 - The Crawling Struggle
+### Scene 16 - The Crawling Struggle
 - **Status**: ARMOR REMOVED
-- After 3-story fall with Sarah, very hurt
-- Removes last of armor to walk out
-- Only Hank's blackbelt remains as trophy
+- After 3-story fall with Sarah, severely injured
+- Removes last of armor (remaining torso plates, shin guards, helmet) to walk out
+- Only Hank's blackbelt remains—tied around arm as trophy
+- Final appearance: battered, burned, bitten, stabbed, but walking
 
 ## KEY SCENES
 - **Act 1, Scene 1: The Humiliation** - Liam bartends invisibly while his V.O. reveals self-aggrandizing worldview ("I possess so much skill"). A customer's casual joke about poisoning drinks triggers his shift from self-pity to cold calculation: "People who get all the luck don't realize they have no skill."
@@ -114,9 +128,9 @@ Liam's homemade armor (described in mechanics.txt) degrades throughout Act 3:
 - **Act 2, Scene 8: The Battle Inside** - Brutal indoor fight. Disarmed by Hank's sai, forced to use furniture and dirty tricks. "This wasn't supposed to be this hard." Hank nearly kills him—spinning leg takedown, breaks Liam's ribs—but Liam grabs a broken table leg and stabs him. "Good game... You were [the challenge]." Executes Hank with his own gun. Headlights arrive—family returning.
 - **Act 2, Scene 9: The Hostage** - Takes Olivia hostage to escape, blood still crusted on his broken nose from Hank. Calm, transactional: "I'm walking out of here. She comes with me to the car." When Sarah threatens to come for him: "Catch me if you can." Smiles—he's found his next challenge. Maces the room and flees into the trees.
 - **Act 2, Scene 10: Sarah's Investigation** - Seen objectively for first time—pathetic apartment, murder wall. Bumps into Sarah/Eli leaving. Brutal fight: nose re-broken, nearly kills Sarah twice (knife, strangling) but Eli saves her both times. Baton to skull dazes him. Escapes via fire escape but Sarah JUMPS and lands on him. Ground tussle—both too hurt to finish it. Escapes before Eli can get down. Writes "CYA SOON" on car window. The hunt continues.
-- **Act 3, Scene 12: Parallel Preparation** - Heals in abandoned building. Keeps Hank's blackbelt as trophy. Builds attack drone, makeshift armor, welding helmet. Approaches the house at night.
-- **Act 3, Scene 13: The Return** - Returns armored. Tases Girly the dog. Triggers molotov trap, sealed doors, flashbang, gunfire. Armor saves him. Fights Sarah on stairs, gets burned by second molotov. Hot oil trap burns him further. Eli traps him inside: "Two men enter, one man leaves." Retreats to basement.
-- **Act 3, Scene 14: Bobby's Return** - Bobby arrives, kids cheer "Unky Buh-by." Bobby dies with arm sticking out. Girly attacks—brutal fight damages Liam's armor. Liam gets Bobby's shotgun, shoots dog twice. Second shot flings Girly into Bobby's outstretched arm—holding her in death.
-- **Act 3, Scene 15: Eli's Death** - Mocks "Unky Buh-by?" from stairs. Eli hears, opens gatehouse doors seeking revenge. Fight on landing—Eli wounds Liam but is overpowered. Eli's dying words: "You aren't a man." Kills him viciously. NOW doors are open—races Sarah, blocks her. Sarah maces, retreats. Liam shoots off attic hatch lock.
+- **Act 3, Scene 11: Parallel Preparation (MONTAGE)** - Heals in abandoned building. Keeps Hank's blackbelt as trophy: "You earned this." Builds attack drone with taser, makeshift fish-scale armor, dirtbike helmet with metal plates. "Let's finish this." Approaches the house at night.
+- **Act 3, Scene 12: The Return** - Returns armored. Tases Girly: "Good dog." Battering rams door down. Triggers sealed doors, flashbang, blind gunfire (armor saves him): "Body armor, bitch!" Molotov trap burns his leg. Fights Sarah on stairs—wounded but presses. Hot oil trap burns him further: "HOW DARE YOU BURN ME!" Eli traps him inside: "Two men enter, one man leaves." Retreats to basement.
+- **Act 3, Scene 13: Bobby's Return** - Hears kids cheer "Unky Buh-by"—notes reinforcements. Sets accelerant trap on basement stairs: "Should've stayed home, gun man." Bobby burns, dies with arm outstretched. "Spray and pray. Neither one helped." Girly attacks—brutal fight shreds his armor. Gets Bobby's shotgun, shoots dog twice. Second shot flings Girly into Bobby's arm: "Like he caught her." Mocks from stairs: "Unky Buh-by?" Silence confirms Bobby's death.
+- **Act 3, Scene 14: Eli's Death** - Eli opens gatehouse doors seeking revenge: "The one who wouldn't let me leave." Eli's arrow deflects off chest armor. Fight on landing—Eli wounds him with knife to side. Overpowers Eli with shotgun blast to thigh. Eli's dying words hit something: "You aren't a man." Kills him viciously with knife: "Not even worth the effort" (but voice is tight—it stung). Races Sarah for open doors, blocks her. Sarah maces him, retreats. Kicks down bedroom door, shoots off attic hatch lock: "But the lock is store-bought. Amateur mistake."
 - **Act 3, Scene 16: The Escape** - Girls wait in secret room. Liam about to throw Sarah down passage, she yells for girls to run. Girls open secret door, scream at scene—distracts Liam. Sarah uses momentum to push both down shaft (3 stories). Sarah dies from fall (Liam's grip on her neck). Liam very hurt.
 - **Act 3, Scene 17: The Crawling Struggle** - Girls escape via step ladder from secret room. Liam removes last of armor, walks out. Police arrive. Ties Hank's blackbelt around head, does suicide-by-cop: "BANG BANG." Shot dead.

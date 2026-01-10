@@ -56,41 +56,36 @@
 - Characters: Sarah, Eli, Liam (observed, not POV)
 - Summary: Sarah investigates without police. We shift to an unbiased view of Liam—not his voiceover, but who he really is: invisible bartender, cramped apartment, pathetic life. Sarah pieces together clues, gets close to identifying him. She finds him with Eli and attacks—but Liam barely escapes. As he flees, he tells Sarah he'll visit soon. Sarah has confirmed her target but lost him.
 
-### Scene 11 - Preparing the House
-- Location: INT. REEVES HOUSE - NIGHT
-- Characters: Sarah, Eli, Emma, Olivia
-- Summary: Sarah has lost Liam's trail but prepares anyway. She knows he'll come back—for the challenge, not to silence witnesses. With her children, she begins transforming the house. Eli is all-in. The younger two grow scared. The house becomes a fortress.
-
 ---
 
 ## Act 3 - The Hunted
 
-### Scene 12 - Parallel Preparation
-- Location: INT. LIAM'S HIDING SPOT / INT. REEVES HOUSE - DAY/NIGHT (INTERCUT)
+### Scene 11 - Parallel Preparation
+- Location: INT. LIAM'S HIDING SPOT / INT. REEVES HOUSE - LATE AFTERNOON TO NIGHT (INTERCUT)
 - Characters: Liam, Sarah, Eli, Emma, Olivia
-- Summary: Liam heals, plans his return, learns from his mistakes. Meanwhile, Sarah and Eli build traps throughout the house—using Hank's prepper supplies. Emma and Olivia participate but are increasingly frightened. This has gone beyond defense into something darker.
+- Summary: ~24 hours after Hank's death. Intercut between Liam preparing in hiding (healing, building armor, modifying drone) and the family preparing at home (building traps, family talk where Sarah snaps "Dad's dead"). Ends with Liam approaching the house at nightfall and Sarah seeing him: "He's here."
 
-### Scene 13 - The Return
+### Scene 12 - The Return
 - Location: EXT./INT. REEVES HOUSE - NIGHT
 - Characters: Liam, Sarah, Eli, Emma, Olivia, Girly
 - Summary: Liam returns for what he thinks will be easy cleanup kills. He deploys a surveillance drone to patrol the exterior, keeping everyone pinned inside. Girly the dog runs out to attack him but he uses a taser on her. He walks up the steps into a prepared battlefield. Molotov door trap triggers—first floor catches fire but fire-resistant construction contains it. First trap springs. The structure inverts—now Liam is the one being hunted. Liam takes the first floor; family retreats upstairs but loses access to basement weapons cache. Running battle through the modified house begins. Each trap uses skills Hank taught his family. Kids shoot down the drone with something they grabbed before retreating upstairs.
 
-### Scene 14 - Bobby's Return
+### Scene 13 - Bobby's Return
 - Location: EXT./INT. REEVES HOUSE - NIGHT
 - Characters: Liam, Bobby, Girly, Sarah, Emma, Olivia
 - Summary: The kids hear Bobby's truck and cheer "Unky Buh-by!" Liam hears the nickname from below. Bobby arrives, finds tased Girly, revives her. They enter together. Bobby goes to basement; Liam burns him on the stairs with accelerant. Bobby dies with one arm outstretched. Girly attacks—brutal fight damages Liam's armor. Liam gets Bobby's shotgun, shoots the dog twice. The second shot flings Girly into Bobby's outstretched arm—holding her in death. Liam mocks "Unky Buh-by?" up the stairs to confirm Bobby's death.
 
-### Scene 15 - Eli's Death
+### Scene 14 - Eli's Death
 - Location: INT. REEVES HOUSE - NIGHT
 - Characters: Liam, Sarah, Eli, Emma, Olivia
-- Summary: Family hears Liam's mocking "Unky Buh-by?" from below—Bobby is dead. Eli, enraged, opens the gatehouse doors seeking revenge. He charges Liam with crossbow and knife. Brutal fight—Eli wounds Liam but is overpowered. Eli's dying words: "You aren't a man." Liam kills him viciously. NOW the doors are open. Sarah and Liam race for them—Liam blocks her. Sarah retreats, maces Liam, slams interior door. Liam kicks it down. Family in attic with hatch locked. Liam shoots off the lock with shotgun. Sarah sends girls to wait in secret room.
+- Summary: Family hears Liam's mocking "Unky Buh-by?" from below—Bobby is dead. Eli, enraged, opens the gatehouse doors seeking revenge. He charges Liam with bow and knife. Brutal fight—Eli wounds Liam but is overpowered. Eli's dying words: "You aren't a man." Liam kills him viciously. NOW the doors are open. Sarah and Liam race for them—Liam blocks her. Sarah retreats, maces Liam, slams interior door. Liam kicks it down. Family in attic with hatch locked. Liam shoots off the lock with shotgun. Sarah sends girls to wait in secret room.
 
-### Scene 16 - The Escape
+### Scene 15 - The Escape
 - Location: INT. REEVES HOUSE - NIGHT
 - Characters: Sarah, Liam, Emma, Olivia
 - Summary: Sarah flees into secret passage. Liam catches her at the top of the 3-story shaft. About to throw her down, Sarah screams for the girls to run. Emma and Olivia open the secret door below—see Liam holding their mother—and scream. The distraction allows Sarah to grab Liam and throw them both down the shaft. They fall 3 stories. Sarah dies (neck broken from fall and Liam's grip). Liam is very hurt but alive. Girls escape via step ladder. Liam removes last of his armor.
 
-### Scene 17 - The End
+### Scene 16 - The Crawling Struggle
 - Location: EXT. REEVES PROPERTY - NIGHT
 - Characters: Liam, Police, Emma, Olivia
 - Summary: Liam walks out of the burning house. Armorless, broken. Police arrive. Emma and Olivia watch from safety. Liam ties Hank's blackbelt around his head, raises finger-guns at officers: "BANG BANG." Suicide-by-cop. The killer is dead. The children survived because they called 911.
@@ -99,9 +94,9 @@
 
 ## Scene Count Summary
 - Act 1: 6 scenes (1-6)
-- Act 2: 5 scenes (7-11)
-- Act 3: 6 scenes (12-17)
-- **Total: 17 scenes**
+- Act 2: 4 scenes (7-10)
+- Act 3: 6 scenes (11-16)
+- **Total: 16 scenes**
 
 ## Estimated Runtime
 - Act 1: 20-25 minutes (setup, voiceover-driven, surveillance montage)

@@ -94,7 +94,7 @@ Sarah's head snaps up.
           All of them?
 
                     DETECTIVE COLE
-          Ballistics. Chain of custody. We need to determine
+          Ballistics. We need to determine
           which weapon killed your husband.
 
                     SARAH
@@ -181,13 +181,15 @@ Sarah steps onto the porch. ELI behind her.
           Sarah. I came as soon as I could. I can't... Hank...
 
                     SARAH
-          I know.
+          I know. Emma! Olivia! Let him get inside! Go finish eating.
+
+The kids go ahead to the kitchen. Bobby and Sarah walk to the kitchen, talking.
 
                     BOBBY
           What do you need?
 
                     SARAH
-          Stay with the girls. We won't be long.
+          Stay with the kids. I won't be long.
 
 Bobby looks at Eli, then back at Sarah. Understanding dawns.
 
@@ -197,7 +199,44 @@ Bobby looks at Eli, then back at Sarah. Understanding dawns.
                     SARAH
           The police took our guns and told me to sit tight.
 
-Bobby doesn't have an answer for that.
+                    BOBBY
+          They took all of them?
+
+                    SARAH
+          Yeah... but I just need one.
+
+                    BOBBY
+          Whoa I know you wanna make it right, but you have the kids.
+
+                    SARAH
+          It's to protect them.
+
+                    BOBBY
+          Is it? Now I know you know, but you are going to have to set the example for them from now on.
+
+                    SARAH
+          So you don't think I can do it?
+
+                    BOBBY
+          It's like... this house is setup for defense, not offense, because you can last longer on defense. That's what Hank...
+
+Bobby hesitates. Then reaches into his waistband, pulls out a HANDGUN. Holds it out to her.
+
+                    BOBBY
+          Well, I don't feel right giving this to you, but I don't feel right keeping it from you.
+
+He hands her the gun.
+
+                    BOBBY
+          Johnny Law isn't gonna be able to trace this old boy. And I know you know, but if they do catch you,...
+
+                    SARAH
+          Call my lawyer.
+
+Sarah takes it. Checks the chamber. Professional.
+
+                    SARAH
+          Thank you, Bobby.
 
                     EMMA
           Where are you going?
@@ -205,15 +244,28 @@ Bobby doesn't have an answer for that.
 Sarah looks at her daughter.
 
                     SARAH
+          Out for a bit.
+
+                    EMMA
+          To find him?
+
+                    SARAH
           To find him.
 
                     ELI
           I'm going with you.
 
-Sarah meets his eyes. Sees the same cold fury she feels.
+Sarah meets his eyes. Sees the same cold fury she feels. She looks at Bobby, thinking of being the example.
 
                     SARAH
-          Get in the car.
+           We are just finding him and reporting him.
+
+She puts the gun down on the counter looking at Emma.
+
+                    SARAH
+          So I won't be needing this.
+
+They start to the car.
 
 INT. CABELA'S - MANAGER'S OFFICE - LATE MORNING
 
@@ -492,7 +544,7 @@ EXT. ALLEY - CONTINUOUS
 
 Liam reaches the street with a car with dirty windows parked on the street in front of him.
 
-Liam pauses. Uses his finger to write on his car window:
+Liam pauses. Uses his finger to write on the car window:
 
                     CYA SOON
 
