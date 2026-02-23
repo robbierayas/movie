@@ -54,10 +54,15 @@ See **history.txt** for complete historical documentation, dates, sources, and f
 
 ## MAIN CHARACTERS
 
-### Jack Brennan (FBI/FBN Agent) - COMPOSITE CHARACTER
-Federal Bureau of Narcotics agent, late 30s. Personal stake: brother died from heroin overdose. Believes Lucky is the mastermind he must stop. Goes undercover in Havana, recruits informants, documents the Havana Conference. Will discover removing Lucky empowers Genovese - a worse villain.
+### Jack Brennan (FBN Agent) - COMPOSITE CHARACTER
+Federal Bureau of Narcotics agent, late 30s. Personal stake: brother died from heroin overdose. Believes Lucky is the mastermind he must stop. Goes undercover in Havana, recruits informants, documents the Havana Conference. Reports back to Director Hartley via phone/telegram - his only lifeline to Washington. Legitimately trying to dismantle the French Connection. Will discover too late that his own director was using him as Genovese's pawn.
 
-**Based on:** Harry Anslinger (FBN Director 1930-1962) and his agents.
+**Based on:** FBN field agents who operated in Cuba.
+
+### Director William Hartley (FBN Director) - COMPOSITE CHARACTER
+FBN Director, late 50s. Brennan's boss in Washington. Cold, pragmatic, politically ambitious. Sends Brennan to Havana and serves as his handler - phone calls and telegrams where Brennan reports findings and Hartley gives orders. To Brennan, he's the voice of authority and mission clarity. In reality, Hartley has a secret arrangement with Genovese: he feeds Genovese intelligence on Lucky's operations, and Genovese feeds him evidence to build the deportation case. Hartley doesn't care which mobster runs the heroin trade - he wants the political win of deporting Luciano. The twist: the "legitimate investigation" was manufactured from both ends.
+
+**Based on:** Harry Anslinger (FBN Director 1930-1962) - who historically used aggressive political tactics including the medical supply ultimatum.
 
 ### Carlos Delgado (Cuban Secret Police) - COMPOSITE CHARACTER
 Cuban Secret Police officer, early 40s. Family man (wife Maria, two young daughters). Believes in serving Cuba but works for a corrupt government. Assigned to protect Lucky, witnesses everything. Forms alliance with Brennan. Must choose between duty and conscience.
@@ -101,18 +106,20 @@ Lucky's girlfriend from New York. Young, beautiful. Accompanies him in Cuba. Pre
 Lucky arrives in Havana and builds his new empire. Brennan goes undercover. Delgado is assigned to protect Lucky. The Havana Conference is planned.
 
 **Major Beats:**
-- Miami FBN office: Brennan learns Lucky is in Cuba, volunteers undercover
+- Washington FBN office: Director Hartley briefs Brennan - Lucky spotted in Cuba, assigns him undercover. Hartley frames it as a righteous mission: "Shut down the French Connection at its source."
 - Havana airport: Lucky arrives, greeted by Meyer Lansky
 - Hotel Nacional: Lucky checks in, invests $150,000
 - Delgado's home: Family man conflicted about assignment
+- **Brennan calls Hartley (exposition):** Reports arrival, hotel layout, initial observations. Hartley gives tactical guidance, asks probing questions about Lucky's contacts. (Hartley is mapping the operation for Genovese.)
 - November montage: Lucky at racetracks, casinos, mansion, building operations
 - Brennan recruits informants: telephone operator, elevator attendant
 - Delgado assigned as Lucky's security, witnesses mob meetings
 - Brennan and Delgado first encounter at hotel bar
+- **Brennan calls Hartley (exposition):** Reports informant network established, Delgado as potential asset. Hartley pushes him to dig deeper into who Lucky trusts most. (Building Genovese's target list.)
 - Lucky's meetings building heroin network (Corsican, Sicilian connections)
 - Conference preparations begin
 
-**Act One Climax:** Late November - Brennan's informants report massive meeting planned for December. The entire American Mafia leadership is coming to Havana.
+**Act One Climax:** Late November - Brennan's informants report massive meeting planned for December. Brennan calls Hartley with the news. Hartley's reaction is strangely unsurprised - "Good work, keep documenting everything." (He already knew from Genovese.)
 
 ---
 
@@ -151,7 +158,7 @@ The Havana Conference. Genovese challenges Lucky. Assassination attempt. Brennan
 - Delgado's choice: Meets Brennan, agrees to share information
 
 **Christmas Day (Dec 25):**
-- Genovese making secret phone calls (informing to FBN)
+- Genovese making secret phone calls (to Director Hartley directly)
 
 **Conference Ends (Dec 26):**
 - News: Flamingo opening is disaster
@@ -166,7 +173,8 @@ The Havana Conference. Genovese challenges Lucky. Assassination attempt. Brennan
 **January 1947 - Investigation Intensifies:**
 - Brennan compiles evidence from informants
 - Documents complete heroin network
-- Discovers Genovese is secretly informing
+- **Brennan calls Hartley (exposition):** Full conference debrief - attendees, heroin routes, territory divisions. Hartley praises him, says Washington is building the deportation case. Brennan feels validated. (Hartley is passing everything to Genovese, who now knows exactly what Lucky revealed at the conference.)
+- Brennan notices something odd: some of his intelligence seems to already be known in Washington before he reports it. Files it away but trusts Hartley.
 - Delgado and Brennan meet regularly, form alliance
 - Delgado sees Lucky has restraint, Genovese has none
 - Debate: Are they making things worse?
@@ -175,9 +183,9 @@ The Havana Conference. Genovese challenges Lucky. Assassination attempt. Brennan
 - Sinatra returns to Havana for 4 days
 - Photographed constantly with Lucky at racetracks
 - Photos published in U.S., public outrage
-- Anslinger uses this to pressure State Department
+- Hartley uses this to pressure State Department
 
-**Act Two Climax:** February 10-15 - Anslinger proposes economic blackmail. February 21 - U.S. delivers ultimatum to Cuba: Deport Luciano or lose all medical supplies. Batista has no choice.
+**Act Two Climax:** February 10-15 - Hartley proposes economic blackmail to State Department, leveraging Brennan's evidence. February 21 - U.S. delivers ultimatum to Cuba: Deport Luciano or lose all medical supplies. Batista has no choice. **Brennan calls Hartley (exposition):** Hartley tells him the ultimatum worked - "Your evidence made this possible, Jack." Brennan is proud. He has no idea Hartley orchestrated this outcome for Genovese from the start.
 
 ---
 
@@ -220,10 +228,12 @@ Lucky's arrest, detention, and deportation. Genovese's betrayal revealed. The "v
   - Genovese reveals expansion plans
   - Lucky warns Lansky and Anastasia
 
-**Mid-March - Hollow Victories:**
-- Brennan receives telegram: Mission accomplished
+**Mid-March - Hollow Victories / The Reveal:**
+- Brennan receives telegram from Hartley: Mission accomplished
 - But feels no triumph, Delgado's warnings echo
-- Writes report warning about Genovese (will be ignored)
+- **THE TWIST:** Brennan discovers the truth. Could be: he finds a decoded telegram, or Lansky tells him during a final encounter, or Delgado's contacts reveal it - Hartley has been communicating with Genovese for months. Brennan's entire mission was a tool. Every report he filed, every piece of intelligence he gathered, was funneled to Genovese through Hartley. The deportation wasn't justice - it was a coup.
+- Brennan confronts Hartley by phone. Hartley is unapologetic: "Luciano is gone. That's what matters. That's what your brother would have wanted." Brennan: "You just handed the whole operation to someone worse." Hartley: "That's not our problem today."
+- Writes report warning about Genovese and Hartley's role (will be buried)
 - Delgado's goodbye to Lucky: mutual respect despite being enemies
 
 **March 19, 1947 - The Deportation:**
@@ -302,16 +312,20 @@ At Havana Conference, when Genovese challenges Lucky:
 Seconds Lucky's motion. Glares around room. Hand rests near waist (implied gun). Genovese checkmated.
 
 ### The Tragic Irony
-**What Brennan and Delgado don't know:**
+**What Brennan doesn't know (until the end):**
+- His own director is Genovese's partner
+- Every intelligence report he filed was shared with the enemy
 - Lucky has some restraint, follows a code
 - Genovese is more ruthless, more violent, no rules
 - By removing Lucky, they empower Genovese
 - The heroin network won't stop - it will expand
 - 1950s-60s epidemic is the direct result of their "victory"
 
-**Delgado's warning (that Brennan ignores):** "You're creating a bigger monster."
+**Delgado's warning (that Brennan ignores until too late):** "You're creating a bigger monster."
 
-He was right.
+**Brennan's realization:** He wasn't fighting the system. He WAS the system. His righteous mission was Genovese's weapon, aimed by his own boss.
+
+He was right. They all were. Except Brennan.
 
 ---
 
@@ -320,12 +334,13 @@ He was right.
 1. **Pyrrhic Victory** - Winning the battle, losing the war
 2. **The Devil You Know** - Lucky is criminal with restraint; Genovese has none
 3. **Unintended Consequences** - Law enforcement removes one drug lord, empowers worse one
-4. **Betrayal as Strategy** - Genovese uses U.S. government as weapon to eliminate rival
-5. **Loyalty's Price** - Anastasia's defense of Lucky marks him for death (1957)
-6. **Systemic Corruption** - When governments are bought (Batista, Cuban officials)
-7. **Moral Complexity** - Brennan and Delgado are good men, but outcome is worse
-8. **Power Vacuum** - Removing a leader doesn't eliminate organization, destabilizes it
-9. **Generational War** - Old guard professionalism vs. new ruthless ambition
+4. **Betrayal as Strategy** - Genovese uses the FBN Director as his weapon; Hartley uses Brennan as his; the whole chain is corrupted from the top
+5. **Institutional Rot** - Brennan's righteous mission was manufactured by his own director working with the enemy
+6. **Loyalty's Price** - Anastasia's defense of Lucky marks him for death (1957)
+7. **Systemic Corruption** - When governments are bought (Batista, Cuban officials, even the FBN)
+8. **Moral Complexity** - Brennan and Delgado are good men, but outcome is worse
+9. **Power Vacuum** - Removing a leader doesn't eliminate organization, destabilizes it
+10. **Generational War** - Old guard professionalism vs. new ruthless ambition
 
 ---
 

@@ -1,0 +1,233 @@
+# Scene 12 - The Investigation
+
+## LOCATION
+CABELA'S / PARKING LOT / MULLIGAN'S BAR / SARAH'S CAR - LATE MORNING TO NOON
+
+## CHARACTERS
+Sarah, Eli, Cabela's Manager, Bobby (phone), Bartender, Detective Martinez (phone)
+
+## SCENE LAYOUT
+
+### Opening
+Sarah and Eli begin their hunt for Liam's identity. They follow the trail from Cabela's security footage to the bar where he worked.
+
+### Key Beats
+
+**CABELA'S - Late Morning:**
+1. Sarah shows the manager phony legal documents—claims she's a paralegal investigating a fraud case
+2. She has the Cabela's receipt from Liam's jacket and needs to confirm who made the purchase
+3. Manager pulls up the security footage from that date. They find LIAM at the register.
+4. Sarah takes a PHOTO OF THE SCREEN with her phone
+
+**PHONE CALL TO BOBBY:**
+5. Sarah calls Bobby from the Cabela's parking lot, shows him the photo via text
+6. Bobby recognizes him—"That's the guy who was asking Hank questions about survival stuff"
+7. Bobby remembers Liam said he worked at a bar nearby. Mentioned learning.
+8. Sarah has a lead.
+
+**THE BAR - Around Noon:**
+9. Sarah shows the photo to the bartender working the day shift
+10. "Liam? Yeah, he worked here. Quit without notice a few weeks back."
+11. Sarah: "Address?" Bartender hesitates. Sarah: "He killed my husband."
+12. Bartender writes it on a napkin.
+
+**PHONE CALL TO POLICE:**
+13. Sarah calls Detective Martinez with Liam's name from the bar's records
+14. She gives them the identity but NOT the address—she wants to find him herself first
+15. Martinez says they'll run it, tells her to stay safe
+
+### Character Moments
+- **Sarah**: Cold, methodical. Uses fake legal documents without hesitation—she'll do whatever it takes. A hunter tracking prey.
+- **Eli**: Silent support. Watching his mother lie convincingly. Learning from her.
+
+### Closing
+Sarah has a name and an address. She called the police with the name but kept the address for herself. Now she's going to find him.
+
+---
+
+## FULL SCRIPT
+
+INT. CABELA'S - MANAGER'S OFFICE - LATE MORNING
+
+Sarah and Eli sit across from a nervous MANAGER. Sarah slides a folder of official-looking documents across the desk.
+
+                    SARAH
+          I'm a paralegal with Hartfield & Associates.
+          We're investigating a fraud case and need to
+          confirm a purchase made at this location.
+
+She pulls out the crumpled RECEIPT from Liam's jacket.
+
+                    SARAH (CONT'D)
+          This transaction. Three weeks ago. I need to
+          verify who made the purchase.
+
+The manager examines the receipt, then the documents. They look legitimate.
+
+                    MANAGER
+          You have a subpoena?
+
+                    SARAH
+          We're still in discovery. This is just
+          confirming the individual's identity for our
+          records. Five minutes of footage.
+
+The manager hesitates. Looks at the documents again. Sighs.
+
+                    MANAGER
+          What time?
+
+                    SARAH
+          2:47 PM. Register three.
+
+The manager pulls up the footage. Scrubs to the timestamp.
+
+There—LIAM at the counter. Paying for hunting supplies.
+
+Sarah leans forward. Her hand grips the desk.
+
+                    SARAH (CONT'D)
+          Stop. There.
+
+The manager freezes the frame. Liam's face, clear at the register.
+
+Sarah pulls out her phone. Takes a photo of the screen.
+
+                    MANAGER
+          That's your guy?
+
+                    SARAH
+          That's him.
+
+EXT. CABELA'S PARKING LOT - CONTINUOUS
+
+Sarah and Eli walk to the car. Sarah's already dialing.
+
+                    SARAH
+          Bobby. I'm sending you a photo. Tell me if you
+          recognize him.
+
+She texts the image. Waits.
+
+                    BOBBY (V.O.)
+          Holy shit. That's... that's the guy from the store.
+          He was asking Hank questions about survival stuff.
+          Knives, traps, all that.
+
+                    SARAH
+          What else?
+
+                    BOBBY (V.O.)
+          He said he was learning. Worked at some bar
+          nearby. I don't remember which one.
+
+                    SARAH
+          Think.
+
+A long pause.
+
+                    BOBBY (V.O.)
+          Mulligan's? Maybe? It's that dive off Route 9.
+
+                    SARAH
+          Thanks, Bobby. Stay with the girls.
+
+She hangs up. Looks at Eli.
+
+                    SARAH (CONT'D)
+          Let's go.
+
+INT. MULLIGAN'S BAR - NOON
+
+A dark, mostly empty bar. A few day-drinkers nursing beers.
+
+Sarah approaches the BARTENDER wiping down glasses. Shows him the phone.
+
+                    SARAH
+          You know this man?
+
+The bartender squints at the photo.
+
+                    BARTENDER
+          Liam? Yeah, he worked here. Quit a few weeks
+          back. No notice, just gone.
+
+                    SARAH
+          Address?
+
+                    BARTENDER
+          I can't just give out—
+
+                    SARAH
+          He killed my husband.
+
+The bartender's face changes.
+
+                    BARTENDER
+          Jesus.
+
+He looks around. Grabs a napkin. Writes.
+
+                    BARTENDER (CONT'D)
+          I don't know if he's still there. But that's
+          what was on his paperwork.
+
+INT. SARAH'S CAR - OUTSIDE MULLIGAN'S - CONTINUOUS
+
+Sarah sits behind the wheel, staring at the napkin. Eli waits.
+
+She pulls out her phone. Dials.
+
+                    SARAH
+          Detective Martinez? It's Sarah Reeves... I have
+          a name. The man who killed my husband.
+
+She reads from the napkin.
+
+                    SARAH (CONT'D)
+          Liam. L-I-A-M.
+              (reads last name)
+          That's what the bar had on file. He worked
+          there until a few weeks ago.
+
+                    DETECTIVE MARTINEZ (V.O.)
+          That's good work, Mrs. Reeves. We'll run it.
+          Where are you now?
+
+                    SARAH
+          Home. With my kids.
+
+A beat.
+
+                    DETECTIVE MARTINEZ (V.O.)
+          Stay there. Let us handle this.
+
+                    SARAH
+          Of course.
+
+She hangs up. Starts the car.
+
+                    ELI
+          You didn't give them the address.
+
+                    SARAH
+          No. I didn't.
+
+She pulls out of the parking lot.
+
+---
+
+## Production Notes
+
+**Timing:**
+- Late morning: Cabela's footage review
+- Noon: Mulligan's bar, then call to police with identity (not address)
+
+**Key Story Elements:**
+- Sarah uses phony legal documents (printed in Scene 11) to pose as a paralegal investigating fraud
+- The receipt from Liam's jacket (found in Scene 9) gives her the exact timestamp to check
+- She never mentions her dead husband at Cabela's—stays in character as a legal professional
+- Phone call to Bobby is more efficient than in-person visit
+- Sarah gives police the NAME but not the ADDRESS—setting up the false identity twist
+- The lie to Martinez ("Home. With my kids.") shows Sarah is committed to handling this herself
+- This scene sets up Scene 14's revelation: police will arrest the wrong Liam using this name

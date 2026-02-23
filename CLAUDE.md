@@ -23,6 +23,17 @@ See: **[production/SCREENPLAY_WORKFLOW.md](production/SCREENPLAY_WORKFLOW.md)** 
 - **[amazingtrash/writing/dialogue.md](amazingtrash/writing/dialogue.md)** - Amazingtrash screenplay project
 - **[hunted/writing/dialogue.md](hunted/writing/dialogue.md)** - Hunted screenplay project
 
+### Screenplay Tools
+
+- **[production/compile_screenplay.py](production/compile_screenplay.py)** - Compiles all scene files into a single screenplay file. Extracts FULL SCRIPT sections from each scene and combines them in order.
+  ```bash
+  python production/compile_screenplay.py <project_name>
+  # Example: python production/compile_screenplay.py hunted
+  ```
+  Output: `<project>/writing/<project>_full_screenplay.txt`
+
+- **[production/SCREENPLAY_CRITIQUE_GUIDE.md](production/SCREENPLAY_CRITIQUE_GUIDE.md)** - Guide for evaluating screenplays using industry standards (Four Pillars: Characters, Conflict, Structure, Theme)
+
 ### Animation Workflows
 
 **When user says "animation workflow 1", "animation workflow 2", etc., they mean the animation workflows.**

@@ -3,66 +3,170 @@
 ## BASIC INFORMATION
 - **Full Name**: Sarah Reeves
 - **Age**: Late 30s
-- **Occupation**: Former public defender (8 years)
+- **Occupation**: Government lawyer (still working, not former)
 - **Family**: Married to Hank (deceased), mother of Eli (18), Emma (12), Olivia (10)
 - **Hunting**: Has her own hunting award - equally capable as rest of family
+- **The Tattoo**: Has a tattoo from her "old days" before Hank - even Bobby doesn't know about it. Hints at a wilder/darker past.
 
 ## ARCHETYPE
-**The Avenger** - Transforms from content wife/mother to revenge-obsessed hunter. Her journey embodies the story's theme: revenge consumes the avenger as much as the target.
+**The Unleashed** - Not a transformation from content wife to avenger. The darkness was always there - Hank kept it in check. His death removes her anchor to normalcy.
 
 ## CHARACTER FUNCTION
-The protagonist of Acts 2-3. Her transformation from practical wife to revenge-obsessed hunter embodies the story's theme about the cost of revenge.
+The protagonist of Acts 2-3. Her descent into revenge isn't grief creating something new - it's grief unleashing what was always there. Embodies the theme: some people need someone to keep them human.
 
 ## PHYSICAL DESCRIPTION
 - Similar age to Hank (late 30s)
 - A few inches shorter than Liam
 
 ## PERSONALITY TRAITS
-- Practical, grounded
-- Initially skeptical of Hank's prepper lifestyle but learned the skills
-- Eight years as a public defender: saw murderers walk because evidence got lost, witnesses recanted, DAs decided cases weren't worth the trouble
-- Deep distrust of police/courts to deliver justice—not paranoia, experience
-- Grief transforms into cold determination
-- Face-to-face moment with Liam awakens something primal
+
+### The Darkness Before Hank's Death
+- Psychologically intense, not tactically intense (not a gun nut)
+- Unnervingly calm when discussing violence or threats
+- Has already thought through exactly what she'd do to anyone who hurt her family - in detail
+- Says things that make people uncomfortable
+- Watches strangers a little too long, catalogues threats mentally
+- Hank is her anchor - he gently moderates her intensity, keeps her grounded
+- She pushed Hank into the prepper lifestyle, not the other way around
+
+### The Past Case
+- As a government lawyer, she had a case that mirrors Liam's situation
+- A killer was going to strike again - she saw it coming
+- She warned the cops repeatedly - they did nothing
+- She went to confront the killer herself
+- The system failed. Someone died anyway.
+- This is why she doesn't trust police/courts - not paranoia, but lived experience of trying it "the right way" and watching it fail
+
+### After Hank's Death
+- The moderating force is gone - nothing holds her back now
+- Grief doesn't transform her; it unleashes her
+- Deep distrust of police/courts to deliver justice
+- Face-to-face moment with Liam confirms what she already knows: she has to handle this herself
 - Obsession with revenge blinds her to simpler solutions
 - Leads family's defensive preparation
 
+## WHY SHE KEEPS THE KIDS HOME
+
+**The False Identity Revelation:**
+After the bar, Sarah calls the police with Liam's identity from his employment records. After the Scene 10 fight, the cops call back: they've arrested "Liam." Case closed.
+
+But Sarah knows the truth. The man they arrested isn't her Liam.
+
+The stalker used a stolen SSN and ID to get his bartender job. The bar had the address "Liam" gave them on his paperwork—that's how Sarah found his apartment. But when police ran the real Liam's identity, they found the actual person whose identity was stolen. An innocent man, now in custody.
+
+Sarah could correct them. But what would she say? "That's not him, but I don't know who he really is"? She has no proof. No real name. No way to identify the actual stalker.
+
+**Why Running is Pointless:**
+This is why she doesn't run. He's not "Liam"—he could be anyone. Any name. Any identity. If he can steal one identity, he can steal another. He could follow them anywhere and they'd never see him coming. At least here, in the house Hank fortified, she controls the ground.
+
+**The Wiped Message:**
+In the alley, Liam wrote "CYA TONIGHT" on the car window—not "soon," but tonight. An immediate threat. Sarah wiped it off before police could see it. If they knew he was coming back that night, they might insist on protection she doesn't trust. Or worse, they might think she's safe because they have "Liam" in custody.
+
+She keeps the message to herself. She knows he's coming. And she'll be ready.
+
+**Additional Factors:**
+- Control: She can only protect them if she can see them
+- Trust: Sending them elsewhere means trusting someone else with their lives
+- Surveillance: Liam went through their mail for weeks—he might know where relatives live
+- Her past case: She tried it "the right way" once. Someone died anyway.
+
 ## RELATIONSHIPS
-- Hank: husband, his death transforms her
-- Eli: shares her obsession with revenge
-- Emma: sees her growing fear, ignores it
-- Olivia: sees her growing fear, ignores it
-- Liam: the target of her revenge
+- **Hank**: Her anchor to normalcy. He knew about her darker nature and loved her anyway - but also kept her in check. His death removes that restraint.
+- **Eli**: Shares her capacity for violence. She sees herself in him - and that scares her, but not enough to stop.
+- **Emma**: Sees her mother's darkness emerging, is frightened by it.
+- **Olivia**: Too young to fully understand, but senses something is wrong.
+- **Bobby**: Doesn't know about her past. The tattoo reveal surprises him.
+- **Liam**: The target. But also - in a dark way - the excuse she's been waiting for.
 
 ## CHARACTER ARC
-- **Beginning State (Act 1)**: Content wife and mother. Watches her family with love. Learned Hank's skills—she's capable, but not obsessed with preparedness.
-- **Inciting Incident**: Comes home to find Hank dead, daughter held hostage. Face-to-face with the killer awakens something primal.
-- **Escalation (Act 2)**: Rejects police, investigates alone. Nearly catches Liam. Transforms the house into a fortress. Her obsession grows while her younger children's fear is ignored.
-- **Crisis Point (Act 3)**: Watches Eli die for the same revenge she's pursuing. Sends the younger girls to safety—but stays to fight. Both she and Liam are caught in the final trap.
-- **End State**: Dies to Liam, but her last words are victory: "The girls got out. Police coming." A Tragic Arc: her revenge consumed her, but her sacrifice wasn't completely in vain—the girls survived by making the practical choice she couldn't.
+- **Beginning State (Act 1)**: Appears to be content wife and mother, but there's an edge. She's the one who pushed for prepper lifestyle. In flashback, we see her being too intense at homeschool training - Hank has to sideline her. The darkness is there; Hank keeps it contained.
+- **Inciting Incident**: Comes home to find Hank dead, daughter held hostage. The anchor is gone. Face-to-face with Liam, something clicks: no one will stop her now.
+- **Escalation (Act 2)**: Rejects police (she's tried that before - it failed). Investigates alone. Nearly catches Liam. Transforms the house into a fortress. Her true nature emerges while her younger children's fear is ignored.
+- **Crisis Point (Act 3)**: Watches Eli die for the same darkness she passed to him. Sends the younger girls to safety—but stays to fight. She can't leave. This is who she is.
+- **End State**: Dies to Liam, but her last words are victory: "The girls got out. Police coming." Tragic Arc: the darkness consumed her, but her children survived by being more like Hank than like her.
+
+## FLASHBACK STRUCTURE (Scenes 10-12)
+Flashbacks interspersed throughout Sarah's investigation, revealing her nature and history with Hank:
+
+### THE PAST CASE (Scene 10)
+- Quick cuts or dialogue revealing she had a case just like this
+- Wife warned husband was dangerous. Sarah warned cops repeatedly.
+- One night, wife calls Sarah for help
+- Sarah confronted the husband with police present
+- He killed her anyway—with police right there
+- The system failed. Someone died.
+- Sarah starts self-defense classes to never be helpless again
+
+### MEETING HANK (Scene 10-11)
+- Sarah meets Hank at the self-defense class
+- Attraction is immediate—he's capable, calm, not intimidated by her intensity
+- They start dating
+- Early relationship shows her edge; he finds it intriguing, not frightening
+
+### THE MOXIE'S BAR FIGHT (Scene 11)
+- Sarah and Hank at a bar called Moxie's
+- Some altercation breaks out—Hank smoothly subdues the aggressor
+- Situation is handled. Should be over.
+- Sarah keeps agitating—taunting, escalating, pushing buttons
+- Hank tells her firmly: "Let it go. It's done."
+- Sarah agrees. Backs off. Hank turns away.
+- The moment his back is turned, she sucker-punches the guy
+- Fight explodes again—multiple people now
+- In the chaos, Hank gets cut. The wound that becomes his facial scar.
+- Sarah sees what her impulse cost him. First real consequence.
+
+### THE ULTIMATUM (Scene 11-12)
+- Later, after the bar fight heals
+- Hank sits her down: "You have to choose. Fighting—or a family with me."
+- Not angry. Not judgmental. Just clear.
+- "I love you. But I can't raise kids with someone who can't walk away."
+- Sarah chooses family. Settles down. Gets married.
+
+### SETTLED BUT NOT CURED (Scene 12)
+Like the homeschool flashback, show her impulses never fully died:
+- **Pregnant - the castle conversation**: Sarah visibly pregnant, talking intensely about living off-grid—how extreme they could go, how self-sufficient. Hank laughs warmly: "Kids are gonna need a real house." Says he'll build them a castle. Sarah laughs: "I'm not passing on a castle if you're building it." Sweet moment showing their dynamic—her intensity, his grounding, their love.
+- **Pregnant - almost fighting**: Visibly pregnant Sarah at a store/public place. Someone is rude/aggressive. She steps forward, fists clenching—then catches herself. Walks away. But the look in her eyes says she wanted it.
+- **Soccer game**: Years later, at one of the kids' soccer games. Another parent gets aggressive about a call. Sarah rises, moving toward them. Hank's hand on her arm. She sits back down. The darkness still there, just leashed.
+
+### THE TATTOO (Scene 11)
+- Bobby sees it during babysitting
+- "Oh, Hank never told you?"
+- Implies a whole past life even Hank's best friend doesn't know about
+- The tattoo is from before Hank—her truly wild days
+
+### HOMESCHOOL FLASHBACK (Scene 12)
+- Sarah years ago, kids younger
+- She's too intense during training—pushing too hard, suggesting scenarios that are too violent
+- Hank gently but firmly sidelines her: "I got this, babe."
+- She accepts it, but there's something in her eyes
+- Shows even with family, the darkness leaked through
 
 ## DIALOGUE STYLE
-- Brief, practical in Act 1 ("You get everything?", "Uh huh")
-- Transforms to cold and threatening after Hank's death
+- In Act 1: Brief, practical on the surface ("You get everything?", "Uh huh") - but occasional lines that hint at something darker underneath
+- Transforms to cold and unleashed after Hank's death - this is the real her
 - Key line: "If you ever come back, you're dead."
 - Key line: "Then I'll have to come for you."
-- Legal background shows in confrontation with police—precise, argumentative: "That's a credible, specific threat of future violence." Knows the language.
-- Throws her experience at authority: "I was a public defender for eight years. I know exactly what happens next."
-- Contempt for system she once served: "I've seen murderers walk because evidence got lost. Because witnesses recanted. Because some DA decided it wasn't worth the trouble."
-- Remains practical even in extreme crisis—half-blinded by mace, still gives clear instructions: "Come out here. Just stay out of the mace. The police will get here soon."
-- Commands become tactical: "Positions. Now.", "We hold the high ground."
-- Final words show acceptance mixed with defiance: "The girls got out. Police coming."
-- Raw grief erupts as violence: "YOU TOOK EVERYTHING FROM ME!" - each word punctuated by a blow
+- Legal background shows in confrontation with police—precise, argumentative: "That's a credible, specific threat of future violence."
+- Throws her experience at authority: "I know exactly what happens next. Nothing."
+- Contempt for system she still serves: "I've seen murderers walk because evidence got lost. Because witnesses recanted. Because some DA decided it wasn't worth the trouble."
+- Remains tactically sharp even in crisis—half-blinded by mace, still gives clear instructions
+- Commands become cold: "Positions. Now.", "We hold the high ground."
+- Final words show dark satisfaction mixed with defiance: "The girls got out. Police coming."
+- Raw violence: "YOU TOOK EVERYTHING FROM ME!" - each word punctuated by a blow
 - Grief weaponized into coldness: "Dad's dead." Too sharp, too cold—she regrets it but doesn't take it back
-- Desperation breaks through tactical control: "ELI, NO!" when she can't stop her son's fatal choice
+- Desperation breaks through when she can't control outcomes: "ELI, NO!"
 
 ## KEY SCENES
-- **Act 1, Scene 4: Family Time** - Watches from the grill as Hank teaches the kids self-defense. Content, smiling—this is her family, her life. Brief warmth before everything changes.
-- **Act 2, Scene 9: The Hostage** - Hears Emma's scream, bursts in to find Hank dead, Olivia held hostage. Face cycles through grief/horror/rage—settles into cold. "If you ever come back, you're dead." / "Then I'll have to come for you." Pulls her own gun (same model as Hank's), fires blindly after mace attack. Practical even in chaos: "Come out here. Just stay out of the mace." Whispers: "I'll find you."
-- **Act 2, Scene 10: Sarah's Investigation** - Same night: confronts police as they seize guns. "I was a public defender for eight years. I know exactly what happens next." Watches them take Hank's body. Next morning: Bobby babysits while she and Eli investigate. Cabela's footage → phone call to Bobby → bar → apartment. Attacks Liam—"YOU TOOK EVERYTHING FROM ME!" Eli saves her twice (from knife, from strangling). Sarah jumps from fire escape, lands on Liam. Both hurt—tussle on ground but Liam escapes. Sees "CYA SOON" on car. "We need to get ready."
-- **Act 3, Scene 11: Parallel Preparation (MONTAGE)** - Transforms house into fortress: trip wires, molotov cocktails, broken glass under windows, hot oil trap. Family meeting: "I need to talk to you about what we're doing." Emma pushes back: "This is wrong. All of this. Dad taught us to defend ourselves, not... this." Sarah's cold response: "Dad's dead." Regrets it immediately but doesn't take it back. "He'll come. And we'll be ready." Obsession consuming her while Emma/Olivia grow scared.
-- **Act 3, Scene 12: The Return** - Commands family positions: "Positions. Now." Fires blind over secondary doors at trapped Liam. Fights Liam on stairs with Hank's hunting knife—slashes his arm, cheek, thigh. Wounded but presses advantage. Disarmed when Liam catches her wrist, bones grinding. Retreats: "We hold the high ground. Let him come to us."
-- **Act 3, Scene 13: Bobby's Return** - Not present in basement scenes—holds position upstairs with family.
-- **Act 3, Scene 14: Eli's Death** - Tries to stop Eli: "ELI, NO!" Watches helplessly as her son is overpowered and killed. "No... no, no, no..." Races Liam for the open gatehouse doors—he's faster. Maces him, slams bedroom door, retreats to attic with girls. Sends Emma/Olivia through secret passage: "Go to the secret room. Wait there. Don't come out until I call." Final standoff: "Just us now."
-- **Act 3, Scene 16: The Escape** - Final fight in attic. "They're not here. Just me." Triggers crossbow trap. Both caught in spring trap. "Gone. You lose."
-- **Act 3, Scene 17: The Crawling Struggle** - Strangled by Liam: "The girls got out. Police coming." Dies to her own obsession. The tragedy of revenge.
+- **Act 1, Scene 4: Family Time** - On the surface, watches from the grill as Hank teaches the kids. The darkness is present but contained by Hank's presence.
+- **Act 2, Scene 9: The Hostage** - Hears Emma's scream, bursts in to find Hank dead, Olivia held hostage. Face cycles through grief/horror/rage—settles into something cold and familiar. The anchor is gone. "If you ever come back, you're dead." / "Then I'll have to come for you." Pulls her own gun, fires blindly after mace attack. Whispers: "I'll find you."
+- **Act 2, Scene 10: Police Confrontation** - Confronts detectives about the threat. They seize guns, offer "patrols." Watches Hank's body wheeled out. Something hardens. FLASHBACKS: The past case; meeting Hank at self-defense.
+- **Act 2, Scene 11: Bobby Arrives** - Bobby babysits; sees her tattoo. "Oh, Hank never told you?" Leaves to investigate with Eli. FLASHBACKS: The Moxie's bar fight (Hank gets scarred); the ultimatum.
+- **Act 2, Scene 12: The Investigation** - Tracks Liam through Cabela's footage and the bar. Calls police with his name but withholds address. FLASHBACKS: Settled but not cured (pregnant, soccer game); homeschool flashback.
+- **Act 2, Scene 13: The Apartment Fight** - Attacks Liam—"YOU TOOK EVERYTHING FROM ME!" Eli saves her twice. Liam escapes. Writes "CYA TONIGHT" on car—Sarah wipes it off.
+- **Act 2, Scene 14: The False Identity** - Police call: they arrested "Liam Brennan." Sarah knows it's the wrong man—an identity theft victim. Running is pointless. "We need to get ready."
+- **Act 3, Scene 15: Parallel Preparation (MONTAGE)** - Transforms house into fortress. Family meeting: Emma pushes back: "This is wrong. Dad taught us to defend ourselves, not... this." Sarah's cold response: "Dad's dead." The real Sarah, no longer moderated.
+- **Act 3, Scene 16: The Return** - Commands family positions. Fights Liam with Hank's hunting knife—she's skilled, vicious. This is what she's capable of.
+- **Act 3, Scene 17: Bobby's Return** - Holds position upstairs with family.
+- **Act 3, Scene 18: Eli's Death** - Tries to stop Eli: "ELI, NO!" Watches her son die for the same darkness she has. Sends Emma/Olivia to secret room. Final standoff: "Just us now."
+- **Act 3, Scene 19: The Escape** - Final fight. "They're not here. Just me." Both caught in trap. "Gone. You lose."
+- **Act 3, Scene 20: The Crawling Struggle** - Strangled by Liam: "The girls got out. Police coming." Dies to her own nature. The tragedy of being unleashed.

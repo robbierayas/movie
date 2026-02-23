@@ -1,0 +1,139 @@
+# Scene 14 - The False Identity
+
+## LOCATION
+REEVES HOUSE - KITCHEN - LATER (Same day, evening)
+
+## CHARACTERS
+Sarah, Eli, Bobby, Detective Martinez (phone)
+
+## SCENE LAYOUT
+
+### Opening
+Sarah and Eli return home, battered from the apartment fight. Then the police call with "good news."
+
+### Key Beats
+
+1. Sarah sits with ice on her ankle. Eli's face is bruised. Bobby hovers.
+2. Bobby asks what happened—Sarah says Liam got away.
+3. Phone rings—Detective Martinez.
+4. "Mrs. Reeves. Good news. We picked him up. Liam Brennan."
+5. Sarah goes very still. "Across town."
+6. Martinez confirms—different address, but the ID matched. "You're safe now."
+7. Sarah thanks him. Hangs up.
+8. Bobby asks hopefully if they got him.
+9. Sarah explains: "They got someone named Liam Brennan."
+10. The stalker stole someone's identity to work at the bar. The man they arrested is an innocent victim of identity theft.
+11. Sarah realizes: he could be anyone now. Any name. Any face.
+12. Running is pointless—he could follow them anywhere.
+13. "We need to get ready."
+
+### Character Moments
+- **Sarah**: The moment she hears "across town," she knows. The police have the wrong man. And she can't explain how she knows without admitting she found the real apartment.
+- **Bobby**: His hope dies when he understands. His best friend's killer is still out there.
+- **Eli**: Understanding dawns—they're on their own.
+
+### Closing
+The police think the case is closed. Sarah knows it's just beginning. The man who killed Hank is a ghost—untraceable, unknowable. The only option is to stand and fight. "We need to get ready."
+
+---
+
+## FULL SCRIPT
+
+INT. REEVES HOUSE - KITCHEN - LATER
+
+Sarah sits at the table, ice pack on her ankle. Eli across from her with a bruised face. Bobby hovers, worried.
+
+                    BOBBY
+          You found him? And you didn't—
+
+                    SARAH
+          He got away.
+
+Her phone RINGS. She looks at the screen. DETECTIVE MARTINEZ.
+
+She answers.
+
+                    DETECTIVE MARTINEZ (V.O.)
+          Mrs. Reeves. Good news. We picked him up.
+
+Sarah goes very still.
+
+                    DETECTIVE MARTINEZ (V.O.) (CONT'D)
+          Liam Brennan. Found him at his residence across
+          town. He's in custody now.
+
+Sarah's face doesn't change. But something behind her eyes dies.
+
+                    SARAH
+          Across town.
+
+                    DETECTIVE MARTINEZ (V.O.)
+          That's right. Different address than you might
+          expect, but the ID matched. You're safe now,
+          Mrs. Reeves.
+
+A long pause.
+
+                    SARAH
+          Thank you, Detective.
+
+She hangs up.
+
+Bobby looks hopeful.
+
+                    BOBBY
+          They got him?
+
+Sarah stares at nothing.
+
+                    SARAH
+          They got someone named Liam Brennan.
+
+                    ELI
+          But that's...
+
+                    SARAH
+          He stole the identity to work at the bar.
+          The man they arrested is just some guy whose
+          social security number got used.
+
+Bobby's face falls.
+
+                    BOBBY
+          So he's still...
+
+                    SARAH
+          Out there. Could be anyone now. Any name.
+          Any face.
+
+She looks at Eli.
+
+                    SARAH (CONT'D)
+          We can't run. He could follow us anywhere
+          and we'd never see him coming. At least
+          here, we know the ground.
+
+She stands. Tests her ankle. Winces but stays up.
+
+                    SARAH (CONT'D)
+          We need to get ready.
+
+---
+
+## Production Notes
+
+**Key Story Elements:**
+- **THE FALSE IDENTITY TWIST**: Liam used stolen SSN/ID for his bar job. Police arrest the real identity theft victim. Sarah knows it's wrong but can't prove it.
+- Sarah can't correct the police without admitting she found the apartment herself—and she wiped the threatening message
+- This is why running is pointless: he could be anyone now. Any name. Any face.
+- Bobby's hope dying reinforces the tragedy—there's no cavalry coming
+- "We need to get ready" is the transition to Act 3
+
+**Timing:**
+- Same day as the apartment fight, evening
+- Leads directly into Scene 15 (Parallel Preparation)
+
+**Thematic Elements:**
+- The system has failed again—just like Sarah's past case
+- The stalker's "invisible man" nature is now literal: he has no real identity
+- Sarah's decision to stay and fight is now the only rational choice, not stubbornness

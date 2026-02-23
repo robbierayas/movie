@@ -3,7 +3,14 @@
     "allow": [
       "WebSearch",
       "Bash(mkdir:*)",
-      "Bash(ren:*)"
+      "Bash(ren:*)",
+      "Bash(git mv:*)",
+      "Bash(ls -la \"C:\\\\Users\\\\robbi\\\\WebstormProjects\\\\untitled\\\\hunted\\\\writing\\\\acts\\\\Act 2 - The Hunt\"\" && echo \"---\" && ls -la \"C:UsersrobbiWebstormProjectsuntitledhuntedwritingactsAct 3 - The Hunted\"\")",
+      "Bash(python production/screenplay_to_tts.py:*)",
+      "WebFetch(domain:nofilmschool.com)",
+      "WebFetch(domain:glcoverage.com)",
+      "WebFetch(domain:www.stage32.com)",
+      "Bash(python:*)"
     ],
     "deny": [],
     "ask": []

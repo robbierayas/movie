@@ -51,41 +51,61 @@
 - Characters: Liam, Hank (dead), Sarah, Children
 - Summary: Liam finally kills Hank—messy, exhausting. Before he can escape, headlights. Family returns early. The youngest runs to the door. Liam grabs them hostage. Sarah sees Hank's body through the window. The exchange: "If you ever come back, you're dead." "I already got what I came for." "Then I'll have to come for you." Liam releases the child and escapes.
 
-### Scene 10 - Sarah's Investigation
-- Location: VARIOUS - DAY/NIGHT
-- Characters: Sarah, Eli, Liam (observed, not POV)
-- Summary: Sarah investigates without police. We shift to an unbiased view of Liam—not his voiceover, but who he really is: invisible bartender, cramped apartment, pathetic life. Sarah pieces together clues, gets close to identifying him. She finds him with Eli and attacks—but Liam barely escapes. As he flees, he tells Sarah he'll visit soon. Sarah has confirmed her target but lost him.
+### Scene 10 - Police Confrontation
+- Location: INT. REEVES HOUSE - NIGHT (same night as Hank's murder)
+- Characters: Sarah, Eli, Emma, Olivia, Detective Martinez, Detective Cole, Crime Scene Techs
+- Summary: Police process the crime scene. They seize all firearms as evidence. Sarah confronts detectives—uses her legal background to argue the threat is credible. Police are dismissive, offer "increased patrols." Sarah watches Hank's body wheeled out in a bag. Something hardens behind her eyes.
+
+### Scene 11 - Bobby Arrives
+- Location: EXT./INT. REEVES HOUSE - NEXT MORNING
+- Characters: Sarah, Eli, Emma, Olivia, Bobby
+- Summary: Bobby arrives to help. Emma and Olivia run to him—"Unky Buh-by!" Bobby offers Sarah an untraceable gun, warns about offense vs. defense. Sarah takes it but when Emma asks where she's going, Sarah puts the gun down: "We are just finding him and reporting him." Eli insists on going with her.
+
+### Scene 12 - The Investigation
+- Location: CABELA'S / PARKING LOT / MULLIGAN'S BAR / SARAH'S CAR - LATE MORNING TO NOON
+- Characters: Sarah, Eli, Cabela's Manager, Bobby (phone), Bartender, Detective Martinez (phone)
+- Summary: Sarah tracks Liam through Cabela's security footage (spots him watching Hank). Bobby recognizes him from the store—remembers he worked at a bar. At Mulligan's, she gets Liam's name and address. Calls police with the name but withholds the address—she wants to find him herself.
+
+### Scene 13 - The Apartment Fight
+- Location: LIAM'S APARTMENT BUILDING / APARTMENT 3B / FIRE ESCAPE / ALLEY - AFTERNOON
+- Characters: Sarah, Eli, Liam
+- Summary: Sarah and Eli catch Liam leaving his apartment. Sarah attacks—brutal fight through his pathetic apartment and murder wall. Eli saves her twice (knife, strangling). Liam escapes via fire escape. Sarah jumps and lands on him in the alley. Ground tussle—both too hurt to finish it. Liam escapes, writes "CYA TONIGHT" on car window. Sarah wipes the message before anyone sees.
+
+### Scene 14 - The False Identity
+- Location: INT. REEVES HOUSE - KITCHEN - LATER (same day, evening)
+- Characters: Sarah, Eli, Bobby, Detective Martinez (phone)
+- Summary: Sarah and Eli return battered. Phone rings—Detective Martinez: "We picked him up. Liam Brennan. Found him across town." Sarah realizes the truth: the stalker used a stolen identity. The man arrested is an innocent victim of identity theft. She can't prove it without admitting she found the real apartment. Running is pointless—he could be anyone now. "We need to get ready."
 
 ---
 
 ## Act 3 - The Hunted
 
-### Scene 11 - Parallel Preparation
+### Scene 15 - Parallel Preparation
 - Location: INT. LIAM'S HIDING SPOT / INT. REEVES HOUSE - LATE AFTERNOON TO NIGHT (INTERCUT)
 - Characters: Liam, Sarah, Eli, Emma, Olivia
 - Summary: ~24 hours after Hank's death. Intercut between Liam preparing in hiding (healing, building armor, modifying drone) and the family preparing at home (building traps, family talk where Sarah snaps "Dad's dead"). Ends with Liam approaching the house at nightfall and Sarah seeing him: "He's here."
 
-### Scene 12 - The Return
+### Scene 16 - The Return
 - Location: EXT./INT. REEVES HOUSE - NIGHT
 - Characters: Liam, Sarah, Eli, Emma, Olivia, Girly
 - Summary: Liam returns for what he thinks will be easy cleanup kills. He deploys a surveillance drone to patrol the exterior, keeping everyone pinned inside. Girly the dog runs out to attack him but he uses a taser on her. He walks up the steps into a prepared battlefield. Molotov door trap triggers—first floor catches fire but fire-resistant construction contains it. First trap springs. The structure inverts—now Liam is the one being hunted. Liam takes the first floor; family retreats upstairs but loses access to basement weapons cache. Running battle through the modified house begins. Each trap uses skills Hank taught his family. Kids shoot down the drone with something they grabbed before retreating upstairs.
 
-### Scene 13 - Bobby's Return
+### Scene 17 - Bobby's Return
 - Location: EXT./INT. REEVES HOUSE - NIGHT
 - Characters: Liam, Bobby, Girly, Sarah, Emma, Olivia
 - Summary: The kids hear Bobby's truck and cheer "Unky Buh-by!" Liam hears the nickname from below. Bobby arrives, finds tased Girly, revives her. They enter together. Bobby goes to basement; Liam burns him on the stairs with accelerant. Bobby dies with one arm outstretched. Girly attacks—brutal fight damages Liam's armor. Liam gets Bobby's shotgun, shoots the dog twice. The second shot flings Girly into Bobby's outstretched arm—holding her in death. Liam mocks "Unky Buh-by?" up the stairs to confirm Bobby's death.
 
-### Scene 14 - Eli's Death
+### Scene 18 - Eli's Death
 - Location: INT. REEVES HOUSE - NIGHT
 - Characters: Liam, Sarah, Eli, Emma, Olivia
 - Summary: Family hears Liam's mocking "Unky Buh-by?" from below—Bobby is dead. Eli, enraged, opens the gatehouse doors seeking revenge. He charges Liam with bow and knife. Brutal fight—Eli wounds Liam but is overpowered. Eli's dying words: "You aren't a man." Liam kills him viciously. NOW the doors are open. Sarah and Liam race for them—Liam blocks her. Sarah retreats, maces Liam, slams interior door. Liam kicks it down. Family in attic with hatch locked. Liam shoots off the lock with shotgun. Sarah sends girls to wait in secret room.
 
-### Scene 15 - The Escape
+### Scene 19 - The Escape
 - Location: INT. REEVES HOUSE - NIGHT
 - Characters: Sarah, Liam, Emma, Olivia
 - Summary: Sarah flees into secret passage. Liam catches her at the top of the 3-story shaft. About to throw her down, Sarah screams for the girls to run. Emma and Olivia open the secret door below—see Liam holding their mother—and scream. The distraction allows Sarah to grab Liam and throw them both down the shaft. They fall 3 stories. Sarah dies (neck broken from fall and Liam's grip). Liam is very hurt but alive. Girls escape via step ladder. Liam removes last of his armor.
 
-### Scene 16 - The Crawling Struggle
+### Scene 20 - The Crawling Struggle
 - Location: EXT. REEVES PROPERTY - NIGHT
 - Characters: Liam, Police, Emma, Olivia
 - Summary: Liam walks out of the burning house. Armorless, broken. Police arrive. Emma and Olivia watch from safety. Liam ties Hank's blackbelt around his head, raises finger-guns at officers: "BANG BANG." Suicide-by-cop. The killer is dead. The children survived because they called 911.
@@ -94,12 +114,12 @@
 
 ## Scene Count Summary
 - Act 1: 6 scenes (1-6)
-- Act 2: 4 scenes (7-10)
-- Act 3: 6 scenes (11-16)
-- **Total: 16 scenes**
+- Act 2: 8 scenes (7-14)
+- Act 3: 6 scenes (15-20)
+- **Total: 20 scenes**
 
 ## Estimated Runtime
 - Act 1: 20-25 minutes (setup, voiceover-driven, surveillance montage)
-- Act 2: 40-50 minutes (extended fight sequence, investigation)
+- Act 2: 50-60 minutes (extended fight sequence, investigation, apartment fight, false identity twist)
 - Act 3: 35-40 minutes (preparation, final battle, climax)
-- **Total: 95-115 minutes**
+- **Total: 105-125 minutes**

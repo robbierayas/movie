@@ -298,7 +298,66 @@ When the user indicates the scene screenplay is approved (e.g., "the screenplay 
 
 ### Workflow 6: Character Profile Updates from Screenplay
 
-When character profiles need updating to reflect completed screenplay, use this workflow to ensure consistency and flag any issues:
+When character profiles need updating to reflect completed screenplay, use this workflow to ensure consistency and flag any issues.
+
+---
+
+**Phase 0: Scene-by-Scene Quality Checks**
+
+Before updating character profiles, review each scene for these issues. Flag problems for user review.
+
+**Immersion Check** - Would the audience ask "Why would they do that?"
+- [ ] Do character decisions match fundamental human behavior?
+- [ ] If a parent is in danger, do they address children's safety?
+- [ ] If characters ignore obvious solutions, is there explanation?
+- [ ] Do emotional responses match the situation?
+
+*If flagged:* Note the scene, the immersion break, and suggest one of: (1) establish the exception, (2) have another character question it, (3) make it a flaw with consequences.
+
+**Foundational Motivation Check** - Are plot-driving decisions justified?
+- [ ] For each major decision a character makes: Is the WHY clear from the screenplay?
+- [ ] If a character betrays, sacrifices, or takes extreme action: Is motivation established BEFORE the action?
+- [ ] Could a first-time viewer understand why characters do what they do?
+
+*If flagged:* Note the scene, the unclear motivation, and what information is missing.
+
+**Relationship Dialogue Check** - Do important relationships FEEL real?
+- [ ] For parent/child: Is there warmth, not just functional parenting? (nicknames, inside jokes, specific connection)
+- [ ] For partners/spouses: Is there intimacy in how they speak? (shorthand, finishing thoughts, history)
+- [ ] For old friends: Do they have rapport beyond plot function?
+- [ ] For enemies: Is there subtext, not just direct hostility?
+
+*If flagged:* Note which relationship, what's missing, and suggest one specific exchange that would establish the texture.
+
+**Dialogue Rhythm Check** - Is dialogue varied and entertaining?
+- [ ] Does the scene have rhythm variation? (not all short punchy OR all long speeches)
+- [ ] Is there conflict/tension in conversations? (even friendly ones)
+- [ ] Could you swap speakers without noticing? (if yes, voices aren't distinct)
+- [ ] Does dialogue reveal character, or just convey information?
+
+*If flagged:* Note specific exchanges that feel flat and why.
+
+**Report Format for Phase 0:**
+```
+## Scene-by-Scene Quality Report
+
+### Scene X - [Name]
+- **Immersion**: [PASS / FLAG: description]
+- **Motivation**: [PASS / FLAG: description]
+- **Relationships**: [PASS / FLAG: which relationship, what's missing]
+- **Dialogue**: [PASS / FLAG: specific issue]
+
+[Repeat for each scene reviewed]
+
+### Summary
+- Total flags: X
+- Critical (immersion/motivation): X
+- Dialogue/relationship: X
+```
+
+Wait for user to address flags before proceeding to Phase 1.
+
+---
 
 **Phase 1: Analysis & Inconsistency Detection**
 

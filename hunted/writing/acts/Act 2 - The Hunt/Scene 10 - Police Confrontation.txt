@@ -1,0 +1,140 @@
+# Scene 10 - Police Confrontation
+
+## LOCATION
+REEVES HOUSE - NIGHT (Same night as Hank's murder)
+
+## CHARACTERS
+Sarah, Eli, Emma, Olivia, Detective Martinez, Detective Cole, Crime Scene Techs
+
+## SCENE LAYOUT
+
+### Opening
+Same night as Hank's murder. Police are still at the house, processing the scene. Hank's body hasn't been moved yet.
+
+### Key Beats
+
+1. Detectives question Sarah while crime scene techs work around them
+2. Police ask about the guns—multiple shots fired, they're seizing ALL firearms as evidence (standard procedure)
+3. Sarah pushes back: "He said he's coming back. That's a credible threat."
+4. Police are skeptical—they'll look into it, but she should let them handle it
+5. Sarah's work history comes out—she's seen this before. "I was a public defender for eight years. I know exactly what happens next. You'll investigate for a few weeks, hit a dead end, and move on. Meanwhile he's out there planning."
+6. The cops don't take her seriously. One mutters something about "letting us do our job."
+7. Sarah watches them take Hank's body. Cold fury building.
+
+### Character Moments
+- **Sarah**: Her legal background makes her distrust of police specific and personal—not paranoia, experience. The moment she watches Hank's body leave, something hardens in her.
+
+### Closing
+Sarah watches Hank wheeled out in a body bag. Her children huddle in the doorway. Something changes behind her eyes—the last of her restraint dying with him.
+
+---
+
+## FULL SCRIPT
+
+INT. REEVES HOUSE - FOYER - NIGHT
+
+Crime scene tape. Evidence markers. TECHS photographing the destroyed living room.
+
+SARAH sits on the stairs, wrapped in a shock blanket. Her eyes are red but dry now. Watching everything.
+
+Two DETECTIVES stand over her. DETECTIVE MARTINEZ, sympathetic. DETECTIVE COLE, impatient.
+
+                    DETECTIVE MARTINEZ
+          Mrs. Reeves, I know this is difficult. But we need
+          to understand what happened.
+
+                    SARAH
+          I told you what happened. He killed my husband.
+          He took my daughter hostage. I shot at him. He ran.
+
+                    DETECTIVE COLE
+          Multiple firearms discharged. We're going to need
+          to take all of them. Standard procedure.
+
+Sarah's head snaps up.
+
+                    SARAH
+          All of them?
+
+                    DETECTIVE COLE
+          Ballistics. We need to determine
+          which weapon killed your husband.
+
+                    SARAH
+          I know which weapon killed my husband. The knife
+          in that man's hand.
+
+                    DETECTIVE MARTINEZ
+          Mrs. Reeves—
+
+                    SARAH
+          He said he's coming back. Those were his words.
+          "Catch me if you can." That's a credible, specific
+          threat of future violence.
+
+Detective Cole exchanges a look with Martinez.
+
+                    DETECTIVE COLE
+          We'll look into it. But right now, we need to
+          process the scene and let you—
+
+                    SARAH
+          I was a public defender for eight years, Detective.
+
+She stands. The blanket falls away.
+
+                    SARAH (CONT'D)
+          I know exactly what happens next. You'll investigate
+          for a few weeks. Hit a dead end. The case goes cold.
+          Meanwhile, he's out there. Planning.
+
+                    DETECTIVE COLE
+          Ma'am, if you'd let us do our job—
+
+                    SARAH
+          I've seen your job. I've seen murderers walk because
+          evidence got lost. Because witnesses recanted. Because
+          some DA decided it wasn't worth the trouble.
+
+She steps closer to Cole.
+
+                    SARAH (CONT'D)
+          You're going to take my guns, tell me to sit tight,
+          and leave me here with three children and a man who
+          promised to come back.
+
+                    DETECTIVE MARTINEZ
+          We can arrange increased patrols—
+
+                    SARAH
+          Patrols.
+
+She laughs. No humor in it.
+
+A TECH approaches, interrupts.
+
+                    TECH
+          Detectives. Coroner's ready to move the body.
+
+Sarah goes still.
+
+Through the doorway, she watches them wheel Hank out on a gurney. A black bag. Zipped closed.
+
+Emma, Olivia, and Eli huddle in the kitchen doorway, watching too.
+
+Sarah's jaw tightens. Something hardens behind her eyes.
+
+---
+
+## Production Notes
+
+**Timing:**
+- Same night as Hank's murder
+- Police processing the crime scene
+- Hank's body removed at end of scene
+
+**Key Story Elements:**
+- Guns seized as evidence establishes why family can't just "shoot him" in Act 3
+- Sarah's legal background (public defender) makes her distrust specific, not paranoid
+- "Catch me if you can" callback from Scene 9
+- The body bag moment is the turning point—Sarah's last restraint dies with Hank
