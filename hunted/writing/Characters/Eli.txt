@@ -10,10 +10,12 @@
 - **Specialty**: Archery (bow and arrow) - "Coach says I might make varsity next year." Uses bow in Act 3
 
 ## ARCHETYPE
-**The Zealot** - Shares mother's obsession with revenge. Where Emma chooses practicality, Eli chooses confrontation. Dies for it.
+**The Zealot** - Shares mother's obsession with revenge. Where Emma chooses practicality, Eli chooses confrontation. Dies
+for it.
 
 ## CHARACTER FUNCTION
-Represents the tragic cost of shared obsession. Goes all-in on revenge with Sarah, dies for it. Their death reinforces the story's theme that revenge consumes as much as it protects.
+Represents the tragic cost of shared obsession. Goes all-in on revenge with Sarah, dies for it. Their death reinforces
+the story's theme that revenge consumes as much as it protects.
 
 ## PHYSICAL DESCRIPTION
 [Physical appearance, distinctive features - to be determined from screenplay]
@@ -35,25 +37,44 @@ Represents the tragic cost of shared obsession. Goes all-in on revenge with Sara
 - Bobby: family friend, never sees him again (dies before Bobby arrives)
 
 ## CHARACTER ARC
-- **Beginning State (Act 1)**: Serious kid, takes training seriously. Trying to be cool while still being young. Pride in his skills.
+- **Beginning State (Act 1)**: Serious kid, takes training seriously. Trying to be cool while still being young. Pride in
+his skills.
 - **Inciting Incident**: Witnesses father's murder, sister held hostage. Frozen with horror but anger building.
-- **Escalation (Act 2)**: Goes all-in on mother's revenge mission. Helps track Liam, fights him at apartment, prepares traps. "Dad's dead." No hesitation.
+- **Escalation (Act 2)**: Goes all-in on mother's revenge mission. Helps track Liam, fights him at apartment, prepares
+traps. "Dad's dead." No hesitation.
 - **Crisis Point (Act 3)**: Traps Liam inside—"TWO MEN ENTER! ONE MAN LEAVES!" But can't wait for him to come to them.
-- **End State**: Dies confronting Liam. "I'm not Dad" proves tragically true—he wasn't ready. His death is the cost of shared obsession.
+- **End State**: Dies confronting Liam. "I'm not Dad" proves tragically true—he wasn't ready. His death is the cost of
+shared obsession.
 
 ## DIALOGUE STYLE
 - Trying to sound mature/cool in Act 1 ("I've been practicing", sibling banter with Emma)
 - Becomes intense after father's death—direct, blunt ("Dad's dead.")
 - Movie references when escalated ("TWO MEN ENTER! ONE MAN LEAVES!") - uses pop culture as battle cry
-- Attempts at reassurance that ring hollow: "It's gonna be okay. We just have to be smart. Stay together." - trying to be the man of the house
+- Attempts at reassurance that ring hollow: "It's gonna be okay. We just have to be smart. Stay together." - trying to be
+the man of the house
 - Rage overtakes words: "YOU KILLED HIM!" - accusation, not strategy
-- Dying words are defiance, not fear: "You aren't a man. You're just... a thing. A broken thing that pretends—" - attacks Liam's identity even while dying
+- Dying words are defiance, not fear: "You aren't a man. You're just... a thing. A broken thing that pretends—" - attacks
+Liam's identity even while dying
 
 ## KEY SCENES
-- **Act 1, Scene 4: Family Time** - Takes self-defense training seriously. Shows off his disarm technique—"I've been practicing." Archery going well, might make varsity. Trying to look cool while still being a kid.
-- **Act 2, Scene 9: The Hostage** - Witnesses father's body, sister held hostage. Holds Emma back, frozen with horror through the standoff. After Liam flees: "Mom?" First word since seeing his father dead—checking on Sarah, already stepping into protector role.
-- **Act 2, Scene 10: Sarah's Investigation** - Insists on going with Sarah: "I'm going with you." No hesitation—already channeling grief into action. At apartment, SAVES SARAH TWICE: (1) tackles Liam when he grabs a knife, (2) baton to Liam's skull when he's strangling Sarah. Gets buried under bookshelf but keeps fighting. Can't get down fire escape fast enough—watches Liam escape.
-- **Act 3, Scene 11: Parallel Preparation (MONTAGE)** - Sets up crockpot with hot oil near stairwell, positions arrows for his bow. Checks sight lines: "Perfect." When Sarah says they're ready: "It's gonna be okay. We just have to be smart. Stay together." Puts hand on Emma's shoulder—trying to be reassuring but sharing Sarah's obsession.
-- **Act 3, Scene 12: The Return** - Readies bow at bottom of stairs. Fires at Liam—arrow glances off helmet. Releases hot oil trap: "NOW!" When Liam tries to leave, fires again: "TWO MEN ENTER! ONE MAN LEAVES!" Wants the kill but Sarah holds him back: "No. We hold the high ground."
-- **Act 3, Scene 13: Bobby's Return** - Not present in basement—hears kids cheer "Unky Buh-by!" Then hears Liam's mocking echo from below. Knows Bobby is dead.
-- **Act 3, Scene 14: Eli's Death** - Hears Liam mock "Unky Buh-by?" Rage overcomes strategy. Opens gatehouse doors despite Sarah's "ELI, NO!" Charges: "YOU KILLED HIM!" Fires bow (arrow deflects off armor), draws hunting knife. Fight on landing—wounds Liam with knife to side, but Liam overpowers him. Shotgun blast to thigh. Dying defiance: "You aren't a man. You're just... a thing. A broken thing that pretends—" Killed viciously. His revenge cost them the gatehouse doors.
+- **Act 1, Scene 4: Family Time** - Takes self-defense training seriously. Shows off his disarm technique—"I've been
+practicing." Archery going well, might make varsity. Trying to look cool while still being a kid.
+- **Act 2, Scene 9: The Hostage** - Witnesses father's body, sister held hostage. Holds Emma back, frozen with horror
+through the standoff. After Liam flees: "Mom?" First word since seeing his father dead—checking on Sarah, already
+stepping into protector role.
+- **Act 2, Scene 10: Sarah's Investigation** - Insists on going with Sarah: "I'm going with you." No hesitation—already
+channeling grief into action. At apartment, SAVES SARAH TWICE: (1) tackles Liam when he grabs a knife, (2) baton to
+Liam's skull when he's strangling Sarah. Gets buried under bookshelf but keeps fighting. Can't get down fire escape fast
+enough—watches Liam escape.
+- **Act 3, Scene 11: Parallel Preparation (MONTAGE)** - Sets up crockpot with hot oil near stairwell, positions arrows
+for his bow. Checks sight lines: "Perfect." When Sarah says they're ready: "It's gonna be okay. We just have to be smart.
+Stay together." Puts hand on Emma's shoulder—trying to be reassuring but sharing Sarah's obsession.
+- **Act 3, Scene 12: The Return** - Readies bow at bottom of stairs. Fires at Liam—arrow glances off helmet. Releases hot
+oil trap: "NOW!" When Liam tries to leave, fires again: "TWO MEN ENTER! ONE MAN LEAVES!" Wants the kill but Sarah holds
+him back: "No. We hold the high ground."
+- **Act 3, Scene 13: Bobby's Return** - Not present in basement—hears kids cheer "Unky Buh-by!" Then hears Liam's mocking
+echo from below. Knows Bobby is dead.
+- **Act 3, Scene 14: Eli's Death** - Hears Liam mock "Unky Buh-by?" Rage overcomes strategy. Opens gatehouse doors
+despite Sarah's "ELI, NO!" Charges: "YOU KILLED HIM!" Fires bow (arrow deflects off armor), draws hunting knife. Fight on
+landing—wounds Liam with knife to side, but Liam overpowers him. Shotgun blast to thigh. Dying defiance: "You aren't a
+man. You're just... a thing. A broken thing that pretends—" Killed viciously. His revenge cost them the gatehouse doors.

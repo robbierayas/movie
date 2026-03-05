@@ -1,0 +1,441 @@
+# Scene 18 - The Ultimatum
+
+## LOCATION
+INT. - FBN HEADQUARTERS, WASHINGTON D.C. / STATE DEPARTMENT - DAY (February 10-21, 1947)
+
+## CHARACTERS
+Director Hartley, Jack Brennan (via phone), U.S. State Department Officials, President Batista
+
+## SCENE LAYOUT
+
+### Opening
+The Act 2 climax. In Washington, Director Hartley makes his move. Armed with Brennan's field evidence, Genovese's
+intelligence, and the political firestorm from the Sinatra photographs, he approaches the State Department with a
+proposal that will change the course of the story: economic blackmail against Cuba.
+
+### Key Beats
+1. **Hartley's proposal (February 10-15)**: Hartley meets with State Department officials and lays out his case. Lucky
+Luciano is operating a criminal empire from Cuba, ninety miles from Florida. He's building a heroin pipeline that will
+flood American cities. The evidence is comprehensive: conference attendees, heroin routes, territory divisions, financial
+projections. Hartley's proposal is bold and ruthless: threaten to cut all medical drug shipments to Cuba unless Luciano
+is deported. Cuba is entirely dependent on American pharmaceuticals -- morphine, anesthesia, antibiotics. Without them,
+hospitals shut down. It's not a negotiation; it's an ultimatum.
+2. **The ultimatum delivered (February 21)**: The United States formally delivers its ultimatum to Cuba. Deport Luciano
+or lose all medical supplies. The threat is existential -- Cuban hospitals will run out of essential drugs within weeks.
+President Batista has no choice. The man who welcomed Lucky, took his money, and provided his protection is now forced to
+choose between one gangster and the healthcare of an entire nation. There is no choice. Luciano must go.
+3. **Brennan's call with Hartley**: Hartley calls Brennan with the news. "Your evidence made this possible, Jack. The
+ultimatum worked -- Cuba's going to deport him." Brennan feels proud, validated. Months of undercover work, the risks he
+took, the informants he cultivated, the alliance with Delgado -- it all paid off. He has no idea that Genovese engineered
+this entire outcome. The FBN didn't just take down a mob boss; they served as Genovese's personal hit squad. Brennan was
+the weapon, Hartley was the trigger, and Genovese was the hand that aimed them both.
+
+### Character Moments
+- **Director Hartley**: At his most politically masterful and morally bankrupt. The proposal is brilliant -- leveraging
+medical supplies as a weapon against a sovereign nation to deport one man. Hartley doesn't care that his intelligence
+came from a rival mobster staging a coup. He doesn't care that removing Lucky will empower Genovese. He cares about the
+win: the biggest anti-organized-crime action in FBN history, with his name on it. His praise of Brennan is sincere but
+also the final manipulation -- keeping his best agent loyal and blind.
+- **Jack Brennan (via phone)**: Experiences what he believes is the culmination of his mission. His brother's death, his
+undercover work in Havana, the risks and the loneliness -- it was all worth it. This moment of pride and validation is
+deeply ironic: everything Brennan feels is genuine, and everything Brennan believes is wrong. He's a good man who just
+did a terrible thing for the right reasons.
+- **President Batista**: Forced into a corner by American leverage. The man who opened Cuba to the mob now watches as
+American power closes the door. Batista's choice is no choice at all: Lucky Luciano or functioning hospitals. The
+economic blackmail reveals the true power dynamic -- Cuba's sovereignty is an illusion, dependent on American goodwill
+and American pharmaceuticals.
+- **U.S. State Department Officials**: Represent the institutional machinery that turns a narcotics case into
+geopolitical leverage. They don't care about Lucky Luciano specifically; they care about demonstrating American power and
+punishing a client state that stepped out of line.
+
+### Closing
+The Act 2 climax delivers a "victory" that the audience already suspects is anything but. Lucky will be deported. Brennan
+is proud. Hartley has his career-making case. Genovese has his path to the throne. And somewhere in Havana, Delgado's
+warning -- "You're creating a bigger monster" -- echoes unanswered. The ultimatum is the point of no return: from here,
+everything accelerates toward Lucky's arrest, the truth about Genovese, and the Pyrrhic victory that defines the film's
+theme. Act 3 begins.
+
+---
+
+## FULL SCRIPT
+
+INT. FBN HEADQUARTERS - HARTLEY'S OFFICE - DAY (FEBRUARY 21, 1947)
+
+TITLE CARD: FEBRUARY 21, 1947
+
+DIRECTOR HARTLEY stands at his window, looking down at Pennsylvania
+Avenue. His office is immaculate -- American flag, framed citations,
+a desk bare except for a single folder. The folder is stamped
+CONFIDENTIAL.
+
+His phone RINGS. He picks up.
+
+                         HARTLEY
+              Hartley.
+                    (listens)
+              Good. When did they deliver it?
+                    (listens)
+              This morning. Through the embassy.
+              And Batista's response?
+
+He listens. A slow, satisfied nod.
+
+                         HARTLEY (CONT'D)
+              I see. How long did it take him?
+
+He almost smiles.
+
+                         HARTLEY (CONT'D)
+              Four hours. That's faster than I
+              expected. Get me the formal
+              confirmation in writing and route it
+              to my desk.
+
+He hangs up. Opens the folder. Inside: a one-page document, heavy
+with official seals. He reads it with the quiet satisfaction of a man
+reviewing his own masterwork.
+
+INT. CUBAN PRESIDENTIAL PALACE - EARLIER THAT DAY
+
+FLASHBACK - THAT MORNING
+
+An ornate office. PRESIDENT BATISTA, 50s, sits behind a massive desk,
+his military uniform pristine. Across from him, the AMERICAN
+AMBASSADOR and a STATE DEPARTMENT ATTACHÉ. Both are standing.
+
+The Ambassador places a sealed envelope on Batista's desk.
+
+                         AMBASSADOR
+              Mr. President. The United States
+              government requires the immediate
+              deportation of Salvatore Lucania,
+              known as Lucky Luciano, from Cuban
+              territory.
+
+Batista looks at the envelope. Does not touch it.
+
+                         BATISTA
+              Señor Luciano is a legal resident of
+              Cuba. He has broken no Cuban laws.
+
+                         AMBASSADOR
+              With respect, Mr. President, the
+              contents of that envelope will
+              clarify the United States' position.
+
+Batista opens the envelope. Reads. His face changes. The color
+drains from his cheeks, replaced by something between fury and fear.
+
+                         BATISTA
+              Medical supplies. You're threatening
+              to cut medical supplies.
+
+                         AMBASSADOR
+              The United States will suspend all
+              shipments of pharmaceutical products
+              to Cuba -- morphine, anesthesia,
+              antibiotics, surgical supplies --
+              effective immediately upon failure to
+              comply.
+
+                         BATISTA
+              Our hospitals --
+
+                         AMBASSADOR
+              Would experience critical shortages
+              within three weeks. We understand the
+              difficulty of the situation, Mr.
+              President. Which is why we're
+              offering a simple resolution. One
+              man. That's all we're asking.
+
+Batista stares at the document. His hands grip the edge of the desk.
+
+                         BATISTA
+              One man. In exchange for the health
+              of nine million people.
+
+                         AMBASSADOR
+              A straightforward arrangement.
+
+Batista looks up. The Ambassador meets his gaze without flinching.
+The State Department Attaché studies his shoes.
+
+                         BATISTA
+              Do you have any idea what this man
+              has contributed to Cuba? The
+              investments, the employment, the
+              revenue --
+
+                         AMBASSADOR
+              We're aware of Mr. Luciano's
+              activities. That is precisely why
+              we're here.
+
+A long, terrible silence. Batista looks at the document again. The
+words that will close every door Lucky Luciano was promised would
+stay open.
+
+                         BATISTA
+              You leave me no choice.
+
+                         AMBASSADOR
+              That is correct, Mr. President.
+
+Batista picks up his pen. Signs. Sets the pen down as if it weighs
+a hundred pounds.
+
+                         BATISTA
+              He will be arrested and deported. You
+              will have your man. And I will have
+              my medical supplies.
+
+                         AMBASSADOR
+              Shipments will resume the moment
+              deportation is confirmed.
+
+The Ambassador takes the signed document. Nods.
+
+                         AMBASSADOR (CONT'D)
+              The United States appreciates Cuba's
+              cooperation, Mr. President.
+
+The word "cooperation" hangs in the air like an insult. The Americans
+leave. Batista sits alone in his ornate office. He looks at his
+hands -- the hands that just signed away a man's freedom because a
+foreign government told him to.
+
+He picks up his phone.
+
+                         BATISTA
+              Get me Valdés.
+
+INT. FBN HEADQUARTERS - HARTLEY'S OFFICE - DAY
+
+BACK TO PRESENT
+
+Hartley closes the folder. Picks up the phone. Dials a long-distance
+number. Waits through the clicks and pops of the international
+connection.
+
+INT. HOTEL NACIONAL - BRENNAN'S ROOM - DAY
+
+The phone rings. BRENNAN reaches for it, notebook in hand.
+
+                         BRENNAN
+              Burke.
+
+INTERCUT WITH HARTLEY'S OFFICE:
+
+                         HARTLEY
+              Jack. It's done.
+
+                         BRENNAN
+              What's done?
+
+                         HARTLEY
+              The ultimatum. State Department
+              delivered it this morning. Cuba
+              signed off four hours later. Batista
+              had no choice. Luciano is going to
+              be deported.
+
+Brennan sits on the edge of his bed. The words sink in.
+
+                         BRENNAN
+              When?
+
+                         HARTLEY
+              Soon. Weeks, not months. They'll
+              arrest him, detain him at Tiscornia,
+              and put him on a boat back to Italy.
+              Your evidence made this possible,
+              Jack. The conference intelligence,
+              the heroin routes, the financial
+              records -- it was the foundation of
+              the entire case.
+
+                         BRENNAN
+              What about the network? The pipeline
+              from France? Deporting Luciano
+              doesn't shut that down.
+
+                         HARTLEY
+              One thing at a time. Get the head of
+              the snake and the body dies. That's
+              how this works.
+
+                         BRENNAN
+              Director, my contact says --
+
+                         HARTLEY
+              Your contact is a Cuban policeman,
+              Jack. He doesn't see the big picture.
+              We're taking down the most powerful
+              organized crime figure in the Western
+              Hemisphere. This is the biggest action
+              the FBN has ever taken. Your name is
+              on it. Be proud of that.
+
+Brennan is quiet for a moment.
+
+                         BRENNAN
+              I am proud.
+
+                         HARTLEY
+              You should be. Your brother -- this
+              is what he would have wanted.
+
+The mention of his brother hits like it always does. Brennan closes
+his eyes briefly.
+
+                         BRENNAN
+              Yes, sir.
+
+                         HARTLEY
+              Stay in position. When the arrest
+              happens, I want you there.
+              Documenting. This is history, Jack.
+              You're part of it.
+
+                         BRENNAN
+              Understood.
+
+                         HARTLEY
+              Good man.
+
+The line goes dead. Brennan holds the receiver. Sets it down slowly.
+
+He looks at his corkboard. The web of names and photographs and red
+string. The case he built. The work of months.
+
+He should feel triumph. He feels something else -- something he can't
+name. He reaches for the photograph of Genovese, still facedown on
+the desk where he left it weeks ago. Turns it over. Studies the face.
+
+Then he puts it back facedown. Picks up his notebook. Starts writing.
+
+EXT. HAVANA - MALECON SEAWALL - DUSK
+
+Brennan walks along the Malecon. The sea is rough, waves crashing
+over the wall, spray misting the air. The sun is setting, painting
+the sky red and orange.
+
+DELGADO falls into step beside him.
+
+                         DELGADO
+              I heard. The ultimatum.
+
+                         BRENNAN
+              News travels fast.
+
+                         DELGADO
+              In Cuba, everything travels fast.
+              Except justice.
+
+They walk.
+
+                         BRENNAN
+              It's done, Delgado. Luciano's going
+              to be deported. The case I built --
+              your information, my informants,
+              all of it -- it worked.
+
+                         DELGADO
+              It worked.
+
+                         BRENNAN
+              You don't sound convinced.
+
+                         DELGADO
+              I'm convinced the Americans got what
+              they wanted. I'm not convinced it's
+              what Cuba needed. Or what America
+              needs, for that matter.
+
+                         BRENNAN
+              We're taking down the man who built
+              the French Connection. The man who's
+              going to flood American cities with
+              heroin.
+
+                         DELGADO
+              You're taking down the man who built
+              it with rules. The man who replaces
+              him won't have any.
+
+They stop at the seawall. Waves crash below. The sky bleeds red.
+
+                         BRENNAN
+              What would you have me do? Walk away?
+              My brother is dead because of
+              Luciano's heroin. I came here to stop
+              that. And I stopped it.
+
+                         DELGADO
+              Did you?
+
+The question hangs between them. Brennan has no answer.
+
+                         DELGADO (CONT'D)
+              When Luciano is gone, who runs the
+              pipeline? Who controls the heroin?
+              It won't be nobody, Brennan. It'll
+              be somebody. And the somebody who's
+              been positioning himself for this
+              moment since December is Vito
+              Genovese.
+
+                         BRENNAN
+              Genovese is not my --
+
+He stops himself. He's heard those words before. From Hartley.
+"Genovese is not your assignment." The echo hits him. He goes quiet.
+
+                         DELGADO
+              You were about to say he's not your
+              assignment.
+
+Brennan stares at the water.
+
+                         BRENNAN
+              Yeah. I was.
+
+A long beat. The waves. The sunset. The city behind them, going dark.
+
+                         DELGADO
+              You're a good man, Brennan. You did
+              good work. But sometimes good men
+              do the wrong thing for the right
+              reasons. And by the time they figure
+              it out, it's too late to fix.
+
+Brennan says nothing. He looks out at the darkening ocean -- the
+same ocean that will carry Lucky Luciano away from Cuba forever.
+
+The sun drops below the horizon. The sky turns from red to purple
+to black. The lights of Havana reflect on the water.
+
+Somewhere in Washington, Hartley is celebrating. Somewhere in New
+York, Genovese is waiting. And here, on the Malecon, two men who
+helped bring down an empire stand in the dark and wonder what they've
+built in its place.
+
+                                                       END OF ACT TWO.
+
+---
+
+## Production Notes
+- This is the Act 2 climax and should feel like a turning point -- the moment when the story's trajectory becomes
+irreversible
+- Hartley's State Department pitch should be staged as a power play: a man who knows he holds all the cards, presenting
+an offer that can't be refused
+- The phone call between Hartley and Brennan is heavy with dramatic irony: the audience knows what Brennan doesn't,
+making his pride painful to watch
+- Washington scenes should contrast with the Havana scenes throughout Act 2 -- cold offices and institutional power vs.
+tropical beauty and street-level humanity
+- The medical supply ultimatum should land with moral weight: this is a government threatening to let hospitals run dry
+to deport one man
+- Batista's reaction (whether shown directly or reported) should convey the helplessness of a supposedly sovereign leader
+squeezed by American power
+- The scene should end with forward momentum into Act 3: the victory is won, but the cost hasn't been counted yet

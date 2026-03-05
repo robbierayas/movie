@@ -9,7 +9,8 @@ Sarah, Eli, Cabela's Manager, Bobby (phone), Bartender, Detective Martinez (phon
 ## SCENE LAYOUT
 
 ### Opening
-Sarah and Eli begin their hunt for Liam's identity. They follow the trail from Cabela's security footage to the bar where he worked.
+Sarah and Eli begin their hunt for Liam's identity. They follow the trail from Cabela's security footage to the bar where
+he worked.
 
 ### Key Beats
 
@@ -31,17 +32,32 @@ Sarah and Eli begin their hunt for Liam's identity. They follow the trail from C
 11. Sarah: "Address?" Bartender hesitates. Sarah: "He killed my husband."
 12. Bartender writes it on a napkin.
 
-**PHONE CALL TO POLICE:**
-13. Sarah calls Detective Martinez with Liam's name from the bar's records
-14. She gives them the identity but NOT the address—she wants to find him herself first
-15. Martinez says they'll run it, tells her to stay safe
+**THE CALL:**
+13. Eli tells Sarah she needs to call the police with the name
+14. Sarah calls, gets voicemail—leaves a message with Liam's name but hangs up without giving the address
+15. Eli: "You didn't give them the address." Sarah: "We'll go check if he's even there first."
+
+### Flashbacks (interspersed during investigation)
+
+**SETTLED BUT NOT CURED** — Three flashbacks showing the darkness never fully died after the ultimatum:
+1. **Pregnant - the castle conversation**: Sarah pregnant, planning off-grid living. Hank laughs—"Kids are gonna need a
+real house." Promises to build a castle. Sweet moment showing their dynamic.
+2. **Pregnant - almost fighting**: Sarah pregnant at a store. Someone is rude. She steps forward, fists clenching—catches
+herself. Walks away. But her eyes don't.
+3. **Soccer game**: Years later, kids' soccer game. Parent gets aggressive. Sarah rises. Hank's hand on her arm. She sits
+back down. The darkness still there, just leashed.
+
+**HOMESCHOOL FLASHBACK** — Sarah teaching kids self-defense years ago. Too intense. Pushing too hard, scenarios too
+violent. Hank gently sidelines her: "I got this, babe." Shows even with family, the darkness leaked through.
 
 ### Character Moments
-- **Sarah**: Cold, methodical. Uses fake legal documents without hesitation—she'll do whatever it takes. A hunter tracking prey.
+- **Sarah**: Cold, methodical. Uses fake legal documents without hesitation—she'll do whatever it takes. A hunter
+tracking prey. The flashbacks show this isn't new—Hank spent years holding her back.
 - **Eli**: Silent support. Watching his mother lie convincingly. Learning from her.
 
 ### Closing
-Sarah has a name and an address. She called the police with the name but kept the address for herself. Now she's going to find him.
+Sarah has a name and an address. She called the police with the name but kept the address for herself. The flashbacks
+have shown us: this is who she always was. Hank just kept it contained. Now she's going to find him.
 
 ---
 
@@ -137,6 +153,55 @@ She hangs up. Looks at Eli.
                     SARAH (CONT'D)
           Let's go.
 
+She starts the car. Pulls out of the parking lot.
+
+FLASHBACK — INT. HANK AND SARAH'S FIRST HOUSE — KITCHEN — DAY (YEARS EARLIER)
+
+Sarah, visibly PREGNANT, stands at the counter with a map spread out. Circling remote locations.
+
+                    YOUNGER SARAH
+          Look at this. Forty acres. Off-grid. Solar
+          panels, water filtration, root cellar—we could
+          be completely self-sufficient.
+
+Hank leans against the doorframe, watching her with affection.
+
+                    HANK
+          Kids are gonna need a real house, babe.
+
+                    YOUNGER SARAH
+          I'm talking about survival. If something
+          happens—
+
+                    HANK
+          I'll build us a castle. How about that?
+
+She looks up. Can't help a small smile.
+
+                    YOUNGER SARAH
+          I'm not passing on a castle if you're building it.
+
+He crosses to her. Wraps his arms around her from behind, hands on her belly.
+
+                    HANK
+          Castle it is.
+
+She leans back into him. For a moment—safe.
+
+FLASHBACK — INT. GROCERY STORE — DAY (SAME ERA)
+
+Sarah, still pregnant. Loading groceries into a cart.
+
+A MAN in the aisle bumps her cart. Hard. Doesn't apologize. Shoves past.
+
+Sarah's whole body tenses. Her fists clench.
+
+She takes a step toward him—then catches herself. Looks down at her belly.
+
+Walks away. But her eyes don't walk away.
+
+END FLASHBACKS.
+
 INT. MULLIGAN'S BAR - NOON
 
 A dark, mostly empty bar. A few day-drinkers nursing beers.
@@ -176,34 +241,25 @@ INT. SARAH'S CAR - OUTSIDE MULLIGAN'S - CONTINUOUS
 
 Sarah sits behind the wheel, staring at the napkin. Eli waits.
 
-She pulls out her phone. Dials.
+                    ELI
+          Call the police.
+
+Sarah doesn't move.
+
+                    ELI (CONT'D)
+          Mom. You have his name. Call them.
+
+Sarah looks at him. Sees Hank in his eyes. She pulls out her phone. Dials.
+
+It rings. Rings. Voicemail.
 
                     SARAH
-          Detective Martinez? It's Sarah Reeves... I have
+          Detective Martinez, it's Sarah Reeves. I have
           a name. The man who killed my husband.
-
-She reads from the napkin.
-
-                    SARAH (CONT'D)
           Liam. L-I-A-M.
-              (reads last name)
+          (reads last name)
           That's what the bar had on file. He worked
           there until a few weeks ago.
-
-                    DETECTIVE MARTINEZ (V.O.)
-          That's good work, Mrs. Reeves. We'll run it.
-          Where are you now?
-
-                    SARAH
-          Home. With my kids.
-
-A beat.
-
-                    DETECTIVE MARTINEZ (V.O.)
-          Stay there. Let us handle this.
-
-                    SARAH
-          Of course.
 
 She hangs up. Starts the car.
 
@@ -211,9 +267,62 @@ She hangs up. Starts the car.
           You didn't give them the address.
 
                     SARAH
-          No. I didn't.
+          We'll go check if he's even there first.
 
-She pulls out of the parking lot.
+FLASHBACK — EXT. SOCCER FIELD — DAY (YEARS LATER)
+
+Kids' soccer game. Sarah and Hank in folding chairs. EMMA, younger—maybe 8—on the field.
+
+A PARENT on the opposing side jumps up, screaming at the REFEREE.
+
+                    ANGRY PARENT
+          That's BULLSHIT! She was offsides! Open
+          your EYES!
+
+Sarah rises from her chair. Moving toward the man.
+
+Hank's hand on her arm. Firm. Not rough.
+
+She stops. Looks at him. Sits back down.
+
+The darkness—still there. Just leashed.
+
+FLASHBACK — EXT. REEVES PROPERTY — DAY (YEARS EARLIER)
+
+Backyard. Younger kids—ELI maybe 13, EMMA 7, OLIVIA 5. Sarah is teaching them self-defense. But she's too intense.
+Demonstrating holds that are too aggressive. Describing scenarios too violent for their ages.
+
+                    YOUNGER SARAH
+          —and if someone grabs you from behind, you
+          don't just twist away. You drive your elbow
+          back into the solar plexus, then you STOMP
+          the instep—
+
+OLIVIA's lip trembles. EMMA looks scared.
+
+Hank steps in. Gentle hand on Sarah's shoulder.
+
+                    HANK
+          I got this, babe.
+
+Sarah stops. Something flickers behind her eyes—frustration, maybe shame. She nods. Steps back.
+
+Hank kneels down to Olivia's level. Warm smile.
+
+                    HANK (CONT'D)
+          Okay, little bear. Show me your mean face.
+
+Olivia makes a face. Everyone laughs. The tension breaks.
+
+Sarah watches from the background. Arms crossed. The look in her eyes—she knows what she is.
+
+END FLASHBACKS.
+
+INT. SARAH'S CAR — PRESENT
+
+Sarah pulls out of the parking lot. Her face set. Determined.
+
+No one's hand on her arm anymore.
 
 ---
 
@@ -228,6 +337,16 @@ She pulls out of the parking lot.
 - The receipt from Liam's jacket (found in Scene 9) gives her the exact timestamp to check
 - She never mentions her dead husband at Cabela's—stays in character as a legal professional
 - Phone call to Bobby is more efficient than in-person visit
+- Eli forces Sarah to call—she wouldn't have done it on her own. Shows Eli as the moral check now that Hank is gone
+- Sarah gets voicemail, leaves the name but hangs up without the address. Deflects Eli: "We'll go check if he's even
+  there first." The rationalization is thin and they both know it
 - Sarah gives police the NAME but not the ADDRESS—setting up the false identity twist
-- The lie to Martinez ("Home. With my kids.") shows Sarah is committed to handling this herself
 - This scene sets up Scene 14's revelation: police will arrest the wrong Liam using this name
+- FLASHBACK: Pregnant/castle—shows the loving Hank-Sarah dynamic, his grounding influence. "I'll build us a castle."
+Establishes what she's lost.
+- FLASHBACK: Pregnant/grocery store—the darkness was there even while carrying their child. She walked away that time.
+- FLASHBACK: Soccer game—Hank's hand on her arm. Years later, still leashed. Shows the pattern.
+- FLASHBACK: Homeschool—Sarah too intense teaching kids self-defense. Hank sidelines her: "I got this, babe." Even with
+family, it leaked through.
+- Final image: "No one's hand on her arm anymore"—the leash is gone. All flashbacks build to this: Hank was the only
+thing keeping her human.

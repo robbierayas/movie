@@ -1,0 +1,186 @@
+
+  ---
+  HUNTED AKA "HOUSE AND HOME" — SCREENPLAY CRITIQUE
+
+  Coverage Rating: STRONG CONSIDER
+
+  ---
+                    THE FOUR PILLARS
+
+  1. CHARACTERS
+
+  Liam — His VO narration in Act 1 is the strongest tool. The "skill vs luck" delusion gives him depth beyond generic
+  serial killer. The hair bow hinting at a child
+  victim is chilling. His warped self-image (comparing himself to Zaroff) creates dramatic irony since Zaroff loses. His
+  VO personality is more interesting than his
+  spoken personality — once the VO ends, his in-the-moment dialogue occasionally slides into action-movie generic
+  ("Just... fucking... DIE," "Body armor, bitch!").
+  His final act — blackbelt bandana, finger-guns, suicide-by-cop — is strong. He denies the system a trial, one last
+  "challenge," one last delusion.
+
+  Hank — The best-drawn character despite dying in Act 2. The Cabela's scene does enormous work: knife philosophy, the
+  JFK quote, "It's not easy. It's just worth
+  it." He earns the audience's investment before he's taken. Family Time cements it. His death feels hard-won and
+  devastating. His legacy — the skills he taught, the
+   house he built, even the blackbelt — haunts the rest of the film. Flat arc done right.
+
+  Sarah — The core arc and the screenplay's real ambition. The darkness-always-there concept is excellent. Her flashback
+  structure (past case, meeting Hank, bar
+  fight, ultimatum, settled-but-not-cured) builds a complete portrait. The flash forward ("They never found who killed
+  Hank") is a strong addition — it crystallizes
+  her motivation and connects to the thematic question of "Where Does the Good Go." Her legal confrontation with
+  detectives is sharp, specific dialogue. Her death is
+   earned tragedy.
+
+  Bobby — "Unky Buh-by" is the screenplay's best recurring motif. Establishes warmth in Act 1 (comic relief, dog
+  rapport), pays off devastatingly when Liam mocks it
+  in Act 3. Bobby and Girly dying together — her sliding into his outstretched arm — is the most emotionally powerful
+  image in the script. The Bobby/Girly silent
+  subtitle conversation is a bold tonal choice; it works if the audience is already invested in their bond.
+
+  Eli — Functions well as the son who inherits Sarah's darkness. "You aren't a man" as dying words — strong. His death is
+  earned (he opened the doors out of rage,
+  the same impulse his mother couldn't control). The parallel to Sarah is clear without being stated.
+
+  Emma and Olivia — They serve their thematic function (the sensible choice) but are somewhat interchangeable as
+  individual characters. Emma has slightly more agency
+   ("This is wrong. Dad taught us to defend ourselves, not... this" is the thematic voice of the film). Olivia is mostly
+   reactive. Consider giving each one
+  distinctive moment beyond their function.
+
+  2. CONFLICT
+
+  The three-phase conflict structure is excellent:
+  - Liam vs Hank — worthy opponent, earned kill
+  - Sarah vs Liam — investigation and apartment fight
+  - Family vs Liam — the siege
+
+  Stakes escalate cleanly. Each phase raises the personal cost. The escalating losses in Act 3 (Girly → Bobby → Eli →
+  Sarah) create an almost unbearable momentum.
+  The conflict resolution — a 911 call, not a final kill — is the thematic payoff done right.
+
+  3. STRUCTURE
+
+  Act 1 (Scenes 1-6): Efficient. VO carries setup without dragging. Cabela's is a strong inciting incident. Family Time
+  is essential and well-placed — without it, we
+   don't care. The "Let's do this" ending lands.
+
+  Act 2 (Scenes 7-14): The strongest act. The Hank fight (7-8) is visceral, desperate, and earns every beat. The hostage
+  exchange (9) sets up everything. The
+  investigation (10-12) is methodical and believable. The apartment fight (13) is a strong midpoint escalation. The false
+  identity twist (14) is clever and necessary
+   — it explains why running won't work.
+
+  Act 3 (Scenes 15-20): Relentless. Parallel preparation montage works. The siege is well-structured with each loss
+  raising stakes. The ending lands the theme
+  cleanly.
+
+  Pacing: Generally strong. Act 3 is intense but may need a brief breathing beat after Bobby's death for the audience to
+  process before Eli's death begins. Two major
+   character deaths back-to-back risks emotional numbness rather than escalating impact.
+
+  4. THEME
+
+  Primary: Hunter becomes hunted — but revenge consumes as much as it protects.
+  Secondary: Practicality vs drama — the children survive by choosing the unglamorous option.
+  Tertiary: "Where does the good go?" — Hank as the anchor keeping Sarah human.
+
+  Theme is integrated through action, not preaching. Emma's "Dad taught us to defend ourselves, not... this" is the
+  thematic voice. The ending earns its irony —
+  Sarah and Eli die because they chose to fight; Emma and Olivia survive because they called 911. The song motif deepens
+  the Hank/Sarah relationship without being
+  literal.
+
+  ---
+                    SPECIFIC ISSUES TO ADDRESS
+
+  Critical
+
+  1. Compiled screenplay is missing flashback sequences.
+  Scenes 10, 11, and 12 have flashbacks in the individual scene files (past case, meeting Hank, Moxie's bar fight, the
+  ultimatum, pregnant scenes, soccer game,
+  homeschool, the flash forward) that don't appear in the compiled screenplay. These are CRITICAL to Sarah's arc. Without
+  them, her transformation feels less earned.
+   The screenplay needs to be recompiled.
+
+  2. Scene 12 phone call is outdated in the compiled version.
+  The scene file has been updated (Eli forces Sarah to call, she gets voicemail, withholds address) but the compiled
+  version still shows a direct conversation with
+  Martinez. Needs recompile.
+
+  3. Sarah's occupation inconsistency.
+  - main.txt / Sarah.txt: "Government lawyer"
+  - Scene 10 compiled screenplay: "I was a public defender for eight years"
+  - These are different roles. A public defender represents criminal defendants. Her backstory (domestic violence case
+  where she warned cops about a killer) sounds
+  more like a prosecutor or victim advocate. Pick one and make it consistent.
+
+  4. Bar name inconsistency: O'Malley's vs Mulligan's.
+  Scene 3: Liam tells Bobby he works at "O'Malley's." Scene 12: Bobby remembers "Mulligan's? Maybe?" This could be
+  intentional (Liam lied, Bobby misremembers) but
+  it's unclear. If Liam lied at Cabela's and really worked at Mulligan's, that's smart — but the audience needs to track
+  it. If Bobby is just misremembering, that
+  works too, but it's a coincidence that he gets close to the right bar. Clarify.
+
+  Moderate
+
+  5. Emma's .22 rifle.
+  All firearms were seized in Scene 10. Bobby gave ONE gun to Sarah. In Scene 16, Emma grabs "her .22 RIFLE" to shoot the
+  drone. Where did it come from? Needs a line
+   or beat addressing this — hidden, not found during seizure, from Bobby's truck, etc.
+
+  6. When did Liam take Hank's blackbelt?
+  Hank uses it as a tourniquet in Scene 8. Liam has it in Scene 15. Presumably he took it from the body, but this isn't
+  shown. A quick beat would fix it.
+
+  7. The 24-hour timeline.
+  Liam wrote "CYA TONIGHT." The parallel preparation montage suggests ~24 hours. Liam has injuries from the Hank fight
+  AND the apartment fight, yet he builds armor
+  and returns. This strains believability. Consider either extending the timeline slightly or acknowledging that his
+  rushing back is desperate and reckless (which
+  fits his character).
+
+  Minor
+
+  8. Eli's "TWO MEN ENTER! ONE MAN LEAVES!"
+  This feels like a different movie's dialogue — more action-movie than grounded thriller. It does pay off when Liam
+  throws it back at him ("The one who wouldn't let
+   me leave. 'Two men enter, one man leaves.' Remember?"). But the initial line may break tone. Consider whether Eli
+   would actually say this or something more
+  raw/less referential.
+
+  9. Liam's suicide-by-cop ending.
+  Thematically strong — he treats death as one final challenge, denies the system. But it could read as Liam "winning."
+  Given the theme that the sensible choice
+  beats the dramatic one, his dramatic exit works as one final delusion. Just be aware some audiences may feel cheated
+  that he avoids trial. The girls watching is
+  the counterpoint — they chose the system, and it worked.
+
+  10. Sarah putting the gun down then having it later.
+  She puts Bobby's gun on the counter in Scene 11 ("I won't be needing this"). She presumably picks it up after the false
+  identity reveal. She has it in Scene 16.
+  The custody of this gun should be made slightly more explicit during the transition to Act 3.
+
+  ---
+                    WHAT WORKS BEST
+
+  - The structural inversion (hunter → hunted → hunter) across three acts
+  - Hank and Bobby's voices — warm, real, specific
+  - "Unky Buh-by" as a motif that shifts from warmth to devastation
+  - Bobby and Girly together in death
+  - Sarah's flashback structure revealing the darkness was always there
+  - The flash forward as the crystallizing moment
+  - The thematic irony of the ending — earned, not mocking
+  - "Where Does the Good Go" as thematic shorthand for the whole Hank/Sarah dynamic
+  - Liam's VO worldview — the "skill vs luck" delusion
+  - The false identity twist — clever, believable, and necessary for plot mechanics
+
+  ---
+                    RECOMMENDATION
+
+  Recompile the screenplay with all flashback sequences included, resolve the continuity issues (occupation, bar name,
+  gun tracking), and this is a tight,
+  thematically rich thriller. The bones are strong. The character work — particularly Sarah's arc and the Bobby/Girly
+  emotional core — elevates it above genre. The
+  ending is the kind of sharp irony that stays with an audience.
+

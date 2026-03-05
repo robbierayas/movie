@@ -1,0 +1,66 @@
+# MEYER LANSKY
+
+## BASIC INFORMATION
+- **Full Name**: Meyer Lansky
+- **Age**: 44
+- **Occupation**: Organized crime financial genius; manages Cuba gambling operations (Hotel Nacional, racetracks)
+- **Family**: Not mentioned in main.txt
+- **Historical/Composite**: Historical figure. Died 1983 in Miami Beach, Florida. Outlived everyone.
+
+## ARCHETYPE
+[Primary ensemble role - to be determined after screenplay is written]
+
+## CHARACTER FUNCTION
+Lansky is Lucky's lifelong partner and the emotional anchor of Lucky's story. He represents competence, loyalty, and
+strategic thinking -- the financial brain behind the empire. His role in the film is multifaceted: he sets the Cuba plan
+in motion by telling Lucky about the opportunity, greets him at the airport, organizes the Havana Conference, manages the
+gambling operations, and provides the final emotional beat at Tiscornia -- two old friends, one behind a fence. Lansky
+may also serve as the vehicle for the film's twist, revealing to Brennan that Genovese fed the FBN.
+
+## PHYSICAL DESCRIPTION
+To be determined from screenplay.
+
+## PERSONALITY TRAITS
+- Financial genius -- manages the Cuba gambling empire with 30% ownership of the Hotel Nacional, oversees racetrack
+operations
+- Lucky's lifelong friend -- their partnership is built on decades of trust and shared history
+- Strategic thinker -- sees the big picture, understands the logistics of building a criminal empire across international
+borders
+- Perceptive about threats -- recognizes before anyone else that Genovese will move on everything after Lucky's
+deportation
+- Pragmatic -- handles the practical side of Lucky's ambitions (investments, bookings, financial arrangements)
+- Calm and intelligent -- provides a counterbalance to the more volatile personalities in the mob world
+- Loyal but realistic -- sticks by Lucky to the end while clearly seeing the coming disaster
+
+## RELATIONSHIPS
+- **Lucky Luciano**: Lifelong friend and partner. Their relationship is the emotional heart of Lucky's story. Lansky
+tells Lucky about Cuba, greets him at the airport, lays out the business vision with him, organizes the Conference, and
+visits him at Tiscornia to settle finances and warn about Genovese. The scene at Tiscornia -- "two old friends, one
+behind a fence" -- is the partnership that built an empire winding down.
+- **Vito Genovese**: Sees Genovese clearly as a threat. Backs Lucky against Genovese at the Conference. Warns Lucky about
+Genovese during the Tiscornia visit. Knows he himself is a target after Lucky's deportation.
+- **Albert Anastasia**: Allied with Anastasia as part of Lucky's inner circle. Both support Lucky against Genovese at the
+Conference.
+- **Jack Brennan**: Possible source of the twist revelation -- Lansky may be the one who tells Brennan the truth about
+Genovese feeding intel to the FBN.
+- **Frank Costello**: Fellow member of Lucky's alliance at the Conference.
+
+## CHARACTER ARC
+- **Setup (Act 1)**: Tells Lucky that Cuba is wide open during their meeting in Italy. Greets Lucky at Havana airport.
+Together they lay out the grand vision: casinos, racetracks, airline, French Connection pipeline. Two old partners
+excited again.
+- **Conference (Act 2)**: Organizes the Havana Conference. Part of the Inner Circle meeting. Backs Lucky financially and
+strategically against Genovese's challenge. Present for the Conference decisions on heroin territories and the Bugsy
+Siegel situation. Convinces Commission to give Bugsy until spring.
+- **Farewell (Act 3)**: Visits Lucky at Tiscornia. Settles finances. Warns Lucky about Genovese -- he can see what's
+coming. Two old friends, one behind a fence, watching the end of an era.
+- **Legacy (Epilogue)**: The French Connection remains operational (Lucky and Corsicans still partner from Italy). Lansky
+loses everything when Castro takes power in 1959. Dies in Miami, 1983 -- outlived everyone.
+- **Arc Type**: Loyal partner arc -- stands by Lucky through rise and fall, sees the end coming clearly, endures the
+longest.
+
+## DIALOGUE STYLE
+To be expanded after scenes are written.
+
+## KEY SCENES
+[To be filled in as scenes are written using Workflow 4]

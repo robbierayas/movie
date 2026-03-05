@@ -17,15 +17,27 @@ Same night as Hank's murder. Police are still at the house, processing the scene
 2. Police ask about the guns—multiple shots fired, they're seizing ALL firearms as evidence (standard procedure)
 3. Sarah pushes back: "He said he's coming back. That's a credible threat."
 4. Police are skeptical—they'll look into it, but she should let them handle it
-5. Sarah's work history comes out—she's seen this before. "I was a public defender for eight years. I know exactly what happens next. You'll investigate for a few weeks, hit a dead end, and move on. Meanwhile he's out there planning."
+5. Sarah's work history comes out—she's a government lawyer, she's seen this before
 6. The cops don't take her seriously. One mutters something about "letting us do our job."
 7. Sarah watches them take Hank's body. Cold fury building.
+8. FLASHBACK: The past case—Sarah had a domestic violence case, warned cops repeatedly, confronted the husband with
+police present. He killed the wife anyway. The system failed.
+9. FLASHBACK: Meeting Hank—Sarah starts self-defense classes after the case. Meets Hank on the mat. Immediate attraction.
+10. FLASH FORWARD (IMAGINED): After the flashbacks, Sarah imagines a future where she's sitting across from someone,
+older and hollow, saying "They never found who killed Hank." The flashbacks showed her the past—the system failing,
+Hank saving her. The flash forward shows her the future if she lets it happen again. The imagined failure drives her
+to act.
 
 ### Character Moments
-- **Sarah**: Her legal background makes her distrust of police specific and personal—not paranoia, experience. The moment she watches Hank's body leave, something hardens in her.
+- **Sarah**: Her legal background makes her distrust of police specific and personal—not paranoia, experience. The moment
+she watches Hank's body leave, something hardens in her. The flashbacks reveal WHY: she tried it "the right way" once.
+Someone died anyway.
 
 ### Closing
-Sarah watches Hank wheeled out in a body bag. Her children huddle in the doorway. Something changes behind her eyes—the last of her restraint dying with him.
+The flash forward shows what Sarah refuses to become—a hollow woman who trusted the system and lost. The flashbacks
+reveal why she knows the system will fail: the past case, the body bag, history repeating. And in the self-defense class,
+she met Hank—the good that's now gone. Back in the present, she stares at the door where Hank's body was wheeled out.
+She's done waiting for the system.
 
 ---
 
@@ -35,7 +47,7 @@ INT. REEVES HOUSE - FOYER - NIGHT
 
 Crime scene tape. Evidence markers. TECHS photographing the destroyed living room.
 
-SARAH sits on the stairs, wrapped in a shock blanket. Her eyes are red but dry now. Watching everything.
+Sarah sits on the stairs, wrapped in a shock blanket. Her eyes are red but dry now. Watching everything.
 
 Two DETECTIVES stand over her. DETECTIVE MARTINEZ, sympathetic. DETECTIVE COLE, impatient.
 
@@ -64,6 +76,19 @@ Sarah's head snaps up.
           I know which weapon killed my husband. The knife
           in that man's hand.
 
+A TECH approaches holding a small .22 RIFLE.
+
+                    TECH
+          Detective—what about this one? It's a .22.
+
+Cole glances at it. Shakes his head.
+
+                    DETECTIVE COLE
+          That's not involved. We're looking at the handguns
+          that were discharged tonight. Leave it.
+
+The Tech sets the .22 back against the wall.
+
                     DETECTIVE MARTINEZ
           Mrs. Reeves—
 
@@ -79,7 +104,7 @@ Detective Cole exchanges a look with Martinez.
           process the scene and let you—
 
                     SARAH
-          I was a public defender for eight years, Detective.
+          I'm a government lawyer, Detective.
 
 She stands. The blanket falls away.
 
@@ -124,6 +149,118 @@ Emma, Olivia, and Eli huddle in the kitchen doorway, watching too.
 
 Sarah's jaw tightens. Something hardens behind her eyes.
 
+FLASHBACK — INT. GOVERNMENT OFFICE — DAY (YEARS EARLIER)
+
+A younger SARAH. Late twenties. Professional suit. Stacking case files at her desk. A COLLEAGUE drops a folder in front
+of her.
+
+                    COLLEAGUE
+          Henderson case. DA reduced the charges.
+          He's out on bail.
+
+Sarah goes still.
+
+                    YOUNGER SARAH
+          I told them. I told them he'd escalate.
+
+                    COLLEAGUE
+          The wife called again. She's terrified—
+
+Sarah grabs her jacket. Already moving.
+
+FLASHBACK — EXT. SUBURBAN HOUSE — NIGHT (SAME ERA)
+
+Red and blue lights. An AMBULANCE. Sarah stands behind police tape, staring at a BODY BAG being wheeled out.
+
+A UNIFORMED COP approaches.
+
+                    COP
+          You the lawyer? We had officers on scene
+          when it happened. He got past them.
+
+Sarah stares at the body bag. Same image she just watched with Hank.
+
+                    COP (CONT'D)
+          Ma'am, there was nothing you could have—
+
+                    YOUNGER SARAH
+          Don't.
+
+She walks away. The cop calls after her. She doesn't turn around.
+
+FLASHBACK — INT. COMMUNITY CENTER — NIGHT (WEEKS LATER)
+
+A self-defense class. Sarah, still wound tight, THROWS a sparring partner onto the mat. Hard. Too hard. The INSTRUCTOR
+steps forward.
+
+                    INSTRUCTOR
+          Whoa—easy. This is a beginner's class.
+
+Sarah doesn't ease up. She's looking for the next person to hit.
+
+A man steps onto the mat. Big frame. Warm eyes. No scar on his face yet.
+
+Hank. Younger. Grinning.
+
+                    HANK
+          Mind if I try?
+
+Sarah squares up. They spar. He's strong—absorbs her hits without flinching. But he doesn't hit back hard. Just
+redirects. Calm.
+
+She tries harder. He adapts. Eventually she's breathing hard and he's still grinning.
+
+                    HANK (CONT'D)
+          You're good.
+
+                    YOUNGER SARAH
+          You're annoying.
+
+                    HANK
+          I get that a lot.
+
+They hold eye contact. First time Sarah's almost smiled in weeks.
+
+END FLASHBACKS.
+
+INT. REEVES HOUSE — FOYER — PRESENT
+
+Sarah stands alone in the foyer. The police cars pull away outside. The house is quiet.
+
+She stares at the door where Hank's body was wheeled out.
+
+The memory of meeting Hank—his grin, his calm, the way he absorbed her darkness and gave back warmth—dissolves into
+something else. Something that hasn't happened yet.
+
+FLASH FORWARD (IMAGINED) — INT. UNKNOWN ROOM — DAY (YEARS FROM NOW)
+
+An older SARAH. Hollowed out. Gray at the temples. Sitting across from SOMEONE we can't quite see. A friend, a
+therapist, a reporter—it doesn't matter. What matters is her voice.
+
+                    OLDER SARAH
+          They never found who killed Hank.
+
+She stares at nothing.
+
+                    OLDER SARAH (CONT'D)
+          Police said they'd look into it.
+          Case went cold. They moved on.
+          I never did.
+
+The image of this future—this hollow, defeated woman who trusted the system and lost—burns into Sarah's mind.
+
+END FLASH FORWARD.
+
+INT. REEVES HOUSE — FOYER — PRESENT
+
+Sarah's face has changed. Whatever softness was left is gone. The flashbacks showed her the past—the system failing,
+Hank saving her. The flash forward showed her the future if she lets it happen again.
+
+Sarah, barely a whisper.
+
+                    SARAH
+          Not again.
+
 ---
 
 ## Production Notes
@@ -135,6 +272,15 @@ Sarah's jaw tightens. Something hardens behind her eyes.
 
 **Key Story Elements:**
 - Guns seized as evidence establishes why family can't just "shoot him" in Act 3
-- Sarah's legal background (public defender) makes her distrust specific, not paranoid
+- Sarah's legal background (government lawyer) makes her distrust specific, not paranoid
 - "Catch me if you can" callback from Scene 9
 - The body bag moment is the turning point—Sarah's last restraint dies with Hank
+- FLASH FORWARD (IMAGINED): After the flashbacks, Sarah imagines a future where she's telling someone "They never
+  found who killed Hank." The flashbacks showed her the past (system failed, Hank saved her). The flash forward shows
+  the future if she lets it happen again. This imagined failure is what breaks her—she refuses to become that hollow
+  woman.
+- FLASHBACK: Past case parallels current situation—she warned cops, they failed, someone died. Establishes why she won't
+trust the system again
+- FLASHBACK: Meeting Hank at self-defense class—she started fighting BECAUSE the system failed. Hank was the first person
+who could match her intensity
+- The two body bags (past case + Hank) create visual parallel—history repeating

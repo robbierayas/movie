@@ -1,0 +1,6 @@
+{
+  "LUCKY": { "voice": "voices/en_US-ryan-high.onnx", "model": "hank" },
+  "NARRATOR": { "voice": "voices/en_US-libritts-high.onnx", "model": null },
+  "ACTION": { "voice": "voices/en_US-lessac-medium.onnx", "model": null },
+  "_default": { "voice": "voices/en_US-lessac-medium.onnx", "model": null }
+}

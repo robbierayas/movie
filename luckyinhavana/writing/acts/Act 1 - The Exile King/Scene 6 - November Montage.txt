@@ -1,0 +1,121 @@
+# Scene 6 - November Montage (MONTAGE)
+
+## TYPE
+Linear Montage
+
+## PURPOSE
+Compresses the month of November 1946 to show Lucky's empire taking shape across Havana. Establishes the scale and pace
+of his operations -- casinos, racetracks, the mansion as command center -- while planting seeds of the darker business
+underneath (the docks meeting / heroin network) and the first personal cost landing close to Delgado (his cousin fired
+from Oriental Park). Valdes is shown as the man greasing every wheel.
+
+## TIME SPAN
+Approximately one month (November 1946)
+
+## MONTAGE STRUCTURE
+
+### Shot 1
+**Oriental Park Racetrack** -- Lucky at the Jockey Club tables, surrounded by well-dressed gamblers. Money changing
+hands, races running, the energy of legal gambling operations in full swing. Lucky is in his element -- watching,
+calculating, owning the room.
+
+### Shot 2
+**Casino Nacional / Hotel Nacional Casino** -- Lucky moving through the casino floor with Lansky or associates. Slot
+machines, card tables, roulette wheels. The gambling empire expanding. Valdes appears, shaking hands, smoothing a permit,
+making an introduction -- every door opens with an envelope.
+
+### Shot 3
+**Miramar Mansion** -- Lucky taking meetings at the mansion. Associates arriving, papers being signed, phone calls being
+made. The mansion has become a command center. Staff serve drinks, Delgado stands watch. The machinery of an empire
+running smoothly.
+
+### Shot 4
+**Havana Docks** -- The critical beat. **BREAK MONTAGE RHYTHM HERE: music drops out, pace slows, silence and tension
+replace energy.** Lucky meets with SANTO TRAFFICANTE at the docks. Trafficante is the Tampa boss already embedded in
+Cuba -- he knows the port, the shipping routes, the local contacts. Hushed conversation, coded language about "shipments"
+and "routes." Crates and cargo in the background. Delgado is present as security but stands at a distance -- he doesn't
+understand what he's witnessing. It looks like import/export business. He's uneasy but can't name why. This is the heroin
+network being built. **This beat should play longer than any other shot in the montage -- let the silence do the work.**
+
+### Shot 5
+**Valdes Thriving** -- Valdes in his element: a government office, a restaurant, a car. The money flowing through Cuba
+has never been better. He's the man in the middle of everything, taking his cut, facilitating every deal. A brief image
+of Batista's Cuba at its most corrupt and prosperous.
+
+### Shot 6
+**Oriental Park -- Delgado's Cousin** -- Lucky's American associates taking over operations at the racetrack. New faces
+replacing old ones. Delgado's cousin, who worked at the racetrack, being let go -- replaced by Americans. A brief,
+wordless moment: the cousin walking away from the track, looking back. Delgado hears about it later but says nothing. The
+first personal cost of Lucky's empire lands close to home.
+
+---
+
+## FULL SCRIPT
+
+MONTAGE - LUCKY'S EMPIRE TAKES SHAPE (NOVEMBER 1946)
+
+Cuban music rises -- a full son orchestra, brass and percussion, the heartbeat of Havana.
+
+-- ORIENTAL PARK RACETRACK - DAY. Lucky sits at the Jockey Club tables, surrounded by well-dressed gamblers. He watches
+the horses round the far turn, cigar in hand, utterly at ease. Money changes hands across the green felt. A CUBAN
+BUSINESSMAN shakes Lucky's hand -- another contact made, another door opened.
+
+-- CASINO NACIONAL - NIGHT. Lucky walks the casino floor with Lansky. Slot machines ring, roulette wheels spin, cards
+snap against felt. VALDES appears from the crowd, guiding a nervous-looking GOVERNMENT OFFICIAL toward Lucky. Handshakes.
+Smiles. Valdes slips an envelope into the official's breast pocket and pats it smooth. The man relaxes. Every door opens.
+
+-- MIRAMAR MANSION - DAY. The mansion as command center. Lucky takes a meeting in the study -- three MEN IN SUITS spread
+papers across a desk, pointing at maps. A PHONE RINGS and Lucky answers it, speaking rapid Italian. Delgado stands at the
+door, watchful, a sentinel. Staff serve cafecito in small cups.
+
+-- MIRAMAR MANSION - NIGHT. A different meeting. More men, more papers, more phone calls. The machinery of empire never
+stops. Through the window, the ocean shimmers under moonlight.
+
+-- HAVANA DOCKS - DAWN. The critical beat. Early morning fog. Cargo ships loom at anchor. Lucky stands on a wharf with
+SANTO TRAFFICANTE, mid-50s, the Tampa boss already embedded in Cuba's port operations. Trafficante is all business -- he
+knows these docks, knows the harbormaster, knows which ships don't get inspected. He walks Lucky through a shipping
+manifest, tapping certain lines. Lucky nods. Trafficante produces a small sample -- a paper packet, white powder inside.
+Lucky examines it, rubs a trace between his fingers, nods again. The packet disappears. Handshakes -- the grip of men
+sealing something permanent. Delgado stands thirty feet away, by the car. He watches the meeting but hears nothing. His
+face is still. But his eyes are uneasy. Something about this feels different from the racetracks and casinos. He can't
+name it. He doesn't try.
+
+-- VALDES'S OFFICE - DAY. Valdes at his desk, phone to his ear, signing documents without reading them. A stack of
+PERMITS on his desk -- gaming licenses, import authorizations, building approvals. He stamps one after another. A
+SECRETARY brings more. He stamps those too. Behind him, a framed portrait of President Batista watches from the wall.
+
+-- ORIENTAL PARK RACETRACK - LATE AFTERNOON. New faces in the Jockey Club. AMERICAN ASSOCIATES -- Lucky's men from the
+States -- take positions behind the tables. They move with an authority that displaces the old staff. DELGADO'S COUSIN,
+30s, a racetrack worker in a white shirt, is stopped at a door he used to walk through. An American shakes his head. No.
+The cousin stands there for a moment, disbelieving. Then he takes off his cap, looks back at the track one last time, and
+walks away.
+
+The music fades. The montage ends on:
+
+INT. DELGADO'S CAR - EVENING
+
+Delgado drives home alone. He passes through the working-class streets of his neighborhood -- a different Havana from the
+mansions and casinos. He stops at a light. Stares at nothing.
+
+He's heard about the cousin. He doesn't speak about it. But the weight of it sits on his face -- the first crack in the
+simple story he's been telling himself about what this job is.
+
+The light changes. He drives on.
+
+CUT TO:
+
+---
+
+## Production Notes
+- Multiple locations needed: Oriental Park Racetrack, casino interiors, Miramar mansion, Havana docks, government office
+- **CRITICAL - The docks meeting (Shot 4) must BREAK the montage rhythm.** This is the most important plot point in
+Act 1 -- the heroin network being established. The montage music should DROP OUT for this beat. Let the docks meeting
+play in near-silence: fog, ambient harbor sounds, the scrape of cargo, low voices. Hold the shot longer than any other
+beat in the montage. The sample exchange (white powder, nod) should play with tension and stillness, not montage energy.
+After the beat concludes, the music can resume for Shots 5-6. The audience needs to feel the shift -- this isn't another
+business deal, this is the thing that will destroy lives.
+- Delgado's cousin firing (Shot 6) sets up Scene 7 (family dinner) -- this personal cost needs to register even in
+montage
+- Valdes should appear across multiple shots to emphasize his role as the facilitator of everything
+- Music: 1940s Cuban music throughout -- establishing Havana's energy and rhythm. Exception: music drops for docks scene.
+- Lighting progression could show passage of time: morning, afternoon, evening, night across the shots

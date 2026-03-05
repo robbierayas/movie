@@ -1,0 +1,166 @@
+# Scene 28 - Final Image
+
+## LOCATION
+EXT. - S.S. BAKIR (1947) / GENOVESE'S HEADQUARTERS (1950s) / HAVANA STREETS (1959)
+
+## CHARACTERS
+Lucky Luciano, Vito Genovese, Carlos Delgado, Jack Brennan
+
+## SCENE LAYOUT
+
+### Opening
+Split screen or cross-cutting opens on three images from three different times. The film's final sequence strips away
+plot and leaves only the thematic argument: three men, three paths, all shaped by five months in Cuba.
+
+### Key Beats
+1. **1947 - Lucky on the S.S. Bakir.** Sailing away from Havana into exile. The man who built an empire in Cuba,
+dismantled by forces he couldn't see. Standing on the deck of a rusty cargo freighter, watching the lights of Havana
+disappear. The exile king, exiled again.
+2. **1950s - Genovese standing victorious.** At the peak of his heroin empire. The man who lost the vote at the Havana
+Conference won the war. He used the FBN, manipulated Hartley, weaponized Brennan, and seized everything Lucky built. No
+restraint, no code, no limits. The bigger monster Delgado warned about, fully realized.
+3. **1959 - Delgado watching Castro enter Havana.** The revolution sweeps away everything -- Batista, the casinos, the
+mob, the world Delgado served. He helped remove Lucky to protect Cuba. Now Cuba itself is transformed beyond recognition.
+The assignment is over, but the consequences keep unfolding.
+
+### Character Moments
+- **Lucky Luciano**: The final image of the exile -- alone on a ship, empire behind him, nothing ahead. The man who
+believed he was untouchable, touched by the system he thought he controlled.
+- **Vito Genovese**: Victorious but ultimately doomed (prison, death). The monster the heroes empowered. His triumph is
+the story's tragedy.
+- **Carlos Delgado**: Watching his country change again. He tried to do the right thing within a corrupt system. The
+system changed, but corruption didn't end -- it just changed form.
+- **Jack Brennan**: Referenced in the closing thematic statement. The agent who thought he was the hunter, discovered he
+was the weapon. His arc completes the Pyrrhic victory.
+
+### Closing
+The final thematic statement, delivered as voiceover, title card, or text: "Two men tried to do the right thing. But
+sometimes doing the right thing just changes which evil is in power." Three men. Three paths. All shaped by five months
+in Cuba, 1946-1947. The screen goes dark.
+
+---
+
+## FULL SCRIPT
+
+SPLIT SCREEN - THREE MEN, THREE TIMES
+
+FADE IN FROM BLACK.
+
+The screen divides into three panels. Three images. Three moments. Three men shaped by five
+months in Havana.
+
+LEFT PANEL -- 1947:
+
+EXT. S.S. BAKIR - STERN DECK - NIGHT (1947)
+
+LUCKY LUCIANO stands at the railing of the cargo ship. The wind off the Straits of Florida
+catches his overcoat. Behind him, the lights of Havana are gone. There is only the dark ocean.
+
+He grips the railing. The exile king, sailing into exile. The man who built an empire ninety
+miles from Florida, dismantled by forces he couldn't see and allies he couldn't trust.
+
+His face is still. Composed. The dignity that even a rusty cargo freighter cannot take from
+him. But his eyes -- his eyes hold the knowledge of a man who understands, finally, that he
+was outplayed.
+
+CENTER PANEL -- 1950s:
+
+INT. GENOVESE'S OFFICE - NIGHT (1950s)
+
+VITO GENOVESE sits behind a desk in a dark-paneled room. The desk is large, expensive. A map
+of the United States on the wall behind him, pins marking cities. Every pin a distribution
+point. Every city a market.
+
+He smokes a cigar. The same deliberate enjoyment as the detention camp fence. The man who lost
+the vote at the Havana Conference won the war. He used the FBN, manipulated a director,
+weaponized an agent, and seized everything.
+
+No restraint. No code. No limits.
+
+He leans back in his chair. The king of heroin. The bigger monster. The man Delgado warned
+about and Brennan didn't listen.
+
+RIGHT PANEL -- 1959:
+
+EXT. HAVANA STREETS - DAY (1959)
+
+CARLOS DELGADO stands on a Havana sidewalk. The revolution streams past him -- crowds, flags,
+soldiers, the euphoria of a nation transformed. Castro's new Cuba.
+
+Delgado watches. He is older now. Gray at the temples. The military bearing softened by twelve
+years. Beside him, MARIA holds his arm. Their daughters are grown, somewhere in the crowd, part
+of the new Cuba.
+
+He watches the revolution the way a man watches a river change course. The Cuba he served --
+Batista's Cuba, the Cuba of envelopes and arrangements and police lookaway -- is gone. The
+casinos shuttered. The mansions seized. The men like Valdes and Perez Damera swept away.
+
+He tried to do the right thing. He protected Lucky, then helped bring him down. He chose his
+country over his conscience and his conscience over his comfort.
+
+The country chose something else entirely.
+
+THE THREE PANELS HOLD.
+
+Three men. Three paths. Each one believing he understood the game. Each one wrong.
+
+Lucky, who believed Cuba was beyond America's reach. Genovese, who believed power without
+restraint was strength. Delgado, who believed that doing the right thing would make things
+right.
+
+THE PANELS SLOWLY MERGE TO BLACK.
+
+One by one, the images darken. Genovese first -- his empire will end in a prison cell. Then
+Lucky -- his exile will end on a park bench in Naples, a hand clutching his chest. Delgado
+last -- the man who survived, who held his daughters, who lived to watch his country transform
+and transform again.
+
+BLACK SCREEN.
+
+TITLE CARD:
+
+"Two men tried to do the right thing.
+
+But sometimes doing the right thing just changes which evil is in power."
+
+The title holds. Five seconds. Ten.
+
+TITLE CARD:
+
+"Lucky Luciano spent 141 days in Cuba, from October 29, 1946 to March 19, 1947.
+
+In those five months, the future of organized crime in America was decided."
+
+TITLE CARD:
+
+"The French Connection operated for twenty-five years.
+
+Over eighty percent of heroin entering the United States flowed through the network
+Lucky built and Genovese expanded."
+
+TITLE CARD:
+
+"Albert Anastasia -- who defended Lucky at the Havana Conference -- was assassinated
+in 1957 on Genovese's orders.
+
+The price of loyalty, paid ten years later."
+
+BLACK SCREEN.
+
+Silence.
+
+FADE OUT.
+
+                         THE END
+
+---
+
+## Production Notes
+- Split screen or cross-cutting technique -- the visual language should unify three different time periods
+- Each image should be iconic and self-contained: Lucky on the ship, Genovese in power, Delgado in revolution
+- The final thematic line is the thesis of the entire film -- delivery method (voiceover, text, character dialogue) to be
+determined
+- This mirrors Scene 1 (The Deportation) as a bookend -- the film opens and closes with Lucky leaving
+- Consider whether Brennan appears visually or only through the thematic statement
+- Music should unify all three time periods into a single emotional register
+- The final image before black should be carefully chosen -- which of the three men gets the last frame

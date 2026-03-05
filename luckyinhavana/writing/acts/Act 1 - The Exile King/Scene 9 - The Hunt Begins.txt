@@ -1,0 +1,361 @@
+# Scene 9 - The Hunt Begins
+
+## LOCATION
+INT. - FBN HEADQUARTERS, WASHINGTON D.C. - DAY (December 1946)
+
+## CHARACTERS
+Jack Brennan, Director Hartley
+
+## SCENE LAYOUT
+
+### Opening
+FBN Headquarters, Washington D.C. The institutional corridors of federal law enforcement -- fluorescent lights,
+government-issue furniture, the quiet hum of bureaucracy. Hartley's office. Intelligence has come in, and it changes
+everything. The scene opens with urgency: something big has landed on Hartley's desk, and he's called Brennan in.
+
+### Key Beats
+1. **The Intelligence**: Word reaches the FBN that Lucky Luciano is in Cuba. Not hiding -- operating. And it gets worse:
+every major mob boss in America is heading to Havana. The deportation that was supposed to end Lucky's career has done
+nothing. He's rebuilt ninety miles from Florida, and now he's calling a summit. The scope of the failure is staggering.
+2. **Hartley Brings Brennan In**: Hartley knows exactly what he's doing by choosing Brennan for this assignment. It's
+personal -- Brennan's brother died from a heroin overdose, and Lucky Luciano is the man Brennan holds responsible.
+Hartley plays on this. He frames the assignment as Brennan's chance to finish what the deportation started. The
+manipulation is subtle but real: Hartley is choosing a motivated agent, not just a capable one.
+3. **The Assignment**: Get to Havana. Infiltrate. Document everything. Brennan will operate undercover at the Hotel
+Nacional, recruit informants, identify attendees, and report back to Hartley via phone and telegram. Hartley is his only
+lifeline to Washington -- his handler, his authority, his connection to the mission. The parameters are set: this is
+surveillance and intelligence gathering, building a case for a second deportation.
+4. **Brennan Accepts**: No hesitation. This is the assignment he's been waiting for since he watched Lucky walk free in
+February. Ten months of frustration, of knowing in his gut that the deportation solved nothing -- and now he's been
+proven right. Brennan is on the next plane to Havana. The hunt begins.
+
+### Character Moments
+- **Jack Brennan**: The personal stake drives everything. His brother's death gives this assignment a weight beyond
+professional duty. When he watched Lucky leave New York in Scene 1, he felt something was wrong. Now he knows it. The
+determination here is fueled by grief and anger, which makes him effective but also vulnerable to being used -- a fact he
+won't understand until Scene 24.
+- **Director Hartley**: Cold, pragmatic, politically ambitious. He presents the assignment to Brennan as righteous --
+stop Lucky, prevent the heroin network, protect America. But Hartley's motives are more complex than he reveals. He wants
+the political win of deporting Luciano again. And buried beneath everything, information has been flowing to him from
+sources Brennan knows nothing about. Hartley is playing a longer game, and Brennan is his best piece on the board.
+
+### Closing
+Brennan leaving FBN headquarters with purpose. The institutional gray of Washington behind him, Havana ahead. He's a man
+with a mission, a personal score to settle, and the full backing of the federal government. The audience knows he's
+walking into something far more complicated than he understands. Act 1 ends with the hunter heading toward his prey --
+unaware that he's also a pawn.
+
+---
+
+## FULL SCRIPT
+
+INT. FBN HEADQUARTERS - CORRIDOR - DAY (DECEMBER 1946)
+
+SUPER: FEDERAL BUREAU OF NARCOTICS -- WASHINGTON, D.C. -- DECEMBER 1946
+
+Government gray. Fluorescent lights hum over linoleum floors. Filing cabinets line the walls. AGENTS move through the
+corridor with folders and purpose. The institutional machinery of federal law enforcement -- unglamorous, relentless.
+
+JACK BRENNAN walks the corridor, summoned. He wears a dark suit, white shirt, no tie -- a man pulled from his desk
+without warning. He carries nothing but the knot in his jaw.
+
+A SECRETARY at a desk outside an office door looks up.
+
+                    SECRETARY
+          Agent Brennan? The Director is
+          expecting you. Go right in.
+
+INT. DIRECTOR HARTLEY'S OFFICE - CONTINUOUS
+
+The office of a powerful man who doesn't need to advertise it. Government-issue desk, American flag in the corner, framed
+photographs with politicians on the wall. No personal effects. No warmth.
+
+DIRECTOR WILLIAM HARTLEY sits behind his desk, reading a file. He doesn't look up when Brennan enters. A manila folder
+lies open before him, next to two photographs and a decoded cable.
+
+                    HARTLEY
+          Close the door.
+
+Brennan closes it. Stands.
+
+                    HARTLEY (CONT'D)
+          Sit down, Jack.
+
+Brennan sits. Hartley continues reading for a long moment. Then he closes the folder and looks up. His expression is
+controlled, but there's something in his eyes -- not alarm, not exactly excitement. Calculation.
+
+                    HARTLEY (CONT'D)
+          How long has it been since we stood
+          on those courthouse steps?
+
+                    BRENNAN
+          Ten months. February.
+
+                    HARTLEY
+          Ten months. And in those ten months,
+          what did we believe about Lucky Luciano?
+
+                    BRENNAN
+          That he was in Italy. Retired.
+          Neutralized.
+
+Hartley slides one of the photographs across the desk. Brennan picks it up.
+
+It's a surveillance photo -- grainy, taken from a distance. Lucky Luciano at a racetrack, cigar in hand, surrounded by
+well-dressed men. Behind him, palm trees and Caribbean sky.
+
+                    BRENNAN
+          Where is this?
+
+                    HARTLEY
+          Havana.
+
+Brennan stares at the photo. His expression doesn't change, but something behind his eyes goes very still.
+
+                    BRENNAN
+          When?
+
+                    HARTLEY
+          Last month. He arrived October twenty-
+          ninth. He's been there two months. He's
+          invested in the Hotel Nacional, leased
+          gambling tables at the racetrack, and
+          he's operating freely with full Cuban
+          government protection.
+
+Hartley slides the second photograph. A wider shot -- Lucky with Lansky outside the Hotel Nacional, shaking hands with a
+man in a guayabera. Minister Valdes.
+
+                    BRENNAN
+          That's Meyer Lansky with him.
+
+                    HARTLEY
+          Lansky's been in Cuba for years.
+          He owns thirty percent of the Hotel
+          Nacional. But that's not why I called
+          you in.
+
+Hartley opens the decoded cable and places it in front of Brennan.
+
+                    HARTLEY (CONT'D)
+          Intelligence came in this morning.
+          Every major crime boss in America is
+          booking travel to Havana for the third
+          week of December. Costello, Genovese,
+          Anastasia, Bonanno, Trafficante --
+          the entire leadership of organized
+          crime in the United States, converging
+          on one city.
+
+                    BRENNAN
+          A summit.
+
+                    HARTLEY
+          More than a summit. This looks like a
+          full conference. Twenty-plus bosses.
+          The Hotel Nacional has been booked for
+          a private event -- cover story is a
+          celebrity party with Frank Sinatra.
+
+Brennan sets the cable down. He leans back in his chair.
+
+                    BRENNAN
+          He's been there two months and we
+          didn't know.
+
+                    HARTLEY
+          The Cubans aren't sharing intelligence.
+          Batista's government is compromised --
+          the entire apparatus is on Luciano's
+          payroll. We had no assets in Havana
+          watching for this.
+
+                    BRENNAN
+          We deported him. We put him on a ship
+          and we sent him across the ocean and
+          we called it a victory.
+
+                    HARTLEY
+          That was the policy at the time.
+
+                    BRENNAN
+          The policy was wrong.
+
+A beat. Hartley's expression doesn't change. He lets Brennan's anger land, then steers past it.
+
+                    HARTLEY
+          I didn't call you in to relitigate
+          February. I called you in because
+          I have an assignment and you're the
+          right man for it.
+
+                    BRENNAN
+          What assignment?
+
+                    HARTLEY
+          Havana. I need an agent on the ground
+          at the Hotel Nacional before this
+          conference begins. Undercover -- tourist
+          cover, businessman, whatever works.
+          You check into the hotel, you recruit
+          informants among the staff, you identify
+          every boss who walks through those doors,
+          and you document everything.
+
+                    BRENNAN
+          A surveillance operation.
+
+                    HARTLEY
+          Intelligence gathering. Building a case.
+          We need evidence of what Luciano is doing
+          in Cuba -- specifically, anything connecting
+          him to narcotics trafficking. The deportation
+          was immigration enforcement. This time, I
+          want a narcotics case. Something Washington
+          can use as leverage.
+
+                    BRENNAN
+          Leverage for what?
+
+                    HARTLEY
+          To make Cuba choose between Luciano
+          and the United States.
+
+Brennan absorbs this. He looks at the photographs again. Lucky at the racetrack. Lucky at the Hotel Nacional. A man who
+was supposed to be finished, operating ninety miles from Florida like a king in his court.
+
+                    BRENNAN
+          Why me?
+
+Hartley meets his eyes. Holds them.
+
+                    HARTLEY
+          Because you told me on those courthouse
+          steps that it wasn't over. Because you
+          were right. And because I know what
+          Lucky Luciano did to your family.
+
+A long beat. Brennan's jaw tightens. The mention of his brother -- the unspoken name between them -- changes the
+temperature in the room.
+
+                    BRENNAN
+          That's not why I'd take the assignment.
+
+                    HARTLEY
+          I know. But it's why you'll be good
+          at it.
+
+Silence. The clock on the wall ticks. Traffic sounds filter through the window.
+
+                    BRENNAN
+          What's my lifeline?
+
+                    HARTLEY
+          Me. Phone calls and telegrams. I'm
+          your handler, your authority, your
+          only contact in Washington. You report
+          to me, I give you guidance. Nobody else
+          at the Bureau knows the details of this
+          operation.
+
+                    BRENNAN
+          And if things go wrong in Havana?
+
+                    HARTLEY
+          Then you use your judgment and you
+          call me. That's what I'm here for.
+
+Brennan stands. He looks at the photographs one more time.
+
+                    BRENNAN
+          When do I leave?
+
+                    HARTLEY
+          Today. There's a flight to Miami at
+          four. From Miami, Pan American to
+          Havana. You'll be at the Nacional
+          by tomorrow night.
+
+                    BRENNAN
+          That's fast.
+
+                    HARTLEY
+          The conference starts in days. We're
+          already behind.
+
+Brennan nods. He picks up the photographs and the cable, then stops.
+
+                    BRENNAN
+          Sir. The heroin that killed my brother
+          came through Luciano's network. Every
+          agent in this building knows that. I
+          watched him walk out of that courthouse
+          and I told you it wasn't over.
+
+                    HARTLEY
+          I remember.
+
+                    BRENNAN
+          It wasn't over. I'm going to prove it.
+
+                    HARTLEY
+          That's exactly what I need you to do.
+
+Brennan takes the file and walks to the door. He pauses with his hand on the knob.
+
+                    BRENNAN
+          The conference intelligence -- the
+          cable. Where did it come from?
+
+A flicker across Hartley's face. Something guarded, almost imperceptible.
+
+                    HARTLEY
+          Informant network. Standard channels.
+          Why?
+
+                    BRENNAN
+          Just wondering how we missed him for
+          two months and then suddenly know
+          everything.
+
+                    HARTLEY
+          That's how intelligence works. You're
+          blind until you're not. Go catch your
+          plane.
+
+Brennan nods and exits.
+
+INT. FBN HEADQUARTERS - CORRIDOR - CONTINUOUS
+
+Brennan walks back down the corridor with the file under his arm. His stride is different now -- longer, faster, a man
+with direction.
+
+He passes the same filing cabinets, the same fluorescent lights, the same institutional gray. But everything looks
+different when you're leaving it behind.
+
+EXT. FBN HEADQUARTERS - DAY
+
+Brennan emerges into the December cold. Washington, D.C. -- monumental, bureaucratic, a world of marble and procedure.
+
+He stands on the steps for a moment, breath steaming in the air. He looks south -- instinctively, toward Florida, toward
+Cuba, toward the man he's been waiting ten months to hunt.
+
+Then he walks to his car, gets in, and drives.
+
+The hunt begins.
+
+SMASH CUT TO BLACK.
+
+                    END OF ACT ONE
+
+---
+
+## Production Notes
+- FBN office setting -- 1940s government bureaucracy, institutional feel
+- This is the Act 1 climax -- the scene that launches Act 2 and the main conflict
+- Hartley's manipulation of Brennan should be visible to the audience but not to Brennan
+- The brother's heroin death is Brennan's driving force -- reference without overplaying
+- Dramatic irony: audience has been watching Lucky build his empire for 8 scenes; now the other side enters the game
+- Strong transition to Act 2 -- Brennan heading to Havana creates momentum into Scene 10 (Arrival and Opening Night)
+- Two-hander scene: Hartley and Brennan dynamic must establish the handler/agent relationship that will shatter in Scene
+24

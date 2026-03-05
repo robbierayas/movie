@@ -1,0 +1,515 @@
+# Scene 16 - The Investigation
+
+## LOCATION
+INT. - HOTEL NACIONAL / VARIOUS HAVANA LOCATIONS - DAY (January 1947)
+
+## CHARACTERS
+Jack Brennan, Carlos Delgado, Director Hartley (via phone)
+
+## SCENE LAYOUT
+
+### Opening
+January 1947. The conference is over, the bosses are gone, but the evidence remains. Brennan has been compiling
+intelligence from his informants and from Delgado -- piecing together the full picture of what was discussed and decided
+at the Havana Conference. This is the investigative heart of the film: a man building a case from fragments.
+
+### Key Beats
+1. **Brennan compiles the evidence**: Brennan documents the complete heroin network as discussed at the conference -- the
+French Connection pipeline from Turkey and Lebanon through Sicily to Southern France to Cuba to U.S. ports. He has names,
+routes, territory divisions, projected revenues. His informants at the Hotel Nacional provided the framework; Delgado
+filled in the details from his proximity to Lucky. The case against Luciano is taking shape.
+2. **First call to Hartley -- the debrief**: Brennan calls Hartley with a full conference debrief: attendees, heroin
+routes, territory divisions. Hartley praises him -- "This is exactly what we needed, Jack." Says Washington is building
+the deportation case. Brennan feels validated, like his work matters. What he doesn't know: Hartley already had much of
+this from Genovese. Brennan's reports just confirm what Genovese fed them, making the case airtight.
+3. **The anomaly Brennan notices**: Something odd: some of Brennan's intelligence seems to already be known in Washington
+before he reports it. Details he discovers are met with unsurprised responses. He files it away -- trusts Hartley,
+assumes there are other sources he doesn't know about. He's right about other sources. He's wrong about what that means.
+4. **Second call to Hartley -- Genovese thread**: Brennan reports on Genovese's behavior -- the man is making moves,
+undermining Lucky, acting suspiciously. Hartley deflects immediately: "Stay focused on Luciano. Genovese isn't your
+assignment." The dismissal is sharp enough to notice but not sharp enough to alarm. Hartley can't have Brennan pulling at
+the Genovese thread because Genovese is his source.
+5. **The alliance deepens**: Delgado and Brennan meet regularly, sharing information and building trust. Their
+conversations go beyond intelligence exchange -- they debate the larger implications of what they're doing. Delgado has
+been close to Lucky for months; he's seen the man's restraint, his code, the way he operates. He's also seen Genovese --
+the ambition without limits, the ruthlessness without rules. Delgado raises the question that will define the film's
+moral center: are they making things worse by targeting Lucky instead of Genovese?
+
+### Character Moments
+- **Jack Brennan**: At his most competent and most vulnerable. The investigation is solid -- he's a good agent doing good
+work. But the seeds of the film's tragedy are planted here: the intelligence anomaly he notices and dismisses, the
+Genovese thread Hartley shuts down, the growing doubt that Delgado's questions introduce. Brennan trusts the system
+because he needs to -- his brother's death demands that this work mean something.
+- **Carlos Delgado**: Emerges as the moral conscience of the film. His proximity to Lucky has given him insight the
+others lack: Lucky has restraint, Genovese has none. Remove Lucky and you don't stop the heroin -- you just hand it to
+someone worse. Delgado's warning -- "You're creating a bigger monster" -- is the film's thesis spoken aloud. He's not
+wrong, but he keeps helping Brennan anyway, because the assignment is the assignment.
+- **Director Hartley (via phone)**: The voice of institutional corruption disguised as authority. His praise of Brennan
+is genuine -- Brennan is doing excellent work. His dismissal of the Genovese thread is calculated -- he can't let Brennan
+discover his source. Hartley occupies the moral blind spot where ambition and duty become indistinguishable.
+
+### Closing
+Brennan has his case. Delgado has his doubts. Hartley has his agenda. The investigation moves forward on parallel tracks
+that the characters can't see converging. Brennan believes he's building a case to stop a drug lord. Hartley is building
+a career-making win. Genovese is building a path to the throne. And Delgado sees it all but can't stop any of it. The
+scene ends with Brennan satisfied and Delgado troubled -- the truth is closer to Delgado's unease than to Brennan's
+confidence.
+
+---
+
+## FULL SCRIPT
+
+INT. HOTEL NACIONAL - BRENNAN'S ROOM - DAY (JANUARY 1947)
+
+TITLE CARD: JANUARY 1947
+
+Brennan's hotel room has become an operations center. The bed is
+pushed against the wall. A desk is covered with notes, photographs,
+a map of the Caribbean pinned to a corkboard. Red string connects
+names to locations. A hand-drawn diagram shows the heroin pipeline:
+TURKEY --> SICILY --> FRANCE --> CUBA --> U.S.
+
+JACK BRENNAN sits at the desk, organizing his files. He writes in a
+leather notebook with methodical precision. Pages and pages of names,
+dates, room numbers.
+
+He picks up a photograph -- a telephoto shot of Lucky Luciano at the
+Hotel Nacional entrance with Lansky. Pins it to the corkboard.
+
+Another photograph -- Genovese arriving by car. Pins that too.
+
+He draws a line between Lucky and Lansky. Another between Lucky and
+the word "HEROIN." He steps back and looks at the web of connections.
+
+                         BRENNAN (V.O.)
+              Three weeks after the conference.
+              The bosses were gone, but I had
+              everything. Names, routes, territories,
+              revenue projections. Enough to build a
+              case that would put Luciano away for
+              the rest of his life. If he were on
+              American soil.
+
+He picks up the phone.
+
+INT. FBN HEADQUARTERS - HARTLEY'S OFFICE - DAY
+
+INTERCUT WITH BRENNAN'S HOTEL ROOM:
+
+DIRECTOR HARTLEY answers on the second ring.
+
+                         HARTLEY
+              Brennan.
+
+                         BRENNAN
+              Director. I'm ready for the full
+              debrief.
+
+                         HARTLEY
+              Go ahead.
+
+                         BRENNAN
+              Havana Conference, December twenty-two
+              through twenty-six. Twenty-three
+              confirmed attendees. Luciano, Lansky,
+              Genovese, Anastasia, Costello, Bonanno,
+              Trafficante, Adonis, Moretti, the
+              Fischettis --
+
+                         HARTLEY
+              I've got the attendee list. Give me
+              the substance.
+
+Brennan pauses. A flicker of something -- surprise that Hartley
+already has a list he hasn't yet submitted.
+
+                         BRENNAN
+              The heroin network. They're replacing
+              the China route with a new pipeline.
+              Opium from Turkey and Lebanon,
+              processed in Sicily, refined in
+              Marseille by Corsican operators, then
+              shipped to Havana. From Cuba,
+              distribution to Tampa, New Orleans,
+              and New York. They're calling it the
+              French Connection.
+
+                         HARTLEY
+              Revenue projections?
+
+                         BRENNAN
+              Fifty million a year. Full capacity
+              by end of forty-seven.
+
+                         HARTLEY
+              Territory divisions?
+
+                         BRENNAN
+              Tampa goes to Trafficante. New
+              Orleans is shared. New York divided
+              among the five families. Luciano and
+              Lansky control the Cuba hub.
+
+A beat.
+
+                         HARTLEY
+              This is exactly what we needed, Jack.
+              Outstanding work. Washington is
+              building the deportation case as we
+              speak. Your evidence is the backbone.
+
+                         BRENNAN
+              Thank you, Director.
+
+                         HARTLEY
+              Keep building the file. Names,
+              photographs, financial records --
+              anything you can document. When we
+              move on this, I want it airtight.
+
+                         BRENNAN
+              Understood. One thing, Director.
+
+                         HARTLEY
+              What is it?
+
+                         BRENNAN
+              The attendee list. How did you --
+
+                         HARTLEY
+              Multiple sources, Jack. You're not
+              our only asset in the Caribbean.
+              Don't worry about where the rest
+              comes from. Worry about making your
+              piece bulletproof.
+
+                         BRENNAN
+              Yes, sir.
+
+He hangs up. Sits back. Looks at the phone.
+
+                         BRENNAN (V.O.)
+              He already had the list. I hadn't
+              filed it yet, and he already had it.
+              Multiple sources, he said. Fair
+              enough. I filed it away and kept
+              working.
+
+EXT. MIRAMAR MANSION - LUCKY'S STUDY - NIGHT
+
+Delgado stands outside the study door. Inside, Lucky is on the phone
+-- rapid Italian, a name Delgado recognizes: Trafficante. Through the
+crack in the door, he can see papers on the desk. A shipping manifest
+with dock numbers and dates. A telephone number written on hotel
+stationery.
+
+Lucky's voice rises, then drops. Delgado glances down the hall. The
+houseman is in the kitchen. No one is watching.
+
+He steps into the doorway, pretending to check the room. His eyes
+sweep the desk. He memorizes the dock numbers. The telephone number.
+A name he hasn't seen before -- a Corsican name, written in Lansky's
+handwriting.
+
+Lucky turns from the phone. Sees Delgado.
+
+                         LUCKY
+              Something wrong?
+
+                         DELGADO
+              Checking the windows. Routine.
+
+                         LUCKY
+              You're a good man, Carlos.
+
+Delgado nods. Steps back into the hall. His heart is pounding but his
+face shows nothing. He walks to the bathroom, locks the door, and
+writes the dock numbers and the telephone number on a scrap of paper
+from his pocket.
+
+EXT. HAVANA - WATERFRONT CAFE - DAY
+
+Brennan and DELGADO sit at an outdoor table overlooking the harbor.
+Coffee cups. Brennan has a small notebook open. Delgado speaks in a
+low voice, his eyes scanning the passing pedestrians.
+
+Delgado slides a folded scrap of paper across the table. Brennan
+opens it. Dock numbers. A phone number. A Corsican name.
+
+                         DELGADO
+              The supply routes -- I heard them
+              discussed at the conference. But
+              what I've seen at the docks is
+              different. Luciano has been meeting
+              with Corsicans since November.
+              Sicilians too. These aren't
+              hypotheticals. The pipeline is
+              already being built.
+
+                         BRENNAN
+              You've seen the dock meetings?
+
+                         DELGADO
+              I've been standing ten feet away
+              while they happened. I didn't
+              understand what I was looking at
+              until the conference made it clear.
+              Import-export meetings, they call
+              them. Very polite. Very quiet. The
+              cargo manifests are fiction.
+
+Brennan writes.
+
+                         BRENNAN
+              I need details. Dates, names,
+              vessels.
+
+                         DELGADO
+              I'll get you what I can. But Brennan
+              -- there's something else.
+
+He leans forward.
+
+                         DELGADO (CONT'D)
+              Someone tried to kill Luciano last
+              week. Gunmen at his mansion.
+              Professionals.
+
+                         BRENNAN
+              I heard rumors. Any leads?
+
+                         DELGADO
+              The cars had New York plates. And
+              Genovese left Havana two days before
+              it happened.
+
+                         BRENNAN
+              You think Genovese ordered it?
+
+                         DELGADO
+              I think Genovese lost a vote and got
+              his hand shaken in front of twenty
+              bosses. And I think a man like that
+              doesn't forget.
+
+Brennan considers this.
+
+                         BRENNAN
+              Genovese is secondary. Luciano's the
+              target.
+
+                         DELGADO
+              That's your assignment. I understand.
+              But I'm telling you something you
+              don't want to hear.
+
+He looks Brennan in the eye.
+
+                         DELGADO (CONT'D)
+              I've been with Luciano for three
+              months. I've watched him run his
+              operation. He has rules. He has a
+              code. He doesn't move on people
+              without reason, and he doesn't let
+              his men act like animals. Genovese --
+
+He shakes his head.
+
+                         DELGADO (CONT'D)
+              Genovese has no rules. None. I've
+              seen the way he looks at people. Like
+              they're furniture. Like they're
+              nothing. You take Luciano out of the
+              picture, Genovese fills the hole.
+              And he fills it with something worse.
+
+                         BRENNAN
+              My brother died with a needle in his
+              arm, Delgado. Luciano's heroin.
+              Luciano's network. I'm not here to
+              debate which mobster is the lesser
+              evil.
+
+                         DELGADO
+              I'm not asking you to. I'm telling
+              you what I see. You remove Luciano,
+              the heroin doesn't stop. It gets
+              worse. You're not stopping a monster.
+              You're creating a bigger one.
+
+A beat. The words land. Brennan stares at his notebook.
+
+                         BRENNAN
+              That's not my call to make.
+
+                         DELGADO
+              Whose call is it?
+
+                         BRENNAN
+              Washington's. I gather the evidence.
+              They make the decisions. That's how
+              it works.
+
+                         DELGADO
+              And if Washington is wrong?
+
+Brennan doesn't answer. He closes his notebook.
+
+INT. HOTEL NACIONAL - BRENNAN'S ROOM - NIGHT
+
+Brennan on the phone again. This call is different -- his voice is
+sharper, pushing.
+
+                         BRENNAN
+              Director, I need to flag something
+              about Genovese.
+
+INTERCUT WITH:
+
+INT. FBN HEADQUARTERS - HARTLEY'S OFFICE - NIGHT
+
+Hartley at his desk, papers spread before him. He sets down his pen.
+
+                         HARTLEY
+              What about him?
+
+                         BRENNAN
+              His behavior at the conference was
+              openly antagonistic toward Luciano.
+              He challenged the vote, got shut
+              down, and was forced into a public
+              handshake. Two days after he left
+              Havana, there was an assassination
+              attempt on Luciano's mansion. Cars
+              with New York plates.
+
+                         HARTLEY
+              That's speculation.
+
+                         BRENNAN
+              It's a pattern. Genovese is making
+              moves. He's undermining Luciano from
+              the inside. My source says --
+
+                         HARTLEY
+              Your source.
+
+                         BRENNAN
+              My Cuban contact. He's been on
+              Luciano's detail for months. He says
+              Genovese is more dangerous than
+              Luciano. That if we remove Luciano --
+
+                         HARTLEY
+                    (sharp)
+              Jack. Stop.
+
+A beat.
+
+                         HARTLEY (CONT'D)
+              Your assignment is Lucky Luciano.
+              Not Genovese. Not the internal
+              politics of the Mafia. Luciano.
+              He's building a narcotics empire
+              ninety miles from the United States.
+              That's what we're stopping. Stay
+              focused.
+
+                         BRENNAN
+              Director, if Genovese is positioning
+              himself to --
+
+                         HARTLEY
+              Genovese is not your assignment.
+
+The words are a wall. Brennan stops.
+
+                         HARTLEY (CONT'D)
+              You've done excellent work, Jack.
+              Don't dilute it by chasing ghosts.
+              Build the Luciano case. That's what
+              matters. That's what your brother
+              would have wanted.
+
+The mention of his brother silences Brennan. Hartley knows exactly
+which button to press.
+
+                         BRENNAN
+              Yes, sir.
+
+                         HARTLEY
+              Good man. Keep me posted.
+
+The line goes dead. Brennan holds the receiver for a moment. Sets it
+down.
+
+He looks at his corkboard. The web of names and connections. He picks
+up a photograph of Genovese. Studies it. Then puts it facedown on
+the desk.
+
+EXT. HAVANA - WATERFRONT - DUSK
+
+Brennan and Delgado walk along the Malecon seawall. The sun is
+setting. Fishermen pull their boats ashore. The city glows amber.
+
+                         DELGADO
+              What did your director say?
+
+                         BRENNAN
+              Stay focused on Luciano.
+
+                         DELGADO
+              And Genovese?
+
+                         BRENNAN
+              Not my assignment.
+
+Delgado nods slowly. Not surprised.
+
+                         DELGADO
+              So we keep going.
+
+                         BRENNAN
+              We keep going.
+
+They walk. The waves break against the seawall. The sun drops lower.
+
+                         DELGADO
+              My daughter asked me last night what
+              I do at work. My little one.
+              Ana. She's five.
+
+                         BRENNAN
+              What did you tell her?
+
+                         DELGADO
+              I told her I keep people safe.
+
+A beat.
+
+                         DELGADO (CONT'D)
+              She asked which people.
+
+Brennan looks at him. Delgado looks at the water.
+
+                         DELGADO (CONT'D)
+              I didn't have an answer.
+
+They walk on in silence. The sun sets. The lights of Havana come on
+one by one, and the two men disappear into the city, walking the same
+direction but carrying very different doubts.
+
+---
+
+## Production Notes
+- The phone calls to Hartley are critical exposition scenes -- they need to convey information while maintaining tension
+and planting dramatic irony
+- Brennan's investigation should feel methodical and real: notes, photographs, maps of the heroin routes, names connected
+by lines
+- The intelligence anomaly is a subtle but important plant -- Brennan notices something wrong and chooses to ignore it.
+This choice must feel natural, not stupid
+- Delgado's "bigger monster" argument should land with weight -- the audience should feel the moral complexity, not a
+simple good-vs-evil framework
+- January in Havana: the holiday atmosphere is gone, replaced by the workaday reality of an ongoing operation
+- Two Hartley phone calls should feel different in tone: the first is warm and validating, the second is sharp and
+deflective

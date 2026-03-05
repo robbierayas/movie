@@ -21,6 +21,12 @@ INT. ABANDONED BUILDING - DAY
 
 Liam sits in a dusty corner. Makeshift camp—sleeping bag, first aid supplies, bottled water.
 
+Around him: the BOXES from his car. Metal plates, tools, spools of wire, a drone kit. Weeks of collecting, hauled from
+the apartment before the wife showed up.
+
+A half-finished VEST lies on a workbench—small metal plates already sewn in overlapping rows across the chest. He's been
+at this for a while.
+
 He unwraps bloody bandages from his torso. Examines the wounds. Grimaces.
 
 On the floor beside him: HANK'S BLACKBELT. He picks it up. Studies it.
@@ -46,7 +52,8 @@ Eli appears behind her.
 
 INT. ABANDONED BUILDING - DAY
 
-Liam unpacks a DRONE from a box. Small, commercial model. He attaches something to its underside—a modified taser mechanism.
+Liam pulls a DRONE from one of his boxes. Small, commercial model—already modified, the taser mechanism wired to its
+underside weeks ago. He just needs to calibrate it.
 
 He tests the controls. The drone lifts, hovers, responds.
 
@@ -65,7 +72,8 @@ Eli nods to himself.
 
 INT. REEVES HOUSE - FIRST FLOOR - LATE AFTERNOON
 
-Emma and Olivia move through the first floor. Several windows are BROKEN from the earlier battle—glass shattered, frames damaged.
+Emma and Olivia move through the first floor. Several windows are BROKEN from the earlier battle—glass shattered, frames
+damaged.
 
 Emma pulls a heavy SHUTTER across a broken window frame. Olivia helps secure it with a latch.
 
@@ -91,9 +99,10 @@ Liam does push-ups. Sit-ups. Tests his range of motion. Winces but pushes throug
 
 He examines himself in a cracked mirror. The bruises dark. The swelling still there. Not healed—but good enough.
 
-He picks up a DIRTBIKE HELMET. Holds up small metal plates and a drill.
+He picks up a DIRTBIKE HELMET—already plated on one side from earlier work. Holds up the drill. Finishes the other side.
 
-CUT TO: The helmet now has metal plates drilled around the outside—top, sides, back. DIY armor. Ugly but functional.
+CUT TO: The helmet fully armored now—metal plates drilled around the outside, top, sides, back. DIY armor. Ugly but
+functional.
 
 He tries it on. Then grabs a pair of big OAKLEY SUNGLASSES. Puts them on under the helmet.
 
@@ -113,7 +122,8 @@ MONTAGE of trap-building:
 
 INT. ABANDONED BUILDING - DUSK
 
-Liam adds the MAKESHIFT ARMOR—a vest covered in small metal plates (~3x2 inches each) sewn together in overlapping rows like fish scales. Arm and leg pieces follow. Chainmail-style gloves with leather fingers.
+Liam pulls on the finished VEST—the plates he'd been sewing for weeks now complete, overlapping rows like fish scales.
+Arm and leg pieces follow—the last sections he stitched together today. Chainmail-style gloves with leather fingers.
 
 He looks like a nightmare. A homemade knight.
 
@@ -124,7 +134,8 @@ He picks up Hank's blackbelt. Ties it around his arm like a trophy.
 
 INT. REEVES HOUSE - LIVING ROOM - DUSK
 
-The family gathers. The house looks different now—weapons positioned, trip wires barely visible, defensive positions established. Late sunlight fades through the windows.
+The family gathers. The house looks different now—weapons positioned, trip wires barely visible, defensive positions
+established. Late sunlight fades through the windows.
 
 Sarah stands before her children. Eli beside her. Emma and Olivia on the couch, holding hands.
 
@@ -236,7 +247,8 @@ The outdoor lights turn on detecting Liam's motion.
 - Parallel editing builds tension—both sides preparing simultaneously
 - ~24 hours after Hank's death - compressed timeline
 - Liam hasn't fully healed, just pushed through pain
-- Armor construction is rushed but functional
+- Armor and drone were started weeks before—Liam is FINISHING, not building from scratch
+- Supplies came from boxes already loaded in his car (seen in Scene 13)
 - Family dialogue shows the fracture: Sarah/Eli vs Emma/Olivia
 - Sarah's "Dad's dead" is the emotional turning point
 - End leads directly into Scene 12 (The Return)

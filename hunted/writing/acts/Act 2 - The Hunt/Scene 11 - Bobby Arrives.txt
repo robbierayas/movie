@@ -9,25 +9,32 @@ Sarah, Eli, Emma, Olivia, Bobby
 ## SCENE LAYOUT
 
 ### Opening
-Next morning. Bobby arrives to help with the kids. Sarah is at the printer, collecting documents. The house still shows signs of the previous night's violence.
+Next morning. Bobby arrives to help with the kids. Sarah is at the printer, collecting documents. The house still shows
+signs of the previous night's violence.
 
 ### Key Beats
 
 1. Bobby pulls up to the house. Emma and Olivia run to him—"Unky Buh-by!"
 2. Sarah thanks him for coming. Bobby's shaken—can't believe Hank's gone.
 3. Bobby offers his gun but warns Sarah about going on offense vs. defense
-4. Sarah initially takes the gun, but when Emma asks where she's going...
-5. Sarah puts the gun down—"We are just finding him and reporting him"
-6. Eli insists on going with her. Sarah doesn't argue.
+4. Sarah takes the gun, checks it. Bobby sees a TATTOO on her forearm he's never seen before.
+5. "Oh, Hank never told you?" — implies a whole past life even Hank's best friend doesn't know about
+6. FLASHBACK: The Moxie's bar fight—Sarah and Hank at a bar. Hank subdues a drunk. Sarah escalates—sucker-punches the guy
+after Hank handles it. Bar erupts. In the chaos, Hank gets cut. The wound that becomes his facial scar.
+7. FLASHBACK: The ultimatum—Hank sits her down. "You have to choose. Fighting—or a family with me." She chooses family.
+8. Back to present: Emma asks where she's going. Sarah puts the gun down—"We are just finding him and reporting him"
+9. Eli insists on going with her. Sarah doesn't argue.
 
 ### Character Moments
-- **Sarah**: Torn between revenge and setting the right example for her kids. Chooses to leave the gun—for now.
+- **Sarah**: The tattoo reveals a past no one knows about. The flashbacks show who she really is—someone who escalates,
+who can't walk away. Hank was the one who kept her in check. Now he's gone.
 - **Eli**: Steps up, insists on going. Already channeling his grief into action.
-- **Bobby**: Grief-stricken but there for the family. The "Unky Buh-by" moment shows his bond with the kids.
+- **Bobby**: Grief-stricken but there for the family. The tattoo unsettles him—he's seeing Sarah for the first time.
 - **Emma**: Already sensing her mother's darkness. "To find him?" She knows.
 
 ### Closing
-Sarah and Eli leave to hunt. Bobby stays with the girls. The gun stays on the counter—Sarah's attempt to do this "the right way."
+The flashbacks reveal the truth: Hank's scar came from Sarah's inability to walk away from a fight. She chose family
+once. Now, with Hank gone, what's keeping her? She leaves the gun on the counter—but everyone knows it's a gesture.
 
 ---
 
@@ -35,7 +42,7 @@ Sarah and Eli leave to hunt. Bobby stays with the girls. The gun stays on the co
 
 INT. REEVES HOUSE - OFFICE - NEXT MORNING
 
-SARAH stands at the printer, collecting pages as they spit out. Official-looking documents.
+Sarah stands at the printer, collecting pages as they spit out. Official-looking documents.
 
 Through the window, she sees a pickup truck pull up the driveway.
 
@@ -43,7 +50,7 @@ She gathers the pages. Slips them into a folder.
 
 EXT. REEVES HOUSE - DRIVEWAY - CONTINUOUS
 
-BOBBY climbs out, looking like he hasn't slept.
+Bobby climbs out, looking like he hasn't slept.
 
 The front door opens. EMMA and OLIVIA run out.
 
@@ -98,7 +105,8 @@ Bobby looks at Eli, then back at Sarah. Understanding dawns.
           So you don't think I can do it?
 
                     BOBBY
-          It's like... this house is setup for defense, not offense, because you can last longer on defense. That's what Hank...
+          It's like... this house is setup for defense, not offense, because you can last longer on defense. That's what
+          Hank...
 
 Bobby hesitates. Then reaches into his waistband, pulls out a HANDGUN. Holds it out to her.
 
@@ -115,8 +123,122 @@ He hands her the gun.
 
 Sarah takes it. Checks the chamber. Professional.
 
+As she does, her sleeve rides up. Bobby catches a glimpse of a TATTOO on her inner forearm. Something elaborate. Old ink.
+
+                    BOBBY
+          What the... is that a tattoo?
+
+Sarah pulls her sleeve down.
+
+                    BOBBY (CONT'D)
+          Hank never mentioned—
+
                     SARAH
+          Oh, Hank never told you?
+
+A flicker of something—almost amusement—crosses her dead eyes.
+
+                    SARAH (CONT'D)
+          There's a lot about me Hank never told anyone.
+
+Bobby stares. Like he's seeing her for the first time.
+
+                    SARAH (CONT'D)
           Thank you, Bobby.
+
+FLASHBACK — INT. MOXIE'S BAR — NIGHT (YEARS EARLIER)
+
+Sarah and Hank, younger. Dating. Laughing over beers at a corner table.
+
+A DRUNK GUY at the next table gets loud, shoving his BUDDY. The buddy stumbles into Sarah's chair.
+
+Hank stands. Calm. Big.
+
+                    HANK
+          Hey. Easy, brother.
+
+The drunk swings. Hank catches his arm, pins it behind his back, guides him firmly into his seat. Smooth. Controlled.
+Over in seconds.
+
+                    HANK (CONT'D)
+          Sit down. Cool off.
+
+The drunk sputters but stays seated. The bar relaxes. Hank sits back down. Takes a sip of his beer. Done.
+
+But Sarah isn't done. She leans forward, staring at the drunk.
+
+                    YOUNGER SARAH
+          That all you got?
+
+                    HANK
+          Sarah.
+
+                    YOUNGER SARAH
+          Big man, pushing people around—
+
+                    HANK
+          Sarah. It's done. Let it go.
+
+She holds his eyes. Nods. Sits back.
+
+Hank turns to flag the bartender—
+
+The INSTANT his back is turned, Sarah SUCKER-PUNCHES the drunk across the jaw.
+
+The bar ERUPTS. Chairs flying. People swinging. The drunk's friends pile in—
+
+In the chaos, someone swings a BOTTLE. It catches Hank across the cheek. Glass cuts deep. Blood runs down his face.
+
+Sarah freezes. Staring at what she caused.
+
+                    HANK (CONT'D)
+          We need to go. Now.
+
+He pulls her toward the exit, hand pressed to his bleeding face. She looks back at the chaos. Then at the blood running
+between his fingers.
+
+FLASHBACK — INT. HANK AND SARAH'S APARTMENT — DAY (WEEKS LATER)
+
+Hank sits across from Sarah at a small kitchen table. The cut has healed into a fresh SCAR across his cheekbone. The one
+he'll carry forever.
+
+He's not angry. Not judging. Just clear.
+
+                    HANK
+          You have to choose.
+
+Sarah looks away.
+
+                    HANK (CONT'D)
+          Fighting—or a family with me.
+
+                    YOUNGER SARAH
+          That's not fair.
+
+                    HANK
+          I love you. But I can't raise kids with
+          someone who can't walk away.
+
+Long silence. Sarah's jaw works.
+
+                    YOUNGER SARAH
+          What if I can't?
+
+                    HANK
+          Then tell me now. And I'll go. No hard feelings.
+
+She looks at him. The scar she gave him. The steady eyes she doesn't deserve.
+
+                    YOUNGER SARAH
+          I choose you.
+
+He reaches across. Takes her hand.
+
+END FLASHBACKS.
+
+INT. REEVES HOUSE — KITCHEN — PRESENT
+
+Bobby watches Sarah tuck the gun into her waistband.
 
                     EMMA
           Where are you going?
@@ -138,7 +260,7 @@ Sarah looks at her daughter.
 Sarah meets his eyes. Sees the same cold fury she feels. She looks at Bobby, thinking of being the example.
 
                     SARAH
-         We are just finding him and reporting him.
+          We are just finding him and reporting him.
 
 She puts the gun down on the counter looking at Emma.
 
@@ -160,3 +282,11 @@ They start to the car.
 - Bobby's warning about "defense vs. offense" foreshadows the final stand
 - Sarah leaving the gun shows she's trying to do this right—but also sets up that she's unarmed for the apartment fight
 - Eli going with her sets up their teamwork in Scene 13
+- THE TATTOO: Bobby sees it, "Oh, Hank never told you?"—implies a whole past life. The tattoo is from before Hank, her
+truly wild days
+- FLASHBACK: Moxie's bar fight—Sarah sucker-punched a guy AFTER Hank handled it. The chaos gave Hank his facial scar. She
+caused the one mark he carried forever.
+- FLASHBACK: The ultimatum—"You have to choose. Fighting—or a family with me." She chose family. But now that family is
+broken and the choice is unmade.
+- The flashbacks recontextualize Sarah putting the gun down: she's done this before—chosen restraint. But last time she
+had Hank to choose FOR.

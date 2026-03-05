@@ -1,0 +1,66 @@
+# DIRECTOR WILLIAM HARTLEY
+
+## BASIC INFORMATION
+- **Full Name**: William Hartley
+- **Age**: Late 50s
+- **Occupation**: Director, Federal Bureau of Narcotics (FBN)
+- **Family**: Not mentioned
+- **Historical/Composite**: Composite character based on Harry Anslinger (FBN Director 1930-1962), who historically used
+aggressive political tactics including the medical supply ultimatum against Cuba
+
+## ARCHETYPE
+[Primary ensemble role - to be determined after screenplay is written]
+
+## CHARACTER FUNCTION
+Hartley represents institutional complicity and the corruption that enables the film's tragic outcome. He is the man who
+knowingly accepts intelligence from a mobster (Genovese) staging a coup against a rival (Lucky), using the FBN as
+Genovese's weapon because it serves his own political ambitions. He manipulates Brennan, his loyal agent, and engineers
+the ultimatum that forces Cuba to deport Lucky. Hartley embodies the theme that sometimes the system itself is corrupt,
+and "doing the right thing" within a corrupt system produces worse outcomes.
+
+## PHYSICAL DESCRIPTION
+To be determined from screenplay.
+
+## PERSONALITY TRAITS
+- Cold, pragmatic, and politically ambitious -- prioritizes career-making cases over justice
+- Manipulative handler -- sends Brennan to Havana knowing the personal stakes will keep him motivated, praises Brennan's
+work while already possessing the same intelligence from Genovese
+- Morally compromised -- knowingly accepts intelligence from a mob underboss engineering a power grab, doesn't care about
+the consequences as long as he gets the political win
+- Unapologetic when confronted -- "Luciano is gone. That's what matters."
+- Skilled at leveraging political pressure -- proposes the economic blackmail of Cuba to the State Department, uses the
+Sinatra photos scandal to pressure action
+- Never appears in Havana -- operates entirely from Washington D.C. via phone calls and telegrams, making him a remote,
+controlling presence
+
+## RELATIONSHIPS
+- **Jack Brennan**: His field agent and unwitting instrument. Hartley exploits Brennan's personal motivation (brother's
+death) and professional trust. Serves as Brennan's handler via phone/telegram -- the voice of authority and mission
+clarity. In reality, uses Brennan to confirm intelligence he already has from Genovese, making the case airtight.
+- **Vito Genovese**: His secret intelligence source. Genovese feeds Hartley information on Lucky's operations, and
+Hartley takes it knowing the source is a rival mobster trying to seize power. This relationship is the hidden engine
+driving the entire plot.
+- **Lucky Luciano**: His target -- the political trophy. Hartley wants the career-making case of deporting America's most
+famous mob boss.
+- **U.S. State Department**: Hartley pressures them into the medical supply ultimatum against Cuba, leveraging Brennan's
+evidence combined with Genovese's intel.
+
+## CHARACTER ARC
+- **Beginning State (Act 1)**: Present at Lucky's deportation from New York, satisfied the case is closed. When
+intelligence reveals Lucky is in Cuba, brings Brennan in for the assignment, knowing it's personal for him.
+- **Escalation (Act 2)**: Operates as Brennan's handler from Washington. Receives reports, gives tactical guidance, asks
+probing questions (already knowing answers from Genovese). Deflects when Brennan reports on Genovese's suspicious
+behavior: "Stay focused on Luciano." Uses Sinatra photos to pressure the State Department. Proposes the economic
+blackmail ultimatum.
+- **End State (Act 3)**: Tells Brennan "Your evidence made this possible" when the ultimatum works. When confronted with
+the truth, is unapologetic: "And the result is the same." Represents the system's indifference to consequences -- the
+mission is accomplished regardless of who benefits.
+- **Arc Type**: Flat/Negative -- Hartley doesn't change because he was never operating in good faith. He is what he
+always was: a pragmatist who uses whatever tools are available, including mob informants and loyal agents, to achieve
+political victories.
+
+## DIALOGUE STYLE
+To be expanded after scenes are written.
+
+## KEY SCENES
+[To be filled in as scenes are written using Workflow 4]

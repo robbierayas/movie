@@ -1,0 +1,384 @@
+# Scene 8 - Conference Preparations
+
+## LOCATION
+INT. - HOTEL NACIONAL / MIRAMAR MANSION - DAY (Late November - Early December 1946)
+
+## CHARACTERS
+Lucky Luciano, Meyer Lansky, Minister Alfredo Valdes, Carlos Delgado
+
+## SCENE LAYOUT
+
+### Opening
+The Miramar mansion or Hotel Nacional. Lucky and Lansky in planning mode -- lists, logistics, the energy of men
+organizing something enormous. The Havana Conference is taking shape. Invitations are going out to every boss in America.
+This is the biggest gathering in the history of organized crime, and it needs to be perfect.
+
+### Key Beats
+1. **Planning the Conference**: Lucky and Lansky work through the logistics of the Havana Conference. Invitations go out
+to every major boss in America -- Costello, Genovese, Anastasia, Bonanno, Trafficante, the Fischetti brothers, and more.
+Twenty-plus bosses, all converging on Havana in December. The guest list alone is a map of American organized crime.
+2. **Valdes Arranges Everything**: Valdes is the essential facilitator. He arranges the Hotel Nacional booking, clears it
+with Batista's office, handles the logistics that only a government insider can manage. The cover story: a celebrity
+party with Frank Sinatra performing. On paper, it's a glamorous holiday event. In reality, it's the last time the entire
+American Mafia leadership will meet in one place. Valdes takes his cut and ensures that nothing -- no police, no press,
+no complications -- disrupts the event.
+3. **Delgado Briefed on Security**: Delgado is told about increased security requirements. A large private event is
+coming to the Hotel Nacional -- VIPs from America, important people who need protection and privacy. He doesn't know the
+scale yet. He's being given the outline of the elephant but told it's a horse. His assignment: expanded security detail,
+discretion, report anything unusual.
+4. **The Machinery Coming Together**: Travel arrangements, room bookings, the ballroom, catering, entertainment. Cuba
+rolling out the red carpet for the entire American Mafia, and doing it with the full cooperation of the government. The
+scale is staggering -- and the cover is elegant.
+
+### Character Moments
+- **Lucky Luciano**: In command mode. This is his summit, his statement to the world that exile hasn't diminished him.
+Every detail matters because this conference will determine who controls organized crime for the next decade. He's
+meticulous, decisive, and fully in his element as the Boss of Bosses planning the biggest meeting of his career.
+- **Meyer Lansky**: The operational genius. If Lucky is the vision, Lansky is the execution. He handles the numbers, the
+logistics, the travel arrangements. The conference is as much his creation as Lucky's -- he's the one who makes the
+moving parts work.
+- **Minister Alfredo Valdes**: At the peak of his usefulness and power. The government fixer who can book a hotel,
+silence the police, and create a cover story with a single phone call. He's thriving in this role -- the money has never
+been better, and his position has never been more secure. The irony: everything he's building will be destroyed by
+American leverage in three months.
+- **Carlos Delgado**: Being drawn deeper without realizing it. Each briefing gives him a slightly bigger picture, but
+never the full one. He's a professional doing his job, but the job keeps expanding. The security detail for one man is
+becoming security for something much larger.
+
+### Closing
+The preparations are nearly complete. The Hotel Nacional is booked, the cover story is set, the invitations are sent. In
+a few weeks, every major criminal in America will be in Havana. Lucky and Lansky share a moment of anticipation -- this
+is the culmination of everything they've been building since Lucky arrived. Cuba is about to become the center of the
+underworld.
+
+---
+
+## FULL SCRIPT
+
+INT. MIRAMAR MANSION - STUDY - DAY (LATE NOVEMBER 1946)
+
+SUPER: LATE NOVEMBER 1946
+
+The study has been transformed into a war room. A large table dominates the center, covered with papers -- guest lists,
+hotel floor plans, seating charts. Lucky stands at the head, jacket off, sleeves rolled to the forearm. Lansky sits with
+a leather notebook, pen working steadily.
+
+                    LUCKY
+          How many confirmed?
+
+                    LANSKY
+          Twenty-two as of yesterday. Costello's
+          in. Anastasia's in. Bonanno, Profaci,
+          Trafficante, the Fischetti brothers.
+          Moretti, Adonis, Magliocco. Everybody
+          who matters on the East Coast.
+
+                    LUCKY
+          West Coast?
+
+                    LANSKY
+          Dragna from L.A. is coming. Jack
+          from Detroit. Dalitz might send
+          someone.
+
+                    LUCKY
+          And Vito?
+
+                    LANSKY
+          Confirmed. He wouldn't miss it. Can't
+          afford to.
+
+Lucky nods. He picks up the guest list, scans it.
+
+                    LUCKY
+          Twenty bosses and their people. That's
+          fifty, sixty men flying into Havana in
+          one week. Somebody's going to notice.
+
+                    LANSKY
+          That's why we need the cover. I've been
+          talking to the Fischetti brothers about
+          entertainment. They can bring Sinatra.
+
+                    LUCKY
+          Frank Sinatra?
+
+                    LANSKY
+          He owes the Fischettis. They got him
+          out of his contract with Tommy Dorsey.
+          He'll come, he'll perform, and every
+          newspaper in Cuba will report on a
+          celebrity party at the Hotel Nacional.
+          Nobody's looking at the guest list
+          behind the guest list.
+
+                    LUCKY
+          Sinatra. That's good. That's very good.
+
+Lucky sits down. He pulls the hotel floor plan closer.
+
+                    LUCKY (CONT'D)
+          The Nacional ballroom -- how big?
+
+                    LANSKY
+          Seats three hundred for dinner. We'll
+          use the private dining rooms for the
+          real meetings. The ballroom for the
+          opening night -- dinner, entertainment,
+          the envelope ceremony.
+
+                    LUCKY
+          The envelopes. How much are we talking?
+
+                    LANSKY
+          Every boss brings a tribute. Two hundred
+          thousand minimum in cash gifts. The
+          Fischettis are also transporting a
+          suitcase with two million from the
+          New York operation.
+
+                    LUCKY
+          Two million in a suitcase.
+
+                    LANSKY
+          Dollars, not pesos. Welcome-home money.
+          They want you to know they're behind
+          you.
+
+Lucky absorbs this. Two million dollars. The loyalty of twenty crime families, expressed in currency.
+
+                    LUCKY
+          The agenda. Three days?
+
+                    LANSKY
+          Four. December twenty-second through
+          the twenty-fifth. Opening night
+          the twenty-second -- dinner, Sinatra,
+          the tributes. Twenty-third and twenty-
+          fourth, working sessions. Heroin
+          territories, the pipeline, Cuba
+          operations, the Siegel situation.
+          Christmas Day, we close.
+
+                    LUCKY
+          Siegel.
+
+                    LANSKY
+          That has to be addressed. The
+          Flamingo's budget went from one
+          million to six. Half the bosses
+          think he's skimming. They want
+          his head.
+
+                    LUCKY
+          Ben's your friend.
+
+                    LANSKY
+          He's everyone's friend until he
+          costs them money. I'll handle it.
+          Give him until the hotel opens
+          in December -- if the Flamingo
+          turns a profit, he keeps breathing.
+
+                    LUCKY
+          And if it doesn't?
+
+Lansky doesn't answer. He doesn't have to.
+
+INT. MINISTER VALDES'S OFFICE - DAY
+
+A government office that radiates power -- dark wood, Cuban flag, portrait of Batista. Valdes sits behind an enormous
+desk, phone to his ear.
+
+Valdes, into phone.
+
+                    VALDES
+          The Hotel Nacional, the third week
+          of December. Full booking. Private
+          event, closed to the public for four
+          days. The cover is a holiday
+          celebration with American entertainers.
+
+He listens.
+
+                    VALDES (CONT'D)
+          The President's office will handle
+          the security clearances. I need a
+          letter from the Interior Ministry
+          approving the temporary closure.
+
+He listens again.
+
+                    VALDES (CONT'D)
+          No, there will be no press access.
+          No exceptions.
+          (beat)
+          Because I said so. And because the
+          President says so. Is there a third
+          reason you require?
+
+He hangs up. Picks up the next phone. Dials.
+
+Valdes (cont'd), into phone.
+
+                    VALDES (CONT'D)
+          Customs office, please.
+          (waits)
+          This is Minister Valdes. I need a
+          standing order for the week of
+          December twentieth. Private aircraft
+          arriving from the United States -- ten,
+          perhaps fifteen planes. Diplomatic
+          courtesy processing. No inspections,
+          no manifests filed, no passenger
+          records kept.
+
+He makes a note in his ledger. Another call. Another arrangement. The machinery of a government turned to the service of
+organized crime, operated by a single man who makes it all look effortless.
+
+INT. DELGADO'S CAR / EXT. HOTEL NACIONAL - DAY
+
+Delgado pulls up to the Hotel Nacional. He's in uniform today -- more formal than usual. He enters the lobby and is met
+by a SENIOR OFFICER from the Secret Police, CAPTAIN HERRERA, 50s, a hard man with a clipped mustache.
+
+                    CAPTAIN HERRERA
+          Delgado. Thank you for coming.
+
+                    DELGADO
+          Sir. Your message said increased
+          security requirements.
+
+                    CAPTAIN HERRERA
+          Correct. We have a private event at
+          the Nacional in three weeks. Four days,
+          December twenty-second through twenty-
+          fifth. American VIPs. Very important
+          guests of the Cuban government.
+
+                    DELGADO
+          How many guests?
+
+                    CAPTAIN HERRERA
+          Fifty to sixty. They will require full
+          security -- perimeter, lobby, corridors,
+          the ballroom and private dining rooms.
+          Discreet presence. These men value
+          their privacy.
+
+                    DELGADO
+          What kind of event is this, sir?
+
+                    CAPTAIN HERRERA
+          A holiday celebration. Entertainment,
+          dinners. The cover story is Frank
+          Sinatra performing.
+
+                    DELGADO
+          The cover story?
+
+Herrera gives him a flat look.
+
+                    CAPTAIN HERRERA
+          The event story. For the press. You
+          understand.
+
+                    DELGADO
+          I understand, sir.
+
+                    CAPTAIN HERRERA
+          You will coordinate hotel security.
+          Additional agents will be assigned.
+          Your familiarity with Senor Luciano
+          and his associates makes you the
+          logical choice.
+
+                    DELGADO
+          Yes, sir.
+
+                    CAPTAIN HERRERA
+          One more thing. Discretion is not
+          a suggestion. Whatever you see during
+          this event, whatever you hear -- it
+          stays in the hotel. This comes from
+          Minister Valdes personally. And what
+          comes from Valdes comes from the
+          President.
+
+                    DELGADO
+          Understood.
+
+Herrera leaves. Delgado stands in the Hotel Nacional lobby, looking around at the grand space. Bellhops cross the marble
+floor. Tourists drink at the bar. A pianist plays something soft.
+
+In three weeks, this elegant hotel will host every major criminal in America. And Delgado will be standing at the door.
+
+He doesn't know the scale of what's coming. But the phrase "cover story" echoes in his mind. A police officer who's been
+told not to report what he sees. Another line crossed.
+
+INT. MIRAMAR MANSION - TERRACE - EVENING
+
+Lucky and Lansky on the terrace. Cigars, rum, the ocean at dusk. The planning is done. The invitations are sent. The
+machinery is in motion.
+
+                    LANSKY
+          Three weeks. Everything's in place.
+
+                    LUCKY
+          You know the last time all the bosses
+          were in one room? Atlantic City. Thirty-
+          one. I called that meeting too.
+
+                    LANSKY
+          You were thirty-four years old.
+
+                    LUCKY
+          I was young and I was stupid and I
+          thought I could organize the whole
+          thing into something clean. A
+          commission, rules, territories.
+          Business instead of war.
+
+                    LANSKY
+          It worked.
+
+                    LUCKY
+          For fifteen years. Then they put me
+          in prison and Vito started picking it
+          apart. Now I'm doing it again. From
+          further away, with higher stakes, and
+          Vito sitting at the same table.
+
+                    LANSKY
+          You worried about him?
+
+                    LUCKY
+          I'm worried about what he does if I
+          don't worry about him.
+
+Lansky nods. He understands. The conference isn't just about the heroin pipeline or the gambling territories. It's about
+control. About proving that exile didn't diminish Lucky Luciano. About making twenty bosses look him in the eye and say
+yes.
+
+                    LUCKY (CONT'D)
+          December twenty-second. Every family
+          in America. The biggest meeting in the
+          history of this thing.
+
+He raises his glass.
+
+                    LUCKY (CONT'D)
+          Let's make sure it's not the last.
+
+They drink. The sun drops below the horizon. Havana glitters in the gathering dark.
+
+CUT TO:
+
+---
+
+## Production Notes
+- Hotel Nacional ballroom or event spaces -- establishing the venue before the conference itself (Act 2)
+- Valdes's facilitation should feel effortless and practiced -- this is how Cuba works
+- The Frank Sinatra cover story is a great period detail -- Sinatra's mob connections are well-documented
+- Delgado's limited briefing creates dramatic irony -- audience knows more than he does
+- This scene bridges the personal/domestic tone of Scene 7 back to the crime epic scope
+- Sets up Act 2 directly -- the conference that changes everything

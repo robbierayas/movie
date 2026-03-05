@@ -1151,7 +1151,8 @@ He's up and running before the echo fades. Sprinting toward the house. Two hundr
 
 His boots pound the dirt. Heart hammering. Eyes locked on the porch.
 
-A bush is along Hank's path to the front door. Liam stands from it aiming the crossbow. Hank freezes long enough for Liam to get a shot.
+A bush is along Hank's path to the front door. Liam stands from it aiming the crossbow. Hank freezes long enough for Liam
+to get a shot.
 
 Another arrow hisses. The shot goes into Hank's right thigh.
 
@@ -1199,7 +1200,8 @@ Hank bucks. Rolls. They tumble together. The arrow causing Hank a lot of pain.
 
 Now Liam's on top, knife plunging down—
 
-Hank catches the blade-arm with his good hand. Both hands locked on Liam's wrist. The knife trembles three inches from his throat.
+Hank catches the blade-arm with his good hand. Both hands locked on Liam's wrist. The knife trembles three inches from
+his throat.
 
 Liam's weight behind it. Pushing.
 
@@ -1209,9 +1211,11 @@ Hank's wounded hand slips. Blood making everything slick.
           Some expert.
 
 
-Hank focuses himself and begins pushing up on Liam. Knife is six inches away. Then Hank throws Liam off him and both stand.
+Hank focuses himself and begins pushing up on Liam. Knife is six inches away. Then Hank throws Liam off him and both
+stand.
 
-Liam tries to run at Hank with the knife. Hank deflects the knife but doesn't fully disarm Liam. In another move, Hank pushes Liam away from the house.
+Liam tries to run at Hank with the knife. Hank deflects the knife but doesn't fully disarm Liam. In another move, Hank
+pushes Liam away from the house.
 
 Liam flies backward. Crashes over the porch railing. He falls four feet and hits the ground hard.
 
@@ -1236,7 +1240,8 @@ He looks at his leg. He pushes head further through and breaks it off.
 
 A CRASH.
 
-He spins. A ROCK smashes through the living room window. He watches the window. He continues pulling the arrow out and tying a sweater hanging by the door as a bandage.
+He spins. A ROCK smashes through the living room window. He watches the window. He continues pulling the arrow out and
+tying a sweater hanging by the door as a bandage.
 
 Another CRASH. Another window.
 
@@ -1276,8 +1281,7 @@ Hank freezes. Listens.
 
 INT. REEVES HOUSE - LIVING ROOM - CONTINUOUS
 
-Liam climbs through a shattered window. Glass crunches under his boots. His nose is swollen, blood dried on his upper
-lip.
+Liam climbs through a shattered window. Glass crunches under his boots. Blood dried on his face from cuts.
 
 He scans the room. Hunting trophies on the walls. Competition ribbons. Family photos.
 
@@ -1302,7 +1306,8 @@ Liam rounds the corner—
 
 Hank STRIKES.
 
-The sai flashes out. It hits Liam in the shoulder. Liam steps back then stabs forward at Hank. Hank catches Liam's knife between the twin prongs. TWISTS.
+The sai flashes out. It hits Liam in the shoulder. Liam steps back then stabs forward at Hank. Hank catches Liam's knife
+between the twin prongs. TWISTS.
 
 The hunting knife clatters to the floor.
 
@@ -1352,7 +1357,8 @@ Liam backs away. Breathing hard. Grabbing his side.
 
 The debris SHIFTS.
 
-Hank rises like a specter from the wreckage. Bleeding from a gash on his forehead now. Glass in his hair. But still standing. Now holding the knife and sai.
+Hank rises like a specter from the wreckage. Bleeding from a gash on his forehead now. Glass in his hair. But still
+standing. Now holding the knife and sai.
 
 He doesn't respond. Doesn't waste breath.
 
@@ -1366,7 +1372,8 @@ But Liam fights DIRTY.
 
 An elbow to the throat when Hank commits to a strike. Hank gags, steps back.
 
-A knee to the groin when Hank reaches for him. Hank blocks, forces Liam against the wall, and punches ribs breaking some. Liam forces him off.
+A knee to the groin when Hank reaches for him. Hank blocks, forces Liam against the wall, and punches ribs breaking some.
+Liam forces him off.
 
 Liam grabs the FIREPLACE POKER. Heavy iron. Swings wild.
 
@@ -1387,7 +1394,8 @@ Liam stands over him. Gasping for air. Both of them wrecked.
                     LIAM
           Just... fucking... DIE.
 
-Hank looks up. Blood in his eyes. Lying on floor, he does spinning leg move to bring Liam down. He gets on top of Liam and punches ribs again. He looks around for the knife.
+Hank looks up. Blood in his eyes. Lying on floor, he does spinning leg move to bring Liam down. He gets on top of Liam
+and punches ribs again. He looks around for the knife.
 
 Liam thrashes. Kicks. His fingers scrabble across the debris-strewn floor.
 
@@ -1519,7 +1527,7 @@ Sarah's eyes flick to Hank's body. Back to Liam.
                     SARAH
           If you ever come back, you're dead.
 
-Liam smiles. Blood still crusted on his broken nose.
+Liam smiles. Blood still crusted on his face.
 
                     LIAM
           I already got what I came for.
@@ -1538,7 +1546,8 @@ At the threshold, Liam shoves Olivia forward—
 
 And sprays BEAR MACE into the room.
 
-Sarah screams. Eyes burning. She reaches blindly—pulling her gun from her hidden holster. The gun is the same model as Hank's.
+Sarah screams. Eyes burning. She reaches blindly—pulling her gun from her hidden holster. The gun is the same model as
+Hank's.
 
 She FIRES. Once. Twice. Three times. Wild shots into the darkness.
 
@@ -1585,7 +1594,7 @@ INT. REEVES HOUSE - FOYER - NIGHT
 
 Crime scene tape. Evidence markers. TECHS photographing the destroyed living room.
 
-SARAH sits on the stairs, wrapped in a shock blanket. Her eyes are red but dry now. Watching everything.
+Sarah sits on the stairs, wrapped in a shock blanket. Her eyes are red but dry now. Watching everything.
 
 Two DETECTIVES stand over her. DETECTIVE MARTINEZ, sympathetic. DETECTIVE COLE, impatient.
 
@@ -1614,6 +1623,19 @@ Sarah's head snaps up.
           I know which weapon killed my husband. The knife
           in that man's hand.
 
+A TECH approaches holding a small .22 RIFLE.
+
+                    TECH
+          Detective—what about this one? It's a .22.
+
+Cole glances at it. Shakes his head.
+
+                    DETECTIVE COLE
+          That's not involved. We're looking at the handguns
+          that were discharged tonight. Leave it.
+
+The Tech sets the .22 back against the wall.
+
                     DETECTIVE MARTINEZ
           Mrs. Reeves—
 
@@ -1629,7 +1651,7 @@ Detective Cole exchanges a look with Martinez.
           process the scene and let you—
 
                     SARAH
-          I was a public defender for eight years, Detective.
+          I'm a government lawyer, Detective.
 
 She stands. The blanket falls away.
 
@@ -1674,6 +1696,118 @@ Emma, Olivia, and Eli huddle in the kitchen doorway, watching too.
 
 Sarah's jaw tightens. Something hardens behind her eyes.
 
+FLASHBACK — INT. GOVERNMENT OFFICE — DAY (YEARS EARLIER)
+
+A younger SARAH. Late twenties. Professional suit. Stacking case files at her desk. A COLLEAGUE drops a folder in front
+of her.
+
+                    COLLEAGUE
+          Henderson case. DA reduced the charges.
+          He's out on bail.
+
+Sarah goes still.
+
+                    YOUNGER SARAH
+          I told them. I told them he'd escalate.
+
+                    COLLEAGUE
+          The wife called again. She's terrified—
+
+Sarah grabs her jacket. Already moving.
+
+FLASHBACK — EXT. SUBURBAN HOUSE — NIGHT (SAME ERA)
+
+Red and blue lights. An AMBULANCE. Sarah stands behind police tape, staring at a BODY BAG being wheeled out.
+
+A UNIFORMED COP approaches.
+
+                    COP
+          You the lawyer? We had officers on scene
+          when it happened. He got past them.
+
+Sarah stares at the body bag. Same image she just watched with Hank.
+
+                    COP (CONT'D)
+          Ma'am, there was nothing you could have—
+
+                    YOUNGER SARAH
+          Don't.
+
+She walks away. The cop calls after her. She doesn't turn around.
+
+FLASHBACK — INT. COMMUNITY CENTER — NIGHT (WEEKS LATER)
+
+A self-defense class. Sarah, still wound tight, THROWS a sparring partner onto the mat. Hard. Too hard. The INSTRUCTOR
+steps forward.
+
+                    INSTRUCTOR
+          Whoa—easy. This is a beginner's class.
+
+Sarah doesn't ease up. She's looking for the next person to hit.
+
+A man steps onto the mat. Big frame. Warm eyes. No scar on his face yet.
+
+Hank. Younger. Grinning.
+
+                    HANK
+          Mind if I try?
+
+Sarah squares up. They spar. He's strong—absorbs her hits without flinching. But he doesn't hit back hard. Just
+redirects. Calm.
+
+She tries harder. He adapts. Eventually she's breathing hard and he's still grinning.
+
+                    HANK (CONT'D)
+          You're good.
+
+                    YOUNGER SARAH
+          You're annoying.
+
+                    HANK
+          I get that a lot.
+
+They hold eye contact. First time Sarah's almost smiled in weeks.
+
+END FLASHBACKS.
+
+INT. REEVES HOUSE — FOYER — PRESENT
+
+Sarah stands alone in the foyer. The police cars pull away outside. The house is quiet.
+
+She stares at the door where Hank's body was wheeled out.
+
+The memory of meeting Hank—his grin, his calm, the way he absorbed her darkness and gave back warmth—dissolves into
+something else. Something that hasn't happened yet.
+
+FLASH FORWARD (IMAGINED) — INT. UNKNOWN ROOM — DAY (YEARS FROM NOW)
+
+An older SARAH. Hollowed out. Gray at the temples. Sitting across from SOMEONE we can't quite see. A friend, a
+therapist, a reporter—it doesn't matter. What matters is her voice.
+
+                    OLDER SARAH
+          They never found who killed Hank.
+
+She stares at nothing.
+
+                    OLDER SARAH (CONT'D)
+          Police said they'd look into it.
+          Case went cold. They moved on.
+          I never did.
+
+The image of this future—this hollow, defeated woman who trusted the system and lost—burns into Sarah's mind.
+
+END FLASH FORWARD.
+
+INT. REEVES HOUSE — FOYER — PRESENT
+
+Sarah's face has changed. Whatever softness was left is gone. The flashbacks showed her the past—the system failing,
+Hank saving her. The flash forward showed her the future if she lets it happen again.
+
+Sarah, barely a whisper.
+
+                    SARAH
+          Not again.
+
 
 ----------------------------------------
 # Scene 11 - Bobby Arrives
@@ -1681,7 +1815,7 @@ Sarah's jaw tightens. Something hardens behind her eyes.
 
 INT. REEVES HOUSE - OFFICE - NEXT MORNING
 
-SARAH stands at the printer, collecting pages as they spit out. Official-looking documents.
+Sarah stands at the printer, collecting pages as they spit out. Official-looking documents.
 
 Through the window, she sees a pickup truck pull up the driveway.
 
@@ -1689,7 +1823,7 @@ She gathers the pages. Slips them into a folder.
 
 EXT. REEVES HOUSE - DRIVEWAY - CONTINUOUS
 
-BOBBY climbs out, looking like he hasn't slept.
+Bobby climbs out, looking like he hasn't slept.
 
 The front door opens. EMMA and OLIVIA run out.
 
@@ -1744,7 +1878,8 @@ Bobby looks at Eli, then back at Sarah. Understanding dawns.
           So you don't think I can do it?
 
                     BOBBY
-          It's like... this house is setup for defense, not offense, because you can last longer on defense. That's what Hank...
+          It's like... this house is setup for defense, not offense, because you can last longer on defense. That's what
+          Hank...
 
 Bobby hesitates. Then reaches into his waistband, pulls out a HANDGUN. Holds it out to her.
 
@@ -1761,8 +1896,122 @@ He hands her the gun.
 
 Sarah takes it. Checks the chamber. Professional.
 
+As she does, her sleeve rides up. Bobby catches a glimpse of a TATTOO on her inner forearm. Something elaborate. Old ink.
+
+                    BOBBY
+          What the... is that a tattoo?
+
+Sarah pulls her sleeve down.
+
+                    BOBBY (CONT'D)
+          Hank never mentioned—
+
                     SARAH
+          Oh, Hank never told you?
+
+A flicker of something—almost amusement—crosses her dead eyes.
+
+                    SARAH (CONT'D)
+          There's a lot about me Hank never told anyone.
+
+Bobby stares. Like he's seeing her for the first time.
+
+                    SARAH (CONT'D)
           Thank you, Bobby.
+
+FLASHBACK — INT. MOXIE'S BAR — NIGHT (YEARS EARLIER)
+
+Sarah and Hank, younger. Dating. Laughing over beers at a corner table.
+
+A DRUNK GUY at the next table gets loud, shoving his BUDDY. The buddy stumbles into Sarah's chair.
+
+Hank stands. Calm. Big.
+
+                    HANK
+          Hey. Easy, brother.
+
+The drunk swings. Hank catches his arm, pins it behind his back, guides him firmly into his seat. Smooth. Controlled.
+Over in seconds.
+
+                    HANK (CONT'D)
+          Sit down. Cool off.
+
+The drunk sputters but stays seated. The bar relaxes. Hank sits back down. Takes a sip of his beer. Done.
+
+But Sarah isn't done. She leans forward, staring at the drunk.
+
+                    YOUNGER SARAH
+          That all you got?
+
+                    HANK
+          Sarah.
+
+                    YOUNGER SARAH
+          Big man, pushing people around—
+
+                    HANK
+          Sarah. It's done. Let it go.
+
+She holds his eyes. Nods. Sits back.
+
+Hank turns to flag the bartender—
+
+The INSTANT his back is turned, Sarah SUCKER-PUNCHES the drunk across the jaw.
+
+The bar ERUPTS. Chairs flying. People swinging. The drunk's friends pile in—
+
+In the chaos, someone swings a BOTTLE. It catches Hank across the cheek. Glass cuts deep. Blood runs down his face.
+
+Sarah freezes. Staring at what she caused.
+
+                    HANK (CONT'D)
+          We need to go. Now.
+
+He pulls her toward the exit, hand pressed to his bleeding face. She looks back at the chaos. Then at the blood running
+between his fingers.
+
+FLASHBACK — INT. HANK AND SARAH'S APARTMENT — DAY (WEEKS LATER)
+
+Hank sits across from Sarah at a small kitchen table. The cut has healed into a fresh SCAR across his cheekbone. The one
+he'll carry forever.
+
+He's not angry. Not judging. Just clear.
+
+                    HANK
+          You have to choose.
+
+Sarah looks away.
+
+                    HANK (CONT'D)
+          Fighting—or a family with me.
+
+                    YOUNGER SARAH
+          That's not fair.
+
+                    HANK
+          I love you. But I can't raise kids with
+          someone who can't walk away.
+
+Long silence. Sarah's jaw works.
+
+                    YOUNGER SARAH
+          What if I can't?
+
+                    HANK
+          Then tell me now. And I'll go. No hard feelings.
+
+She looks at him. The scar she gave him. The steady eyes she doesn't deserve.
+
+                    YOUNGER SARAH
+          I choose you.
+
+He reaches across. Takes her hand.
+
+END FLASHBACKS.
+
+INT. REEVES HOUSE — KITCHEN — PRESENT
+
+Bobby watches Sarah tuck the gun into her waistband.
 
                     EMMA
           Where are you going?
@@ -1784,7 +2033,7 @@ Sarah looks at her daughter.
 Sarah meets his eyes. Sees the same cold fury she feels. She looks at Bobby, thinking of being the example.
 
                     SARAH
-         We are just finding him and reporting him.
+          We are just finding him and reporting him.
 
 She puts the gun down on the counter looking at Emma.
 
@@ -1888,6 +2137,55 @@ She hangs up. Looks at Eli.
                     SARAH (CONT'D)
           Let's go.
 
+She starts the car. Pulls out of the parking lot.
+
+FLASHBACK — INT. HANK AND SARAH'S FIRST HOUSE — KITCHEN — DAY (YEARS EARLIER)
+
+Sarah, visibly PREGNANT, stands at the counter with a map spread out. Circling remote locations.
+
+                    YOUNGER SARAH
+          Look at this. Forty acres. Off-grid. Solar
+          panels, water filtration, root cellar—we could
+          be completely self-sufficient.
+
+Hank leans against the doorframe, watching her with affection.
+
+                    HANK
+          Kids are gonna need a real house, babe.
+
+                    YOUNGER SARAH
+          I'm talking about survival. If something
+          happens—
+
+                    HANK
+          I'll build us a castle. How about that?
+
+She looks up. Can't help a small smile.
+
+                    YOUNGER SARAH
+          I'm not passing on a castle if you're building it.
+
+He crosses to her. Wraps his arms around her from behind, hands on her belly.
+
+                    HANK
+          Castle it is.
+
+She leans back into him. For a moment—safe.
+
+FLASHBACK — INT. GROCERY STORE — DAY (SAME ERA)
+
+Sarah, still pregnant. Loading groceries into a cart.
+
+A MAN in the aisle bumps her cart. Hard. Doesn't apologize. Shoves past.
+
+Sarah's whole body tenses. Her fists clench.
+
+She takes a step toward him—then catches herself. Looks down at her belly.
+
+Walks away. But her eyes don't walk away.
+
+END FLASHBACKS.
+
 INT. MULLIGAN'S BAR - NOON
 
 A dark, mostly empty bar. A few day-drinkers nursing beers.
@@ -1927,34 +2225,25 @@ INT. SARAH'S CAR - OUTSIDE MULLIGAN'S - CONTINUOUS
 
 Sarah sits behind the wheel, staring at the napkin. Eli waits.
 
-She pulls out her phone. Dials.
+                    ELI
+          Call the police.
+
+Sarah doesn't move.
+
+                    ELI (CONT'D)
+          Mom. You have his name. Call them.
+
+Sarah looks at him. Sees Hank in his eyes. She pulls out her phone. Dials.
+
+It rings. Rings. Voicemail.
 
                     SARAH
-          Detective Martinez? It's Sarah Reeves... I have
+          Detective Martinez, it's Sarah Reeves. I have
           a name. The man who killed my husband.
-
-She reads from the napkin.
-
-                    SARAH (CONT'D)
           Liam. L-I-A-M.
-              (reads last name)
+          (reads last name)
           That's what the bar had on file. He worked
           there until a few weeks ago.
-
-                    DETECTIVE MARTINEZ (V.O.)
-          That's good work, Mrs. Reeves. We'll run it.
-          Where are you now?
-
-                    SARAH
-          Home. With my kids.
-
-A beat.
-
-                    DETECTIVE MARTINEZ (V.O.)
-          Stay there. Let us handle this.
-
-                    SARAH
-          Of course.
 
 She hangs up. Starts the car.
 
@@ -1962,9 +2251,62 @@ She hangs up. Starts the car.
           You didn't give them the address.
 
                     SARAH
-          No. I didn't.
+          We'll go check if he's even there first.
 
-She pulls out of the parking lot.
+FLASHBACK — EXT. SOCCER FIELD — DAY (YEARS LATER)
+
+Kids' soccer game. Sarah and Hank in folding chairs. EMMA, younger—maybe 8—on the field.
+
+A PARENT on the opposing side jumps up, screaming at the REFEREE.
+
+                    ANGRY PARENT
+          That's BULLSHIT! She was offsides! Open
+          your EYES!
+
+Sarah rises from her chair. Moving toward the man.
+
+Hank's hand on her arm. Firm. Not rough.
+
+She stops. Looks at him. Sits back down.
+
+The darkness—still there. Just leashed.
+
+FLASHBACK — EXT. REEVES PROPERTY — DAY (YEARS EARLIER)
+
+Backyard. Younger kids—ELI maybe 13, EMMA 7, OLIVIA 5. Sarah is teaching them self-defense. But she's too intense.
+Demonstrating holds that are too aggressive. Describing scenarios too violent for their ages.
+
+                    YOUNGER SARAH
+          —and if someone grabs you from behind, you
+          don't just twist away. You drive your elbow
+          back into the solar plexus, then you STOMP
+          the instep—
+
+OLIVIA's lip trembles. EMMA looks scared.
+
+Hank steps in. Gentle hand on Sarah's shoulder.
+
+                    HANK
+          I got this, babe.
+
+Sarah stops. Something flickers behind her eyes—frustration, maybe shame. She nods. Steps back.
+
+Hank kneels down to Olivia's level. Warm smile.
+
+                    HANK (CONT'D)
+          Okay, little bear. Show me your mean face.
+
+Olivia makes a face. Everyone laughs. The tension breaks.
+
+Sarah watches from the background. Arms crossed. The look in her eyes—she knows what she is.
+
+END FLASHBACKS.
+
+INT. SARAH'S CAR — PRESENT
+
+Sarah pulls out of the parking lot. Her face set. Determined.
+
+No one's hand on her arm anymore.
 
 
 ----------------------------------------
@@ -1990,6 +2332,9 @@ It OPENS.
 
 Liam stands there, bag over his shoulder. Keys in hand. Leaving.
 
+Behind him, through the apartment window: a car parked on the street below, trunk open, already loaded with BOXES—metal
+plates visible, tools, a drone kit box. He's been clearing out.
+
 For a split second, everyone freezes.
 
 Recognition flickers across Liam's face. The wife. Here.
@@ -2000,7 +2345,8 @@ No hesitation. No words. Pure violence.
 
 INT. LIAM'S APARTMENT - CONTINUOUS
 
-She tackles Liam back into the apartment. They crash through the doorframe. Slam into his RESEARCH TABLE—the murder wall of photos and notes exploding around them.
+She tackles Liam back into the apartment. They crash through the doorframe. Slam into his RESEARCH TABLE—the murder wall
+of photos and notes exploding around them.
 
 Pictures of her family scatter across the floor. Hank's face stares up at them.
 
@@ -2017,15 +2363,15 @@ She's not trained like Hank. But she's ANGRY. And fast.
 
 Her fist catches his jaw. His lip splits.
 
-Her palm strikes his nose—the one Hank broke. Still healing. It CRUNCHES again.
+Her palm strikes his jaw. Snaps his head sideways.
 
-Liam HOWLS. Blood streams from his nostrils. He bucks his hips—throws her off.
+Liam HOWLS. He bucks his hips—throws her off.
 
 Sarah hits the floor. Rolls. Already getting up—
 
 Liam's faster. He grabs a KNIFE from the scattered mess. Lunges at her.
 
-ELI crashes into him from the side. BATON swinging.
+Eli crashes into him from the side. BATON swinging.
 
 The baton CRACKS against Liam's wrist. The knife clatters away.
 
@@ -2041,7 +2387,7 @@ She swings again. He catches it. They struggle—
 
 He WRENCHES the lamp away. Raises it over her head—
 
-ELI tackles him from behind. They crash into the BOOKSHELF.
+Eli tackles him from behind. They crash into the BOOKSHELF.
 
 The shelf TOPPLES. Books and clothes and junk avalanche over both of them.
 
@@ -2081,7 +2427,7 @@ Liam's already through the window. Stumbling down the rusted stairs.
 
 Sarah climbs through after him. Eli right behind her.
 
-Liam reaches the second floor platform. Blood dripping from his nose, his head. He looks down. Ten feet to the alley.
+Liam reaches the second floor platform. Blood dripping from his head. He looks down. Ten feet to the alley.
 
 He jumps.
 
@@ -2251,6 +2597,12 @@ INT. ABANDONED BUILDING - DAY
 
 Liam sits in a dusty corner. Makeshift camp—sleeping bag, first aid supplies, bottled water.
 
+Around him: the BOXES from his car. Metal plates, tools, spools of wire, a drone kit. Weeks of collecting, hauled from
+the apartment before the wife showed up.
+
+A half-finished VEST lies on a workbench—small metal plates already sewn in overlapping rows across the chest. He's been
+at this for a while.
+
 He unwraps bloody bandages from his torso. Examines the wounds. Grimaces.
 
 On the floor beside him: HANK'S BLACKBELT. He picks it up. Studies it.
@@ -2276,7 +2628,8 @@ Eli appears behind her.
 
 INT. ABANDONED BUILDING - DAY
 
-Liam unpacks a DRONE from a box. Small, commercial model. He attaches something to its underside—a modified taser mechanism.
+Liam pulls a DRONE from one of his boxes. Small, commercial model—already modified, the taser mechanism wired to its
+underside weeks ago. He just needs to calibrate it.
 
 He tests the controls. The drone lifts, hovers, responds.
 
@@ -2295,7 +2648,8 @@ Eli nods to himself.
 
 INT. REEVES HOUSE - FIRST FLOOR - LATE AFTERNOON
 
-Emma and Olivia move through the first floor. Several windows are BROKEN from the earlier battle—glass shattered, frames damaged.
+Emma and Olivia move through the first floor. Several windows are BROKEN from the earlier battle—glass shattered, frames
+damaged.
 
 Emma pulls a heavy SHUTTER across a broken window frame. Olivia helps secure it with a latch.
 
@@ -2321,9 +2675,10 @@ Liam does push-ups. Sit-ups. Tests his range of motion. Winces but pushes throug
 
 He examines himself in a cracked mirror. The bruises dark. The swelling still there. Not healed—but good enough.
 
-He picks up a DIRTBIKE HELMET. Holds up small metal plates and a drill.
+He picks up a DIRTBIKE HELMET—already plated on one side from earlier work. Holds up the drill. Finishes the other side.
 
-CUT TO: The helmet now has metal plates drilled around the outside—top, sides, back. DIY armor. Ugly but functional.
+CUT TO: The helmet fully armored now—metal plates drilled around the outside, top, sides, back. DIY armor. Ugly but
+functional.
 
 He tries it on. Then grabs a pair of big OAKLEY SUNGLASSES. Puts them on under the helmet.
 
@@ -2343,7 +2698,8 @@ MONTAGE of trap-building:
 
 INT. ABANDONED BUILDING - DUSK
 
-Liam adds the MAKESHIFT ARMOR—a vest covered in small metal plates (~3x2 inches each) sewn together in overlapping rows like fish scales. Arm and leg pieces follow. Chainmail-style gloves with leather fingers.
+Liam pulls on the finished VEST—the plates he'd been sewing for weeks now complete, overlapping rows like fish scales.
+Arm and leg pieces follow—the last sections he stitched together today. Chainmail-style gloves with leather fingers.
 
 He looks like a nightmare. A homemade knight.
 
@@ -2354,7 +2710,8 @@ He picks up Hank's blackbelt. Ties it around his arm like a trophy.
 
 INT. REEVES HOUSE - LIVING ROOM - DUSK
 
-The family gathers. The house looks different now—weapons positioned, trip wires barely visible, defensive positions established. Late sunlight fades through the windows.
+The family gathers. The house looks different now—weapons positioned, trip wires barely visible, defensive positions
+established. Late sunlight fades through the windows.
 
 Sarah stands before her children. Eli beside her. Emma and Olivia on the couch, holding hands.
 
@@ -2467,7 +2824,9 @@ The outdoor lights turn on detecting Liam's motion.
 
 EXT. REEVES PROPERTY - NIGHT
 
-Liam crosses the open ground. Confident. DIRTBIKE HELMET on—metal plates drilled around the outside. Big OAKLEY SUNGLASSES underneath for flashbang protection. MAKESHIFT ARMOR visible beneath his jacket—small metal plates sewn together, overlapping like fish scales.
+Liam crosses the open ground. Confident. DIRTBIKE HELMET on—metal plates drilled around the outside. Big OAKLEY
+SUNGLASSES underneath for flashbang protection. MAKESHIFT ARMOR visible beneath his jacket—small metal plates sewn
+together, overlapping like fish scales.
 Messenger bag repurposed, holding DRONE controller, over his shoulder. BATTERING RAM in one hand. TASER in the other.
 
 Motion-detector floodlights from the house turn on. He's halfway across the yard when—
@@ -2504,7 +2863,8 @@ Sarah watches him approach on a laptop screen—security feed.
                     SARAH
           Positions. Now.
 
-Eli grabs his BOW and quiver. Moves to bottom of the stairs. EMMA and OLIVIA huddle near the stairs landing, ready to retreat.
+Eli grabs his BOW and quiver. Moves to bottom of the stairs. EMMA and OLIVIA huddle near the stairs landing, ready to
+retreat.
 
 EXT. REEVES HOUSE - FRONT PORCH - NIGHT
 
@@ -2844,7 +3204,7 @@ Liam crouches in the darkness. Flashlight off. Listening.
 
 Above, muffled through the floor, he hears it: children cheering. A name.
 
-                    EMMA (O.S., muffled)
+                    Emma (O.S., muffled)
           Unky Buh-by!
 
 Liam's head tilts. Processing.
@@ -2865,7 +3225,8 @@ He barely stops before jumping out. Shotgun already in hand.
 
 No answer. Just crackling flames.
 
-He scans the property. The house is burning—first floor engulfed, upper floors still holding. Smoke pours from broken windows.
+He scans the property. The house is burning—first floor engulfed, upper floors still holding. Smoke pours from broken
+windows.
 
 Then he sees her.
 
@@ -2968,7 +3329,8 @@ WHOOSH.
 
 The stairs ERUPT.
 
-Bobby screams as fire races up his legs, his torso. He loses his footing. The shotgun flies from his grip as he tumbles down the burning stairs.
+Bobby screams as fire races up his legs, his torso. He loses his footing. The shotgun flies from his grip as he tumbles
+down the burning stairs.
 
 He hits the concrete floor. Rolling. Burning.
 
@@ -2977,7 +3339,8 @@ He hits the concrete floor. Rolling. Burning.
 
 Bobby's movements slow. The screaming becomes groaning. Then nothing.
 
-He lies at the base of the stairs. One ARM stretched out across the concrete—reaching toward nothing. Palm up. Fingers slightly curled.
+He lies at the base of the stairs. One ARM stretched out across the concrete—reaching toward nothing. Palm up. Fingers
+slightly curled.
 
 Liam watches. Calm. Waiting.
 
@@ -2992,7 +3355,7 @@ Low. Primal. The sound of something that's decided to die fighting.
 
 Liam looks up—
 
-GIRLY launches herself down the burning stairs. Eighty pounds of muscle and teeth. Airborne. Coming straight at him.
+Girly launches herself down the burning stairs. Eighty pounds of muscle and teeth. Airborne. Coming straight at him.
 
                     LIAM
           Shit—
@@ -3081,7 +3444,8 @@ Liam lowers the shotgun. Checks the tube—still shells left. Bobby's "pray and 
 
 Chest heaving. Arm torn to ribbons. Burns on his legs. Blood everywhere.
 
-He looks at Bobby and Girly. Something flickers across his face—not guilt, just... recognition. They died together. Loyal to the end.
+He looks at Bobby and Girly. Something flickers across his face—not guilt, just... recognition. They died together. Loyal
+to the end.
 
 He shakes it off.
 
@@ -3092,7 +3456,8 @@ The structure collapses. Flaming debris crashes down, blocking the way up.
                     LIAM
           Shit.
 
-He looks at his armor. The forearm plates are gone. Chainmail gloves shredded. Dog bites all down his arm. The leg plates are warped from heat, restricting movement.
+He looks at his armor. The forearm plates are gone. Chainmail gloves shredded. Dog bites all down his arm. The leg plates
+are warped from heat, restricting movement.
 
 He strips off the damaged pieces. Drops them on the concrete. Lighter now. More exposed.
 
@@ -3457,7 +3822,8 @@ His hands find her throat.
 
 INT. SECRET PASSAGE - SHAFT OPENING - CONTINUOUS
 
-They're at the top of the three-story drop. The shaft yawns below them—darkness all the way down to the secret basement room.
+They're at the top of the three-story drop. The shaft yawns below them—darkness all the way down to the secret basement
+room.
 
 Liam drags Sarah to the edge. His grip on her throat is iron.
 
@@ -3591,7 +3957,8 @@ His remaining armor scrapes against concrete. Metal grinding on stone.
 
 He stops. Looks at himself.
 
-The torso plates are cracked. Bent. Digging into his flesh. The leg plates are twisted, restricting movement. Everything hurts.
+The torso plates are cracked. Bent. Digging into his flesh. The leg plates are twisted, restricting movement. Everything
+hurts.
 
 Piece by piece, he strips off what's left.
 
@@ -3745,7 +4112,8 @@ Olivia's hand finds hers. Squeezes.
 
 They turn away.
 
-Behind them, FIREFIGHTERS rush toward the burning house. PARAMEDICS run toward the bodies—Liam on the lawn, the others inside.
+Behind them, FIREFIGHTERS rush toward the burning house. PARAMEDICS run toward the bodies—Liam on the lawn, the others
+inside.
 
 But for Emma and Olivia Reeves, it's done.
 
@@ -3757,5 +4125,5 @@ FADE OUT.
 
 
 ============================================================
-END OF SCREENPLAY
-============================================================
+                    END OF SCREENPLAY
+          ============================================================

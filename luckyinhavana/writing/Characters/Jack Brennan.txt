@@ -1,0 +1,62 @@
+# JACK BRENNAN
+
+## BASIC INFORMATION
+- **Full Name**: Jack Brennan
+- **Age**: Late 30s
+- **Occupation**: Federal Bureau of Narcotics (FBN) Agent
+- **Family**: Brother (deceased - heroin overdose)
+- **Historical/Composite**: Composite character based on FBN field agents who operated in Cuba
+
+## ARCHETYPE
+[Primary ensemble role - to be determined after screenplay is written]
+
+## CHARACTER FUNCTION
+Brennan is the audience's primary window into the investigation against Lucky Luciano. He provides the moral center of
+the film -- a man with a deeply personal stake (his brother's heroin overdose death) who believes he is dismantling a
+drug empire, only to discover he was unwittingly used as a pawn by a more ruthless criminal (Genovese) and his own
+compromised director (Hartley). His arc embodies the film's central theme of Pyrrhic victory and unintended consequences.
+
+## PHYSICAL DESCRIPTION
+To be determined from screenplay.
+
+## PERSONALITY TRAITS
+- Driven by personal vengeance -- brother's death from heroin gives him an emotional stake beyond professional duty
+- Believes in the mission and trusts institutional authority (initially trusts Director Hartley without question)
+- Resourceful undercover operative -- rapidly recruits informants, documents intelligence, works under pressure
+- Perceptive but not paranoid -- notices that Washington already seems to know his intelligence before he reports it, but
+files it away rather than acting on suspicion
+- Idealistic about law enforcement's role, which makes the final betrayal devastating
+- Capable of forming unlikely alliances (with Delgado) across national and cultural lines
+
+## RELATIONSHIPS
+- **Director Hartley**: Brennan's handler and boss in Washington. Brennan trusts Hartley as the voice of authority and
+mission clarity. Communicates via phone calls and telegrams. Hartley manipulates this trust, using Brennan's evidence to
+build a case that was actually engineered by Genovese. Brennan ultimately confronts Hartley when the truth is revealed.
+- **Carlos Delgado**: Forms an unlikely alliance with the Cuban Secret Police agent. They meet at the Hotel Nacional bar,
+and Delgado eventually agrees to share information. Delgado warns Brennan they may be creating a bigger monster by
+targeting Lucky instead of Genovese -- a warning Brennan ignores until too late.
+- **Lucky Luciano**: The man Brennan holds personally responsible for his brother's death. Brennan's target throughout
+the film. They never form a direct relationship -- Brennan observes and documents Lucky from a distance.
+- **Meyer Lansky**: Possible source of the final revelation -- Lansky may be the one who tells Brennan the truth about
+Genovese feeding intel to the FBN.
+
+## CHARACTER ARC
+- **Beginning State (Act 1)**: Watches Lucky's deportation from New York, uneasy that it won't end anything. Sent to
+Havana by Hartley when intelligence reveals Lucky is in Cuba. Motivated by personal loss and institutional duty.
+- **Inciting Incident**: Arrives in Havana and begins undercover work at the Hotel Nacional during the Havana Conference.
+Recruits informants and witnesses the full scope of the mob summit.
+- **Escalation (Act 2)**: Builds the case against Lucky with evidence from informants and Delgado. Reports to Hartley,
+who praises him. Notices anomalies (Washington knowing things before he reports them) but trusts the system. Ignores
+Delgado's warnings about Genovese being more dangerous.
+- **Crisis Point**: Discovers the devastating truth -- Genovese has been feeding intelligence to the FBN the entire time,
+Hartley knew, and the entire deportation was engineered by a rival mobster using the U.S. government as his weapon.
+Confronts Hartley: "We didn't take down Lucky. Genovese did. We were his muscle."
+- **End State**: Writes a report warning about Genovese and Hartley's complicity, but it will be buried. Watches Lucky
+depart on the S.S. Bakir with doubt in his eyes. Realizes he was not the hunter but the weapon. Disillusionment arc --
+loses faith in the institutions he served.
+
+## DIALOGUE STYLE
+To be expanded after scenes are written.
+
+## KEY SCENES
+[To be filled in as scenes are written using Workflow 4]

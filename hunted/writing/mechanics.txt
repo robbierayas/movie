@@ -171,8 +171,8 @@ SR = Sunroom (corner)
 - Hank built this knowing someday it might be needed
 
 
-BOOBY TRAP LEGALITY
--------------------
+                    BOOBY TRAP LEGALITY
+          -------------------
 
 ### The Problem
 Booby traps are illegal in all 50 US states. Setting a trap that could
@@ -451,7 +451,7 @@ Normal person would call 911, let police handle it.
    - "They said call if he shows up again. He'll kill us before they arrive."
 
 2. **Sarah Has a Grudge with Police (Work History)**
-   - Sarah was a public defender for eight years
+   - Sarah is a government lawyer
    - Saw murderers walk because evidence got lost, witnesses recanted, DAs decided cases weren't worth the trouble
    - She's seen firsthand how people escape justice
    - Deep distrust: "I've seen what happens when you trust them to handle it."
@@ -482,8 +482,8 @@ Normal person would call 911, let police handle it.
 - Her distrust was her tragic flaw
 
 
-TRAP DESIGNS
-------------
+                    TRAP DESIGNS
+          ------------
 
 ### Hot Oil Trap (Stairwell)
 
@@ -514,8 +514,8 @@ TRAP DESIGNS
 - Exposes previously protected areas for later attacks
 
 
-TRAP EFFECTIVENESS
-------------------
+                    TRAP EFFECTIVENESS
+          ------------------
 
 ### The Problem
 If traps are so effective, why doesn't everyone use them?
@@ -536,8 +536,8 @@ If traps are so effective, why doesn't everyone use them?
 - Also shows he's smart - just not smart enough
 
 
-THE TRAP THAT GETS THEM BOTH
-----------------------------
+                    THE TRAP THAT GETS THEM BOTH
+          ----------------------------
 
 ### Setup
 In Act 3, Scene 15, a trap wounds both Sarah and Liam, leading to the
@@ -630,8 +630,8 @@ The family has hunting awards. These are the real programs they might have compe
 - Awards visible in house = worldbuilding detail
 
 
-POLICE RESPONSE TIME
---------------------
+                    POLICE RESPONSE TIME
+          --------------------
 
 ### The Problem
 Emma calls 911. How long until police arrive?

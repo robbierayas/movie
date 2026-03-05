@@ -1,0 +1,396 @@
+# Scene 24 - The Twist
+
+## LOCATION
+INT. - HOTEL NACIONAL - DAY/NIGHT (Mid-March 1947)
+
+## CHARACTERS
+Jack Brennan, Director Hartley (via phone)
+
+## SCENE LAYOUT
+
+### Opening
+Brennan receives a telegram from Hartley: "Mission accomplished." The words should feel like a victory. Instead, Brennan
+feels hollow. Delgado's warnings about creating a bigger monster echo in his mind. Something doesn't sit right -- and it
+hasn't since he noticed his intelligence seemed already known in Washington before he reported it. Brennan sits alone in
+his hotel room and works through the evidence like the detective he is.
+
+### Key Beats
+1. Brennan pieces together the truth himself. Alone in his hotel room, he lays out his case files -- his reports, Hartley's
+telegrams, the timeline. He returns to the anomaly from Scene 16: Washington knew things before he reported them. He
+reviews the decoded telegrams, Hartley's responses that assumed knowledge Brennan hadn't transmitted. He thinks about
+Genovese's behavior at the conference -- the man who lost the vote, got humiliated, and then... what? Just went home? No.
+He thinks about Hartley's sharp deflection when Brennan raised concerns about Genovese: "Stay focused on Luciano.
+Genovese isn't your assignment." Why was Hartley protecting Genovese? And the assassination attempt -- Genovese suspected,
+Hartley uninterested. Brennan connects the dots: Genovese has been feeding intelligence to the FBN. Hartley knew. The
+entire case was built on information from a rival mobster engineering a coup.
+2. Brennan confronts Hartley by phone. The key exchange: Brennan: "We didn't take down Lucky. Genovese did. We were his
+muscle." Hartley is unapologetic: "Luciano is gone. That's what matters. That's what your brother would have wanted."
+Hartley: "And the result is the same." Brennan realizes his director knew the source was a mob underboss engineering a
+coup and took the intel anyway because it gave him his career-making case.
+3. Brennan writes a report warning about Genovese. It will be buried. Then Hartley calls back with Brennan's next
+assignment -- another city, another target, another mission where Brennan doesn't know who's really pulling the strings.
+Brennan's disillusionment crystallizes: what country am I in? Who are we fighting? Who is the bad guy?
+
+### Character Moments
+- **Jack Brennan**: The hero discovers he was the weapon -- and he figures it out himself, which makes it worse. No one
+had to tell him. The evidence was always there; he just trusted the system enough to ignore it. He thought he was hunting
+Lucky Luciano to avenge his brother. In reality, Genovese pointed him at Lucky, and Hartley pulled the trigger. His entire
+mission -- the informants, the evidence, the alliance with Delgado -- was part of a mob power play. Delgado was right all
+along. And when the next assignment comes, Brennan realizes this is the job now: he'll never know who's really behind the
+mission. The disillusionment is total.
+- **Director Hartley** (via phone): Unapologetic, pragmatic, cold. "And the result is the same." He represents
+institutional corruption -- the willingness to use any tool, any source, any method as long as the political result is
+achieved. His calling back with the next assignment shows the machine doesn't stop -- it doesn't reflect, it doesn't
+learn, it just moves to the next target.
+
+### Closing
+Brennan holds the next assignment in his hand. Another city. Another target. The man who came to Havana to take down a
+drug lord now knows he helped install a worse one -- and the system is already sending him to do it again somewhere else.
+
+---
+
+## FULL SCRIPT
+
+INT. HOTEL NACIONAL - BRENNAN'S ROOM - DAY (MID-MARCH 1947)
+
+SUPER: MID-MARCH 1947
+
+A modest hotel room. Not the suites upstairs where the mob bosses gathered in December -- a
+small room on a lower floor, the kind a tourist or businessman would take. JACK BRENNAN sits on
+the bed, staring at a telegram in his hand.
+
+CLOSE ON the telegram: "MISSION ACCOMPLISHED STOP LUCIANO DEPORTATION CONFIRMED STOP
+OUTSTANDING WORK JACK STOP RETURN WASHINGTON SOONEST STOP -- HARTLEY"
+
+Mission accomplished. The words he should be celebrating.
+
+Brennan sets the telegram on the nightstand. He looks at it the way a man looks at a letter
+he doesn't trust. He opens the drawer, pulls out a bottle of rum, pours two fingers into a
+water glass. Drinks.
+
+He sits at the small desk. In front of him: his case file. Stacks of notes, reports, dates,
+names. Months of work. He opens it and starts leafing through pages.
+
+He stops on a report. His own handwritten notes from January -- the anomaly he noticed.
+Washington seemed to already know certain intelligence before he reported it. The conference
+attendees. The heroin routes. Specific dollar amounts.
+
+He pulls out another page. A decoded telegram from Hartley, dated early February. Instructions
+that assumed knowledge Brennan hadn't yet transmitted.
+
+                    BRENNAN (V.O.)
+          I kept coming back to the same question.
+          How did Washington know things before I
+          told them? I assumed other sources. Other
+          agents. Diplomatic channels.
+
+He spreads the pages on the desk. A timeline taking shape. His reports. Hartley's responses.
+The gaps where information appeared in Washington before Brennan sent it.
+
+                    BRENNAN (V.O.) (CONT'D)
+          I assumed wrong.
+
+He pulls out more pages. Lays them side by side. His report on the conference attendees --
+dated January 8th. Hartley's response -- dated January 7th. Hartley already had the list
+before Brennan sent it.
+
+His report on heroin routes and revenue projections -- January 12th. Hartley's telegram
+referencing "the fifty million figure" -- January 10th. Two days before Brennan reported it.
+
+Brennan stares at the dates. Then he pulls out his notes from the second phone call with
+Hartley. The one where he raised concerns about Genovese. He reads his own handwriting:
+"Hartley shut it down immediately. 'Genovese is not your assignment.' Why?"
+
+He picks up the photograph of Genovese -- the one he put facedown on the desk in January.
+Turns it over. Studies the face.
+
+                    BRENNAN (V.O.) (CONT'D)
+          Genovese challenged Lucky at the conference.
+          Lost the vote. Got humiliated in front of
+          twenty bosses. Two days later, someone tried
+          to kill Lucky at his mansion. New York plates.
+          I reported it. Hartley wasn't interested.
+
+He pins the photograph to his corkboard. Draws a line from Genovese to Washington.
+
+                    BRENNAN (V.O.) (CONT'D)
+          I told Hartley that Genovese was more
+          dangerous than Luciano. He said stay focused.
+          I told him Genovese was making moves. He
+          said stay focused. Every time I pulled at
+          the Genovese thread, Hartley cut it.
+
+He sits back. Looks at the corkboard. The web of connections. Lucky at the center, where
+Brennan put him months ago. But now a new line runs from Genovese to a word Brennan writes
+in block letters and pins above everything else:
+
+FBN.
+
+                    BRENNAN (V.O.) (CONT'D)
+          Not other agents. Not diplomatic
+          channels. Genovese. Vito Genovese was
+          feeding Hartley intelligence on Lucky's
+          operations. The conference details, the
+          heroin routes, the financial numbers --
+          Hartley had all of it before I reported
+          a word. Because a mob underboss was handing
+          it to him on a plate.
+
+Brennan leans forward. His hands are flat on the desk. His breathing is controlled.
+
+                    BRENNAN (V.O.) (CONT'D)
+          And Hartley knew. He knew his source
+          was the man trying to overthrow Lucky.
+          He knew Genovese was using the Bureau
+          as his weapon. And he took it anyway
+          because it gave him the biggest case
+          of his career.
+
+Brennan stands. Walks to the window. Looks out at Havana -- the city he came to save from
+a drug lord. The city where he was used.
+
+                    BRENNAN (V.O.) (CONT'D)
+          Delgado told me. Months ago. He said I
+          was creating a bigger monster. I didn't
+          listen.
+
+He turns from the window. Picks up the phone.
+
+                    BRENNAN
+          Operator. I need a long-distance line
+          to Washington, D.C.
+
+Static. Clicks. The hum of an international connection.
+
+                    HARTLEY (O.S.)
+          Brennan. I was just going to call. When
+          are you flying back?
+
+                    BRENNAN
+          We need to talk, sir.
+
+                    HARTLEY (O.S.)
+          Of course. Come to the office when you're
+          back and we'll --
+
+                    BRENNAN
+          Now. We need to talk now.
+
+A pause. Hartley reads the tone.
+
+                    HARTLEY (O.S.)
+          All right, Jack. What's on your mind?
+
+                    BRENNAN
+          Genovese.
+
+Silence on the line.
+
+                    BRENNAN (CONT'D)
+          Vito Genovese has been feeding you
+          intelligence on Lucky's operations for
+          months. Before I even got to Havana.
+          Every conference detail, every heroin
+          route, every number. You already had
+          it all. From a mob underboss who was
+          engineering a coup against his boss.
+
+A long pause. The line hums.
+
+                    HARTLEY (O.S.)
+          Where is this coming from, Jack?
+
+                    BRENNAN
+          Your telegrams. Your responses to my
+          reports. You referenced the fifty million
+          figure two days before I sent it. You had
+          the attendee list before I filed it. And
+          every time I flagged Genovese, you shut
+          me down. Because he was your source. And
+          you couldn't have me pulling at your
+          source.
+
+Another pause. When Hartley speaks, his voice is flat. Careful. The voice of a man who has
+already decided how much to admit.
+
+                    HARTLEY (O.S.)
+          Jack, intelligence comes from many
+          sources. Some of them are unsavory.
+          That's the nature of --
+
+                    BRENNAN
+          Is it true?
+
+                    HARTLEY (O.S.)
+          The Bureau uses whatever information
+          is available to --
+
+                    BRENNAN
+          Did you know your source was Vito Genovese?
+          Yes or no.
+
+The longest pause yet. Then:
+
+                    HARTLEY (O.S.)
+          Yes.
+
+Brennan closes his eyes. His hand tightens on the receiver.
+
+                    BRENNAN
+          You knew. You knew a mob underboss was
+          feeding you intelligence to eliminate his
+          rival. You knew he was using the FBN as
+          his personal weapon. And you took the
+          information anyway.
+
+                    HARTLEY (O.S.)
+          I took actionable intelligence that
+          resulted in the deportation of the most
+          dangerous mob boss in American history.
+          That is my job, Jack.
+
+                    BRENNAN
+          We didn't take down Lucky. Genovese did.
+          We were his muscle.
+
+                    HARTLEY (O.S.)
+          And the result is the same.
+
+                    BRENNAN
+          The result is not the same! Genovese is
+          taking over. He's seizing the heroin
+          network. He's going to expand it -- no
+          restraint, no limits. The pipeline we
+          documented? He's going to turn it into
+          a flood. Every city in America.
+
+                    HARTLEY (O.S.)
+          Luciano is gone. That's what matters.
+          That's what your brother would have wanted.
+
+Brennan pulls the receiver away from his ear. Stares at it. His brother. Hartley is invoking
+his dead brother.
+
+                    BRENNAN
+          Don't you talk about my brother. My
+          brother died from heroin. And the man
+          who's about to control all the heroin
+          in America is the man you just helped
+          put in charge.
+
+                    HARTLEY (O.S.)
+          Jack --
+
+                    BRENNAN
+          I'm filing a report. Everything.
+          Genovese's role as your source, the
+          compromised intelligence, the power
+          vacuum we've created. All of it.
+
+                    HARTLEY (O.S.)
+          You can file whatever you want, Jack.
+          It won't matter. Luciano is deported.
+          The case is closed. The Bureau has its
+          win. Nobody in Washington wants to hear
+          that the win was engineered by another
+          mobster. Nobody wants that story.
+
+                    BRENNAN
+          Then they should.
+
+                    HARTLEY (O.S.)
+          Come home, Jack. Write your report.
+          Take a vacation. And accept that
+          sometimes the way things get done isn't
+          the way you learned about in training.
+
+The line goes dead. Hartley has hung up.
+
+Brennan holds the receiver. The dial tone buzzes. He sets it down.
+
+He sits at the desk. Opens his case file. Picks up a pen.
+
+He starts to write. The report. Genovese's role. Hartley's complicity. The compromised
+intelligence. The power vacuum. The coming storm.
+
+                    BRENNAN (V.O.)
+          I filed the report. Forty-seven pages.
+          Every source, every date, every connection.
+          It was received, stamped, and filed. Nobody
+          read it. Nobody acted on it. The Bureau had
+          its win. The story was over.
+
+He writes. The pen scratches across paper. The Havana light slants through the window and falls
+across the desk, across the pages, across the hands of a man documenting a truth that no one
+wants to hear.
+
+TIME CUT:
+
+INT. HOTEL NACIONAL - BRENNAN'S ROOM - THE NEXT MORNING
+
+Brennan is packing his suitcase. The corkboard is bare -- he's taken everything down, packed
+the notes and photographs into his case file. The room looks like it did when he checked in.
+James Burke, textile buyer from Philadelphia, checking out.
+
+A KNOCK at the door. Brennan opens it. A BELLBOY holds a telegram.
+
+                    BELLBOY
+          Senor Burke. For you.
+
+Brennan takes it. Tips the boy. Closes the door.
+
+He opens the telegram. Reads it. His face changes -- not shock, not anger. Something worse.
+Resignation.
+
+CLOSE ON the telegram: "RE: NEXT ASSIGNMENT STOP REPORT MEXICO CITY STATION APRIL 1 STOP
+NEW TARGET NEW OPERATION STOP DETAILS ON ARRIVAL STOP EXPECT FULL BRIEFING STOP -- HARTLEY"
+
+Brennan sits on the bed. Holds the telegram in both hands. Reads it again.
+
+Another city. Another target. Another operation where he won't know who's really pulling the
+strings until it's too late. The machine doesn't stop. It doesn't reflect. It doesn't learn.
+It just moves him to the next square on the board.
+
+                    BRENNAN (V.O.)
+          Mexico City. A new target. A new
+          operation. New informants to recruit,
+          new evidence to gather, new reports
+          to file that nobody would read.
+
+He sets the telegram on the bed. Stares at the wall.
+
+                    BRENNAN (V.O.) (CONT'D)
+          And I kept asking myself the same
+          questions. What country am I in?
+          Who are we fighting? Who is the
+          bad guy?
+
+He picks up his suitcase. Looks around the empty room one last time. The room where he
+built a case, lost his certainty, and learned that the institution he served would use
+him the same way a mobster would -- as a weapon pointed at whoever was convenient.
+
+                    BRENNAN (V.O.) (CONT'D)
+          I never did get an answer.
+
+He walks out. The door closes behind him.
+
+The room is empty. The Havana light falls on bare walls and a stripped bed. On the
+nightstand, the first telegram -- MISSION ACCOMPLISHED -- sits where he left it. He
+didn't take it with him.
+
+---
+
+## Production Notes
+- This is the story's central revelation from the protagonist's perspective
+- Brennan figures it out HIMSELF -- no one tells him. He sits alone and works through the evidence like a detective. This
+is more powerful than being told: the clues were always there, he just trusted the system enough to ignore them.
+- The phone call with Hartley is the emotional climax of Brennan's arc
+- Key dialogue must land: "We didn't take down Lucky. Genovese did. We were his muscle." / "And the result is the same."
+- Brennan's report being buried completes the institutional betrayal theme
+- The NEXT ASSIGNMENT telegram is the final gut punch -- the system doesn't pause for moral reckoning. Another city,
+another target, another operation. "What country am I in? Who are we fighting? Who is the bad guy?" is the thesis of
+Brennan's disillusionment.
+- Connects to Scene 16 (The Investigation) where Brennan first noticed his intel seemed already known
+- The corkboard scene should mirror Scene 16 but in reverse: in Scene 16 he built the web with Lucky at the center; here
+he rebuilds it with FBN at the center. Same evidence, different conclusion.
+- Lansky does NOT appear in this scene. Brennan deduces everything from evidence he already has.
