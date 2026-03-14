@@ -258,6 +258,20 @@ ALEX (30s, practical, focused) walks through the pristine lobby carrying a coffe
 MORRIS (40s, disheveled, perpetually sniffly) hunches over a workstation, adjusting goggles that keep sliding down his nose.
 ```
 
+### Non-Speaking Characters Get ALL CAPS Too
+
+**Any essential character must be capitalized when first introduced, whether or not they speak.** This includes animals, robots, silent characters, and background characters who matter to the story. Department heads look for capitalized elements to guide production planning — failing to capitalize a non-speaking character risks overlooking them.
+
+```
+A SECURITY GUARD (50s, bored) sits behind the desk, scrolling his phone.
+
+MOOSK, Geoff's robot bodyguard, stands motionless in the corner — seven feet of brushed titanium with camera-lens eyes.
+
+BILLY BUMBLER, a mutant raccoon with patchy fur, drags himself from beneath a dumpster.
+```
+
+**Reference:** [screenwriting.io - Non-talking character names in ALL CAPS](https://screenwriting.io/do-non-talking-characters-names-get-put-in-all-caps-when-introduced/)
+
 ### All Subsequent Appearances
 
 After the first introduction, use **only the character name in proper case** (not ALL CAPS, no age/description):
@@ -812,6 +826,92 @@ Before writing a montage, check:
 
 **Modern practice:** Most scripts don't use transition lines between scenes. Simply start the new scene heading. Use transitions only when the type of cut matters to the story.
 
+## On-Screen Content (TVs, Monitors, Phones)
+
+When action takes place on a screen within the scene (news broadcast, security footage, hologram message, phone video), use **ON SCREEN** and **BACK TO SCENE** to shift between the physical location and the displayed content.
+
+```
+INT. QL BUILDING - LAB - DAY
+
+The team gathers around the monitor. Chen pulls up the security feed.
+
+ON SCREEN
+
+Grainy footage shows BARRY working alone in the lab. He adjusts a device,
+leans closer — then the image distorts. Barry is pulled sideways into
+nothing. The frame goes static.
+
+BACK TO SCENE
+
+Chen stares at the monitor. His jaw tightens.
+
+                    CHEN
+          That's the last frame we have.
+```
+
+**Rules:**
+- **ON SCREEN** introduces content visible on the display (TV, monitor, phone, hologram, projector)
+- **BACK TO SCENE** returns focus to the physical setting and characters present
+- Characters appearing only on screen still get ALL CAPS on first introduction
+- Dialogue from on-screen characters can use standard format or `(ON SCREEN)` / `(V.O.)` parenthetical
+- Works for: news broadcasts, security footage, video calls, hologram messages, presentations
+
+**Reference:** [screenwriting.io - Describing action on a screen](https://screenwriting.io/how-do-i-describe-a-scene-when-some-of-the-action-takes-place-on-a-screen/)
+
+---
+
+## Flashbacks and Dream Sequences
+
+Append a **bracketed tag** to the scene heading to indicate a flashback or dream sequence:
+
+```
+INT. LIAM'S APARTMENT - NIGHT [FLASHBACK]
+
+Liam sits at the kitchen table, glasses laid out before him. He turns them
+over in his hands — a trophy from a stranger who looked like the wrong guy.
+```
+
+**Rules:**
+- Tag goes at the end of the scene heading in brackets: `[FLASHBACK]`, `[DREAM]`, `[MEMORY]`
+- Include the tag if you want the audience to immediately know it's a flashback
+- **Omit the tag** if you want to reveal the nature of the scene gradually (e.g., reveal it was a dream at the end)
+- Works for any alternate reality: `[FLASHBACK]`, `[DREAM]`, `[FANTASY]`, `[NOVEL]`, `[IMAGINATION]`
+- Return to present with a standard scene heading (no tag needed) or use `END FLASHBACK` if clarity requires it
+
+**Multiple flashbacks:**
+```
+INT. BAR - NIGHT [FLASHBACK]
+
+Liam works the rail. A REGULAR and his FRIENDS sit at the far end.
+
+                    REGULAR
+          Hey, Liam. Mix us something special.
+
+The friends laugh. Liam's hands tighten around the glass.
+
+END FLASHBACK
+
+INT. LIAM'S APARTMENT - NIGHT
+
+Liam stares at the wall, jaw clenched.
+```
+
+**Voiceover with flashback:**
+```
+INT. BAR - NIGHT [FLASHBACK]
+
+                    LIAM (V.O.)
+          The second one was easier. I thought
+          it would be harder.
+
+Liam watches the Regular from behind the bar. His expression is blank,
+professional. But his eyes track the man to the door.
+```
+
+**Reference:** [screenwriting.io - Flashbacks and dream sequences](https://screenwriting.io/what-is-the-best-way-to-handle-flashbacks-or-dream-sequences-in-a-screenplay/)
+
+---
+
 ## Room Setup and Description
 
 **First time in a location:** Describe it clearly in action lines under the scene heading.
@@ -1090,8 +1190,29 @@ This will automatically:
 | **Scene Description** | First time in location, what camera sees | `Empty coffee cups litter the work tables.` |
 | **Dialogue** | What characters say | Standard format: name above, dialogue below |
 
+## Industry Standard Page Format
+
+For reference, professional screenplay format follows these conventions:
+
+- **Font:** Courier 12-point, monospaced
+- **Margins:** 1.5" left (for binding), 1" top/right/bottom
+- **Dialogue margins:** Left indent 2.5", right indent 2.5" (about 3" wide)
+- **Character name:** Centered, roughly 1" more indented than dialogue
+- **Page length:** 90-120 pages for features
+- **No scene numbers** in spec/submission scripts (scene numbers are for shooting scripts only)
+- **No bold print** except scene headings (if at all)
+- **Page breaks:** Never split a sentence across pages. Use `(MORE)` at bottom and `(CONT'D)` after character name on next page when dialogue spans pages.
+
+**Note:** Our projects use .txt files rather than Final Draft format, so exact margins don't apply — but the conventions for structure, spacing, and formatting elements should be followed.
+
+**Reference:** [Academy of Motion Picture Arts and Sciences - Screenplay Format Sample (PDF)](https://www.oscars.org/sites/oscars/files/scriptsample.pdf)
+
+---
+
 ## Resources
 
+- **[Academy Screenplay Format Sample](https://www.oscars.org/sites/oscars/files/scriptsample.pdf)** - Official Oscars.org formatting reference
+- **[screenwriting.io](https://screenwriting.io)** - Practical formatting Q&A
 - **Save the Cat! Writes a Novel** by Jessica Brody (structure and beats)
 - **The Screenwriter's Bible** by David Trottier (formatting reference)
 - **Final Draft** or **Highland 2** (industry-standard screenplay software)

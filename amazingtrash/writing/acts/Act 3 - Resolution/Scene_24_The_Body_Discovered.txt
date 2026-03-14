@@ -9,14 +9,23 @@ Geoff, Moosk, PR Handler, Reporters, Adam (watching on TV)
 ## SCENE LAYOUT
 
 ### Opening
-Thursday afternoon. Geoff is preparing to make a public statement about a body that was discovered in an Amazing Company shipping box. He's getting ready to go out, mentions he has to get to the charity event afterward. He's briefed quickly (or finds out details as he's making the statement). Geoff is confident he can spin this. After all, he's untouchable.
+Thursday afternoon. Geoff is preparing to make a public statement about a body that was discovered in an Amazing Company
+shipping box. He's getting ready to go out, mentions he has to get to the charity event afterward. He's briefed quickly
+(or finds out details as he's making the statement). Geoff is confident he can spin this. After all, he's untouchable.
 
 ### Key Beats
-1. **Getting Ready** - Geoff preparing for press conference. Mentions needing to get to the charity event tonight. Quick briefing about the body discovery.
-2. **The Press Conference** - Geoff stands in front of Amazing Company HQ with press. Cameras everywhere. Reads prepared statement: shocked by discovery, cooperating fully with police, no knowledge of victim's identity or how body ended up in company box.
-3. **The Performance** - Geoff plays the role perfectly. Concerned billionaire. Philanthropist horrified by tragedy. "We take worker safety and security protocols very seriously." Promises internal investigation.
-4. **The Questions** - Reporters ask about the anonymous note. Geoff dismisses it: "Anyone can write a note. Doesn't make it true." Asked if he knew the victim. "Police haven't even identified the body yet. How could I?"
-5. **The Mask Slips** - After press conference, cameras off, Geoff returns to his car with Moosk. The philanthropist act drops immediately. Titter laugh: "Heh-heh-heh. They bought it." Tells Moosk to keep watching Adam. Geoff is confident and amused - "This is going to be fun."
+1. **Getting Ready** - Geoff preparing for press conference. Mentions needing to get to the charity event tonight. Quick
+briefing about the body discovery.
+2. **The Press Conference** - Geoff stands in front of Amazing Company HQ with press. Cameras everywhere. Reads prepared
+statement: shocked by discovery, cooperating fully with police, no knowledge of victim's identity or how body ended up in
+company box.
+3. **The Performance** - Geoff plays the role perfectly. Concerned billionaire. Philanthropist horrified by tragedy. "We
+take worker safety and security protocols very seriously." Promises internal investigation.
+4. **The Questions** - Reporters ask about the anonymous note. Geoff dismisses it: "Anyone can write a note. Doesn't make
+it true." Asked if he knew the victim. "Police haven't even identified the body yet. How could I?"
+5. **The Mask Slips** - After press conference, cameras off, Geoff returns to his car with Moosk. The philanthropist act
+drops immediately. Titter laugh: "Heh-heh-heh. They bought it." Tells Moosk to keep watching Adam. Geoff is confident and
+amused - "This is going to be fun."
 
 ### Character Moments
 - **Geoff**: Confident and controlled during press conference. Plays the philanthropist role flawlessly - concerned,
@@ -29,7 +38,9 @@ package, immediately begins analysis. Efficient. Emotionless.
 narrative expertly.
 
 ### Closing
-Geoff in the car with Moosk, laughing. The press conference was a success. He's confident and amused by Adam's attempt to expose him. Orders Moosk to keep watching Adam but doesn't see him as a real threat - just entertainment. Tomorrow's charity event will rehabilitate his image completely. He has no idea what's waiting for him.
+Geoff in the car with Moosk, laughing. The press conference was a success. He's confident and amused by Adam's attempt to
+expose him. Orders Moosk to keep watching Adam but doesn't see him as a real threat - just entertainment. Tomorrow's
+charity event will rehabilitate his image completely. He has no idea what's waiting for him.
 
 ---
 

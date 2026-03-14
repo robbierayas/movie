@@ -70,26 +70,26 @@ CONFIDENTIAL.
 
 His phone RINGS. He picks up.
 
-                         HARTLEY
-              Hartley.
-                    (listens)
-              Good. When did they deliver it?
-                    (listens)
-              This morning. Through the embassy.
-              And Batista's response?
+                    HARTLEY
+          Hartley.
+          (listens)
+          Good. When did they deliver it?
+          (listens)
+          This morning. Through the embassy.
+          And Batista's response?
 
 He listens. A slow, satisfied nod.
 
-                         HARTLEY (CONT'D)
-              I see. How long did it take him?
+                    HARTLEY (CONT'D)
+          I see. How long did it take him?
 
 He almost smiles.
 
-                         HARTLEY (CONT'D)
-              Four hours. That's faster than I
-              expected. Get me the formal
-              confirmation in writing and route it
-              to my desk.
+                    HARTLEY (CONT'D)
+          Four hours. That's faster than I
+          expected. Get me the formal
+          confirmation in writing and route it
+          to my desk.
 
 He hangs up. Opens the folder. Inside: a one-page document, heavy
 with official seals. He reads it with the quiet satisfaction of a man
@@ -105,100 +105,100 @@ AMBASSADOR and a STATE DEPARTMENT ATTACHÉ. Both are standing.
 
 The Ambassador places a sealed envelope on Batista's desk.
 
-                         AMBASSADOR
-              Mr. President. The United States
-              government requires the immediate
-              deportation of Salvatore Lucania,
-              known as Lucky Luciano, from Cuban
-              territory.
+                    AMBASSADOR
+          Mr. President. The United States
+          government requires the immediate
+          deportation of Salvatore Lucania,
+          known as Lucky Luciano, from Cuban
+          territory.
 
 Batista looks at the envelope. Does not touch it.
 
-                         BATISTA
-              Señor Luciano is a legal resident of
-              Cuba. He has broken no Cuban laws.
+                    BATISTA
+          Señor Luciano is a legal resident of
+          Cuba. He has broken no Cuban laws.
 
-                         AMBASSADOR
-              With respect, Mr. President, the
-              contents of that envelope will
-              clarify the United States' position.
+                    AMBASSADOR
+          With respect, Mr. President, the
+          contents of that envelope will
+          clarify the United States' position.
 
 Batista opens the envelope. Reads. His face changes. The color
 drains from his cheeks, replaced by something between fury and fear.
 
-                         BATISTA
-              Medical supplies. You're threatening
-              to cut medical supplies.
+                    BATISTA
+          Medical supplies. You're threatening
+          to cut medical supplies.
 
-                         AMBASSADOR
-              The United States will suspend all
-              shipments of pharmaceutical products
-              to Cuba -- morphine, anesthesia,
-              antibiotics, surgical supplies --
-              effective immediately upon failure to
-              comply.
+                    AMBASSADOR
+          The United States will suspend all
+          shipments of pharmaceutical products
+          to Cuba -- morphine, anesthesia,
+          antibiotics, surgical supplies --
+          effective immediately upon failure to
+          comply.
 
-                         BATISTA
-              Our hospitals --
+                    BATISTA
+          Our hospitals --
 
-                         AMBASSADOR
-              Would experience critical shortages
-              within three weeks. We understand the
-              difficulty of the situation, Mr.
-              President. Which is why we're
-              offering a simple resolution. One
-              man. That's all we're asking.
+                    AMBASSADOR
+          Would experience critical shortages
+          within three weeks. We understand the
+          difficulty of the situation, Mr.
+          President. Which is why we're
+          offering a simple resolution. One
+          man. That's all we're asking.
 
 Batista stares at the document. His hands grip the edge of the desk.
 
-                         BATISTA
-              One man. In exchange for the health
-              of nine million people.
+                    BATISTA
+          One man. In exchange for the health
+          of nine million people.
 
-                         AMBASSADOR
-              A straightforward arrangement.
+                    AMBASSADOR
+          A straightforward arrangement.
 
 Batista looks up. The Ambassador meets his gaze without flinching.
 The State Department Attaché studies his shoes.
 
-                         BATISTA
-              Do you have any idea what this man
-              has contributed to Cuba? The
-              investments, the employment, the
-              revenue --
+                    BATISTA
+          Do you have any idea what this man
+          has contributed to Cuba? The
+          investments, the employment, the
+          revenue --
 
-                         AMBASSADOR
-              We're aware of Mr. Luciano's
-              activities. That is precisely why
-              we're here.
+                    AMBASSADOR
+          We're aware of Mr. Luciano's
+          activities. That is precisely why
+          we're here.
 
 A long, terrible silence. Batista looks at the document again. The
 words that will close every door Lucky Luciano was promised would
 stay open.
 
-                         BATISTA
-              You leave me no choice.
+                    BATISTA
+          You leave me no choice.
 
-                         AMBASSADOR
-              That is correct, Mr. President.
+                    AMBASSADOR
+          That is correct, Mr. President.
 
 Batista picks up his pen. Signs. Sets the pen down as if it weighs
 a hundred pounds.
 
-                         BATISTA
-              He will be arrested and deported. You
-              will have your man. And I will have
-              my medical supplies.
+                    BATISTA
+          He will be arrested and deported. You
+          will have your man. And I will have
+          my medical supplies.
 
-                         AMBASSADOR
-              Shipments will resume the moment
-              deportation is confirmed.
+                    AMBASSADOR
+          Shipments will resume the moment
+          deportation is confirmed.
 
 The Ambassador takes the signed document. Nods.
 
-                         AMBASSADOR (CONT'D)
-              The United States appreciates Cuba's
-              cooperation, Mr. President.
+                    AMBASSADOR (CONT'D)
+          The United States appreciates Cuba's
+          cooperation, Mr. President.
 
 The word "cooperation" hangs in the air like an insult. The Americans
 leave. Batista sits alone in his ornate office. He looks at his
@@ -207,12 +207,12 @@ foreign government told him to.
 
 He picks up his phone.
 
-                         BATISTA
-              Get me Valdés.
+                    BATISTA
+          Get me Valdés.
 
 INT. FBN HEADQUARTERS - HARTLEY'S OFFICE - DAY
 
-BACK TO PRESENT
+                    BACK TO PRESENT
 
 Hartley closes the folder. Picks up the phone. Dials a long-distance
 number. Waits through the clicks and pops of the international
@@ -222,87 +222,87 @@ INT. HOTEL NACIONAL - BRENNAN'S ROOM - DAY
 
 The phone rings. BRENNAN reaches for it, notebook in hand.
 
-                         BRENNAN
-              Burke.
+                    BRENNAN
+          Burke.
 
 INTERCUT WITH HARTLEY'S OFFICE:
 
-                         HARTLEY
-              Jack. It's done.
+                    HARTLEY
+          Jack. It's done.
 
-                         BRENNAN
-              What's done?
+                    BRENNAN
+          What's done?
 
-                         HARTLEY
-              The ultimatum. State Department
-              delivered it this morning. Cuba
-              signed off four hours later. Batista
-              had no choice. Luciano is going to
-              be deported.
+                    HARTLEY
+          The ultimatum. State Department
+          delivered it this morning. Cuba
+          signed off four hours later. Batista
+          had no choice. Luciano is going to
+          be deported.
 
 Brennan sits on the edge of his bed. The words sink in.
 
-                         BRENNAN
-              When?
+                    BRENNAN
+          When?
 
-                         HARTLEY
-              Soon. Weeks, not months. They'll
-              arrest him, detain him at Tiscornia,
-              and put him on a boat back to Italy.
-              Your evidence made this possible,
-              Jack. The conference intelligence,
-              the heroin routes, the financial
-              records -- it was the foundation of
-              the entire case.
+                    HARTLEY
+          Soon. Weeks, not months. They'll
+          arrest him, detain him at Tiscornia,
+          and put him on a boat back to Italy.
+          Your evidence made this possible,
+          Jack. The conference intelligence,
+          the heroin routes, the financial
+          records -- it was the foundation of
+          the entire case.
 
-                         BRENNAN
-              What about the network? The pipeline
-              from France? Deporting Luciano
-              doesn't shut that down.
+                    BRENNAN
+          What about the network? The pipeline
+          from France? Deporting Luciano
+          doesn't shut that down.
 
-                         HARTLEY
-              One thing at a time. Get the head of
-              the snake and the body dies. That's
-              how this works.
+                    HARTLEY
+          One thing at a time. Get the head of
+          the snake and the body dies. That's
+          how this works.
 
-                         BRENNAN
-              Director, my contact says --
+                    BRENNAN
+          Director, my contact says --
 
-                         HARTLEY
-              Your contact is a Cuban policeman,
-              Jack. He doesn't see the big picture.
-              We're taking down the most powerful
-              organized crime figure in the Western
-              Hemisphere. This is the biggest action
-              the FBN has ever taken. Your name is
-              on it. Be proud of that.
+                    HARTLEY
+          Your contact is a Cuban policeman,
+          Jack. He doesn't see the big picture.
+          We're taking down the most powerful
+          organized crime figure in the Western
+          Hemisphere. This is the biggest action
+          the FBN has ever taken. Your name is
+          on it. Be proud of that.
 
 Brennan is quiet for a moment.
 
-                         BRENNAN
-              I am proud.
+                    BRENNAN
+          I am proud.
 
-                         HARTLEY
-              You should be. Your brother -- this
-              is what he would have wanted.
+                    HARTLEY
+          You should be. Your brother -- this
+          is what he would have wanted.
 
 The mention of his brother hits like it always does. Brennan closes
 his eyes briefly.
 
-                         BRENNAN
-              Yes, sir.
+                    BRENNAN
+          Yes, sir.
 
-                         HARTLEY
-              Stay in position. When the arrest
-              happens, I want you there.
-              Documenting. This is history, Jack.
-              You're part of it.
+                    HARTLEY
+          Stay in position. When the arrest
+          happens, I want you there.
+          Documenting. This is history, Jack.
+          You're part of it.
 
-                         BRENNAN
-              Understood.
+                    BRENNAN
+          Understood.
 
-                         HARTLEY
-              Good man.
+                    HARTLEY
+          Good man.
 
 The line goes dead. Brennan holds the receiver. Sets it down slowly.
 
@@ -323,92 +323,92 @@ the sky red and orange.
 
 DELGADO falls into step beside him.
 
-                         DELGADO
-              I heard. The ultimatum.
+                    DELGADO
+          I heard. The ultimatum.
 
-                         BRENNAN
-              News travels fast.
+                    BRENNAN
+          News travels fast.
 
-                         DELGADO
-              In Cuba, everything travels fast.
-              Except justice.
+                    DELGADO
+          In Cuba, everything travels fast.
+          Except justice.
 
 They walk.
 
-                         BRENNAN
-              It's done, Delgado. Luciano's going
-              to be deported. The case I built --
-              your information, my informants,
-              all of it -- it worked.
+                    BRENNAN
+          It's done, Delgado. Luciano's going
+          to be deported. The case I built --
+          your information, my informants,
+          all of it -- it worked.
 
-                         DELGADO
-              It worked.
+                    DELGADO
+          It worked.
 
-                         BRENNAN
-              You don't sound convinced.
+                    BRENNAN
+          You don't sound convinced.
 
-                         DELGADO
-              I'm convinced the Americans got what
-              they wanted. I'm not convinced it's
-              what Cuba needed. Or what America
-              needs, for that matter.
+                    DELGADO
+          I'm convinced the Americans got what
+          they wanted. I'm not convinced it's
+          what Cuba needed. Or what America
+          needs, for that matter.
 
-                         BRENNAN
-              We're taking down the man who built
-              the French Connection. The man who's
-              going to flood American cities with
-              heroin.
+                    BRENNAN
+          We're taking down the man who built
+          the French Connection. The man who's
+          going to flood American cities with
+          heroin.
 
-                         DELGADO
-              You're taking down the man who built
-              it with rules. The man who replaces
-              him won't have any.
+                    DELGADO
+          You're taking down the man who built
+          it with rules. The man who replaces
+          him won't have any.
 
 They stop at the seawall. Waves crash below. The sky bleeds red.
 
-                         BRENNAN
-              What would you have me do? Walk away?
-              My brother is dead because of
-              Luciano's heroin. I came here to stop
-              that. And I stopped it.
+                    BRENNAN
+          What would you have me do? Walk away?
+          My brother is dead because of
+          Luciano's heroin. I came here to stop
+          that. And I stopped it.
 
-                         DELGADO
-              Did you?
+                    DELGADO
+          Did you?
 
 The question hangs between them. Brennan has no answer.
 
-                         DELGADO (CONT'D)
-              When Luciano is gone, who runs the
-              pipeline? Who controls the heroin?
-              It won't be nobody, Brennan. It'll
-              be somebody. And the somebody who's
-              been positioning himself for this
-              moment since December is Vito
-              Genovese.
+                    DELGADO (CONT'D)
+          When Luciano is gone, who runs the
+          pipeline? Who controls the heroin?
+          It won't be nobody, Brennan. It'll
+          be somebody. And the somebody who's
+          been positioning himself for this
+          moment since December is Vito
+          Genovese.
 
-                         BRENNAN
-              Genovese is not my --
+                    BRENNAN
+          Genovese is not my --
 
 He stops himself. He's heard those words before. From Hartley.
 "Genovese is not your assignment." The echo hits him. He goes quiet.
 
-                         DELGADO
-              You were about to say he's not your
-              assignment.
+                    DELGADO
+          You were about to say he's not your
+          assignment.
 
 Brennan stares at the water.
 
-                         BRENNAN
-              Yeah. I was.
+                    BRENNAN
+          Yeah. I was.
 
 A long beat. The waves. The sunset. The city behind them, going dark.
 
-                         DELGADO
-              You're a good man, Brennan. You did
-              good work. But sometimes good men
-              do the wrong thing for the right
-              reasons. And by the time they figure
-              it out, it's too late to fix.
+                    DELGADO
+          You're a good man, Brennan. You did
+          good work. But sometimes good men
+          do the wrong thing for the right
+          reasons. And by the time they figure
+          it out, it's too late to fix.
 
 Brennan says nothing. He looks out at the darkening ocean -- the
 same ocean that will carry Lucky Luciano away from Cuba forever.

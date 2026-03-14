@@ -11,7 +11,10 @@
       "WebFetch(domain:glcoverage.com)",
       "WebFetch(domain:www.stage32.com)",
       "Bash(python:*)",
-      "Bash(wc:*)"
+      "Bash(wc:*)",
+      "WebFetch(domain:screenwriting.io)",
+      "WebFetch(domain:www.oscars.org)",
+      "WebFetch(domain:gideonsway.wordpress.com)"
     ],
     "deny": [],
     "ask": []

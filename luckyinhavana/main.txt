@@ -151,87 +151,29 @@ Lucky's girlfriend from New York. Young, beautiful. Accompanies him in Cuba. Pre
 **Timeline:** February 1946 - December 1946 (~35-40 minutes)
 **Theme:** False paradise / The illusion of power
 
-Lucky is deported from America, regroups in Italy, then builds a new empire in Cuba - all while the FBN thinks he's
-contained. By the time they find out, he's hosted the biggest mob summit in history.
+Lucky Luciano is deported from America in February 1946 while FBI agent Jack Brennan watches from the courthouse steps,
+haunted by his brother's heroin death. After a restless exile in Italy, Lucky learns from Meyer Lansky that Cuba is wide
+open -- Batista is on the payroll, and it's only ninety miles from Florida. He arrives in Havana in October, welcomed by
+Minister Valdés with red carpet treatment and a Miramar mansion. With Lansky, he invests in casinos, racetracks, and an
+airline while quietly building the French Connection heroin pipeline through Cuba. Cuban cop Carlos Delgado is assigned as
+Lucky's security detail, witnessing the empire being built without fully understanding what he's seeing. As the personal
+costs land close to home -- his cousin fired by Lucky's associates -- Delgado begins to question whose side he's really
+on. By December, Lucky and Lansky are planning the Havana Conference, inviting every major mob boss in America. When the
+FBN finally discovers Lucky is in Cuba, Hartley sends Brennan to Havana. The hunt begins.
 
-**SCENE 1 - THE DEPORTATION (February 1946, New York)**
-- **Voiceover** (newsreel style or narrator) details Lucky Luciano's criminal history: rise to power, conviction, wartime
-deal with the Navy, commuted sentence, deportation order.
-- **Montage**: Lucky leaving New York. Courthouse steps, press photographers, federal escort.
-- **Hartley and Brennan are at the courthouse**, watching Lucky walk out. Brennan's personal stake established - brother
-died from heroin. He watches the man he holds responsible walk free on a technicality.
-- Hartley: satisfied, case closed. Brennan: uneasy, doesn't trust that this ends anything.
-- Lucky boards the S.S. Laura Keene. Ship pulls away from the harbor.
+**Major Beats:**
+- Lucky's deportation from New York; Brennan's personal stake established
+- Restless exile in Italy; Lansky pitches Cuba as the new base of operations
+- Lucky arrives in Havana; Valdés provides the red carpet; Delgado assigned as security
+- Lucky and Lansky lay out the grand vision: casinos, racetracks, French Connection pipeline
+- Lucky settles in; professional bond forms with Delgado
+- Empire-building montage; Delgado witnesses the heroin network being built unknowingly
+- Delgado's family dinner reveals the personal cost -- his family sees him as "in" with the mob
+- Conference preparations; Cuba rolls out the red carpet for the entire American Mafia
+- FBN discovers Lucky is in Cuba; Brennan dispatched to Havana
 
-**SCENE 2 - ITALY (Mid-1946, Sicily/Naples)**
-- Lucky with his family in Italy. The homecoming is bittersweet - he's been gone decades, barely knows these people.
-- Lucky is restless. Italy is a dead end for him. No power, no action.
-- Meeting with Lansky (visit or phone call): Lansky tells him Cuba is wide open. Batista is on the payroll. Ninety miles
-from Florida.
-- Lucky makes his decision: "I'm going to Havana."
-
-**SCENE 3 - THE ARRIVAL (October 29, 1946)**
-*No FBN presence. Lucky operates freely, undetected.*
-- Havana airport: Lucky arrives, greeted by Meyer Lansky
-- **Minister Valdés welcomes Lucky.** The red carpet treatment - residency papers already arranged, mansion prepared
-(General Pérez Dámera's Miramar property). "Señor Luciano, whatever you need." Valdés takes his envelope and makes
-everything frictionless. This is how Cuba works.
-- Valdés assigns Delgado as Lucky's personal security detail. Delgado is told this comes from the top - protect this man,
-keep him comfortable, report anything unusual. Delgado doesn't fully understand who Lucky is yet.
-
-**SCENE 4 - THE CUBA PLAN (Late October 1946)**
-- Lucky and Lansky together, laying out the vision for Cuba.
-- The opportunity: casinos, racetracks, an airline, a distribution hub ninety miles from Florida. Batista takes his cut
-and looks the other way.
-- Hotel Nacional: Lucky checks in, invests $150,000. Lansky already has 30% ownership.
-- Oriental Park Racetrack: Lucky leases Jockey Club tables for $50K/season.
-- The French Connection pipeline: Turkey → Sicily → France → Cuba → U.S. ports. Cuba is the missing piece.
-- The tone is two old partners excited again. Lucky has purpose for the first time since deportation.
-
-**SCENE 5 - THE NEW HOME (Early November 1946)**
-- Lucky settling into the Miramar mansion. Getting acquainted with Havana.
-- Delgado showing Lucky around - the neighborhood, the local rhythms, where things are. A professional relationship
-starting to form. Delgado is dutiful, respectful. Lucky is charming, treats him well.
-- We see Lucky's daily life taking shape: the mansion with its ocean view, the car, the clothes, the staff. A king in
-exile rebuilding his court.
-- First hints of the man behind the mobster - Lucky is personable, curious about Cuba, asks Delgado about his family.
-Delgado is guarded but not immune to the charm.
-
-**SCENE 6 - NOVEMBER MONTAGE (November 1946)**
-- Lucky at the racetracks (Oriental Park), casinos, mansion. Building operations, meeting contacts. Valdés smooths every
-permit, every introduction, every police lookaway.
-- **The docks meeting:** Lucky meets with Corsican and Sicilian contacts at the Havana docks. Hushed conversation, coded
-language about "shipments" and "routes." Delgado is present as security but doesn't understand what he's witnessing - it
-looks like import/export business. He's uneasy but can't name why. (This is the heroin network being built.)
-- **Delgado's cousin fired:** Lucky's American associates take over operations at Oriental Park. Delgado's cousin, who
-worked at the racetrack, is let go - replaced by Americans. Delgado hears about it but says nothing. The first personal
-cost of Lucky's empire lands close to home.
-- Valdés is thriving - the money flowing through Cuba has never been better.
-
-**SCENE 7 - DELGADO FAMILY DINNER (November 1946)**
-- Delgado at home with wife Maria and daughters. Warm family scene.
-- Delgado has reason to boast - the new assignment pays well. Better money than regular police work. New things for the
-house, something nice for Maria. He's proud he can provide.
-- The cousin's firing comes up. Family asks Delgado to talk to his boss, use his connections to get the cousin his job
-back. The implication is clear: they think Delgado is connected, that he's *in* with the mob, that he has pull.
-- Delgado gets upset. He's not in the mob - he's a police officer doing his job. The family doesn't see the difference.
-To them, he works for Lucky Luciano. The better money, the new things - it all comes from the same place.
-- Delgado alone after dinner, stewing. He can't argue with them because they're not entirely wrong.
-
-**SCENE 8 - CONFERENCE PREPARATIONS (Late November - Early December 1946)**
-- Lucky and Lansky planning the Havana Conference. Invitations go out to every boss in America.
-- Valdés arranges the Hotel Nacional booking, clears it with Batista's office. Cover story: celebrity party with Frank
-Sinatra performing.
-- Delgado briefed on increased security - told a large private event is coming, VIPs from America. He doesn't know the
-scale yet.
-- The machinery of the conference coming together: travel arrangements, rooms, the ballroom, catering. Cuba rolling out
-the red carpet for the entire American Mafia.
-
-**ACT ONE CLIMAX - SCENE 9 (December 1946):**
-- FBN Washington: Intelligence comes in - Lucky Luciano is in Cuba. Every major mob boss in America is heading to Havana.
-- Hartley brings Brennan in. This is personal for Brennan and Hartley knows it. Assignment: get to Havana, infiltrate,
-document everything.
-- Brennan is on the next plane. The hunt begins.
+**Act Climax:** The FBN learns Lucky Luciano is in Cuba and every major mob boss is heading to Havana. Brennan is on the
+next plane.
 
 ---
 
@@ -239,99 +181,31 @@ document everything.
 **Timeline:** December 1946 - February 1947 (~45-50 minutes)
 **Theme:** Betrayal / Choosing sides
 
-Brennan arrives in Havana and scrambles to set up before the conference. The Havana Conference. Genovese challenges
-Lucky. Assassination attempt. Brennan and Delgado form an alliance. U.S. government pressure builds.
+Brennan arrives in Havana and frantically sets up surveillance before the conference begins. Over five extraordinary days
+at the Hotel Nacional, twenty mob bosses divide America's criminal future. Genovese challenges Lucky's authority from
+exile, but Anastasia's fierce defense -- "For me, you are the Big Boss, whether you like it or not" -- carries the vote.
+The $50-million-a-year heroin network is formally presented. Behind the scenes, Genovese begins secretly feeding
+intelligence to the FBN, breaking the code of omertà to use the U.S. government as his weapon. Delgado makes his pivotal
+choice, forming an alliance with Brennan to share information. After an assassination attempt on Lucky's mansion (Genovese
+suspected), Brennan and Delgado deepen their partnership while debating whether they're creating a bigger monster by
+targeting Lucky instead of Genovese. When Sinatra's return to Havana generates public scandal, Hartley seizes the moment
+to pressure the State Department. The act culminates with the U.S. delivering an ultimatum: deport Luciano or lose all
+medical supplies to Cuba.
 
-**SCENE 10 - ARRIVAL & OPENING NIGHT MONTAGE (Dec 20-22, 1946)**
-*Brennan voiceover narrates over montage. He's watching, documenting, piecing together what he's seeing.*
-- Brennan checks into Hotel Nacional under cover. Has days, not weeks.
-- Rapid setup: recruits informants - telephone operator, elevator attendant. First encounter with Delgado at hotel bar.
-- **Brennan calls Hartley (exposition):** Reports hotel layout, initial observations, conference imminent. Hartley gives
-tactical guidance, asks probing questions about who's arriving. (Hartley already knows much of this from Genovese - he's
-confirming what his mob source told him.)
-- Voiceover continues over arrival montage: 20+ mob bosses arrive - Costello, Genovese, Anastasia, Bonanno, Trafficante,
-Fischettis, Adonis, Moretti. Brennan watching, identifying faces, taking notes.
-- Delgado assigned conference security, positioned to hear everything. Brennan's informants activated.
-- Opening night: Lavish dinner at Hotel Nacional. Frank Sinatra performs (cover story). "Christmas Presents": $200,000+
-in envelopes. Fischetti Brothers deliver $2 million suitcase.
-- Brennan's voiceover gives scope and weight to what he's witnessing - every major criminal in America, in one room, in a
-country where none of this is illegal.
+**Major Beats:**
+- Brennan checks into the Hotel Nacional undercover; recruits informants; first encounter with Delgado
+- 20+ mob bosses arrive for the Havana Conference; lavish opening night with Sinatra performing
+- Private inner circle meeting: Lucky, Lansky, Genovese, Anastasia -- tensions surface
+- Full conference: Genovese challenges Lucky openly; Anastasia's famous defense; Lucky wins the vote
+- Bugsy Siegel problem discussed; Lucky uses his authority within the code to grant a reprieve
+- Delgado agrees to share information with Brennan -- the alliance that will bring Lucky down
+- Genovese secretly feeds intelligence to the FBN, breaking omertà
+- Assassination attempt on Lucky's mansion; Delgado becomes Lucky's personal bodyguard
+- Brennan compiles evidence; notices Washington already knows things before he reports them
+- Sinatra photos with Lucky spark public outrage; Hartley pressures the State Department
+- U.S. delivers the medical supply ultimatum to Cuba; Brennan unknowingly celebrates Genovese's victory
 
-**SCENE 11 - THE INNER CIRCLE (Dec 22, 1946)**
-- Private meeting: Lucky, Lansky, Genovese, Anastasia. The four most powerful men in the room, away from the larger
-group.
-- Lucky lays out his vision for running the operation from Cuba. Lansky backs him - the finances work, the infrastructure
-is in place.
-- Genovese pushes back. Subtle at first - questions about leadership from exile, whether the bosses back home will keep
-taking orders from a man who can't set foot in America.
-- Anastasia bristles at Genovese's tone. Tension between them - Anastasia is fiercely loyal to Lucky, sees Genovese as a
-snake.
-- Lucky reads the room. He knows Genovese is testing him. Stays calm, authoritative. This sets up the full confrontation
-the next day.
-- The dynamics are clear: Lucky and Lansky are partners, Anastasia is Lucky's enforcer, Genovese is the ambitious
-outsider looking for an opening.
-
-**SCENE 12 - THE POWER STRUGGLE (Dec 23, 1946)**
-- Full conference session. All bosses present.
-- Power struggle: Genovese challenges Lucky's authority from exile openly
-- Lucky proposes "Boss of All Bosses" position
-- **DRAMATIC CONFRONTATION:** Anastasia stands, famous quote: "For me, you are the Big Boss, whether you like it or not.
-That's the way I look at it, and I would like to hear from anybody who don't feel the same way."
-- Vote: Lucky wins
-- Lucky forces Genovese to shake hands (humiliating)
-- Heroin network presented: Turkey/Lebanon → Sicily → France → Cuba → U.S. ports
-- Projected: $50 million annually
-- Distribution territories divided
-
-**SCENE 13 - CHRISTMAS EVE (Dec 24, 1946)**
-- Bugsy Siegel situation: Flamingo budget $1M → $6M, suspected skimming
-- The Commission wants Bugsy dead. Lucky exercises his authority as Boss of All Bosses to intervene -- not by overruling
-the Commission, but by using his vote and his credibility to argue for a reprieve. He's bending the code for a friend,
-but doing it through legitimate channels. This is the code in action: Lucky earns trust because he works within the system.
-- Decision: Wait for Flamingo opening December 26
-- Delgado's choice: Meets Brennan, agrees to share information. The alliance forms.
-
-**SCENE 14 - CHRISTMAS DAY / CONFERENCE ENDS (Dec 25-26, 1946)**
-- Genovese making secret phone calls (feeding information to the FBN -- using them as his weapon). This is the code being
-BROKEN: Genovese takes internal family business to an outside government agency, the ultimate violation of omertà.
-- News arrives: Flamingo opening is a disaster
-- Lucky again uses his authority within the Commission to convince the bosses to give Bugsy until spring. He's not
-dictating -- he's persuading, using the system everyone agreed to. Contrast with Genovese, who is simultaneously
-destroying that system from the outside.
-
-**SCENE 15 - THE ASSASSINATION ATTEMPT (Late December 1946)**
-- Gunmen attack Lucky's mansion
-- Lucky survives
-- Who ordered it: Unknown (Genovese suspected)
-- Aftermath: Delgado assigned as Lucky's personal bodyguard
-
-**SCENE 16 - THE INVESTIGATION (January 1947)**
-- Brennan compiles evidence from informants and Delgado
-- Documents complete heroin network from what was discussed at the conference
-- **Brennan calls Hartley (exposition):** Full conference debrief - attendees, heroin routes, territory divisions.
-Hartley praises him, says Washington is building the deportation case. Brennan feels validated. (Hartley already had much
-of this from Genovese. Brennan's reports just confirm what Genovese fed them - making the case airtight.)
-- Brennan notices something odd: some of his intelligence seems to already be known in Washington before he reports it.
-Files it away but trusts Hartley.
-- **Brennan calls Hartley (exposition):** Reports on Genovese's behavior - the man is making moves, undermining Lucky.
-Hartley deflects: "Stay focused on Luciano. Genovese isn't your assignment." (Hartley can't have Brennan pulling at that
-thread - Genovese is his source.)
-- Delgado and Brennan meet regularly, deepening alliance
-- Delgado sees Lucky has restraint, Genovese has none
-- Debate: Are they making things worse by targeting Lucky instead of Genovese?
-
-**SCENE 17 - THE PRESSURE (February 1947)**
-- Sinatra returns to Havana for 4 days
-- Photographed constantly with Lucky at racetracks
-- Photos published in U.S., public outrage
-- Hartley uses this to pressure State Department
-
-**ACT TWO CLIMAX - SCENE 18 (February 1947):**
-- February 10-15: Hartley proposes economic blackmail to State Department, leveraging Brennan's evidence combined with
-Genovese's intel.
-- February 21: U.S. delivers ultimatum to Cuba - Deport Luciano or lose all medical supplies. Batista has no choice.
-- **Brennan calls Hartley (exposition):** Hartley tells him the ultimatum worked - "Your evidence made this possible,
-Jack." Brennan is proud. He has no idea Genovese engineered this entire outcome - using the FBN as his hit squad.
+**Act Climax:** The U.S. threatens to cut all medical shipments to Cuba. Batista has no choice. Luciano must go.
 
 ---
 
@@ -339,118 +213,33 @@ Jack." Brennan is proud. He has no idea Genovese engineered this entire outcome 
 **Timeline:** February - March 1947 (~35-40 minutes)
 **Theme:** Justice / Consequences / Pyrrhic victory
 
-Lucky's arrest, detention, and deportation. Genovese's betrayal revealed. The "victory" that makes everything worse.
+Valdés must deliver the devastating news to Lucky, mirroring their warm first meeting now gone cold -- they're both pawns
+of American leverage. Delgado agrees to help with the arrest despite his growing respect for Lucky. On February 23rd,
+Lucky is arrested without resistance at El Jardin restaurant and taken to Tiscornia detention camp. In the harsh
+detention facility, two visits define the endgame: Lansky comes to settle finances and warn about Genovese, and then
+Genovese himself arrives to gloat, revealing he fed the FBN everything and demanding Lucky turn over the heroin network.
+Meanwhile, Brennan pieces together the truth alone in his hotel room -- the anomalies in Hartley's telegrams, the
+deflections about Genovese, the intelligence that preceded his reports. He confronts Hartley: "We didn't take down Lucky.
+Genovese did. We were his muscle." Hartley is unapologetic. Delgado visits Lucky one last time -- mutual respect between
+the man who protected him and the man who helped bring him down. On March 19th, Lucky boards the S.S. Bakir for Italy,
+telling Igea "I'll be back when the current government is gone." He never returned. An epilogue montage traces the
+decades of consequences: Genovese seizes power, the French Connection floods America with heroin, Anastasia is
+assassinated for his loyalty, Castro's revolution expels the mob from Cuba. The heroes won. But they made everything worse.
 
-**SCENE 19 - THE ULTIMATUM (February 21, 1947)**
-- U.S. threatens to cut all medical drug shipments to Cuba
-- Hospitals will run out of morphine, anesthesia, antibiotics
-- Batista forced to choose: Luciano or healthcare
-- Decision: Luciano must go
-- **Valdés must deliver the news to Lucky.** The man who opened every door now closes them. This scene mirrors their
-first meeting - same warmth gone cold. Valdés is genuinely pained but powerless against American leverage. "The
-Americans... they've left us no choice." Lucky sees it immediately: Valdés isn't betraying him, Cuba is being squeezed.
-They're both pawns of a bigger game.
+**Major Beats:**
+- Valdés delivers the ultimatum to Lucky; Cuba is being squeezed, and they're both pawns
+- Delgado agrees to help with the arrest; provides Lucky's schedule
+- Lucky arrested at El Jardin restaurant; taken to Tiscornia
+- Lansky's farewell visit; two old friends watching their empire wind down
+- Genovese's gloating visit; reveals he used the U.S. government as his weapon
+- Brennan discovers the truth: Genovese engineered the entire deportation through Hartley
+- Brennan confronts Hartley; writes a report that will be buried; receives his next assignment
+- Delgado's quiet goodbye with Lucky -- mutual respect across opposite sides
+- Lucky deported on the S.S. Bakir; Brennan watches with doubt; Delgado goes home troubled
+- Epilogue: decades of consequences -- Genovese's heroin empire, assassinations, Castro's revolution
+- Final image: three men, three paths, all shaped by five months in Cuba
 
-**SCENE 20 - FINAL DECISIONS (February 22, 1947)**
-- Delgado meets Brennan one last time
-- Agrees to help with arrest
-- Provides Lucky's schedule
-- The weight of what they're doing - Delgado has come to understand Lucky, maybe even respect him. But the assignment is
-the assignment.
-
-**SCENE 21 - THE ARREST (February 23, 1947)**
-- **Location:** El Jardin restaurant, Vedado district
-- **Time:** Saturday afternoon, lunchtime
-- Lucky having lunch with Igea
-- Assistant Police Chief Hernandez arrives
-- Lucky arrested without resistance
-- **Historical quote:** "I'm having lunch in a restaurant; it was a Saturday afternoon. I think it was February 23, and
-the assistant police chief, Hernandez, come up to my table and arrested me."
-- Photographers present (publicity arrest)
-- Taken to Tiscornia detention camp
-
-**SCENE 22 - LANSKY'S VISIT (Tiscornia, Late February 1947)**
-- Tiscornia: Cuba's camp for extraditable foreigners. Harsh conditions.
-- Lansky visits: settles finances, warns Lucky about Genovese
-- Lansky sees what's coming - Genovese will move on everything
-- Two old friends, one behind a fence. The partnership that built an empire, winding down.
-
-**SCENE 23 - GENOVESE'S VISIT (Tiscornia, Early March 1947)**
-- Genovese comes to the detention camp. Final confrontation.
-- Genovese gloats - he fed the FBN everything they needed to deport Lucky. Used the United States government as his
-personal weapon.
-- Demands Lucky turn over the heroin network
-- Lucky refuses but is powerless
-- Genovese reveals his expansion plans - bigger, more aggressive, no restraint
-- Lucky: you'll destroy everything. Genovese: I'll build something better.
-- After Genovese leaves, Lucky warns Lansky and Anastasia. They're all targets now.
-
-**SCENE 24 - THE TWIST (Mid-March 1947)**
-- Brennan receives telegram from Hartley: Mission accomplished
-- But feels no triumph. Delgado's warnings echo.
-- **THE REVEAL:** Brennan figures it out himself. Alone in his hotel room, he lays out his case files and works through
-the anomalies like a detective: Hartley's telegrams that referenced intelligence before Brennan reported it, the sharp
-deflections when Brennan raised Genovese concerns, the assassination attempt Hartley showed no interest in. He connects
-the dots: Genovese has been feeding intelligence to the FBN for months. The entire case against Lucky was built on
-information from a rival mobster trying to seize power. Genovese used the United States government as his weapon. And
-Hartley knew.
-- Brennan confronts Hartley by phone. Hartley is unapologetic: "Luciano is gone. That's what matters. That's what your
-brother would have wanted." Brennan: "We didn't take down Lucky. Genovese did. We were his muscle." Hartley: "And the
-result is the same."
-- Brennan writes report warning about Genovese and Hartley's role. It will be buried.
-- **THE NEXT ASSIGNMENT:** Hartley sends another telegram -- Mexico City, April 1, new target, new operation. The machine
-doesn't stop. Brennan's disillusionment is total: "What country am I in? Who are we fighting? Who is the bad guy?"
-
-**SCENE 25 - DELGADO'S GOODBYE (Tiscornia, Mid-March 1947)**
-- Delgado visits Lucky one last time before deportation
-- Mutual respect despite being on opposite sides. Delgado protected him, watched over him, and ultimately helped bring
-him down.
-- Lucky doesn't hold it against him. Delgado was doing his job - the only honest man in the whole arrangement.
-- A quiet scene. Two men who understand each other saying goodbye.
-
-**SCENE 26 - THE DEPORTATION (March 19, 1947)**
-- **Ship:** S.S. Bakir (Turkish cargo freighter)
-- Late evening departure
-- Igea present for tearful goodbye
-- **Historical quote:** "I'll be back when the current government is gone."
-- (Lucky never returned - died 1962, Castro took power 1959)
-- 23-day voyage to Italy
-- Brennan watches from the dock. Doubt in his eyes. He knows now what he helped do.
-- Delgado returns home to his family. Holds his daughters. Troubled.
-
-**SCENE 27 - EPILOGUE MONTAGE**
-
-*April 11, 1947 - Italy:*
-- S.S. Bakir arrives Genoa
-- Lucky arrested by Italian authorities
-- Detained 10 days, released
-- Sets up in Naples
-
-*1947-1957 - Genovese Takes Over:*
-- 1951: French Connection fully operational (Lucky and Corsicans still partner from Italy)
-- 1950s: Over 80% of U.S. heroin flows from Southern France
-- 1957 (Oct 25): Albert Anastasia assassinated in barbershop (Genovese's orders) - the man who stood up for Lucky, killed
-for it
-- 1957: Frank Costello forced out
-- 1950s-1960s: Heroin epidemic floods American cities. Brennan's worst fear realized.
-- 1959: Genovese finally arrested for narcotics
-
-*Final Outcomes:*
-- 1959 (Jan 1): Castro's revolution. Mob expelled from Cuba. Everything Valdés built, gone.
-- 1962 (Jan 26): Lucky dies of heart attack in Naples, age 64
-- 1969: Genovese dies in federal prison
-- Early 1970s: French Connection finally broken
-
-**SCENE 28 - FINAL IMAGE**
-Split screen / cross-cutting between three men, three different times:
-- **1947:** Lucky on S.S. Bakir, sailing into exile
-- **1950s:** Genovese standing victorious, heroin empire at peak
-- **1959:** Delgado watching Castro enter Havana
-
-Three men. Three paths. All shaped by five months in Cuba, 1946-1947.
-
-Two men - Brennan and Delgado - tried to do the right thing. But sometimes doing the right thing just changes which evil
-is in power.
+**Act Climax:** Brennan realizes the truth -- Genovese played them all -- but it changes nothing. The machine moves on.
 
 ---
 
@@ -570,13 +359,13 @@ the political win
 - Act Two: 45-50 minutes
 - Act Three: 35-40 minutes
 
-**Total Scenes:** Approximately 60 scenes (to be broken down in table of contents)
+**Total Scenes:** 28 scenes
 
 **Locations:**
 - Havana (Hotel Nacional, Miramar mansion, racetracks, casinos, restaurants, Tiscornia, harbor)
-- Miami (FBN office - opening)
-- Washington D.C. (State Department - brief)
-- Italy (Genoa, Naples - epilogue)
+- New York (Federal Courthouse, harbor - opening)
+- Washington D.C. (FBN Headquarters, State Department)
+- Italy (Sicily, Naples, Genoa - exile and epilogue)
 
 ---
 
@@ -613,6 +402,16 @@ See **history.txt** for complete bibliography and source reliability notes.
 
 **Unreliable source:**
 - "The Last Testament of Lucky Luciano" (largely fabricated)
+
+---
+
+## NOTES FOR DEVELOPMENT
+
+- Santo Trafficante role could be expanded -- historical presence at the conference is well-documented
+- Consider whether Delgado's family scenes need additional texture (daughters named but not characterized)
+- The Sinatra subplot (Scene 17) could be expanded or compressed depending on pacing
+- Bugsy Siegel's fate is referenced but never shown on screen -- deliberate choice, but worth revisiting
+- Scene 27 epilogue montage covers 25+ years -- pacing will need careful attention in production
 
 ---
 

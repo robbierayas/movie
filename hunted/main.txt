@@ -1,8 +1,7 @@
 # Hunted AKA "House and Home"
 
 ## Logline
-A serial killer approaching 30 wants something more challenging for his birthday—after reading "The Most Dangerous Game,"
-he targets a survivalist he spots at Cabela's, but the man's family proves deadlier than expected.
+When a thrill-seeking serial killer selects a survivalist family as his ultimate birthday hunt, the resourceful clan must protect their home from the inventive, relentless predator—but catching him means crossing the line from defense into vigilante justice. (Feature Film)
 
 ## Synopsis
 Liam, a 29-year-old bartender approaching 30, has killed before—easy targets, nobodies, kills that proved nothing. For
@@ -11,7 +10,7 @@ worthy prey. At a Cabela's, he spots Hank—a man clearly comfortable with survi
 follows him to a large property and discovers the perfect target: a suburban prepper, head of household, someone who
 might actually fight back.
 
-Liam stalks Hank for weeks, going through their mail, learning their routines. When the family leaves, Liam makes his
+Liam stalks Hank for two days, going through their mail, learning their routines. When the family leaves, Liam makes his
 move—flattening Hank's car tire down the block to isolate him. But Hank spots something wrong and the hunt begins
 outside. Hank fights back across his own property before the battle moves inside. Liam notices the family's hunting
 awards—these people hunt. After a grueling battle, Liam finally kills Hank.
@@ -60,7 +59,7 @@ positions
 
 ## Characters
 
-### Liam - FICTIONAL
+### Liam
 29, turning 30. Bartender with no college degree, invisible to everyone. But Liam has a secret: he's killed twice before.
 
 **Kill 1:** Unseen, referenced only by trophy—a hair bow he keeps hidden.
@@ -77,20 +76,20 @@ info. Meticulous planner but emotionally volatile when things go wrong.
 **Voiceover:** Liam narrates all of Act 1. Voiceover continues through stalking Hank (gives family overview, explains
 what he learns from their mail). Ends with "Let's do this" as he approaches the house to start the hunt.
 
-### Hank Reeves - FICTIONAL
+### Hank Reeves
 Early 40s. Prepper and homesteader at heart despite living on a large semi-suburban property. Ex-blue collar, now works
 remote IT. Teaches his family self-sufficiency—gardening, canning, basic carpentry, home defense. Family has hunting
 awards. Not paranoid, just prepared. When Liam flattens his tire and forces him to walk home, Hank spots something wrong
 before reaching the house. The fight begins outside on his own territory—he's a formidable opponent who nearly wins. His
 death is hard-earned.
 
-### Sarah Reeves - FICTIONAL
+### Sarah Reeves
 Late 30s. Practical, grounded, initially skeptical of Hank's prepper lifestyle but learned the skills to support him.
 Hank's death transforms her—grief channeled into cold determination. Her face-to-face moment with Liam awakens something
 primal. She becomes the leader of the family's defensive preparation. Tragically, her obsession with revenge blinds her
 to simpler solutions—she dies because she chose to fight when her children chose to call for help.
 
-### The Children - FICTIONAL
+### The Children
 Three children:
 - **Oldest (18)** - [Gender TBD]. Goes all-in on revenge with Sarah. Shares her obsession, helps with the most dangerous
 traps. Dies in Act 3 alongside their mother's cause.
@@ -127,8 +126,8 @@ the property. Notes the hunting awards displayed in the house.
 
 **Major Beats:**
 - Liam's mundane bartending life (voiceover begins)
-- Flashback: bar scene while working, the joke, the humiliation
-- Flashback: hunting down look-alike, keeping glasses
+- Bar scene while working, the joke, the humiliation
+- Hunting down look-alike, keeping glasses
 - Storing glasses, glimpse of hair bow trophy
 - Voiceover: finishing "The Most Dangerous Game," getting the idea
 - The Cabela's encounter—spotting Hank

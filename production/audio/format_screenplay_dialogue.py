@@ -350,7 +350,7 @@ def main():
         print(f"Processing: {file_path}")
         if process_file(str(file_path)):
             success_count += 1
-            print(f"  ✓ Successfully formatted")
+            print(f"  OK - Successfully formatted")
         else:
             fail_count += 1
 

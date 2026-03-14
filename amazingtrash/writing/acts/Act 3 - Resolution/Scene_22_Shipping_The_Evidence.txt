@@ -9,7 +9,8 @@ Adam
 ## SCENE LAYOUT
 
 ### Opening
-Wordless scene. Adam arrives at the Amazing Company shipping facility carrying a sealed box. No dialogue, no explanation. Just the act of sending the preserved body to the news.
+Wordless scene. Adam arrives at the Amazing Company shipping facility carrying a sealed box. No dialogue, no explanation.
+Just the act of sending the preserved body to the news.
 
 ### Key Beats
 1. **Arrival** - Adam walks up to shipping facility carrying an Amazing Company box
@@ -19,7 +20,8 @@ Wordless scene. Adam arrives at the Amazing Company shipping facility carrying a
 5. **No Turning Back** - Adam watches it go
 
 ### Character Moments
-- **Adam**: Silent, focused. This is the point of no return. The evidence is out of his hands now. Brief pause after the box disappears - realization of what he's done.
+- **Adam**: Silent, focused. This is the point of no return. The evidence is out of his hands now. Brief pause after the
+box disappears - realization of what he's done.
 
 ### Closing
 Box vanishes into the sorting system. Adam stands there a moment, then turns and walks away. The plan is in motion.
@@ -32,7 +34,7 @@ EXT. AMAZING COMPANY SHIPPING FACILITY - DAY
 
 Massive white building. Corporate perfection. Busy with customers coming and going.
 
-ADAM walks toward the entrance carrying a sealed AMAZING COMPANY BOX.
+Adam walks toward the entrance carrying a sealed AMAZING COMPANY BOX.
 
 White. Corporate logo. Sealed with packing tape.
 

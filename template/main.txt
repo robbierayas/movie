@@ -41,25 +41,29 @@ See **history.txt** for complete historical documentation, dates, sources, and f
 
 ## MAIN CHARACTERS
 
-### [Character Name] - [COMPOSITE/HISTORICAL/FICTIONAL]
+### [Character Name]
 [Age/description]. [Core traits and role in story]. [Personal stakes]. [Character arc summary].
 
-**Based on:** [Real person/archetype if applicable]
+[For historical films only: Add " - COMPOSITE/HISTORICAL" tag after character name]
+[For historical films only: **Based on:** Real person or composite sources]
 
-### [Character Name] - [COMPOSITE/HISTORICAL/FICTIONAL]
+### [Character Name]
 [Age/description]. [Core traits and role in story]. [Personal stakes]. [Character arc summary].
 
-**Based on:** [Real person/archetype if applicable]
+[For historical films only: Add " - COMPOSITE/HISTORICAL" tag after character name]
+[For historical films only: **Based on:** Real person or composite sources]
 
-### [Character Name] - [COMPOSITE/HISTORICAL/FICTIONAL]
+### [Character Name]
 [Age/description]. [Core traits and role in story]. [Personal stakes]. [Character arc summary].
 
-**Based on:** [Real person/archetype if applicable]
+[For historical films only: Add " - COMPOSITE/HISTORICAL" tag after character name]
+[For historical films only: **Based on:** Real person or composite sources]
 
-### [Character Name] - [COMPOSITE/HISTORICAL/FICTIONAL]
+### [Character Name]
 [Age/description]. [Core traits and role in story]. [Personal stakes]. [Character arc summary].
 
-**Based on:** [Real person/archetype if applicable]
+[For historical films only: Add " - COMPOSITE/HISTORICAL" tag after character name]
+[For historical films only: **Based on:** Real person or composite sources]
 
 ---
 

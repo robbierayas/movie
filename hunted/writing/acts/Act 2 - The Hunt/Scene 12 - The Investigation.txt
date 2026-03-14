@@ -28,7 +28,7 @@ he worked.
 
 **THE BAR - Around Noon:**
 9. Sarah shows the photo to the bartender working the day shift
-10. "Liam? Yeah, he worked here. Quit without notice a few weeks back."
+10. "Liam? Yeah, he works here. Missed his shifts this week though."
 11. Sarah: "Address?" Bartender hesitates. Sarah: "He killed my husband."
 12. Bartender writes it on a napkin.
 
@@ -75,7 +75,7 @@ Sarah and Eli sit across from a nervous MANAGER. Sarah slides a folder of offici
 She pulls out the crumpled RECEIPT from Liam's jacket.
 
                     SARAH (CONT'D)
-          This transaction. Three weeks ago. I need to
+          This transaction. A few days ago. I need to
           verify who made the purchase.
 
 The manager examines the receipt, then the documents. They look legitimate.
@@ -90,11 +90,8 @@ The manager examines the receipt, then the documents. They look legitimate.
 
 The manager hesitates. Looks at the documents again. Sighs.
 
-                    MANAGER
-          What time?
-
                     SARAH
-          2:47 PM. Register three.
+          I know it seems out of the blue, but this way we avoid bringing police down to the store.
 
 The manager pulls up the footage. Scrubs to the timestamp.
 
@@ -107,13 +104,18 @@ Sarah leans forward. Her hand grips the desk.
 
 The manager freezes the frame. Liam's face, clear at the register.
 
-Sarah pulls out her phone. Takes a photo of the screen.
-
                     MANAGER
           That's your guy?
 
                     SARAH
           That's him.
+
+Sarah pulls out her phone. Takes a photo of the screen.
+
+                    SARAH
+          Is there any better angles?
+
+The manager steps backward 1 minute with a keystroke. On screen, Bobby, Hank and Liam are standing together.
 
 EXT. CABELA'S PARKING LOT - CONTINUOUS
 
@@ -179,7 +181,7 @@ Hank leans against the doorframe, watching her with affection.
 She looks up. Can't help a small smile.
 
                     YOUNGER SARAH
-          I'm not passing on a castle if you're building it.
+          If you're building me a castle, then I can't pass on that.
 
 He crosses to her. Wraps his arms around her from behind, hands on her belly.
 
@@ -200,8 +202,6 @@ She takes a step toward him—then catches herself. Looks down at her belly.
 
 Walks away. But her eyes don't walk away.
 
-END FLASHBACKS.
-
 INT. MULLIGAN'S BAR - NOON
 
 A dark, mostly empty bar. A few day-drinkers nursing beers.
@@ -214,8 +214,8 @@ Sarah approaches the BARTENDER wiping down glasses. Shows him the phone.
 The bartender squints at the photo.
 
                     BARTENDER
-          Liam? Yeah, he worked here. Quit a few weeks
-          back. No notice, just gone.
+          Liam? Yeah, he works here. Missed his shifts
+          this week though. No call, nothing.
 
                     SARAH
           Address?
@@ -258,8 +258,8 @@ It rings. Rings. Voicemail.
           a name. The man who killed my husband.
           Liam. L-I-A-M.
           (reads last name)
-          That's what the bar had on file. He worked
-          there until a few weeks ago.
+          That's what the bar had on file. He works
+          there but missed his shifts this week.
 
 She hangs up. Starts the car.
 

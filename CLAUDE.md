@@ -25,6 +25,8 @@ See: **[production/SCREENPLAY_WORKFLOW.md](production/SCREENPLAY_WORKFLOW.md)** 
 
 ### Screenplay Tools
 
+**IMPORTANT:** The combined/compiled screenplay file (`<project>_full_screenplay.txt`) should ONLY be updated when running the compile workflow. Do not edit or recompile it during normal scene edits.
+
 - **[production/compile_screenplay.py](production/compile_screenplay.py)** - Compiles all scene files into a single screenplay file. Extracts FULL SCRIPT sections from each scene and combines them in order.
   ```bash
   python production/compile_screenplay.py <project_name>

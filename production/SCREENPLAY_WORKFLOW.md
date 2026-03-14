@@ -78,6 +78,42 @@ When the user indicates the acts are defined in main.txt (e.g., "main.txt is how
 [Calculate based on scene complexity]
 ```
 
+### Workflow 1B: When Table of Contents Exists but main.txt Doesn't Follow Template
+
+When a project has a completed table_of_contents.txt but main.txt doesn't follow the standard template format (e.g., written as dense scene-by-scene prose, missing sections like Logline/Synopsis/Characters), rewrite main.txt to match the template.
+
+**Scene-by-scene detail belongs in table_of_contents.txt, not in main.txt.** Main.txt is the high-level story document.
+
+1. **Read table_of_contents.txt** to understand the full scene breakdown
+2. **Read the current main.txt** to extract story content
+3. **Rewrite main.txt** using the standard template sections:
+   - **Logline** - A 1-2 sentence synopsis communicating the main character and central conflict. Use one of these formulas:
+     - *Formula A:* Inciting incident + protagonist + action + antagonist + goal (e.g., "When a young boy disappears, his three best friends must confront a terrifying otherworldly force to get him back.")
+     - *Formula B:* Protagonist + action + antagonist + goal + stake (e.g., "A spirited farm boy joins rebel forces to fight an evil overlord and rescue a princess to save the empire.")
+     - **Rules:** Use descriptive roles not character names ("a reclusive scientist," not "Dr. Smith"). Use active, external verbs — avoid "decides," "realizes," or "learns." Don't reveal the ending. Keep the protagonist in the foreground. Raise dramatic questions rather than answer them.
+     - **May also hint at:** character flaw, unique world/time period, or major reveal
+     - **Include script format:** feature film, short film, 30-min pilot, 60-min pilot, or spec TV episode
+   - **Synopsis** - 2-4 paragraphs telling the complete story (beginning to end, no scene numbers)
+   - **Theme** - Central theme or philosophical question
+   - **Genre** - Primary / Secondary / Tertiary
+   - **Setting** - Time period, location, key locations list
+   - **Characters** - Each major character with age, traits, role, arc summary. Only add HISTORICAL/COMPOSITE tags for historical films (no need to tag characters as FICTIONAL in non-historical projects)
+   - **Story Structure** - 3 acts with: Act Title, Timeline, Theme, one-paragraph summary, Major Beats (bullet points), Act Climax
+   - **Key Story Elements** - Major plot devices and concepts
+   - **Dramatic Themes** - Numbered list with one-sentence explanations
+   - **Production Notes** - Visual style, key visuals, music/sound, special considerations
+   - **Timeline** - Estimated runtime, act breakdown
+   - **Notes for Development** - Open questions, TBDs, todo items
+
+4. **Key rules**:
+   - Do NOT include scene numbers or scene-by-scene descriptions in main.txt (that's what table_of_contents.txt is for)
+   - Major Beats in Story Structure should be story beats, not scene references
+   - Synopsis should read as a flowing narrative, not a scene list
+   - Keep the ROBBIE TODO LIST items as Notes for Development
+   - Preserve any thematic notes or mechanics references that exist in the current main.txt
+
+---
+
 ### Workflow 2: When Table of Contents is Created (Build Character Files)
 
 When the table_of_contents.txt has been created from Workflow 1, follow these steps to build character profile files:
@@ -242,6 +278,7 @@ When the user indicates the scene layout is approved (e.g., "the scene layout is
    - Maximum 300 lines
    - Reference character files for voice consistency
    - Translate scene layout thoughts into appropriate dialogue or action
+   - **Follow the Dialogue Guidelines below**
 5. **Update character files** with short descriptions in **"KEY SCENES"** section:
    - Add concise description of what happened in the scene for each character
    - Include key dialogue quotes, decisions made, and emotional beats
@@ -272,6 +309,51 @@ When the user indicates the scene layout is approved (e.g., "the scene layout is
 - Each shot should advance progression or connect thematically
 - Consider music/score notation if important: `MONTAGE - TITLE (MUSIC)`
 - For animation: note if locations/assets are reused across shots
+
+---
+
+### Dialogue Guidelines
+
+These guidelines apply when writing dialogue in Workflow 4. They address common pitfalls that produce flat, expository, or generic-sounding exchanges.
+
+**1. Show Expertise Through Action, Not Lectures**
+- Characters should demonstrate knowledge through what they DO, not what they explain
+- If a character is an expert, show them acting like one — checking a seal with practiced eyes, swapping a bad product for a better one without being asked, handling equipment with confidence
+- One expert action is worth more than a paragraph of explanation
+- ❌ Character explains calorie density, sodium content, rotation systems, and shelf life in a monologue
+- ✅ Character examines a product, puts it back, grabs a different one. Friend asks why. One-line answer.
+
+**2. No Straight-Man Exposition**
+- Don't write Character B as a prompt machine who exists to ask questions so Character A can lecture
+- Both characters in a conversation should have opinions, knowledge, or reactions of their own
+- If every line from Character B is "Really?", "No way", "How does that work?", "Bullshit" — they're not a character, they're a feed line
+- ❌ "How long do these last?" → 4-line answer → "You expecting the apocalypse?" → philosophical response
+- ✅ Both characters contribute. Disagree. Interrupt. Have their own takes.
+
+**3. Avoid Manufactured Warmth**
+- Don't default to cute anecdotes to show a character is warm/loving (cute kid stories, sentimental family moments)
+- Show warmth through competence, protectiveness, practical actions, or casual intimacy (inside jokes, shorthand, finishing each other's thoughts)
+- A character buying the right supplies for their family says more than a "my kid caught a tiny fish" story
+- Let warmth emerge from behavior, not from designated "warm moment" beats
+
+**4. Characters Don't Explain What Friends Already Know**
+- Real friends don't lecture each other about things they both already know
+- If two preppers are shopping together, neither explains what emergency rations are
+- Information the audience needs can come through disagreement, preference, or action — not tutorial dialogue
+- ❌ "Those last twenty-five years if you store 'em right. Temperature controlled, low humidity."
+- ✅ Character grabs one brand, friend grabs another. "Not that one." "Why not?" "Trust me."
+
+**5. Earn Your Quotable Lines**
+- Limit bumper-sticker philosophy ("It's not easy. It's just worth it.") to ONE per scene maximum
+- If a character drops a quotable line, it should feel earned by the context — not inserted for theme
+- Don't stack multiple profound statements in one conversation — it reads as a motivational poster, not a person
+
+**6. Do NOT Invent World Details**
+- Do not create locations, property features, animals, backstory, or infrastructure that aren't established in scene layout, main.txt, table_of_contents, character files, or mechanics files
+- If a beat needs environmental detail, use what's already established
+- If nothing fits, leave a placeholder or flag it for the user — don't invent
+
+---
 
 ### Workflow 5: When Scene Screenplay is Approved
 
@@ -337,6 +419,15 @@ Before updating character profiles, review each scene for these issues. Flag pro
 
 *If flagged:* Note specific exchanges that feel flat and why.
 
+**World Consistency Check** - Are details consistent with established canon?
+- [ ] Do environmental details match established locations? (property layout, animals, infrastructure)
+- [ ] Are character skills, knowledge, and personal details consistent with character files? (family status, occupation, backstory)
+- [ ] Are props, items, or features mentioned actually part of the story world?
+- [ ] Do references to events or backstory match established facts?
+- [ ] Were any details invented during screenplay writing that aren't supported by: main.txt, table_of_contents, character files, or mechanics files?
+
+*If flagged:* Note the scene, the inconsistent detail, what it contradicts (or what source document is missing it), and whether it should be removed, replaced with an established detail, or retroactively added to canon.
+
 **Report Format for Phase 0:**
 ```
 ## Scene-by-Scene Quality Report
@@ -346,12 +437,13 @@ Before updating character profiles, review each scene for these issues. Flag pro
 - **Motivation**: [PASS / FLAG: description]
 - **Relationships**: [PASS / FLAG: which relationship, what's missing]
 - **Dialogue**: [PASS / FLAG: specific issue]
+- **World Consistency**: [PASS / FLAG: detail, what it contradicts]
 
 [Repeat for each scene reviewed]
 
 ### Summary
 - Total flags: X
-- Critical (immersion/motivation): X
+- Critical (immersion/motivation/consistency): X
 - Dialogue/relationship: X
 ```
 
@@ -425,6 +517,87 @@ Characters typically have a primary archetype with possible secondary traits. Ar
 - **The Protector** - Shields others, sacrifices for the group
 - **The Voice of Reason** - Cuts through emotion with logic and clarity
 
+### Workflow 7: Final Compilation (All Scenes Complete)
+
+When all scenes are written and approved (Workflow 5 complete for every scene), run the final compilation steps to produce the deliverables.
+
+**Step 1: Update main.txt to Standard Template Format**
+
+If main.txt doesn't already follow the standard template (Logline, Synopsis, Theme, Genre, Setting, Characters, Story Structure, Key Story Elements, Dramatic Themes, Production Notes, Timeline), rewrite it now using Workflow 1B. The completed screenplay and table_of_contents provide all the information needed.
+
+**Step 2: Compile Full Screenplay**
+
+Combine all scene FULL SCRIPT sections into a single screenplay file:
+
+```bash
+python production/compile_screenplay.py <project_name>
+# Example: python production/compile_screenplay.py hunted
+```
+
+Output: `<project>/writing/<project>_full_screenplay.txt`
+
+Review the compiled file for continuity issues between scenes (tone shifts, missing transitions, character voice consistency across act boundaries).
+
+**Step 3: Format for TTS**
+
+Format the scene files for proper TTS parsing (converts parentheticals to action lines, fixes indentation):
+
+```bash
+# Format all acts at once
+python production/audio/format_screenplay_dialogue.py "<project>/writing/acts"
+```
+
+**Step 4: Create Character Voice Mapping**
+
+If `<project>/production/audio/character_voices.json` doesn't exist, create it by reading the character list from table_of_contents.txt or the Characters/ directory. Generate a JSON file mapping each character to a default voice:
+
+```json
+{
+  "CHARACTER_1": { "voice": "voices/en_US-ryan-high.onnx", "model": "character_1" },
+  "CHARACTER_2": { "voice": "voices/en_US-amy-medium.onnx", "model": "character_2" },
+  "NARRATOR": { "voice": "voices/en_US-libritts-high.onnx", "model": null },
+  "ACTION": { "voice": "voices/en_US-lessac-medium.onnx", "model": null },
+  "_default": { "voice": "voices/en_US-lessac-medium.onnx", "model": null }
+}
+```
+
+**Voice assignment guidelines:**
+- Alternate between available male/female voices to differentiate characters
+- Available female voices: amy, kathleen, kristin, ljspeech, hfc_female
+- Available male voices: ryan, danny, joe, john, bryce, hfc_male, alan (British)
+- Always include NARRATOR (libritts), ACTION (lessac), and _default (lessac) entries
+- `model` value should be lowercase character name (used for animation) or null for non-character voices
+- User will customize voice assignments after the dummy file is created
+
+Create the directory structure if needed: `<project>/production/audio/`
+
+**Step 5: Generate Combined Audio**
+
+Delete any existing audio output before generating, to ensure a clean build:
+
+```bash
+rm -rf <project>/production/audio/audio_output/
+```
+
+Then generate combined audio files with per-character voices:
+
+```bash
+python production/audio/screenplay_to_tts.py --movie <project_name> --combine
+```
+
+Output: Combined WAV files in `<project>/production/audio/audio_output/`
+
+**Prerequisites** (one-time setup, skip if already done):
+- Install dependencies: `pip install -r production/audio/requirements.txt`
+- Download voices: `python production/audio/download_voice.py`
+
+**Final Deliverables Checklist:**
+- [ ] main.txt follows standard template format
+- [ ] `<project>/writing/<project>_full_screenplay.txt` compiled and reviewed
+- [ ] All scene files formatted for TTS
+- [ ] `<project>/production/audio/character_voices.json` created with voice mappings
+- [ ] Combined audio files generated in `<project>/production/audio/audio_output/`
+
 ---
 
 ## MOVIE-SPECIFIC DIALOGUE.MD FILE STRUCTURE
@@ -451,7 +624,7 @@ Each movie project should have a `dialogue.md` file in its `writing/` directory 
 - Technical specifications
 
 ### What NOT to Include (covered in SCREENPLAY_WORKFLOW.md):
-- Workflow instructions (1-6)
+- Workflow instructions (1-7)
 - Scene layout formatting notes
 - Ensemble role archetypes
 - Scene structure rules

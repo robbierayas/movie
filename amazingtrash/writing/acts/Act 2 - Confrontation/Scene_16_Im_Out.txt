@@ -9,7 +9,9 @@ Adam, Geoff, Moosk
 ## SCENE LAYOUT
 
 ### Opening
-Adam arrives at Geoff's office during the day. Sleek, modern, expensive - the opposite of Tracktown. He's been summoned for what he thinks is another disposal job, but he's decided: this is where he tells Geoff he's done. Geoff sits at his desk, Moosk standing nearby. The contrast is stark - Adam in his worn clothes in this pristine billionaire's office.
+Adam arrives at Geoff's office during the day. Sleek, modern, expensive - the opposite of Tracktown. He's been summoned
+for what he thinks is another disposal job, but he's decided: this is where he tells Geoff he's done. Geoff sits at his
+desk, Moosk standing nearby. The contrast is stark - Adam in his worn clothes in this pristine billionaire's office.
 
 ### Key Beats
 1. **The Declaration** - Adam tells Geoff he's done. Can't do this anymore. The risk is too great - not just for him, but
@@ -31,7 +33,9 @@ trapped, and Geoff wants him to understand that completely. No false hope.
 - **Moosk**: Physical embodiment of the threat. His presence makes Geoff's words concrete and terrifying.
 
 ### Closing
-Adam leaves Geoff's office, defeated. He's trapped - can't quit, can't run, can't tell anyone. Geoff has weaponized his community against him. Everyone at Tracktown is now a hostage. The only option left: eliminate Geoff himself. This scene plants the seed for his assassination attempt.
+Adam leaves Geoff's office, defeated. He's trapped - can't quit, can't run, can't tell anyone. Geoff has weaponized his
+community against him. Everyone at Tracktown is now a hostage. The only option left: eliminate Geoff himself. This scene
+plants the seed for his assassination attempt.
 
 ---
 
@@ -41,9 +45,9 @@ INT. GEOFF'S OFFICE - DAY
 
 Sleek. Modern. Floor-to-ceiling windows overlooking the city. Everything pristine and expensive.
 
-GEOFF sits at his desk, scrolling through his tablet. Bored.
+Geoff sits at his desk, scrolling through his tablet. Bored.
 
-MOOSK stands in the corner. Red eyes scanning.
+Moosk stands in the corner. Red eyes scanning.
 
 The door opens. ADAM enters, looking out of place in his worn clothes.
 
@@ -248,8 +252,9 @@ Adam, choking.
                     ADAM
           Let... go...
 
+Geoff, calm.
+
                     GEOFF
-          (calm)
           Put him down.
 
 Moosk releases Adam. He drops to the floor, gasping.

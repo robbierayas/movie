@@ -4,11 +4,11 @@
 Linear Montage
 
 ## PURPOSE
-Compress weeks of surveillance into a single sequence. Show Liam learning everything about the family while maintaining
+Compress two days of surveillance into a single sequence. Show Liam learning everything about the family while maintaining
 his invisible existence.
 
 ## TIME SPAN
-Several weeks
+Two days
 
 ## MONTAGE STRUCTURE
 
@@ -37,12 +37,12 @@ Liam at his apartment, planning. Photos, notes, a crude schedule.
 
 ## FULL SCRIPT
 
-MONTAGE - SURVEILLANCE (WEEKS PASS)
+MONTAGE - SURVEILLANCE (TWO DAYS)
 
 EXT. RURAL ROAD - NIGHT
 
-Liam's sedan parked in the shadows, fifty yards from the Reeves driveway. He watches through binoculars. The house glows
-warm in the distance.
+Liam's sedan parked in the shadows, fifty yards from the Reeves driveway. He watches through binoculars. The family cookout
+ in the distance.
 
                     LIAM (V.O.)
           The knife man has a name. Hank Reeves.
@@ -70,7 +70,7 @@ COMPETITION RIBBONS.
 A beat.
 
                     LIAM (V.O.)
-          Said he wasn't military. Just "practical." He's been hunting his whole life.
+          Said he was just "practical." He's been hunting his whole life.
 
 EXT. REEVES PROPERTY - VARIOUS TIMES
 
@@ -93,8 +93,7 @@ Hank's truck pulls up the driveway. Alone. Work clothes dusty.
 
 EXT. REEVES PROPERTY - DAY
 
-Liam walks the perimeter at a distance, sketching in a small notebook. He notes windows, doors, the open ground
-surrounding the house.
+Liam walks the perimeter at a distance, sketching in a small notebook. He notes and draws details.
 
                     LIAM (V.O.)
           Three floors—basement, main, upstairs. Long sightlines from the second story. No cover approaching the house.

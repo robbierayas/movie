@@ -9,28 +9,27 @@ Sarah, Liam, Emma, Olivia
 ## SCENE LAYOUT
 
 ### Opening
-Sarah flees into the secret passage. Liam pursues. The girls wait in the secret basement room below.
+Sarah reaches the attic. Liam catches her at the secret passage entrance—the shaft that drops three stories to the secret basement room where the girls wait.
 
 ### Key Beats
-1. Sarah enters the passage, descending toward the secret room where Emma and Olivia wait.
-2. Liam catches up to her in the vertical shaft—the ladder section that drops three stories.
-3. Fight on the ladder. Sarah is exhausted, wounded. Liam is relentless.
-4. Liam overpowers her. Gets his hands around her throat.
-5. He drags her to the edge of the shaft opening, preparing to throw her down.
-6. Sarah, with her last breath, SCREAMS down the shaft: "GIRLS! RUN!"
-7. Below, in the SECRET BASEMENT ROOM, Emma and Olivia hear her.
-8. They open the secret door to the main basement—and SCREAM.
-9. Through the passage, they see UP the shaft: Liam holding their mother by the throat.
-10. Liam is DISTRACTED by their screams. Looks down.
-11. Sarah uses this moment. She grabs Liam and THROWS her weight backward into the shaft.
-12. Both of them FALL. Three stories.
-13. Liam's grip on Sarah's throat tightens reflexively as they plummet.
-14. They hit the bottom. HARD.
-15. Sarah is dead—neck broken from the fall and Liam's grip.
-16. Liam is very hurt but alive. He lies in the wreckage, groaning.
-17. Emma and Olivia, seeing their mother dead, grab a STEP LADDER from the secret room.
-18. They use it to climb out of the basement through a window/exit. (Offscreen)
-19. Liam slowly pulls himself up. Removes the last of his damaged armor.
+1. Sarah reaches the attic. Liam follows. She heads for the secret passage entrance.
+2. Liam catches her in the attic before she can descend. Fight at the top of the shaft.
+3. Sarah is exhausted, wounded. Liam is relentless. He overpowers her.
+4. He gets his hands around her throat at the edge of the shaft opening—three stories straight down.
+5. Sarah, with her last breath, SCREAMS down the shaft: "GIRLS! RUN!"
+6. Below, in the SECRET BASEMENT ROOM, Emma and Olivia hear her.
+7. The passage shaft opens into the secret room where they are. They look UP—and SCREAM.
+8. They see Liam holding their mother by the throat at the top of the shaft.
+9. Liam is DISTRACTED by their screams. Looks down.
+10. Sarah uses this moment. She grabs Liam and THROWS her weight backward into the shaft.
+11. Both of them FALL. Three stories.
+12. Liam's grip on Sarah's throat tightens reflexively as they plummet.
+13. They hit the bottom. HARD.
+14. Sarah is dead—neck broken from the fall and Liam's grip.
+15. Liam is very hurt but alive. He lies in the wreckage, groaning.
+16. Emma and Olivia, seeing their mother dead, grab a STEP LADDER from the secret room.
+17. They use the step ladder to bridge the burned-out basement stairs and escape.
+18. Liam slowly pulls himself up. Removes the last of his damaged armor.
 
 ### Character Moments
 - **Sarah**: Sacrifices herself to give her daughters a chance to escape.
@@ -44,28 +43,26 @@ Sarah is dead. The girls escape. Liam removes his armor and walks out.
 
 ## FULL SCRIPT
 
-INT. SECRET PASSAGE - ATTIC LEVEL - NIGHT
+INT. ATTIC - NIGHT
 
-Sarah scrambles into the passage. The narrow space barely fits her.
+Sarah scrambles toward the secret passage entrance. The shaft yawns open in the floor—a vertical drop, three stories
+straight down to the secret basement room.
 
 Behind her—Liam. Bleeding. Burned. But relentless.
 
                     LIAM
           No more running, Sarah.
 
-She descends the ladder. Hand over hand. Moving as fast as her wounded body allows.
-
-Below her—three stories of vertical shaft. Darkness.
-
-Liam enters the passage. Follows her down.
+She turns. Nowhere to go but down—and the ladder is too slow. He'd catch her on it.
 
 INT. SECRET BASEMENT ROOM - CONTINUOUS
 
 Emma and Olivia huddle in the darkness. Surrounded by Hank's prepper supplies—canned food, water jugs, emergency gear.
+The passage shaft opens into the room above them—the ladder running up into blackness.
 
 A STEP LADDER leans against the wall. An emergency exit—a small window near the ceiling.
 
-They listen. Footsteps above. Descending.
+They listen. Footsteps above. Muffled voices.
 
                     OLIVIA
           Is that Mom?
@@ -75,33 +72,16 @@ Emma listens. Two sets of footsteps. One heavier than the other.
                     EMMA
           Stay quiet.
 
-INT. SECRET PASSAGE - MIDDLE LEVEL - CONTINUOUS
+INT. ATTIC - CONTINUOUS
 
-Sarah climbs down. Arms burning. Cracked ribs screaming with every movement.
+Liam closes in. Sarah backs toward the shaft opening.
 
-Liam is faster. Stronger. He gains on her.
-
-His hand shoots out. Grabs her ankle.
-
-She kicks. Tries to shake him off.
-
-He PULLS. She loses her grip on the ladder.
-
-For a terrible moment, she dangles by one hand.
-
-Liam climbs over her. Pins her against the ladder.
+He lunges. Grabs her. They struggle at the edge.
 
                     LIAM
           Nowhere left to go.
 
-His hands find her throat.
-
-INT. SECRET PASSAGE - SHAFT OPENING - CONTINUOUS
-
-They're at the top of the three-story drop. The shaft yawns below them—darkness all the way down to the secret basement
-room.
-
-Liam drags Sarah to the edge. His grip on her throat is iron.
+His hands find her throat. He forces her down near the opening. His grip is iron.
 
                     LIAM
           I could throw you down. Let you fall. But that's too quick.
@@ -120,27 +100,20 @@ Her voice echoes down the shaft. Three stories.
 
 INT. SECRET BASEMENT ROOM - CONTINUOUS
 
-Emma and Olivia hear it. Their mother's voice. Desperate. Dying.
+Emma and Olivia hear it. Their mother's voice echoing down the shaft. Desperate. Dying.
 
                     OLIVIA
           MOM!
 
-Emma grabs her sister's hand. Pulls her toward the secret door.
+They look UP the shaft—three stories of vertical darkness.
 
-                    EMMA
-          We have to—
+And at the top—
 
-She pushes the door open.
-
-The secret passage is visible. And through it—UP the shaft—
-
-They can SEE.
-
-Liam. Holding their mother by the throat. Silhouetted against the faint light from above.
+Liam. Holding their mother by the throat. Silhouetted against the faint light from the attic.
 
 Emma and Olivia SCREAM.
 
-INT. SECRET PASSAGE - SHAFT OPENING - CONTINUOUS
+INT. ATTIC - CONTINUOUS
 
 Liam hears the screams. Looks down.
 
@@ -165,6 +138,26 @@ Three stories.
 
 Tumbling. Twisting. Sarah's body between Liam and the ground.
 
+FLASHBACK — EXT. REEVES PROPERTY - FRONT DOOR - DAY (YEARS EARLIER)
+
+The house is finished. Brand new.
+
+Sarah and Hank stand at the front door. She's in a wedding dress. He's in a tux. Both beaming.
+
+Hank gestures toward the threshold.
+
+                    HANK
+          Shall we?
+
+Sarah smiles.
+
+                    SARAH
+          We shall.
+
+He scoops her up. Carries her across the threshold. Into their castle.
+
+END FLASHBACK.
+
 They HIT.
 
 CRACK.
@@ -185,36 +178,26 @@ Neither moves.
 Emma pulls her back. Tears streaming.
 
                     EMMA
-          She's gone. Liv, she's gone. We have to go.
-
-                    OLIVIA
-          NO—
-
-                    EMMA
           She told us to run. We RUN.
 
-She drags Olivia toward the step ladder. The emergency exit.
+She drags Olivia toward the secret door. Into the regular basement.
 
                     EMMA
           Help me. HELP ME.
 
-Olivia, sobbing, helps position the ladder under the window.
+They grab the STEP LADDER. Use it to bridge the burned-out basement stairs.
 
-They climb. One after the other.
+They climb and run out into the night.
 
-And disappear into the night.
-
-INT. SECRET PASSAGE - BASEMENT LEVEL - CONTINUOUS
+INT. SECRET BASEMENT ROOM - CONTINUOUS
 
 Silence. Dust settling.
 
 Sarah lies at the bottom of the shaft. Neck twisted at an unnatural angle. Eyes open. Seeing nothing.
 
-Liam lies on top of her. Broken.
+Liam lies on top of her. Broken but breathing.
 
-But breathing.
-
-He groans. Rolls off her body. Every movement agony.
+He groans. Rolls off her body. Every movement agony. Taking large gasps.
 
 He looks at Sarah. Dead.
 
@@ -259,6 +242,6 @@ He limps toward the exit.
 - The scream: her last act is trying to save her daughters
 - The fall: 3 stories—should be fatal for both, but Liam survives because Sarah cushions part of the impact
 - Sarah's death: neck broken from combination of fall and Liam's grip
-- Emma and Olivia's escape: step ladder from prepper supplies, out through basement window (offscreen)
+- Emma and Olivia's escape: step ladder bridges burned-out basement stairs
 - Liam's armor removal: symbolic—he's stripped of everything, walks out as just a man
 - The "very hurt" state: broken bones, internal damage, barely mobile

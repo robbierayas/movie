@@ -1,0 +1,13 @@
+{
+  "ADAM": { "voice": "voices/en_US-ryan-high.onnx", "model": "adam" },
+  "GEOFF": { "voice": "voices/en_GB-alan-medium.onnx", "model": "geoff" },
+  "MOOSK": { "voice": "voices/en_US-john-medium.onnx", "model": "moosk" },
+  "GAL": { "voice": "voices/en_US-amy-medium.onnx", "model": "gal" },
+  "TYSON": { "voice": "voices/en_US-bryce-medium.onnx", "model": "tyson" },
+  "JOE": { "voice": "voices/en_US-joe-medium.onnx", "model": "joe" },
+  "VICTIM": { "voice": "voices/en_US-danny-low.onnx", "model": null },
+  "PASSENGER": { "voice": "voices/en_US-kristin-medium.onnx", "model": null },
+  "NARRATOR": { "voice": "voices/en_US-libritts-high.onnx", "model": null },
+  "ACTION": { "voice": "voices/en_US-lessac-medium.onnx", "model": null },
+  "_default": { "voice": "voices/en_US-lessac-medium.onnx", "model": null }
+}

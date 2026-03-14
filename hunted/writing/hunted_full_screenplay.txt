@@ -12,13 +12,12 @@ HUNTED - FULL SCREENPLAY
 # Scene 1 - The Humiliation
 ----------------------------------------
 
-INT. BAR - NIGHT (FLASHBACK)
+INT. BAR - NIGHT
 
-A generic sports bar. TVs flicker. LIAM (29) wipes down the counter with mechanical precision. Customers talk around him,
-through him, never to him.
+A generic sports bar. LIAM (29) the bartender wipes down the counter with mechanical precision. Customers talk around him.
 
                     LIAM (V.O.)
-          I'm the most skilled guy I know. I've just always been unlucky.
+          I could do anything. I'm the most skilled guy I know. I've just always been unlucky.
 
 A REGULAR CUSTOMER slides onto a stool. Unheard due to V.O., Liam gets the customer's order and makes the drink. Customer
 keeps talking to Liam.
@@ -113,7 +112,7 @@ He picks up the rag and resumes wiping the counter.
 # Scene 2 - Bar Revenge
 ----------------------------------------
 
-EXT. DOWNTOWN STREET - NIGHT (FLASHBACK CONTINUES)
+EXT. DOWNTOWN STREET - NIGHT
 
 City lights reflect off wet pavement. LIAM walks with purpose, hands in his jacket pockets. Twenty feet ahead, a group of
 FOUR PEOPLE laugh and stumble together. Among them—a MAN WITH GLASSES who bears a passing resemblance to the Regular

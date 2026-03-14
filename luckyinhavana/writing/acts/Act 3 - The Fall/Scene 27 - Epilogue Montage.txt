@@ -88,7 +88,7 @@ Crates loaded onto a cargo ship. MEN in work clothes move with purpose. Coded la
 pipeline from Turkey through Sicily through France to American ports. The network Lucky built
 doesn't die with his deportation. It thrives.
 
-BRENNAN (V.O.)
+                    BRENNAN (V.O.)
           The heroin network didn't stop when
           Lucky left Cuba. It expanded. Over eighty
           percent of the heroin entering the United
@@ -128,7 +128,7 @@ MONTAGE - AMERICAN CITIES:
   "EPIDEMIC OF THE NEEDLE"
 - Street corners. DEALERS and ADDICTS. The human cost of the pipeline, measured in bodies.
 
-BRENNAN (V.O.)
+                    BRENNAN (V.O.)
           Genovese built it bigger. No restraint, no
           code, no limits. Exactly what Delgado warned
           me. Exactly what I didn't listen to.
@@ -186,13 +186,13 @@ SMASH TO BLACK.
 
 Silence.
 
-BRENNAN (V.O.)
+                    BRENNAN (V.O.)
           We won. That's what they told us.
           We deported Lucky Luciano and we won.
 
 A beat.
 
-BRENNAN (V.O.) (CONT'D)
+                    BRENNAN (V.O.) (CONT'D)
           We didn't win anything.
 
 ---

@@ -9,25 +9,36 @@ Adam, Geoff, Moosk, Tyson, Joe, Tracktown Residents (84 people), Drones (multipl
 ## SCENE LAYOUT
 
 ### Opening
-Dawn. Geoff's auto-car pulls up outside Tracktown with Adam restrained inside. Moosk escorts Adam out. Geoff and Adam stand at the edge of the encampment - not inside. There is some conversation. Then the drones arrive. No choice. No countdown. Just gas. Immediate. Everyone dies within 11 seconds but onscreen the sequence takes longer showing gas spreading and people running.
+Dawn. Geoff's auto-car pulls up outside Tracktown with Adam restrained inside. Moosk escorts Adam out. Geoff and Adam
+stand at the edge of the encampment - not inside. There is some conversation. Then the drones arrive. No choice. No
+countdown. Just gas. Immediate. Everyone dies within 11 seconds but onscreen the sequence takes longer showing gas
+spreading and people running.
 
 ### Key Beats
-1. **Adam Brought to Tracktown** - Geoff's auto-car arrives at edge of encampment. Moosk escorts Adam out. Adam sees Tracktown in the distance. People waking up. Normal morning.
-2. **The Conversation** - Geoff and Adam talk outside Tracktown. Geoff explains this is the consequence. Adam begs him to stop. Geoff is calm. No choice offered.
+1. **Adam Brought to Tracktown** - Geoff's auto-car arrives at edge of encampment. Moosk escorts Adam out. Adam sees
+Tracktown in the distance. People waking up. Normal morning.
+2. **The Conversation** - Geoff and Adam talk outside Tracktown. Geoff explains this is the consequence. Adam begs him to
+stop. Geoff is calm. No choice offered.
 3. **Drones Arrive** - Drones fly in. Take positions over Tracktown. Residents look up, confused.
-4. **Immediate Gassing** - Drones start releasing gas right away. No warning. No countdown. Hatches open and gas pours out.
-5. **Panic** - People inside Tracktown realize what's happening. Try to run. Scream. Cover their faces. But gas spreads too fast.
-6. **Deaths Begin** - People start collapsing. Within 11 seconds everyone is dead. But visually the sequence plays out longer - showing gas spreading, people running, screaming, falling.
+4. **Immediate Gassing** - Drones start releasing gas right away. No warning. No countdown. Hatches open and gas pours
+out.
+5. **Panic** - People inside Tracktown realize what's happening. Try to run. Scream. Cover their faces. But gas spreads
+too fast.
+6. **Deaths Begin** - People start collapsing. Within 11 seconds everyone is dead. But visually the sequence plays out
+longer - showing gas spreading, people running, screaming, falling.
 
 ### Character Moments
-- **Adam**: Restrained outside Tracktown. Forced to watch. Begs Geoff to stop. When gas starts, screams at Geoff. Tries to run to help but Moosk holds him back. Watches everyone die.
-- **Geoff**: Cold. This is policy, not rage. Explains to Adam why this is necessary. Watches with clinical detachment. "You defied me. There are consequences."
+- **Adam**: Restrained outside Tracktown. Forced to watch. Begs Geoff to stop. When gas starts, screams at Geoff. Tries
+to run to help but Moosk holds him back. Watches everyone die.
+- **Geoff**: Cold. This is policy, not rage. Explains to Adam why this is necessary. Watches with clinical detachment.
+"You defied me. There are consequences."
 - **Moosk**: Silent enforcer. Holds Adam. Prevents him from interfering.
 - **Tyson**: Inside Tracktown. Sees drones arrive. Realizes too late what's happening. Dies with everyone else.
 - **Joe**: Dies trying to help people. Representative of the community.
 
 ### Closing
-Gas fills Tracktown. People collapse. Screaming stops. Silence. Adam stares at the carnage. Geoff orders Moosk to release Adam. "Now you understand." Auto-car drives away, leaving Adam standing outside the dead encampment.
+Gas fills Tracktown. People collapse. Screaming stops. Silence. Adam stares at the carnage. Geoff orders Moosk to release
+Adam. "Now you understand." Auto-car drives away, leaving Adam standing outside the dead encampment.
 
 ---
 
@@ -43,7 +54,7 @@ Pristine. Black. Out of place against the poverty.
 
 Door opens.
 
-MOOSK steps out.
+Moosk steps out.
 
 Reaches in and pulls out ADAM.
 
@@ -51,7 +62,7 @@ Hands zip-tied behind his back.
 
 Bruised. Exhausted.
 
-GEOFF steps out on the other side.
+Geoff steps out on the other side.
 
 Straightens his jacket.
 
@@ -149,12 +160,12 @@ Inside Tracktown, residents hear the sound.
 
 Look up.
 
-TYSON sees the drones first.
+Tyson sees the drones first.
 
                     TYSON
           What the hell are those?
 
-JOE beside him.
+Joe beside him.
 
                     JOE
           Drones?
@@ -232,7 +243,7 @@ Gas spreading fast.
 
 Everywhere.
 
-JOE grabs cloth, covers his mouth.
+Joe grabs cloth, covers his mouth.
 
                     JOE
           Don't breathe it!
@@ -334,8 +345,9 @@ Geoff, calmly.
 
 He walks back to the auto-car.
 
+Geoff (cont'd) turns to Moosk.
+
                     GEOFF (CONT'D)
-          (to Moosk)
           We're done here.
 
 Moosk follows.

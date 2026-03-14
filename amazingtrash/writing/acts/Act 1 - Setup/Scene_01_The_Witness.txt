@@ -101,10 +101,10 @@ Adam reaches the corner. Peers around the wall into a dark alley.
 
 Three figures visible in the dim light:
 
-GEOFF (40s, expensive suit, slight build) stands watching with hands clasped. His face shows anticipation, like a child
+Geoff (40s, expensive suit, slight build) stands watching with hands clasped. His face shows anticipation, like a child
 about to open a present.
 
-MOOSK - humanoid robot, imposing build, movements unnaturally precise - holds a VICTIM (30s, business attire) by the arm.
+Moosk - humanoid robot, imposing build, movements unnaturally precise - holds a VICTIM (30s, business attire) by the arm.
 The victim is trembling, tears streaming.
 
 On the ground: a pool innertube, brightly colored. Incongruous next to a helium tank.

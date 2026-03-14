@@ -10,7 +10,7 @@ This document provides movie-specific information for the Hunted screenplay proj
 
 A thriller/horror film about a serial killer who targets a survivalist for his 30th birthday challenge, but the man's family proves deadlier than expected. When the killer returns, the hunter becomes the hunted—but revenge consumes as much as it protects.
 
-**Logline:** A serial killer approaching 30 wants something more challenging for his birthday—after reading "The Most Dangerous Game," he targets a survivalist he spots at Cabela's, but the man's family proves deadlier than expected.
+**Logline:** When a thrill-seeking serial killer selects a survivalist family as his ultimate birthday hunt, the resourceful clan must defend their home from the inventive, relentless predator—but catching him means crossing the line from survival into vigilante justice. (Feature Film)
 
 **Theme:** The hunter becomes the hunted—but revenge has a cost. Sometimes the sensible choice beats the dramatic one.
 

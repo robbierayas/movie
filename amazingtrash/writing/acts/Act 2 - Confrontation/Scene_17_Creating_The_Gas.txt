@@ -9,7 +9,10 @@ Adam, Store Cashier, Rat
 ## SCENE LAYOUT
 
 ### Opening
-Adam buys a rat from the Tracktown store - wordless transaction, just visual shots of him waiting in line and the cashier handing over a cage with the rat. Then he descends into his secret underground chamber - the same place he's been disposing bodies. Surrounded by his chemistry equipment, acids, compounds. This is his domain, where his expertise means something. He's made a decision: if he can't quit, he has to eliminate Geoff.
+Adam buys a rat from the Tracktown store - wordless transaction, just visual shots of him waiting in line and the cashier
+handing over a cage with the rat. Then he descends into his secret underground chamber - the same place he's been
+disposing bodies. Surrounded by his chemistry equipment, acids, compounds. This is his domain, where his expertise means
+something. He's made a decision: if he can't quit, he has to eliminate Geoff.
 
 ### Key Beats
 1. **The Purchase** - Wordless scene: Adam buys a rat from Tracktown store. Visual only, no dialogue.
@@ -41,7 +44,7 @@ INT. TRACKTOWN STORE - NIGHT
 
 A cramped corner store. Mismatched shelves. Flickering fluorescent lights.
 
-ADAM stands in a short line behind two other people. He's quiet, expressionless.
+Adam stands in a short line behind two other people. He's quiet, expressionless.
 
 The line moves forward.
 
