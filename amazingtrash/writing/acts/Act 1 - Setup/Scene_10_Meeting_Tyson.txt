@@ -1,16 +1,18 @@
 # SCENE 10 - MEETING TYSON
 
-## Scene Heading
+## LOCATION
 EXT. CITY STREET - AFTERNOON
 
-## Characters
+## CHARACTERS
 - ADAM
-- TYSON (T) - a kid, teenager, Standard class hustler
+- TYSON (T) - a kid, teenager, Unhoused hustler from Tracktown
 
-## Tone
-Playful, bonding, establishing friendship, lighter
+## SCENE LAYOUT
 
-## Key Beats
+### Opening
+Playful, bonding, establishing friendship, lighter. Adam on his way to store - shopping for community supplies, has the list from Scene 9. Walking through city, out of his element but purpose-driven. City street, Standard class district.
+
+### Key Beats
 
 1. THE ERRAND: Adam on his way to store
    - Shopping for community supplies
@@ -78,52 +80,30 @@ Playful, bonding, establishing friendship, lighter
     - Beginning of friendship
     - Adam surprised but pleased
 
-## Visual Elements
-- City street, Standard class district
-- Tyson's scam in action on rich person
-- The fireball chemistry trick
-- Tyson's amazed reaction
-- The phone reveal
-- Both laughing together
-- Street hustle energy
+### Character Moments
+- Introduce Tyson, key character - street smart patter, clever hustler
+- Show Adam's past (used to hustle) - quiet intelligence meeting street smarts
+- Chemistry skills shown playfully - "In the old days they thought it was magic"
+- The old scam phrase completion establishes mutual recognition
+- First real friend connection - genuine laughter
+- Establish their dynamic (mutual respect) - Tyson's energy vs Adam's measured nature
+- The fireball trick and phone reveal showcase both characters' skills
+- Complete the friend trio setup (with Gal next)
 
-## Dialogue Notes
-- Tyson's street smart patter
-- Adam's quiet intelligence
-- The old scam phrase completion
-- "In the old days they thought it was magic"
-- Laughter - genuine connection
-- Establish Tyson's voice (street kid, clever)
-- Establish their dynamic (mutual respect)
-
-## Purpose
-- Introduce Tyson, key character
-- Show Adam's past (used to hustle)
-- Chemistry skills shown playfully
-- First real friend connection
-- Establish Tyson's character (clever, street smart)
-- Lighter tone, hope, friendship
-- Complete the friend trio (with Gal next)
-
-## Story Position
-- Building Adam's new life
-- After community establishment
-- Before completing friend group
-- Shows what Adam will fight for
-
-## Transitions
+### Closing
+Tyson and Adam walk together to the store. Beginning of friendship, lighter tone with hope. Tyson mentions his friend Gal.
 - IN: From Scene 9 (going to store for community)
 - OUT: Continue to store/bodega → Scene 11 (meet Gal)
 
 ---
 
-## SCREENPLAY
+## FULL SCRIPT
 
 EXT. CITY STREET - STANDARD DISTRICT - AFTERNOON
 
-Adam walks down a busy street, checking his phone. The grocery list from Scene 9. Focused, purposeful.
+Adam walks down a busy street.
 
-Ahead, a commotion.
+Ahead, a commotion starts.
 
 A BUSINESSMAN (40s, wealthy, distracted) walks past a TEENAGER - TYSON, "T" (16-17, scrappy, quick eyes).
 
@@ -175,8 +155,10 @@ Businessman, muttering.
 
 Tyson pockets the money, nods seriously.
 
+The businessman already walking away quickly, glad to escape.
+
                     TYSON
-          I'll take it to the old jester down the way, get it properly -
+          I'll take it to the old jester down the way, get it properly cleaned -
 
 Adam, finishing the line.
 
@@ -196,8 +178,6 @@ Adam nods.
 
                     ADAM
           Used to run it myself. Long time ago.
-
-The businessman walks away quickly, glad to escape.
 
 Tyson studies Adam. Sees the worn but clean clothes. The tired but intelligent eyes.
 
@@ -262,7 +242,7 @@ Tyson laughs.
                     TYSON
           On what?
 
-Adam pulls Tyson's phone from his own pocket. Holds it up.
+Adam pulls Tyson's phone from Adam's own pocket. Holds it up.
 
 Adam smiles.
 
@@ -277,7 +257,7 @@ Tyson's jaw drops. Pats his empty pocket.
 Adam, handing phone back.
 
                     ADAM
-          Also good for misdirection.
+          Chemistry's good for misdirection.
 
 Tyson stares at him. Then bursts out laughing. Genuine, delighted laughter.
 
@@ -307,7 +287,7 @@ Adam shakes their head.
 Adam, checking phone.
 
                     ADAM
-          Store. Getting stuff for some people in my community.
+          Store. Getting stuff for a cookout.
 
 Tyson nods.
 
@@ -348,15 +328,15 @@ Adam, quiet.
 They walk in comfortable silence for a moment.
 
                     TYSON
-          So you got people? A community?
+          So you got people? A place?
 
 Adam nods.
 
                     ADAM
-          Railyard settlement. Yours?
+          Only kind of. Here and there. You?
 
                     TYSON
-          Tracktown. It's... yeah, it's home.
+          Tracktown. I'm registered in school, but I just hang out after that. It's... yeah, it's home.
 
 Something in Tyson's voice - pride mixed with resignation. This is his normal. Has been his whole life.
 
@@ -375,15 +355,14 @@ Tyson, grinning.
                     TYSON
           Definitely. Anyone who can do fire magic and pickpocket people? Gal would love you.
 
-Adam laughs. Real laughter. When was the last time he had a conversation like this? Just... normal?
-
 Adam smiles.
 
                     ADAM
           Alright. I'd like that.
 
-They continue walking. Two street-smart survivors who found each other by chance.
-
-Maybe even friends.
+They continue walking.
 
 FADE TO BLACK.
+
+## Production Notes
+[Placeholder for production considerations]

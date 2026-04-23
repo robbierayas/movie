@@ -527,16 +527,32 @@ If main.txt doesn't already follow the standard template (Logline, Synopsis, The
 
 **Step 2: Compile Full Screenplay**
 
-Combine all scene FULL SCRIPT sections into a single screenplay file:
+Compile in both formats:
 
 ```bash
+# Working draft (with scene headers and separators — for internal reference)
 python production/compile_screenplay.py <project_name>
-# Example: python production/compile_screenplay.py hunted
+
+# Submission draft (clean screenplay format — no scene numbers, no separators)
+python production/compile_screenplay.py <project_name> --format submission
 ```
 
-Output: `<project>/writing/<project>_full_screenplay.txt`
+Output:
+- Working: `<project>/writing/<project>_full_screenplay.txt`
+- Submission: `<project>/writing/<project>_submission_draft.txt`
 
-Review the compiled file for continuity issues between scenes (tone shifts, missing transitions, character voice consistency across act boundaries).
+**Submission draft formatting:**
+- Title page with centered title, FADE IN / FADE OUT / THE END
+- No scene numbers, no `# Scene X` headers, no `---` separators, no act headers
+- Scenes flow together naturally — only slug lines (INT./EXT.) mark transitions
+- When consecutive scenes share the same location (e.g., both start with `INT. REEVES HOUSE - SECOND FLOOR`), the duplicate slug line is collapsed so the action reads as one continuous sequence
+- Continuous action sequences (like a siege spanning multiple "scenes") read as unbroken screenplay with slug lines only appearing when location actually changes
+
+**After compilation, review the submission draft for:**
+- Continuity issues between scenes (tone shifts, missing transitions)
+- Duplicate or redundant slug lines that the compiler didn't catch
+- Awkward seams where scene files were joined (repeated action descriptions, tonal resets)
+- Character voice consistency across act boundaries
 
 **Step 3: Format for TTS**
 
@@ -593,7 +609,8 @@ Output: Combined WAV files in `<project>/production/audio/audio_output/`
 
 **Final Deliverables Checklist:**
 - [ ] main.txt follows standard template format
-- [ ] `<project>/writing/<project>_full_screenplay.txt` compiled and reviewed
+- [ ] `<project>/writing/<project>_full_screenplay.txt` compiled (working draft)
+- [ ] `<project>/writing/<project>_submission_draft.txt` compiled and reviewed (submission draft)
 - [ ] All scene files formatted for TTS
 - [ ] `<project>/production/audio/character_voices.json` created with voice mappings
 - [ ] Combined audio files generated in `<project>/production/audio/audio_output/`

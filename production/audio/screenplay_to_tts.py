@@ -40,12 +40,13 @@ class ScreenplayParser:
     VO_CHARACTER_PATTERN = re.compile(r'^([A-Z][A-Z\s]+?)\s*\((V\.O\.|O\.S\.)\)\s*$')
     DIALOGUE_PATTERN = re.compile(r'^["\']')
     SCENE_HEADER_PATTERN = re.compile(r'^(INT\.|EXT\.|SCENE|LOCATION:|FADE)')
-    # Action lines: Start with capital, has lowercase, ends with period OR has comma (character actions)
-    ACTION_PATTERN = re.compile(r'^[A-Z][a-z].*[.,]')
+    # Action lines: Start with capital, has lowercase, ends with period, comma, em dash, or dash
+    ACTION_PATTERN = re.compile(r'^[A-Z][a-z].*[.,\u2014\u2013\-]')
 
     def __init__(self):
         self.current_speaker = None
         self.in_vo_mode = False  # Track when we're reading V.O. dialogue (left-aligned)
+        self.last_was_action = False  # Track multi-line action paragraphs
 
     def parse_file(self, filepath: str, line_by_line: bool = False) -> List[DialogueLine]:
         """Parse a screenplay file and extract dialogue/action lines
@@ -104,6 +105,12 @@ class ScreenplayParser:
 
             # Skip empty lines and separators
             if not stripped or stripped.startswith('===') or stripped.startswith('---'):
+                # Blank lines end V.O. continuation mode - V.O. dialogue blocks
+                # are separated from action lines by blank lines
+                if not stripped:
+                    if self.in_vo_mode:
+                        self.in_vo_mode = False
+                    self.last_was_action = False
                 continue
 
             # Check for V.O./O.S. character (left-aligned, like "LIAM (V.O.)")
@@ -198,12 +205,21 @@ class ScreenplayParser:
                     # It's a new character, exit V.O. mode
                     self.in_vo_mode = False
 
+            # Check for action line continuations (wrapped multi-line action paragraphs)
+            # These start with lowercase and follow a previous action line
+            if self.last_was_action and not is_indented and stripped and stripped[0].islower():
+                # Append to the previous action line's text
+                if lines and lines[-1].speaker == "ACTION":
+                    lines[-1].text += ' ' + stripped
+                    print(f"[DEBUG] Line {i}: Action continuation: {stripped[:50]}...")
+                    continue
+
             # Check for action lines (scene descriptions) - non-indented only
             # Action lines: start with capital, contain lowercase OR all caps with punctuation
             # Examples: "Marcus turns, annoyed." or "MARCUS turns, annoyed." or "Josh, suddenly lucid, sharp."
             if not is_indented and stripped and stripped[0].isupper():
                 # Check if it matches action pattern OR has punctuation (likely an action line)
-                if self.ACTION_PATTERN.match(stripped) or (',' in stripped or '.' in stripped):
+                if self.ACTION_PATTERN.match(stripped) or (',' in stripped or '.' in stripped or '\u2014' in stripped or '\u2013' in stripped):
                     # Flush any pending dialogue before action line
                     if not line_by_line:
                         flush_pending_dialogue()
@@ -212,7 +228,10 @@ class ScreenplayParser:
                     lines.append(DialogueLine("ACTION", stripped, i))
                     self.current_speaker = None  # Reset after action line
                     self.in_vo_mode = False  # Exit V.O. mode on action line
+                    self.last_was_action = True
                     continue
+
+            self.last_was_action = False
 
         # Flush any remaining dialogue at end of file
         if not line_by_line:

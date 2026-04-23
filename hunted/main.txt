@@ -77,8 +77,7 @@ info. Meticulous planner but emotionally volatile when things go wrong.
 what he learns from their mail). Ends with "Let's do this" as he approaches the house to start the hunt.
 
 ### Hank Reeves
-Early 40s. Prepper and homesteader at heart despite living on a large semi-suburban property. Ex-blue collar, now works
-remote IT. Teaches his family self-sufficiency—gardening, canning, basic carpentry, home defense. Family has hunting
+Early 40s. Construction foreman. Prepper and homesteader at heart despite living on a large semi-suburban property. Teaches his family self-sufficiency—gardening, canning, basic carpentry, home defense. Family has hunting
 awards. Not paranoid, just prepared. When Liam flattens his tire and forces him to walk home, Hank spots something wrong
 before reaching the house. The fight begins outside on his own territory—he's a formidable opponent who nearly wins. His
 death is hard-earned.
@@ -91,11 +90,11 @@ to simpler solutions—she dies because she chose to fight when her children cho
 
 ### The Children
 Three children:
-- **Oldest (18)** - [Gender TBD]. Goes all-in on revenge with Sarah. Shares her obsession, helps with the most dangerous
+- **Eli (18)** - Male. Goes all-in on revenge with Sarah. Shares her obsession, helps with the most dangerous
 traps. Dies in Act 3 alongside their mother's cause.
-- **Middle (12)** - The practical one. Participates in preparation but grows increasingly scared. Makes the 911 call that
-saves themselves and their younger sibling.
-- **Youngest (10)** - Follows the 12-year-old's lead. Escapes with them when they leave to call police.
+- **Emma (12)** - The practical one. Participates in preparation but grows increasingly scared. Escapes with Olivia and
+calls 911.
+- **Olivia (10)** - Follows Emma's lead. Escapes with her when they leave to call police.
 
 The 18-year-old's death alongside Sarah reinforces the tragedy of revenge. The younger two survive because they choose
 the sensible option.
@@ -213,15 +212,13 @@ structure—now Liam is the one being hunted through the house. Each trap, each 
 
 The 18-year-old dies during the battle—committed to revenge like their mother, killed for it.
 
-In the climax, Sarah confronts Liam directly. She sends the two younger children to "finish him off" while she holds him.
-But the 12-year-old—seeing what revenge cost their older sibling and mother—makes the practical choice: they grab the
-10-year-old, slip out of the house, and call 911.
+In the climax, Sarah sends Emma and Olivia to the secret basement room while she faces Liam alone. A brutal fight in the
+attic—Sarah fully unleashed, driving Liam into traps. But he overpowers her at the edge of the secret passage shaft.
+Sarah pulls them both into the three-story fall, sacrificing herself so the girls can escape.
 
-Meanwhile, Liam catches Sarah. While torturing her, he accidentally activates one of her traps—now both are wounded,
-disabled. They have a brutal, crawling struggle with each other, both broken. Liam kills her.
-
-Exhausted, wounded, Liam staggers toward escape—and finds police cars surrounding the property. The two younger children
-watch from a safe distance as Liam is arrested.
+Emma and Olivia escape through the secret passage to the basement and out of the burning house. They call 911.
+Liam survives the fall barely, strips his armor, and staggers out. Police surround the property. Liam ties Hank's
+blackbelt around his head and does suicide-by-cop: "BANG BANG."
 
 **Major Beats:**
 - Liam's recovery and planning
@@ -229,12 +226,11 @@ watch from a safe distance as Liam is arrested.
 - Liam's return and first trap
 - Running battle through the modified house
 - 18-year-old's death (committed to revenge, killed for it)
-- Final confrontation: Sarah vs. Liam
-- 12-year-old's choice: grab younger sibling, escape, call 911 (result shown, not the call)
-- Liam catches Sarah, activates trap while torturing her
-- Disabled struggle—both wounded, crawling, fighting
-- Liam kills Sarah
-- Liam caught by police while escaping
+- Final confrontation: Sarah vs. Liam in the attic—fully unleashed, candlestick vs screwdriver
+- Sarah sends girls to secret basement room
+- Sarah pulls Liam into three-story fall down passage shaft. Sarah dies, Liam survives.
+- Girls escape through secret door, step ladder over burned stairs, call 911
+- Liam strips armor, walks out. Suicide-by-cop with Hank's blackbelt
 
 **The Irony:** Sarah and the 18-year-old's survivalist approach—the traps, the preparation, the direct confrontation—gets
 them both killed. The younger children survive by rejecting that approach and simply calling for help. The killer is
@@ -312,7 +308,7 @@ Alone" for ingenuity but with lethal intent and consequences.]
 ## PRODUCTION NOTES
 
 **Visual Style:**
-- Dual perspective cinematography: Kyle's POV feels predatory, stalking; family POV feels intimate, domestic
+- Dual perspective cinematography: Liam's POV feels predatory, stalking; family POV feels intimate, domestic
 - The house transforms visually between acts—normal home, then battleground, then trap-house
 - Night/darkness in final act contrasts with daylight normalcy of act one
 - Film references: The Most Dangerous Game, Straw Dogs, You're Next, Home Alone (dark version)
@@ -339,9 +335,6 @@ Alone" for ingenuity but with lethal intent and consequences.]
 
 ## NOTES FOR DEVELOPMENT
 
-- The traps in Act 3 need to be specific, practical, and visually interesting
-- 18-year-old's gender and name TBD
-- 12-year-old and 10-year-old names TBD
 - Aftermath/coda TBD (children with relatives? news coverage?)
 
 ---

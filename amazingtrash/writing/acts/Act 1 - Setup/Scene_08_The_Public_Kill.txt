@@ -1,18 +1,20 @@
 # SCENE 8 - THE PUBLIC KILL
 
-## Scene Heading
+## LOCATION
 EXT. PUBLIC LOCATION - DAY/EVENING
 
-## Characters
+## CHARACTERS
 - ADAM
 - GEOFF
 - MOOSK
 - BODY (victim)
 
-## Tone
-Tense, escalating stakes, barely controlled panic
+## SCENE LAYOUT
 
-## Key Beats
+### Opening
+Adam is summoned by Geoff to a very public location - a plaza with shops, restaurants, and foot traffic. He arrives to find Geoff has killed someone in broad view of cameras and witnesses. Tone is tense, escalating stakes, barely controlled panic.
+
+### Key Beats
 
 1. THE CALL: Adam summoned for a job
    - Gets message from Geoff
@@ -94,45 +96,20 @@ Tense, escalating stakes, barely controlled panic
     - Realizes Geoff is getting worse
     - This is unsustainable
 
-## Visual Elements
-- Public location with foot traffic
-- Security cameras visible
-- Body wrapped in rope, fetal position
-- Large shipping box/container
-- The hand breaking off (handled horrifically)
-- Adam acting like delivery person
-- Near-misses with witnesses
-- Multiple moving parts, any could fail
+### Character Moments
+- Geoff's casual "Figure it out" and walking away to get food - escalating recklessness, treating murder as an errand
+- Adam's panicked muttering to himself, talking his way through as "delivery" - problem-solving under extreme pressure
+- Adam's whispered apology before breaking the hand - still has humanity despite crossing every line
+- Body mutilation raises the horror; public nature increases danger exponentially
+- Late Act 1 - shows how far Adam has come/fallen, breaking point approaching
+- Adam's realization: "He's getting worse" and "This can't continue" - but he knows it will
 
-## Dialogue Notes
-- Geoff's casual "Figure it out"
-- Adam's panicked muttering to himself
-- Maybe overhearing witnesses
-- Adam talking his way through as "delivery"
-- Minimal dialogue - tension through action
-
-## Purpose
-- Escalate Geoff's recklessness
-- Show Adam getting deeper
-- More disposal challenges
-- Breaking point approaching
-- Public nature increases danger
-- Body mutilation raises horror
-- Shows Adam's problem-solving under pressure
-
-## Story Position
-- Late Act 1, final disposal before shift
-- Escalation of difficulty
-- Before Adam finds community
-- Shows how far he's come/fallen
-
-## Transitions
-- IN: From Scene 7 (another disposal job)
-- OUT: Adam has money, returns to railyard → Scene 9 (Making Money)
+### Closing
+Adam escapes in the auto-car with the boxed body, sirens fading behind him. He recognizes Geoff is getting worse and this is unsustainable, but he's trapped by the money and his complicity. He's already crossed every line there is. Leads to Scene 9 (Making Money) as Adam returns to the railyard with his earnings.
 
 ---
 
-## SCREENPLAY
+## FULL SCRIPT
 
 EXT. PUBLIC PLAZA - EVENING
 
@@ -141,7 +118,7 @@ city.
 
 Security cameras visible on every corner.
 
-Adam walks through the plaza, checking his phone. A message from Geoff: "Corner of 5th and Plaza St. Now."
+Adam walks with his equipment bad through the plaza, checking his phone. A message from Geoff: "Corner of 5th and Plaza St. Now."
 
 He looks around. This is too public. Way too public.
 
@@ -151,10 +128,6 @@ At the edge of the plaza, near a closed storefront: GEOFF and MOOSK.
 
 And on the ground: a BODY.
 
-Fresh. Blood pooling.
-
-Witnesses nearby stare, some filming with phones. Nobody approaching yet - shock, fear, disbelief.
-
 Adam's blood runs cold.
 
 Adam, whisper.
@@ -162,12 +135,16 @@ Adam, whisper.
                     ADAM
           No. Not here. Not HERE.
 
-He approaches quickly. Geoff sees him, waves cheerfully.
+He approaches quickly.
+
+Geoff sees him, waves cheerfully.
 
 Geoff, loud, unconcerned.
 
                     GEOFF
           There you are! Perfect timing!
+
+Blood pooling at their feet. Nobody fully noticed yet. Just someone collapsed with a massive robot, so they avoid approaching.
 
 Adam, hissing.
 
@@ -197,9 +174,9 @@ Geoff and Moosk walk away. Casual. Like they just finished shopping.
 
 Adam stares after them. Then at the body. Then at the witnesses.
 
-One person is calling the police. Others backing away.
+One person is talking to another concerned. Another person starts to call police.
 
-Adam turns to himself.
+Adam turns to the body.
 
                     ADAM
           Oh god. Oh god oh god oh god.
@@ -231,7 +208,7 @@ EXT. LOADING DOCK - NIGHT
 
 Behind a restaurant. Dumpsters. Shipping crates. Cardboard boxes.
 
-Adam finds a large shipping box - the kind for appliances. Big enough.
+Adam finds a medium box. Clearly not big enough, but there is nothing that size.
 
 He takes it. Heads back to the alley.
 
@@ -277,7 +254,7 @@ PUSH.
 
 SNAP.
 
-The hand breaks off at the wrist. Bone and tissue tearing.
+The hand breaks at the wrist. Bone poking through.
 
 Adam staggers back, the severed hand in his grip. He stares at it.
 
@@ -287,13 +264,13 @@ Sirens louder now.
 
 No time.
 
-He throws the hand into the box with the rest of the body. Closes the flaps. Tapes them shut.
+He pushes the hand into the box with the rest of the body. Closes the flaps. Tapes them shut.
 
-The box looks normal now. Like furniture. Like nothing.
+The box looks normal now.
 
 EXT. PLAZA - CONTINUOUS
 
-Adam emerges from the alley carrying the box. Heavy. Awkward. But he holds it like a delivery person would.
+Adam emerges from the alley carrying the box. Heavy. Awkward. But he is able to lift it off the ground.
 
 People walk past. Don't look twice.
 
@@ -314,11 +291,7 @@ His heart pounds so hard he can barely breathe.
 
 EXT. STREET - CONTINUOUS
 
-Adam walks two blocks. The box gets heavier with each step.
-
-His arms scream. But he doesn't stop.
-
-An Amazing Company auto-car pulls up. Recognizes him.
+Adam walks further. An Amazing Company auto-car pulls up. Recognizes him.
 
 Door opens.
 
@@ -354,14 +327,11 @@ Adam (cont'd), quiet.
                     ADAM (CONT'D)
           This can't continue. This can't...
 
-But it will.
+But it will. Because he's trapped.
 
-He knows it will.
-
-Because he's trapped. Because the money's too good. Because the alternative is going back to nothing.
-
-Because he's already crossed every line there is.
-
-The auto-car drives on through the night.
+The auto-car drives on.
 
 FADE TO BLACK.
+
+## Production Notes
+[Placeholder for production considerations]

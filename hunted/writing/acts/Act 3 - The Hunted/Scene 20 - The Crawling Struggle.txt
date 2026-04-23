@@ -12,58 +12,101 @@ Liam, Police, Emma, Olivia
 Liam emerges from the burning house. Sarah is dead. The girls have escaped.
 
 ### Key Beats
-1. Liam limps out of the secret basement exit. Armorless. Broken.
-2. The house burns behind him. Smoke rising against the stars.
-3. He drags himself across the grass. One step at a time.
-4. SIRENS. Police cars tear up the driveway.
-5. Liam stops. Looks at the approaching lights. No chance of escape.
-6. He reaches into his jacket. Pulls out HANK'S BLACKBELT. The trophy he kept.
-7. He ties it around his head. A crude bandana.
-8. Emma and Olivia watch from behind a police car. A female officer has an arm around each of them.
-9. Liam raises his hands—shaped like guns—and aims at the officers.
-10. "BANG BANG."
-11. The officers FIRE.
-12. Liam falls.
-13. The nightmare is over. The children survived.
+1. Emma and Olivia are at the second floor gatehouse doors. Emma has Eli's gun. They've already called the cops.
+2. Liam emerges from the basement onto the first floor. Looks up. Sees them.
+3. Emma raises the gun. Aims at Liam.
+4. Olivia pushes the gun down. Closes the gatehouse door on Liam.
+5. Liam stares at the closed door. The girls who chose not to attack.
+6. He limps out the front door. Into the night.
+7. SIRENS. Police cars tear up the driveway.
+8. Liam stops. Pulls out HANK'S BLACKBELT. Ties it around his head.
+9. Suicide-by-cop. "BANG BANG."
+10. The officers FIRE. Liam falls.
+11. Emma and Olivia watch from the second floor window. Not with the police. Together. Alone.
 
 ### Character Moments
-- **Liam**: Got the challenge he wanted—and it destroyed him. Suicide-by-cop with Hank's trophy.
-- **Emma/Olivia**: Safe because they chose the sensible option. They called 911.
-- **The irony**: Survivalist ingenuity failed. A phone call succeeded.
+- **Liam**: Sees the girls refuse to attack—the only people who beat him tonight did it by not fighting. Dies confused.
+- **Emma**: Has the weapon, has the shot—but Olivia's choice overrides.
+- **Olivia**: Pushes the gun down. Closes the door. The theme in one gesture.
+- **The irony**: Everyone who attacked Liam died. The ones who refused to fight survived.
 
 ### Closing
-The killer is dead. The children are orphans. But alive.
+The killer is dead. The children are orphans. But alive. They didn't fight. They survived.
 
 ---
 
 ## FULL SCRIPT
 
-EXT. SECRET BASEMENT EXIT - NIGHT
+INT. REEVES HOUSE - SECOND FLOOR - NIGHT
 
-Liam pulls himself through the hidden door. Out into the night air.
+Emma and Olivia stand at the gatehouse doors. The reinforced metal doors Eli threw open. The doors that cost him his
+life.
 
-No armor. Just clothes. Blood. Burns. Broken bones.
+Emma holds ELI'S GUN. Her hands are shaking. Olivia stands beside her, one hand on the door.
+
+A phone lies on the floor behind them—911 still connected. A DISPATCHER's tinny voice:
+
+                    DISPATCHER (V.O.)
+          Ma'am? Are you still there? Units are en route—
+
+Below them, the first floor burns. Smoke seeps up through the stairwell.
+
+Then—movement.
+
+Liam pulls himself up from the basement. Emerges onto the first floor through the smoke. No armor. Just clothes. Blood.
+Burns. Broken bones.
+
+He looks up the stairwell.
+
+And sees them.
+
+Two girls. Standing at the top of the stairs. The older one holding a gun.
+
+He stops.
+
+Emma raises the gun. Aims at Liam's face. Her hands steady now. Finger on the trigger.
+
+Liam stares at her. Waiting. Almost curious.
+
+A long beat.
+
+Olivia reaches over. Gently pushes the barrel down. Away from Liam.
+
+                    OLIVIA
+          Karate ni sente nashi.
+
+Emma looks at her sister. Tears on both their faces.
+
+Olivia pulls the gatehouse door closed. The heavy metal door SHUTS between them and Liam.
+
+The lock engages. CLICK.
+
+INT. REEVES HOUSE - FIRST FLOOR - CONTINUOUS
+
+Liam stands alone at the bottom of the stairs. Staring at the closed door.
+
+Something crosses his face. Not anger. Not triumph.
+
+Confusion.
+
+They had the shot. They didn't take it.
+
+He looks at the closed door for a long moment. The only people who beat him tonight.
+
+He turns. Limps toward the front door.
+
+EXT. REEVES PROPERTY - NIGHT
+
+Liam pulls himself through the front door. Out into the night air.
 
 The house burns behind him. Flames licking up toward the roof. Smoke blotting out the stars.
 
 He stands there for a moment. Swaying.
 
-Then starts walking.
-
-EXT. REEVES PROPERTY - CONTINUOUS
-
-One foot in front of the other.
-
-Liam crosses the lawn. Each step agony. But he keeps moving.
-
-The open ground stretches before him. The "kill zone" Hank designed. Two hundred feet of exposure.
-
-Liam laughs. A broken sound.
-
                     LIAM
-          Good design, Hank. Just... wrong direction.
+          Not bad. Small chance I could have lost there.
 
-He keeps walking.
+He starts walking. Each step agony.
 
 Then—
 
@@ -102,28 +145,7 @@ He ties it around his head. A crude bandana. A crown.
                     LIAM
           One more challenge.
 
-EXT. EDGE OF PROPERTY - CONTINUOUS
-
-Behind a police car, EMMA and OLIVIA watch.
-
-A FEMALE OFFICER has an arm around each of them. Protective. Gentle.
-
-The girls' faces are tear-streaked. Hollow. They've seen too much tonight.
-
-But they're here. Outside. Safe.
-
-                    FEMALE OFFICER
-          Don't look, sweethearts. You don't have to—
-
-But they look.
-
-EXT. REEVES PROPERTY - CONTINUOUS
-
-Liam raises his hands.
-
-Slowly. Deliberately.
-
-He shapes them into GUNS. Fingers extended. Thumbs cocked.
+Liam removes his hands from his jacket quickly. He shapes his hands into GUNS. Fingers extended. Thumbs cocked.
 
 Aims at the officers.
 
@@ -149,32 +171,26 @@ Then the sound of radios crackling. Officers advancing. Checking the body.
 
 But it's too late.
 
-EXT. EDGE OF PROPERTY - CONTINUOUS
+INT. REEVES HOUSE - SECOND FLOOR - CONTINUOUS
 
-Emma and Olivia watch the officers surround the body.
+Emma and Olivia sit against the gatehouse doors. The fire below. The sirens outside.
 
-The FEMALE OFFICER gently turns them away.
-
-                    FEMALE OFFICER
-          It's over. You're safe now.
-
-Emma looks at the burning house. At the body on the lawn. At the police cars and ambulances arriving.
-
-Then at her little sister.
+Emma still holds the gun. She looks at it. Sets it on the floor. Pushes it away.
 
 Olivia's hand finds hers. Squeezes.
 
-                    EMMA
-          Let's go.
+They sit there. Together. Alone.
 
-They turn away.
+Through the window, red and blue lights flash across their faces. FIREFIGHTERS rush toward the burning house. PARAMEDICS
+run toward the bodies.
 
-Behind them, FIREFIGHTERS rush toward the burning house. PARAMEDICS run toward the bodies—Liam on the lawn, the others
-inside.
+But no one has come upstairs yet.
 
-But for Emma and Olivia Reeves, it's done.
+For now, it's just them.
 
-They chose the sensible option.
+Emma and Olivia Reeves.
+
+They didn't fight.
 
 They survived.
 
@@ -185,12 +201,12 @@ FADE OUT.
 ## FINAL TALLY
 
 **Dead:**
-- Hank Reeves (Act 2)
-- Eli Reeves (Scene 15)
-- Bobby (Scene 14)
-- Girly the dog (Scene 14)
-- Sarah Reeves (Scene 16)
-- Liam (Scene 17)
+- Hank Reeves (Scene 8)
+- Bobby (Scene 17)
+- Girly the dog (Scene 17)
+- Eli Reeves (Scene 18)
+- Sarah Reeves (Scene 19)
+- Liam (Scene 20)
 
 **Survived:**
 - Emma Reeves (12)
@@ -199,10 +215,14 @@ FADE OUT.
 ---
 
 ## Production Notes
-- No crawling struggle—Sarah died in the fall
+- The girls went BACK UPSTAIRS instead of running outside—to close the gatehouse doors and call 911
+- Emma finds Eli's gun where it was knocked from his hand in Scene 18
+- THE KEY MOMENT: Emma aims at Liam. Olivia pushes the gun down. Closes the door. This IS the theme.
+- Olivia echoes Emma's line from Scene 15: "Karate ni sente nashi" — Hank's lesson, passed between sisters
+- Liam's CONFUSION at the closed door: the only people who beat him did it by refusing to fight
 - Liam walks out, not crawls—he's broken but mobile
 - The blackbelt: Hank's trophy becomes Liam's death shroud
-- Suicide-by-cop: Liam chooses his ending, refuses to be captured
-- The irony: all the traps, all the preparation, all the death—and the kids survived because they called 911
-- Final image: orphaned children, but alive
-- The sensible option wins
+- Suicide-by-cop: Liam chooses his ending, refuses to be captured—one last attack, one last death
+- The girls are NOT with the police at the end. They sit alone behind the doors. Together.
+- Emma sets the gun down. Chooses not to be a fighter.
+- "They didn't fight. They survived." — the thesis statement

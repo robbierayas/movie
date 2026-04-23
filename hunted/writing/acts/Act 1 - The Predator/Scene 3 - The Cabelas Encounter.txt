@@ -37,9 +37,9 @@ Liam follows at a distance as Hank drives toward the Reeves property.
 INT. CABELA'S - DAY
 
 The massive outdoor retailer sprawls before us. Taxidermied animals mounted on walls. Rows of camping gear, fishing
-equipment, firearms behind glass. A hunter's paradise.
+equipment, firearms behind glass.
 
-Liam enters, hands in pockets. He looks like every other weekend warrior browsing—unremarkable. Invisible.
+Liam enters. He looks like every other person browsing—unremarkable.
 
                     LIAM (V.O.)
           A hunter is the obvious choice, but I don't want to just have a shootout. I enjoy the physicality...So I'll
@@ -66,7 +66,7 @@ Liam pauses near the cooking stove display, pretending to examine it. His eyes c
 LOUD LAUGHTER booms from across the store—the kind of laugh that makes strangers smile. Two men round the corner into
 Liam's view.
 
-HANK REEVES (early 40s) has the build of a thinner, younger John Goodman—big frame, presence that fills the aisle. His
+Hank REEVES (early 40s) has the build of a thinner, younger John Goodman—big frame, presence that fills the aisle. His
 friend BOBBY trails behind him—soft around the middle, patchy beard, camo jacket even though they're indoors.
 
                     LIAM (V.O.)
@@ -75,7 +75,7 @@ friend BOBBY trails behind him—soft around the middle, patchy beard, camo jack
 Hank moves through the store like he owns it. Not arrogant—comfortable. He knows where everything is.
 
                     HANK
-          —and she's standing there, covered in mud, holding this tiny fish like it's a trophy marlin.
+          —Olivia is covered in mud, telling us they were playing with the "Mama Kitty" when we hear a cougar yowl from the woods.
 
 Bobby, cackling.
 
@@ -83,14 +83,13 @@ Bobby, cackling.
           No shit?
 
                     HANK
-          Hand to God. Olivia goes, "Daddy, I caught dinner." Thing was maybe four inches.
+          Hand to God. Olivia goes, "Emma is gonna follow her home to see the babies." I'm lucky Sarah didn't hear that.
 
                     BOBBY
-          Please tell me you ate it.
+          Mama versus mama.
 
                     HANK
-          Sarah showed her how to slice it up and she tried passing it around. So everyone
-          could have a bite - a fingernail size bite.
+          So I'm walking around yelling for her, hoping I don't find this thing. Then I find her up a tree. "I followed her, but she run away when I grabbed her tail."
 
 Bobby shakes his head, grinning. Liam drifts closer, keeping displays between them.
 
@@ -98,21 +97,15 @@ Bobby shakes his head, grinning. Liam drifts closer, keeping displays between th
           Man, your kids are something else.
 
                     HANK
-          I'm lucky to have them.
+          I'm just so lucky nothing happened to them.
 
 Liam rolls his eyes.
 
                     BOBBY
-          Yeah, yeah. Hey, you see the game last night?
+          And you didn't catch it? Just call animal control already.
 
                     HANK
-          Didn't catch it. The girls said they saw that fox.
-
-                    BOBBY
-          You and that damn fox. Just shoot it already.
-
-                    HANK
-          Why would I do that? Besides, I want the kids to figure out the problem. Eli rigged up a motion sensor
+          Why would I do that? It's free. Besides, I want the kids to figure out the problem. Eli rigged up a motion sensor
           last week. Thing goes off, lights up the whole yard.
 
 Bobby laughs. He stops at a display of emergency rations, picks one up.
@@ -126,30 +119,30 @@ Bobby laughs. He stops at a display of emergency rations, picks one up.
 He takes the package from Bobby, examines the seal with practiced eyes.
 
                     HANK
-          This brand's decent. Not the best sodium content, but the calorie density is solid. I got a rotation system at
+          But it'll always taste like shit. I got a rotation system at
           home—first in, first out. Never eat anything older than ten years.
 
                     BOBBY
           Jesus, Hank. You expecting the apocalypse?
 
                     HANK
-          I'm expecting nothing. That's the whole point.
+          I'm expecting nothing... and everything. That's the whole point.
 
 He sets the package back, straightens the display without thinking about it.
 
                     HANK
-          My grandfather told me something once. "The time to fix the roof is when the sun is shining."
+          My grandfather told me something once. "Be prepared."
 
                     BOBBY
-          That's some fortune cookie shit right there.
+          That's some Disney shit right there.
 
 Hank laughs.
 
                     HANK
-          JFK said it, asshole.
+          It's the Boy Scouts, ya degenerate. Can't just be lucky.
 
                     LIAM (V.O.)
-          Listen to him. He's not guessing. He knows.
+          You're saying all the right things, Karate Man.
 
 They move toward the firearms section. Liam follows at a distance, pausing to examine the knife display.
 
@@ -159,7 +152,7 @@ Bobby's eyes go wide.
                     BOBBY
           Oh hell yes. Now we're talking.
 
-He practically jogs to the display, pointing at a tactical shotgun with an extended magazine.
+He practically jogs to the display, pointing at a shotgun with an extra add-ons.
 
                     BOBBY
           Look at this beautiful bastard. Pray and spray, baby. Pray and spray.
@@ -171,7 +164,12 @@ He practically jogs to the display, pointing at a tactical shotgun with an exten
           Nice? This thing could stop a bear.
 
                     HANK
-          So could a .45. So could a crossbow. So could a sharpened stick if you know where to put it.
+          So could a trap. So could a crossbow.
+
+Hank picks up a long pole from a display and fake stabs at Bobby.
+
+                    HANK
+          So could a sharpened stick if you know where to put it.
 
                     BOBBY
           Here we go.
@@ -179,7 +177,7 @@ He practically jogs to the display, pointing at a tactical shotgun with an exten
                     HANK
           I'm just saying—
 
-Bobby, mock announcer voice.
+Hank replaces the pole. Bobby, mock announcer voice.
 
                     BOBBY
           Ladies and gentlemen, Mister Karate Man is about to tell us why his bare hands are better than firearms.
@@ -193,12 +191,12 @@ Hank laughs, that booming sound again.
           The hell is the difference?
 
                     HANK
-          About eight inches of steel.
+          About 3 inches of steel.
 
 He moves toward the knife display. Bobby follows, still glancing back at the shotgun longingly.
 
                     HANK
-          Look, guns are fine. I got three at home. But close quarters? Home invasion? Knife's better.
+          Look, guns are fine for long range. But close quarters? Home invasion? Knife's better.
 
                     BOBBY
           Bullshit.
@@ -228,8 +226,10 @@ Hank picks up a hunting knife, tests the balance.
                     BOBBY
           No way.
 
+Hank widens his eyes for emphasis.
+
                     HANK
-          Way. Faster hands. Lower center of gravity. She'd gut you before you knew she was there.
+          She's crazy fast. Faster hands. Lower center of gravity. She'd gut you before you knew she was there.
 
 Bobby laughs nervously.
 
@@ -278,12 +278,10 @@ Hank nods approvingly, that warm presence radiating out.
 
                     HANK
           Best time to learn is before you need it. Most people think they'll figure it out when something happens. They
-          won't. The time to prepare—
-
-Bobby, muttering.
+          won't—
 
                     BOBBY
-          —is when the sun is shining.
+          —"Be prepared".
 
 Hank, grinning.
 
@@ -309,10 +307,9 @@ They head toward another aisle. Liam watches them go.
 Liam sets down the knife he was holding.
 
                     LIAM (V.O.)
-          The friend... gun guy. Spray and pray. That means panicking and hoping. The knife man though...
+          The friend... gun guy. Spray and pray. That means panicking and hoping, getting lucky. The knife man though...
 
-Hank picks up a bundle of paracord, tests its strength with a sharp tug. Even from across the store, the confidence in
-his hands is obvious.
+Hank looks at various bundles of paracord before picking one.
 
                     LIAM (V.O.)
           He's the one I want.
@@ -353,13 +350,13 @@ He claps Bobby on the shoulder.
           Is she still helping you with your case?
 
                     BOBBY
-          No, that's all over.
+          No, that's all over. Thankfully.
 
 They toss their bags in the truck bed. Bobby climbs into the passenger side. Hank takes the wheel.
 
-Thirty feet away, Liam exits the store. Hangs back near a row of cars. Watching.
+Thirty feet away, Liam exits the store. He hangs back near a row of cars watching them leave.
 
-Hank starts the pickup. Engine turns over.
+Hank starts the pickup.
 
 Liam walks casually to his own car—a bland sedan, forgettable. He pulls out his phone, pretends to check something while
 watching Hank's truck pull out of the space.
@@ -367,23 +364,21 @@ watching Hank's truck pull out of the space.
 The license plate is clearly visible.
 
                     LIAM (V.O.)
-          There you are.
-
-He types something into his phone. Then starts his car.
+          Not getting away that easy.
 
 EXT. RURAL ROAD - DAY
 
 Hank's truck drives down a two-lane highway, farmland stretching on either side. Trees lining the road.
 
-Half a mile back, Liam's sedan follows. Patient. Unhurried.
+Half a mile back, Liam's sedan follows patiently.
 
 The truck turns off onto a smaller road. A sign reads: PRIVATE PROPERTY - REEVES.
 
-Liam slows. Doesn't follow. Instead, he pulls over to the shoulder.
+Liam slows and pulls over near the sign.
 
 Through the trees, he catches glimpses of the truck heading up a long driveway toward a distant house.
 
-He pulls out his phone. Takes a photo of the road sign.
+He pulls out his phone, taking photos.
 
                     LIAM (V.O.)
           The knife man, Reeves, lives out here. Away from the city. Isolated.

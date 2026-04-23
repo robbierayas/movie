@@ -34,8 +34,8 @@ Represents innocence and hope in Tracktown. One of Adam's two friends who helps 
 - Grew up in Tracktown - homelessness is his normal
 
 ## RELATIONSHIPS
-- **Adam**: Befriends Adam through street scams. Bonds over the broken item reversal scam and Adam's chemistry tricks. Adam pulls Tyson's phone during fireball distraction and they both laugh. Shares meals with Adam and Gal. Either T dies (killed by Geoff) or survives to witness Adam's friend's death.
-- **Gal**: Part of the trio. Learns manners from Gal during "Mid night" dinner. Sent to grab dessert while Adam and Gal talk privately.
+- **Adam**: Befriends Adam through street scams. Bonds over the broken item reversal scam and Adam's chemistry tricks. Adam pulls Tyson's phone during fireball distraction and they both laugh. Introduces Adam to Gal via coffee scam. Shares meals with Adam and Gal. Either T dies (killed by Geoff) or survives to witness Adam's friend's death.
+- **Gal**: Already friends before Adam. Run the coffee scam together to test Adam's character. Part of the trio. Learns manners from Gal during "Mid night" dinner. Sent to grab dessert while Adam and Gal talk privately.
 - **Tracktown community**: Grew up there, knows the people and resources.
 
 ## CHARACTER ARC
@@ -48,16 +48,17 @@ Represents innocence and hope in Tracktown. One of Adam's two friends who helps 
 Arc Type: The Innocent Destroyed (whether killed in Act 2 or Act 3, represents the destruction of hope and innocence)
 
 ## DIALOGUE STYLE
-[How this character speaks - to be expanded after scenes are written]
-- Likely youthful and energetic
-- Street-smart language
-- Quick with comebacks and scam patter
+- **Scam patter**: Loud, urgent, convincing when running a hustle ("HEY! Watch it!" / "Do you know how expensive this is?"). Switches between panicked victim and calculating hustler instantly. Performance is second nature.
+- **Unfiltered enthusiasm**: Reacts to impressive things with pure, open excitement ("Holy SHIT!" / "Do it again!" / "That's way cooler than my scam!"). No cool detachment — wears emotions on his sleeve. Haven't learned to hide reactions yet.
+- **Quick bonding**: Invites people in easily ("I'll walk with you" / "You should meet my friend Gal"). Natural connector with no social barriers. Assumes friendship rather than waiting for it.
+- **Resigned pride about Tracktown**: "Been hustling since I was eight. It's just what you do." Normalizes poverty without self-pity. Tracktown isn't a tragedy to him — it's just home.
+- **Deflects depth with energy**: When conversations get heavy, bounces to the next topic or person. Doesn't dwell. Keeps things moving forward.
 
 ## KEY SCENES
 
 **Act 1, Scene 10: Meeting Tyson** - Running broken item scam on businessman. Adam completes old scam phrase, revealing shared hustler background. Amazed by Adam's chemistry fireball ("Holy SHIT! Do it again!"). Doesn't notice Adam pickpocketing phone during trick. Laughs when caught ("You're REALLY good"). Introduces self as "Tyson. Everyone calls me T." Invites Adam to walk with him. Mentions Tracktown community ("Been hustling since I was eight"). Wants Adam to meet friend Gal. Beginning of friendship.
 
-**Act 1, Scene 11: Meeting Gal** - At bodega with Adam. Tells Adam about Gal's "chemistry magic." Introduces himself to Gal: "I'm T, by the way. That's Adam." Tells scam stories on walk back, making both laugh. At barbecue, confirms friendship when Joe asks: "Damn right" (to being friends). Grins and toasts with Adam and Gal. Part of the trio now.
+**Act 1, Scene 11: Meeting Gal** - Runs coffee scam on Adam with Gal — bought the coffee before Adam arrived, plays innocent ("Just get a different kind"). Watches Adam earnestly negotiate with Gal without realizing they know each other. After Adam pays, cracks up with Gal: "So we bought it first." Reveals: "This is GAL. My friend Gal. The one I told you about." Tells scam stories on walk back. At barbecue, confirms friendship when Joe asks: "Damn right." Grins and toasts with Adam and Gal.
 
 **Act 2, Scene 18: Mid Night Out** - At dinner with Adam and Gal, struggles with pronunciation ("Fillet mig-non?"). Gal teaches him manners gently. Questions why napkin goes in lap: "That's stupid. Tucked catches more food." Enjoys the meal: "That was incredible." After Gal and Adam fight, sent to get dessert. Returns to find Gal gone. Tries to help Adam understand: "Gal's just scared... of getting hurt" / "Tomorrow will be better." When Adam snaps about his job ("Nothing important"), steps back hurt: "Okay. Jeez." Walks away quickly despite Adam calling after him. Young and optimistic but wounded by Adam's anger.
 

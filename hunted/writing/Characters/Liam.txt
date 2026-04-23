@@ -147,13 +147,13 @@ sinks into side below ribs
 - **Weapons**: Now has Bobby's shotgun (extended magazine)
 
 ### Scene 19 - The Escape
-- **Status**: MINIMAL ARMOR
+- **Status**: MINIMAL ARMOR → HELMET LOST
 - **Torso**: Chest/back plates still present (stopped arrow in Scene 18)
 - **Arms**: Upper arm plates only, forearms bare
-- **Legs**: LEFT THIGH now exposed—takes arrow wound. Shin guards remain
-- **Head**: Helmet on, helps in final struggle
-- **Actions**: Blows attic hatch lock off with shotgun, pursues Sarah into attic
-- Most mobility-restricting pieces already removed
+- **Legs**: Shin guards remain, thighs exposed
+- **Head**: Helmet LOST mid-fight—cabinet trap dents it over eyes, rips it off. First time unprotected head is seen.
+- **Actions**: Uses shotgun as club (out of ammo), disarmed by Sarah's candlestick. Grabs screwdriver from cabinet debris.
+- **Injuries**: Screwdriver stab to Sarah's side, candlestick blow to collarbone. Both take worst injuries of the film.
 
 ### Scene 20 - The Crawling Struggle
 - **Status**: ARMOR REMOVED
@@ -212,8 +212,11 @@ Eli's arrow deflects off chest armor. Fight on landing—Eli wounds him with kni
 blast to thigh. Eli's dying words hit something: "You aren't a man." Kills him viciously with knife: "Not even worth the
 effort" (but voice is tight—it stung). Races Sarah for open doors, blocks her. Sarah maces him, retreats. Kicks down
 bedroom door, shoots off attic hatch lock: "But the lock is store-bought. Amateur mistake."
-- **Act 3, Scene 19: The Escape** - Girls wait in secret room. Liam about to throw Sarah down passage, she yells for
-girls to run. Girls open secret door, scream at scene—distracts Liam. Sarah uses momentum to push both down shaft (3
-stories). Sarah dies from fall (Liam's grip on her neck). Liam very hurt.
-- **Act 3, Scene 20: The Crawling Struggle** - Girls escape via step ladder from secret room. Liam removes last of armor,
-walks out. Police arrive. Ties Hank's blackbelt around head, does suicide-by-cop: "BANG BANG." Shot dead.
+- **Act 3, Scene 19: The Escape** - Sarah turns fully unleashed—disarms his shotgun with candlestick, drives him into
+cabinet trap. Box of sharp objects crashes on him, forces helmet off. Grabs screwdriver, brutal exchange—both take worst
+injuries. Overpowers Sarah at shaft edge: "Nowhere left to go." Strangles her. Girls scream from below—distracted. Sarah
+pulls them both into shaft. Three-story fall. Sarah dies (neck broken from fall + his grip). Liam survives—barely.
+Removes last armor, limps out.
+- **Act 3, Scene 20: The Crawling Struggle** - Walks out of burning house. Police arrive (girls called 911). Ties Hank's
+blackbelt around head as trophy/crown. "One more challenge." Shapes hands into finger guns at officers: "BANG BANG."
+Suicide-by-cop. Shot dead.

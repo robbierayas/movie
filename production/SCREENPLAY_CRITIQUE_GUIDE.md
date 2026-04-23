@@ -139,6 +139,70 @@ Different relationships require different dialogue approaches:
 - Jabs disguised as politeness
 - What's NOT said matters more
 
+#### Dialogue Deep Critique — Line-Level Analysis
+
+The critique must not stop at "dialogue is lean" or "voices are distinct." Those are surface observations. The following tests should be applied **to specific lines and exchanges**, with examples quoted from the script.
+
+##### The Swap Test
+
+Take any line of dialogue. Put it in another character's mouth. If it still works, the line has no voice. This test must be applied to EVERY character with more than a few lines, and the critique must cite specific examples of lines that pass or fail.
+
+**When flagging:** Quote the line, name whose mouth it's in, name who else could say it. If the answer is "anyone," mark it **[SWAP]**.
+
+##### The Delete Test
+
+Take any line of dialogue. Delete it. Does the scene still work? If yes, the line is filler — it exists because the writer felt the scene needed more words, not because the character needed to speak.
+
+Lines survive the delete test when they:
+- Change another character's behavior (what they do next is different because of this line)
+- Reveal something that couldn't be shown any other way
+- Shift the power dynamic in the conversation
+- Create a question the audience holds onto
+
+**When flagging:** Quote lines that could be deleted without loss as **[DELETE]**. Be specific about why the line adds nothing — "this restates what we already know," "this is agreement that doesn't advance anything," "this fills silence but reveals nothing."
+
+##### The "What Do They Want" Test
+
+In every conversation, each character wants something — even if it's just to be left alone, to avoid a topic, or to seem normal. Dialogue fails when characters are just *talking* without wanting anything.
+
+For each exchange of 5+ lines, the critique must identify:
+- What does Character A want from this conversation?
+- What does Character B want?
+- Where do those wants collide, and is that collision visible in the dialogue?
+
+If the answer to any of these is unclear, the exchange needs work. Mark as **[WANT]** with a note on which character's objective is missing.
+
+##### Subtext vs. No-Text
+
+There's a difference between subtext (meaning beneath the words) and dialogue that's simply empty. Lean dialogue is not automatically good dialogue. A character saying "Yeah" can be loaded with meaning or it can be nothing.
+
+The critique must distinguish:
+- **Loaded brevity** — short lines where what's unsaid is the point. The context, the relationship, and the moment make the line heavy. The audience fills in what the character won't say.
+- **Empty brevity** — short lines that are just... short. Nothing beneath them. The character says "Yeah" because the writer needed a response, not because the character is choosing not to say more.
+
+**The test:** What is the character *choosing not to say*? If you can answer that, it's subtext. If you can't, it's empty. Mark empty brevity as **[SUBTEXT]**.
+
+##### Conversation Shape
+
+Most bad dialogue is a flat line — same energy from start to finish. Good conversations have a shape. They start somewhere and end somewhere different.
+
+The critique should track the emotional trajectory of each major exchange:
+- Where does the conversation start emotionally?
+- Where does it end?
+- What's the turn — the moment it shifts?
+
+If a conversation starts and ends at the same emotional temperature, either it's too short to need a shape or something is missing. Mark flat conversations as **[SHAPE]** — "this exchange starts tense and ends tense with no movement between."
+
+##### Information Delivery
+
+Every scene has information the audience needs. The question is whether it arrives through character behavior or through the writer's need to communicate.
+
+**Character-driven information:** A character reveals something because THEY need to — to persuade, to confess, to manipulate, to impress. The information serves the character's goal in the conversation.
+
+**Writer-driven information:** A character says something because the AUDIENCE needs to know it. The character has no personal reason to say this right now, to this person, in this way.
+
+Mark writer-driven information as **[INFO]** — quote the line and note what the character's motivation is supposed to be for saying it. If you can't find one, it's exposition wearing a costume.
+
 #### What Makes Dialogue Entertaining
 
 Dialogue entertains when it has:
@@ -218,6 +282,98 @@ Professional script coverage uses these standard ratings:
 - ~95% of scripts receive a Pass
 - ~4% receive a Consider
 - ~1% receive a Recommend
+
+### What Separates "Strong Consider" from "Recommend"
+
+A Strong Consider means "this is good, no major problems." A Recommend means "I need to tell someone about this right now." The gap is not about fixing problems — it's about the presence of things that can't be taught. The critique should explicitly evaluate whether these qualities exist and where they're missing.
+
+#### 1. Writer's Voice — The Reason Managers Sign Writers, Not Scripts
+
+Managers and agents aren't looking for a good script. They're looking for a writer they can build a career around. Voice is the thing that makes a reader think "I need to read everything this person writes."
+
+**What voice looks like on the page:**
+- Action lines that have a personality, not just information. Compare: "He walks to the door" vs. "He's at the door before he decides to be." The second one has a point of view.
+- Observations that only this writer would make. Specific, odd, precise details that reveal how the writer sees the world.
+- A consistent sensibility across scenes — dark humor, clinical detachment, nervous energy, whatever it is. The script *feels* like someone specific wrote it.
+
+**What to flag:** If you could swap this script's action lines with another competent script's action lines and nobody would notice, the voice isn't there yet. Mark sections where the writing goes flat/generic as **[VOICE]**.
+
+#### 2. The First Ten Pages — Where 90% of Scripts Die
+
+Industry readers decide in the first ten pages whether they're reading a script or doing homework. This isn't cynicism — it's volume. A manager getting 50 scripts a week cannot give each one 110 pages of patience.
+
+**The first ten pages must:**
+- Establish tone unmistakably — the reader should know what kind of movie this is
+- Introduce at least one character the reader wants to follow (not "like" — *follow*)
+- Create a question the reader needs answered
+- Demonstrate that the writer can write (voice, not just competence)
+
+**What to flag:** If the first ten pages are setup that "pays off later," that's a problem. The first ten pages ARE the audition. They must work on their own terms, not as a promise. Rate the first ten pages separately: would a reader keep going if they had 49 other scripts on the desk?
+
+#### 3. Specificity — Behavioral, Not Production
+
+Specificity is NOT about production details. Describing set dressing, prop brands, or camera-ready visuals is overwriting — that's the director's job. A lean screenplay should be dialogue and action, nothing more.
+
+What matters is **behavioral specificity** — characters doing things that only THEY would do in that moment. This is the difference between a character who exists on paper and one a reader believes is real.
+
+**Generic behavior:** "Liam is angry but hides it."
+**Specific behavior:** "Liam pretends to look the other direction and reaches for his rag."
+
+**Generic dialogue:** "You're in danger, be careful."
+**Specific dialogue:** Only this character, with this history, would say it this way — wrong words, deflections, half-truths that reveal more than a direct statement would.
+
+Specificity lives in:
+- **Choices** — what a character decides to do when they could do anything. The less obvious the choice, the more it reveals.
+- **Reactions** — not the expected emotional response, but the one that's true to this person. Some people laugh when they're scared. Some go quiet when they're furious.
+- **Dialogue patterns** — how a character avoids a topic, what they circle back to, what they never say directly.
+- **Behavioral habits** — the physical things a character does that nobody told them to do. Not described for the camera, but because it IS the character.
+
+**What NOT to flag:** Minimal scene descriptions, lack of prop/set detail, sparse action lines. A screenplay that trusts production to fill in the visual world is showing restraint, not laziness.
+
+**What to flag:** Mark moments where character behavior is generic or interchangeable — where any character could do what this character does — as **[SPECIFIC]**. The fix is never to add more description. It's to find the choice or reaction that only this person would have.
+
+#### 4. Unpredictability Within Logic
+
+Good scripts are logical. Great scripts are logical AND surprising. The reader should never be able to predict the next line of dialogue or the next story beat, but in retrospect every choice should feel inevitable.
+
+**What this means practically:**
+- If a scene is going where the reader expects, something is wrong. Either the scene is unnecessary (we already know the outcome) or it needs a turn.
+- Characters should make choices that are *true* to them but not *obvious*. The question isn't "what would a person do?" but "what would THIS person do that we didn't see coming but immediately believe?"
+- Plot mechanics should feel discovered, not engineered. If you can see the writer's hand moving pieces into position, the machinery is showing.
+
+**What to flag:** Mark any moment where the reader can predict what happens next as **[PREDICTABLE]**. Also flag moments that are surprising but don't feel earned — surprise without logic is just randomness.
+
+#### 5. Emotional Specificity vs. Emotional Indication
+
+Competent scripts indicate emotions: "she's sad," "he's angry," "tension fills the room." Scripts that get people signed evoke specific emotional textures that don't have clean labels.
+
+**Indication:** "Liam is angry but hides it."
+**Specificity:** "Liam keeps wiping the same spot on the counter. It's already clean."
+
+The difference: indication tells the reader what to feel. Specificity lets the reader discover it. Discovery is what makes a reader feel like the writer is good — because the reader did the work and it paid off.
+
+**What to flag:** Mark emotional shorthand as **[EMOTION]** — moments where the script tells us what a character feels instead of showing us the specific behavior that reveals it.
+
+#### 6. The "Only You" Test
+
+The ultimate question for every scene, every line, every choice: could someone else have written this? If the answer is yes, it's replaceable. Replaceable writing doesn't get people signed.
+
+This isn't about being weird for the sake of it. It's about whether the writer brought something to the page that came from their specific life, perspective, obsessions, and way of seeing. A dad story that could be any dad isn't interesting. A dad story that could only be THIS dad, told by someone who clearly knows a specific version of this man — that's voice.
+
+**What to flag:** **[ONLY YOU]** — mark scenes or lines that feel like they could exist in any script about this genre/subject. These are the places where the writer defaulted to convention instead of digging into their own experience.
+
+### Rating Calibration
+
+When assigning a rating, use this calibration:
+
+| Rating | Problems | Voice | Behavioral Specificity | Unpredictability | First 10 Pages |
+|--------|----------|-------|----------------------|------------------|----------------|
+| **Pass** | Major structural/character issues | Generic | Characters are interchangeable | Predictable | Reader stops |
+| **Consider** | Minor issues, fundamentals work | Glimpses | Some characters feel distinct | Some surprises | Reader continues cautiously |
+| **Strong Consider** | Few/no issues, well-executed | Present but uneven | Most characters make specific choices | Regularly surprising | Reader engaged |
+| **Recommend** | Issues exist but don't matter because the writing is that good | Unmistakable throughout | Every character feels like a real person the writer knows | Reader can't predict but always believes | Reader cancels lunch |
+
+**Critical note:** A Recommend is NOT a script with zero problems. It's a script where the voice and specificity are so strong that problems become notes for a rewrite, not reasons to pass. Managers don't sign perfect scripts. They sign writers who make them feel something they haven't felt before.
 
 ---
 
@@ -309,6 +465,7 @@ Professional script coverage uses these standard ratings:
 - All characters have same voice
 - Dialogue that doesn't reveal character
 - Too much talking, not enough action
+- AI-generated voice: lines that are polished but synthetic (see Authenticity Problems section)
 
 ### Pacing Issues
 - Slow opening that loses the reader
@@ -333,6 +490,24 @@ When character actions contradict fundamental human behavior, the audience stops
 1. **Establish the exception** - Show why this character would act differently than expected ("Kids are already safe with my sister")
 2. **Acknowledge the contradiction** - Have other characters question it ("What about your children?") forcing the character to justify
 3. **Use the contradiction** - Make it a character flaw that has consequences
+
+### AI-Generated Voice (Authenticity Problems)
+
+AI-assisted writing creates a specific failure mode: lines that are competent but *synthetic*. They read as "written" rather than "spoken" or "lived." A human critic or reader will detect this even if they can't articulate why. These lines damage credibility more than bad writing does, because bad writing can be raw and honest while synthetic writing is polished and hollow.
+
+**Red flags to identify:**
+
+- **Too-perfect anecdotes** — Stories with clean setup/punchline structure, no tangents, no false starts. Real people meander, interrupt themselves, skip details they assume you know.
+- **Stock similes and metaphors** — Comparisons that feel generated rather than observed ("like a trophy marlin," "like a surgeon with a scalpel," "eyes like a hawk"). If the comparison could appear in any story about any character, it's generic.
+- **Engineered warmth** — Moments designed to make the audience feel something specific (cute kid stories, noble sacrifices, wry humor) that don't emerge from the specific character and situation. The question: does this feel like something THIS person would say, or something a writer constructed to produce an emotion?
+- **Uniform eloquence** — Every character expresses themselves clearly and articulately. Real people are often bad at saying what they mean. A truck driver doesn't frame his anecdotes the same way a professor does.
+- **Absence of the specific** — AI defaults to plausible generalities. Real dialogue has weird specifics: brand names, mispronounced words, wrong details confidently stated, references only some people would get.
+- **Symmetrical exchanges** — Dialogue where each character's lines are roughly the same length and weight, trading back and forth evenly. Real conversations are lopsided — one person dominates, the other gives half-responses, someone trails off.
+- **Thematically convenient dialogue** — Characters who say things that perfectly serve the story's themes rather than their own needs in the moment.
+
+**The test:** Read the line out loud. Does it sound like something you'd overhear at a bar, a store, a family dinner? Or does it sound like it was *written to sound like* something you'd overhear? The difference is everything.
+
+**When flagging:** Mark these lines as **[AUTHENTICITY]** and note specifically what makes them feel synthetic. The fix is almost always: replace the generated line with something the writer has actually heard, experienced, or can imagine a specific real person saying.
 
 ---
 
@@ -418,6 +593,13 @@ Use this checklist when reviewing a screenplay:
 - [ ] Is exposition handled gracefully?
 - [ ] Is there effective subtext?
 - [ ] Does dialogue advance plot or reveal character?
+- [ ] Are there lines that feel AI-generated or synthetic? (too-perfect anecdotes, stock metaphors, engineered warmth)
+- [ ] **Swap test applied:** Are specific lines cited that could belong to any character?
+- [ ] **Delete test applied:** Are specific lines cited that could be removed without loss?
+- [ ] **Want test applied:** Does each major exchange identify what both characters want?
+- [ ] **Subtext vs. empty:** Are brief lines loaded or just short?
+- [ ] **Conversation shape:** Do major exchanges have an emotional arc, or are they flat?
+- [ ] **Information delivery:** Is exposition motivated by character need or writer need?
 
 ### Visual Storytelling
 - [ ] Does it "show" more than "tell"?
@@ -432,6 +614,14 @@ Use this checklist when reviewing a screenplay:
 - [ ] Proper screenplay format?
 - [ ] Appropriate page count for genre?
 - [ ] Clean, readable pages?
+
+### Recommend-Level Qualities
+- [ ] Is there a distinct writer's voice in the action lines? Could you identify this writer from the prose alone?
+- [ ] Do the first ten pages work as a standalone audition? Would a reader with 49 other scripts keep going?
+- [ ] Are character behaviors and choices specific to them, or could any character make the same moves?
+- [ ] Are there moments of genuine unpredictability that still feel inevitable?
+- [ ] Does the script show emotion through specific behavior rather than indication?
+- [ ] Does the script pass the "only you" test — could someone else have written this?
 
 ### Overall
 - [ ] Would you watch this movie?

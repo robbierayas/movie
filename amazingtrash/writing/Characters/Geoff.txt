@@ -1,7 +1,7 @@
 # GEOFF
 
 ## BASIC INFORMATION
-- **Full Name**: Geoff (last name likely public but not revealed in screenplay - CEO privacy)
+- **Full Name**: Geoff Bozaux
 - **Age**: 40s to 50s (established billionaire)
 - **Class Status**: Standard (ultra-wealthy billionaire)
 - **Occupation**: CEO of Amazing Company
@@ -58,6 +58,12 @@ Arc Type: Flat Arc (villain) - He doesn't change. He remains untouchable and pro
 - **Casual cruelty**: Announces murders matter-of-factly ("Had an opportunity. You know how it is"). No guilt or apology.
 - **False camaraderie**: Encourages Adam like a friend ("There you go! See? You're having fun") while setting trap. Makes manipulation feel like bonding.
 - **Playful torture**: Makes degrading commands sound lighthearted ("Maybe a kiss will wake him" / "True love's kiss. Classic"). Weaponizes fairy tale references. Enjoys Adam's horror.
+- **Entertainment framing**: Treats murder as a performance to be rated ("Five stars? Three stars?"). Asks witnesses for reviews as if soliciting audience feedback. Genuinely delighted by the spectacle of death.
+- **Pseudo-logical philosophy**: Constructs seemingly rational arguments for murder ("if they can't pay to protect themselves... their lives must not be important to them"). Treats monstrous logic as self-evident truth. Believes his own arguments completely.
+- **Class contempt as wit**: Uses poverty as material for jokes ("Wrong district for scavenging, friend. The rich don't throw out anything good"). Finds class disparity genuinely amusing, not performatively cruel — the humor is natural to him.
+- **Self-deprecating about physical weakness**: Cheerfully admits inadequacy ("actual violence requires upper body strength... Who knew?"). Finds own weakness funny because Moosk compensates. No ego about it — treats it as comedy, not shame.
+- **Delegating all risk**: Dumps consequences onto Adam with casual orders ("Your problem now! Figure it out") then leaves for mundane activities ("I'm hungry"). Complete emotional detachment from the mess he creates.
+- **Soliciting expertise for murder**: Casually asks Adam for killing suggestions ("Maybe you have suggestions? Chemistry expert and all?"). Treats it like asking a contractor for design ideas. Unfazed by refusal.
 - **Power lectures**: Explains his philosophy while Adam suffers ("That's the thing about power... It's about what people won't do"). Treats Adam's degradation as teaching moments.
 
 ## KEY SCENES
@@ -66,9 +72,9 @@ Arc Type: Flat Arc (villain) - He doesn't change. He remains untouchable and pro
 
 **Act 1, Scene 2: The Offer** - Orders Moosk to kill Adam ("Can't have witnesses"), stops when Adam offers disposal services. Intrigued by chemistry knowledge. Mocks Adam's moral line about not helping with killing ("You have MORALS about this!"). Takes incriminating photo as "insurance". Gives Adam business card for payment if job is done well. Casual about the arrangement ("Fresh is easier than ripe").
 
-**Act 1, Scene 5: The Deal** - Pays Adam $25,000 ("Pocket change. Rounding error" to him, life-changing to Adam). Reveals killing psychology: "Didn't use to like it so much. Had nightmares. Guilt" but now kills for fun "Without worry or guilt... might as well do it." Compares killing to hobby: "Some people collect art, I collect experiences." Offers ongoing arrangement. Condescendingly gives Adam $500 for shower. Tries to shake hands as "partners" but Adam refuses.
+**Act 1, Scene 5: The Deal** - Pays Adam $5,000 ("Pocket change. Rounding error" to him, life-changing to Adam). Jokes "If I'm paying you, I definitely don't want to see you." Reveals killing psychology: "Didn't use to like it so much. Had nightmares. Guilt" but now kills for fun "Without worry or guilt... might as well do it." Compares killing to hobby: "Some people collect art, I collect experiences." Offers ongoing arrangement. Condescendingly gives Adam $100 for shower: "You can afford them now." Tries to shake hands as "partners" but Adam refuses.
 
-**Act 1, Scene 6: The Moosk Special** - Beating suspended victim with pathetically weak punches, frustrated by physical weakness ("Heh-heh-heh... pathetic"). Reveals "Moosk did the real work. I mostly supervised." Orders Moosk to demonstrate proper punch. Victim was business rival threatening to expose "financial irregularities." Casual about violence: "Actual violence requires upper body strength... Who knew?" Asks Adam for chemistry suggestions for easier killing methods.
+**Act 1, Scene 6: The Moosk Special** - Beating suspended victim with pathetically weak punches, frustrated by physical weakness ("Heh-heh-heh... pathetic"). Admits "Me? Not much, honestly. Moosk did the real work." Orders Moosk to finish victim: "Make sure he's dead." Delighted by Moosk's killing punch: "See! THAT'S a punch! Another successful collaboration!" Casual about violence: "Actual violence requires upper body strength... Who knew?" Asks Adam for chemistry suggestions for easier killing methods.
 
 **Act 1, Scene 8: The Public Kill** - Kills in public plaza with witnesses, phones filming, security cameras everywhere. Cheerful, unconcerned when Adam arrives ("Perfect timing!"). Dismissive of difficulty: "I was in the area. Opportunity presented itself." Leaves body with Adam: "Your problem now! Figure it out." Walks away casually with Moosk ("I'm hungry"). Escalating recklessness.
 

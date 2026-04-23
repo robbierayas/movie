@@ -1,154 +1,60 @@
 # SCENE 2 - THE OFFER
 
-## Scene Heading
+## LOCATION
 EXT. CITY STREET - ALLEY - NIGHT (CONTINUOUS)
 
-## Characters
+## CHARACTERS
 - ADAM
 - GEOFF
 - MOOSK
 
-## Tone
-Tense negotiation, desperate survival
+## SCENE LAYOUT
 
-## Key Beats
+### Opening
+Continuation from Scene 1 - Adam has offered to help get rid of the body, Geoff is intrigued. Tense negotiation, desperate survival tone. Moosk has Adam by the arm.
 
-1. THE THREAT: Geoff and Moosk move to kill Adam
-   - Geoff signals Moosk
-   - "Can't have witnesses"
-   - Casual about eliminating Adam
-   - Moosk advances
-
-2. PANIC: Adam tries to escape
-   - Runs for alley exit
-   - Moosk blocks escape easily
-   - Inhuman speed and precision
-   - Adam cornered, terrified
-
-3. DESPERATE OFFER: Adam offers to dispose of body
+### Key Beats
+1. DESPERATE OFFER: Adam offers to dispose of body
    - Blurts it out in panic
    - "I can get rid of it! The body!"
    - Geoff pauses, intrigued
    - "And why would I trust you?"
 
-4. THE PITCH: Adam leverages his knowledge
+3. THE PITCH: Adam leverages his knowledge
    - Mentions chemistry background
    - Access to railyard's hidden areas
    - Can dissolve body completely
    - No evidence, no trace
 
-5. THE LINE: Adam refuses to help kill
+4. THE LINE: Adam refuses to help kill
    - "Only disposal. I won't help you kill."
    - Geoff finds this amusing
    - "So you have morals... interesting"
    - Titter laugh
 
-6. THE DEAL: Geoff accepts
+5. THE DEAL: Geoff accepts
    - Takes picture of Adam with the body
    - "Insurance policy"
    - "If it works out, come get paid later"
    - Gives Adam an address/contact method
    - Geoff and Moosk leave
 
-7. ALONE: Adam with the body
-   - Realizes what he's agreed to
-   - Looks at the body
-   - No choice now - has to follow through
-   - Begins dragging it away
-
-## Visual Elements
-- Moosk's threatening robotic presence
-- Adam's desperation and fear
-- The photograph - Adam's face with body
-- Geoff's casual cruelty
-- Body on the ground
+### Character Moments
+- Adam: Panicked offer reveals his chemistry knowledge and resourcefulness under pressure. Draws a moral line - won't help kill, only dispose. Desperate but principled. His face goes pale seeing the incriminating photo.
+- Geoff: Amused by Adam's "morals," manipulative. Sudden shifts between cheerful and threatening. The titter laugh punctuates his cruelty. Takes the photo as "insurance" - casual threat. Establishes leverage over Adam.
+- Moosk: Minimal speech, robotic efficiency. Threatening presence - cold metal fingers, steel clamp grip. Mechanical warning through tightening grip.
+- The photograph of Adam with the body - damning composition
 - Dark alley, limited escape routes
+- End of setup, beginning of Act 1 - the deal that changes everything. Adam crosses moral line (helping murderer). Point of no return - Adam commits.
 
-## Dialogue Notes
-- Adam's panicked offer
-- Geoff's amusement at Adam's "morals"
-- Establish Geoff's manipulation
-- Moosk's minimal speech (robotic efficiency)
-- The titter laugh punctuation
-- Geoff's casual threat: "Insurance"
-
-## Purpose
-- Establish the arrangement/deal
-- Show Adam's chemistry knowledge
-- Establish his moral line (won't kill, only dispose)
-- Geoff gains leverage (the photo)
-- Point of no return - Adam commits
-- Set up the central conflict
-
-## Story Position
-- End of setup, beginning of Act 1
-- The deal that changes everything
-- Adam crosses moral line (helping murderer)
-
-## Transitions
-- IN: Continuation from Scene 1 (caught)
-- OUT: Adam alone with body → must dispose of it (Scene 3)
+### Closing
+Adam alone with the body. Realizes what he's agreed to. Looks at the body. No choice now - has to follow through. Begins dragging it away. Adam alone with body leads to disposal (Scene 3).
 
 ---
 
-## SCREENPLAY
+## FULL SCRIPT
 
 EXT. CITY STREET - ALLEY - NIGHT (CONTINUOUS)
-
-Adam stands frozen in Moosk's grip, staring at Geoff. The body lies motionless on the pavement between them. Blood pools
-on concrete.
-
-Geoff examines Adam with detached curiosity, like a scientist observing an insect.
-
-Geoff, sighing.
-
-                    GEOFF
-          Well. This is unfortunate.
-          (to Moosk)
-          Can't have witnesses wandering around. You know the drill.
-
-Moosk's grip shifts on Adam's arm, moving toward his throat.
-
-Adam, panicking.
-
-                    ADAM
-          Wait - WAIT!
-
-Geoff, dismissive.
-
-                    GEOFF
-          Nothing personal. Just tidying up.
-
-Adam struggles against Moosk's hold but the robot's strength is absolute. Cold metal fingers close around his neck.
-
-Adam, desperate, choking.
-
-                    ADAM
-          I can - I can help!
-
-Geoff pauses. Holds up a hand. Moosk stops immediately, fingers still wrapped around Adam's throat but not squeezing.
-
-Geoff, amused.
-
-                    GEOFF
-          Help? You?
-
-Adam, gasping.
-
-                    ADAM
-          The body - I can get rid of it -
-
-Geoff tilts his head, suddenly interested.
-
-                    GEOFF
-          Really.
-          (circling Adam)
-          And why exactly would you do that?
-
-Adam, desperate.
-
-                    ADAM
-          Because you'll kill me if I don't!
 
 Geoff laughs.
 
@@ -167,33 +73,30 @@ Adam's eyes dart between Geoff, Moosk, and the alley exit. His mind races.
 That gets Geoff's attention. He stops pacing.
 
                     GEOFF
-          Chemistry training. How... specific.
+          Chemistry training. How... generic.
           (leaning closer)
           What kind of training?
 
 Adam, stammering.
 
                     ADAM
-          University. Research. I - it doesn't matter. I know how to break down organic material. Make it disappear.
+          University. Research. I used to - it doesn't matter. I know how to break down organic material. Make it disappear.
 
                     GEOFF
           And where would you do this miraculous disappearing act?
 
                     ADAM
-          The railyard settlement. Underground. I have access to spaces nobody else knows about.
+          The railyard. Tracktown. Underground. I have access to spaces nobody else knows about.
 
-Geoff considers this. His expression shifts from amused to calculating.
-
-Geoff, thoughtful.
+Geoff considers this. His expression shifts from amused to calculating. Geoff, thoughtful. Then back to amused.
 
                     GEOFF
-          Hidden spaces. Chemistry equipment. Knowledge nobody's looking for in a homeless chemist.
           (titter laugh)
           Heh-heh-heh.
           (to Adam)
           You might actually be useful.
 
-He nods at Moosk. The robot releases Adam's throat but maintains a grip on his arm.
+He nods at Moosk. The robot loosens its grip on Adam's arm but doesn't let go.
 
 Adam gasps for air, rubbing his neck.
 
@@ -226,12 +129,21 @@ Adam, defensive.
                     ADAM
           Yes.
 
-Geoff, still amused.
+Geoff, without emotion.
 
                     GEOFF
-          Interesting. You're an interesting person, homeless chemistry man.
-          (sudden shift to business)
-          Fine. Disposal only. I'm very good at the killing part anyway.
+          Well, everyone has a price.
+
+Geoff, back to amused.
+
+                    GEOFF
+          Interesting. You're an interesting person, Mister..?
+
+                    ADAM
+          Adam.
+
+                    GEOFF
+          Mr. Adam! Fine. Disposal only. I'm very good at the killing part anyway.
 
 Geoff pulls out his phone. Holds it up.
 
@@ -249,16 +161,16 @@ blood on the ground.
 Geoff, cheerful.
 
                     GEOFF
-          Insurance! In case you get any ideas about going to the authorities.
+          Insurance! Can never have too much.
           (shows phone)
-          See? Crystal clear. You, with a dead body, in an alley. Very incriminating.
+          See? Crystal clear. Very incriminating.
 
 Adam stares at the photo. His face goes pale.
 
 Geoff (cont'd), pocketing phone.
 
                     GEOFF (CONT'D)
-          Now! Dispose of my little problem. If you do a good job-
+          Now! Dispose of my little problem. If you can actually do it-
           (pulls out a business card)
           -come see me here. I'll pay you. We'll see about future opportunities.
 
@@ -266,10 +178,10 @@ He holds out the card. Adam doesn't move.
 
 Moosk's grip tightens. A warning.
 
-Adam slowly takes the card. Looks at it. An address in the wealthy district.
+Adam slowly takes the card. Looks at it. An address in the wealthy district. An autocar arrives at the end of the alley.
 
                     GEOFF (CONT'D)
-          Don't disappoint me! I hate being disappointed.
+          This autocar will take you home so you aren't seen. Don't disappoint me! I hate being disappointed.
           (titter laugh)
           Heh-heh-heh.
 
@@ -319,3 +231,6 @@ But he doesn't stop.
 He can't stop now.
 
 FADE TO BLACK.
+
+## Production Notes
+[Placeholder for production considerations]

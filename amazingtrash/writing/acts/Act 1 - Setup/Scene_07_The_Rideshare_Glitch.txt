@@ -1,17 +1,19 @@
 # SCENE 7 - THE RIDESHARE GLITCH
 
-## Scene Heading
+## LOCATION
 INT. AMAZING COMPANY AUTO-CAR (RIDESHARE POOL) - NIGHT
 
-## Characters
+## CHARACTERS
 - ADAM
 - BODY (from Scene 6, with broken hands)
 - STANDARD CLASS PASSENGER
 
-## Tone
-Comedic/Horror - dark humor with underlying tension
+## SCENE LAYOUT
 
-## Key Beats
+### Opening
+Adam calls for a private auto-car to transport the damaged body from Scene 6. The system glitches and assigns a rideshare pool instead, trapping Adam with a corpse and an incoming passenger. Tone is comedic/horror - dark humor with underlying tension.
+
+### Key Beats
 
 1. THE ORDER: Adam calls for auto-car
    - Uses Amazing Company app
@@ -42,9 +44,9 @@ Comedic/Horror - dark humor with underlying tension
 5. THE QUESTION: Passenger asks about "friend"
    - "Is your friend okay?"
    - Looks at the body
-   - Adam: "Yeah, he was in a fight earlier"
-   - "But he was talking, so he's okay"
-   - Passenger concerned but accepting
+   - Adam: "Yeah. He's fine. Just... tired"
+   - Marcus: "Rough night?"
+   - Adam: "You have no idea"
 
 6. THE MOVEMENT: Head moves weird
    - Body shifts as car turns
@@ -85,10 +87,10 @@ Comedic/Horror - dark humor with underlying tension
     - Adam keeps laughing, terrified
 
 12. THE URGENT CARE: Changing destination
-    - Adam: "Actually, he sounds pretty bad"
-    - "Maybe we should go to urgent care instead"
-    - Changes destination on app
-    - Passenger nods, understanding
+    - Marcus suggests: "Maybe you should take him to urgent care?"
+    - Adam grabs the out: "You know what? You're right"
+    - Changes destination on app to Mercy Urgent Care
+    - Marcus relieved to have helped
 
 13. THE EXIT: Passenger gets off early
     - "This is me! Good luck with your friend"
@@ -102,64 +104,29 @@ Comedic/Horror - dark humor with underlying tension
     - Closest call yet
     - Dark comedy of the situation sinks in
 
-## Visual Elements
-- Cramped rideshare auto-car interior
-- Body's damaged condition (from Moosk)
-- Passenger's growing unease
-- Adam's desperate improvisation
-- The uncomfortable comedy of three in back seat
-- Auto-car display showing rideshare pool
-- City lights passing by windows
+### Character Moments
+- Passenger (Marcus) established as a normal, friendly person - contrast with Adam's nightmare situation
+- Adam's desperate improvisation: the fake pulse check, the ventriloquized snore - shows resourcefulness under pressure
+- Adam's terse, nervous responses versus Marcus's friendly small talk - the absurd comedy of maintaining normalcy
+- Comedic relief after Scene 6's horror while humanizing Adam through desperation
+- Shows the rideshare pool system as another way the world's automation creates problems
 
-## Dialogue Notes
-- Passenger's friendly small talk
-- Adam's terse, nervous responses
-- The ventriloquized snore (absurd humor)
-- Nervous laughter from both
-- Establish passenger as normal person
-- Contrast with Adam's situation
-
-## Purpose
-- Comedic relief after Scene 6's horror
-- Show Adam's resourcefulness under pressure
-- Another close call raising stakes
-- Dark humor balancing the horror
-- Show the rideshare pool system
-- Humanize Adam through desperation
-
-## Story Position
-- Mid-Act 1, after major horror
-- Before next escalation
-- Shows Adam can handle unexpected problems
-- Builds confidence (false) before things get worse
-
-## Transitions
-- IN: From Scene 6 (damaged body from Moosk)
-- OUT: Adam continues to disposal → Scene 8 (Public Kill)
+### Closing
+Marcus exits quickly, clearly unsettled. Adam exhales, changes destination back to the disposal site, and the dark comedy crashes down - he made a snoring sound at a corpse. Another close call, another line crossed. Leads to Scene 8 (Public Kill) as Adam continues deeper into disposal work.
 
 ---
 
-## SCREENPLAY
+## FULL SCRIPT
 
 EXT. WAREHOUSE - NIGHT
 
 Adam drags the wrapped body to the curb. Sets it down carefully. The body slumps against him like a drunk friend.
 
-He pulls out his phone. Opens the Amazing Company transport app.
+The auto-car is waiting but the door doesn't open. He pulls out his phone. Opens the Amazing Company transport app.
 
-Selects: "PRIVATE TRANSPORT - DISPOSAL SITE"
+Selects: "PRIVATE TRANSPORT - TRACKTOWN"
 
-The screen loads. Then:
-
-"SEARCHING FOR AVAILABLE VEHICLE..."
-
-Adam waits, supporting the body's weight.
-
-"RIDE ASSIGNED - ARRIVING IN 2 MINUTES"
-
-An auto-car approaches. Sleek, clean. Stops in front of Adam.
-
-Adam starts to load the body into the back seat --
+The door opens. Adam loads the body into the back seat and sits next to it --
 
 The car display lights up: "RIDESHARE POOL ACTIVE"
 
@@ -172,23 +139,18 @@ Adam, whisper.
 
 He checks his phone. The app shows: "RIDESHARE POOL - SAVE 40%"
 
-It defaulted to pool mode. He didn't catch it.
-
 Adam (cont'd), desperately tapping phone.
 
                     ADAM (CONT'D)
           Cancel. Cancel!
 
-But the body's already in the car. And another passenger icon appears on the app map - approaching fast.
+But the body's already in the car. And another passenger icon appears on the app map.
 
-Too late.
-
-Adam gets in beside the body. Door closes automatically.
+Too late. Door closes automatically.
 
 INT. AUTO-CAR (RIDESHARE POOL) - NIGHT
 
-Adam sits rigid. The body slumps against him, head lolling forward. The wrapping makes it look like a person in bulky
-clothes.
+Adam sits rigid. The body slumps against him, head lolling forward. Adam adjusts their body position and clothes to hide the injuries.
 
 The car display shows: "PICKING UP PASSENGER 2 - MARCUS K."
 
@@ -271,7 +233,7 @@ The car turns a corner. The body shifts, head lolling to the side unnaturally.
 Marcus notices. His smile fades.
 
                     MARCUS (CONT'D)
-          Whoa... his head moved weird. Is he okay?
+          Whoa... Is he okay?
 
 Adam, too fast.
 
@@ -335,12 +297,7 @@ Adam laughs.
                     ADAM
           See? Just sleeping it off!
 
-He forces another laugh. It sounds hysterical.
-
-Adam (cont'd) laughs.
-
-                    ADAM (CONT'D)
-          He always snores like that when he's drunk!
+He forces another laugh. It sounds like Geoff's titter.
 
 Marcus stares. Then - slowly - starts to laugh too. Uncertain, but willing to believe because the alternative is too
 strange.
@@ -387,10 +344,6 @@ Car voice, automated.
 
 Marcus nods, relieved to have helped. But also clearly wanting out of this car.
 
-The rest of the ride is silent. Marcus stares out the window. Adam holds the body upright, trying to keep it from moving.
-
-Every second feels like an hour.
-
 EXT. RESIDENTIAL STREET - NIGHT
 
 The car pulls up to Marcus's stop. The door opens before the car fully stops.
@@ -418,29 +371,19 @@ Adam, whisper.
 He pulls out his phone. Hands shaking. Changes the destination back to the disposal site.
 
                     CAR VOICE
-          Destination updated. Arrival in fifteen minutes.
+          Destination updated.
 
 Adam looks at the body slumped next to him. At the seat where Marcus was sitting.
 
-At how close that was.
-
-He starts laughing. Can't help it. Nervous, terrified laughter.
-
 Adam laughs.
 
-                    ADAM
-          A snore. I made a snoring sound. At a corpse.
-
-The absurdity crashes down. The horror underneath the comedy.
-
 He stops laughing. Just sits there.
-
-The city passes by outside. The car drives itself to the disposal site.
-
-Adam stares at nothing, the body beside him.
 
 Another close call.
 
 Another line crossed.
 
 FADE TO BLACK.
+
+## Production Notes
+[Placeholder for production considerations]

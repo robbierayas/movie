@@ -4,7 +4,8 @@
 Linear Montage
 
 ## PURPOSE
-Compress two days of surveillance into a single sequence. Show Liam learning everything about the family while maintaining
+Compress two days of surveillance into a single sequence. Show Liam learning everything about the family while
+maintaining
 his invisible existence.
 
 ## TIME SPAN
@@ -13,25 +14,29 @@ Two days
 ## MONTAGE STRUCTURE
 
 ### Shot 1
-Liam parked outside the property at night, watching through binoculars.
+Liam parked outside the property at night, watching the family cookout through binoculars. "The knife man has a name.
+Hank Reeves."
 
 ### Shot 2
 Liam going through their mail dressed as Amazon delivery—voiceover introduces the family: wife Sarah, three kids. Liam
 will have to get Hank alone.
 
 ### Shot 3
-Through windows, Liam observes taxidermied trophies on the walls. Voiceover notes: "So he does hunt. the liar."
+Through windows, Liam observes taxidermied trophies on the walls. Voiceover notes: "So he does hunt. The liar." Said he
+was just "practical" — he's been hunting his whole life.
 
 ### Shot 4
-Liam watches the family's daily routines—Sarah and kids coming home from school, kids doing stuff in the yard, Sarah
-loading them up with their extracirricular gear, Hank coming home alone.
+Liam watches routines—Sarah's car, kids with backpacks, Girly bounding to greet them. Eli loads archery gear. Sarah herds
+them to practice. Notes the Rottweiler: "Eighty pounds, maybe more." Hank comes home alone from work.
 
 ### Shot 5
-Liam sketching the property layout, noting entry points, blind spots. Voiceover describes 3 floor layout as he can tell,
-so missing hidden attic entrance  and the secret passage, so he'll plan on outside
+Liam sketching the property layout, noting entry points, blind spots. Sees three floors from outside (basement, main,
+upstairs)—misses hidden attic entrance and secret passage. Plans to catch Hank outside: "He built this place like a
+fortress."
 
 ### Shot 6
-Liam at his apartment, planning. Photos, notes, a crude schedule.
+Liam at his apartment that night, planning. Photos, notes, a crude schedule. "Now I know everything I need... Time to
+hunt."
 
 ---
 
@@ -41,7 +46,8 @@ MONTAGE - SURVEILLANCE (TWO DAYS)
 
 EXT. RURAL ROAD - NIGHT
 
-Liam's sedan parked in the shadows, fifty yards from the Reeves driveway. He watches through binoculars. The family cookout
+Liam's sedan parked in the shadows, fifty yards from the Reeves driveway. He watches through binoculars. The family
+cookout
  in the distance.
 
                     LIAM (V.O.)
@@ -52,7 +58,7 @@ EXT. REEVES PROPERTY - DAY
 Liam walks up the driveway in an AMAZON VEST, package in hand. He lingers at the mailbox, rifling through envelopes.
 
                     LIAM (V.O.)
-          Wife—Sarah. Three kids. Two girls, one boy.
+          Wife—Sarah. Three kids. Two girls, one boy. All of them trained too.
 
 He photographs the mail with his phone. Slides it back. Walks away.
 

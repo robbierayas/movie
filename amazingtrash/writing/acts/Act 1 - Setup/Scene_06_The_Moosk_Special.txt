@@ -1,18 +1,20 @@
 # SCENE 6 - THE MOOSK SPECIAL
 
-## Scene Heading
+## LOCATION
 INT. WAREHOUSE / GEOFF'S LOCATION - NIGHT
 
-## Characters
+## CHARACTERS
 - ADAM
 - GEOFF
 - MOOSK
 - VICTIM (dying/dead)
 
-## Tone
-Horrific, revealing character dynamics
+## SCENE LAYOUT
 
-## Key Beats
+### Opening
+Adam is called to a warehouse job. He arrives to hear rhythmic thuds from inside and enters cautiously. The tone is horrific, revealing character dynamics.
+
+### Key Beats
 
 1. THE ARRIVAL: Adam called to a job
    - Arrives at warehouse location
@@ -46,11 +48,11 @@ Horrific, revealing character dynamics
    - Geoff gives orders, Moosk executes
    - Perfect partnership for murder
 
-6. THE DEATH: Victim dies or is already dead
-   - May die during the scene
-   - Or already dead when Adam arrives
-   - Geoff doesn't seem to know/care
-   - Just wants the body gone
+6. THE DEATH: Victim still alive, Moosk finishes them
+   - Victim barely breathing when Adam arrives
+   - Geoff orders Moosk: "Make sure he's dead"
+   - Moosk's killing punch is piston-like, shatters ribs
+   - Geoff claps: "Another successful collaboration!"
 
 7. GETTING IT DOWN: Geoff orders Moosk
    - "Get him down"
@@ -72,45 +74,20 @@ Horrific, revealing character dynamics
    - Can't back out now
    - Takes the body
 
-## Visual Elements
-- Victim suspended from ceiling
-- Geoff's weak, ineffective punches
-- Moosk's mechanical precision and strength
-- The sickening hand-breaking moment
-- Warehouse setting - industrial, cold
-- Blood and damage
-- Adam's revulsion
-
-## Dialogue Notes
-- Geoff's frustrated grunts while punching
-- Geoff's titter laugh
-- Geoff ordering Moosk: "Get him down"
-- Moosk's robotic compliance
-- Adam trying not to react
+### Character Moments
+- Geoff's frustrated grunts while punching, his titter laugh, and ordering Moosk: "Get him down" - reveals his physical weakness but sadistic enjoyment
+- Moosk's robotic compliance and mechanical precision - inhuman strength as Geoff's instrument
+- Adam trying not to react, seeing the true nature of his employers - point of no return deepens
 - Minimal dialogue - horror speaks for itself
+- Establishes the Geoff/Moosk dynamic clearly: Geoff directs, Moosk executes
+- Escalates the horror and Adam's complicity
 
-## Purpose
-- Establish Geoff/Moosk dynamic clearly
-- Show Geoff's physical weakness
-- Show Moosk's inhuman strength
-- Escalate the horror
-- Set up Scene 7 with damaged body
-- Adam sees true nature of his employers
-- Point of no return deepens
-
-## Story Position
-- Mid-Act 1, escalating horror
-- Before the comedic Scene 7 (contrast)
-- Shows what Adam is really involved in
-- Deepens his complicity
-
-## Transitions
-- IN: From Scene 5 (ongoing arrangement established)
-- OUT: Adam must transport this damaged body → Scene 7 (Rideshare Glitch)
+### Closing
+Adam takes the body, now damaged with mangled hands from Moosk's brutal removal. Mid-Act 1, escalating horror before the comedic Scene 7 (contrast). Sets up Scene 7 with the damaged body that Adam must transport via rideshare.
 
 ---
 
-## SCREENPLAY
+## FULL SCRIPT
 
 EXT. INDUSTRIAL DISTRICT - WAREHOUSE - NIGHT
 
@@ -182,23 +159,12 @@ Adam, quiet, horrified.
 Geoff, dismissive.
 
                     GEOFF
-          Me? Not much, honestly. I tried! But I'm not... physically gifted.
+          Me? Not much, honestly.
           (gestures to Moosk)
-          Moosk did the real work. I mostly supervised.
+          Moosk did the real work.
 
 Moosk doesn't react. Just stands there, hands at sides. Those hands - metal and mechanical - are stained with blood.
 
-                    ADAM
-          Is he alive?
-
-Geoff, checking.
-
-                    GEOFF
-          Hmm?
-          (pokes victim)
-          Hard to tell. Doesn't really matter at this point.
-
-Adam feels sick. The victim's chest rises - barely. Shallow breathing. Still alive. Dying.
 
 Geoff (cont'd), stretching his arm.
 
@@ -210,26 +176,14 @@ Geoff (cont'd), stretching his arm.
 Adam, hollow.
 
                     ADAM
-          You called me to pick this up.
+          You called me to pick this up... Is he alive?
 
                     GEOFF
-          Yes! Another successful collaboration!
-          (circling the victim)
-          This one talked too much. Business rival. Threatened to expose some... financial irregularities.
-          (shrugs)
-          Couldn't have that.
-
-He throws another weak punch at the victim's stomach. The body barely moves.
-
-                    GEOFF (CONT'D)
-          See? Nothing. No impact. Disappointing.
-
-He turns to Moosk.
-
-                    GEOFF (CONT'D)
-          Show him how it's done.
+          Hard to tell. Moosk, make sure he's dead.
 
 Moosk steps forward. No hesitation. Pulls back its arm - mechanical servos whirring.
+
+Adam feels sick. The victim's chest rises - barely. Shallow breathing. Still alive. Dying.
 
 Moosk, flat.
 
@@ -249,7 +203,12 @@ Geoff, delighted.
           (titter laugh)
           Heh-heh-heh!
 
-The victim hangs limp now. Not breathing. Dead, if they weren't before.
+The victim coughs up blood, dead.
+
+                    GEOFF
+          Yes! Another successful collaboration!
+
+The victim hangs limp now.
 
 Adam, turning away.
 
@@ -287,40 +246,18 @@ Moosk, flat.
 
 Adam stops. Looks back despite himself.
 
-Moosk reaches up, grabs the chain above the victim's wrists. Pulls down.
+Moosk reaches up, grabs the arms near the victim's wrists. Pulls down.
 
-SCREECH of metal. The hook resists for a moment.
-
-Then - CRACK.
-
-The restraints don't release properly. Moosk just rips the body down through them, mechanical strength overwhelming the
-mechanism.
-
-The victim's hands - still in the restraints - break. Bones snap as flesh tears. The hands bend at impossible angles,
-pulled through metal that wasn't meant to open that way.
+It resists for a moment. Moosk just rips the body down through them. Then - CRACK. The victim's hands - still in the restraints - break.
 
 The body drops to the concrete floor with a sickening THUD.
 
 Adam's face goes pale.
 
-Geoff, looking at the damage.
+Geoff, looking at the damage, cheerful.
 
                     GEOFF
-          Ooh. That's gonna be harder to transport.
-          (to Adam)
-          Can you still make it work?
-
-Adam stares at the body. The mangled hands. The broken, bloodied form.
-
-Adam, quiet.
-
-                    ADAM
-          Yes.
-
-Geoff, cheerful.
-
-                    GEOFF
-          Excellent! Same payment, same arrangement. Auto-car's outside with supplies.
+          Excellent! Auto-car's outside.
 
 He starts walking past Adam toward the exit. Stops beside him.
 
@@ -351,25 +288,7 @@ Opens his eyes. Looks at what's left of the victim.
 
 The hands are destroyed. But the rest is intact enough to transport. He can work with this.
 
-He pulls out plastic sheeting from his bag. Lays it on the floor.
-
-Rolls the body onto it, careful not to look at the face.
-
-Adam, whisper, to the body.
-
-                    ADAM
-          I'm sorry. I'm so sorry.
-
-He begins wrapping. Mechanical movements. Trying not to think.
-
-Trying not to see Moosk's punch replaying in his mind.
-
-Trying not to hear the sound of bones breaking.
-
-But he can't unhear it.
-
-Can't unsee it.
-
-This is what he's part of now.
-
 FADE TO BLACK.
+
+## Production Notes
+[Placeholder for production considerations]

@@ -1,16 +1,18 @@
 # SCENE 4 - THE DISPOSAL
 
-## Scene Heading
+## LOCATION
 INT. RAILYARD - SECRET CHAMBER - NIGHT
 
-## Characters
+## CHARACTERS
 - ADAM
 - BODY (being disposed)
 
-## Tone
-Grim, procedural, revealing
+## SCENE LAYOUT
 
-## Key Beats
+### Opening
+Grim, procedural, revealing. Adam returns to the railyard with the body, navigating hidden tunnels beneath the settlement. He knows the complex route by heart, avoiding detection from the community above.
+
+### Key Beats
 
 1. THE JOURNEY: Adam drags body through secret passageways
    - Returns to railyard
@@ -29,7 +31,7 @@ Grim, procedural, revealing
    - Beakers, tubes, compounds
    - Well-stocked lab setup
    - Connected to his makeshift workspace
-   - This is where he's been living his "other life"
+   - This is his secret workspace
 
 4. THE PROCESS: Adam dissolves the body
    - Methodical, scientific approach
@@ -48,54 +50,35 @@ Grim, procedural, revealing
    - Cleans up thoroughly
    - Returns through tunnels
    - Carefully hides the entrance
-   - Emerges near his sleeping spot
+   - Emerges near his cubby spot
 
-7. THE CONTRAST: Sleeps on ground despite having lab
-   - Still homeless
+7. THE CONTRAST: Sleeps outside despite having lab
+   - Still homeless, sleeps on a sleeping bag outside
    - Despite sophisticated lab below
    - The irony: genius chemist living in poverty
    - Lab is secret, survival is public
 
-## Visual Elements
-- The glowing acidic waste (eerie, dangerous)
-- Secret tunnel network
-- Chemistry equipment and lab setup
-- Adam's methodical process
-- Body dissolving (handled tastefully/horrifically)
-- Contrast: sophisticated lab vs. sleeping on ground
-- Chemical reactions, smoke/steam
-
-## Dialogue Notes
-- Minimal dialogue (Adam alone)
-- Possible internal monologue/muttering
-- Scientific terminology as he works
-- Establishes Adam's voice when alone
-
-## Purpose
-- Show Adam's capability and expertise
+### Character Moments
+- Minimal dialogue (Adam alone) - possible internal monologue/muttering
+- Scientific terminology as he works - establishes Adam's voice when alone
+- Show Adam's capability and expertise - homeless but genius chemist
+- Reveal his hidden resources and lab - visual contrast of his two lives
 - Establish the disposal method for the film
-- Reveal his hidden resources and lab
-- Character depth: homeless but genius chemist
-- Visual contrast of his two lives
 - Prove to Geoff (and audience) he can do this
+- Completes first disposal job - establishes method for future jobs
 
-## Story Position
-- Completes first disposal job
-- Establishes method for future jobs
-- Reveals Adam's secret world
-- Proves his value to Geoff
-
-## Transitions
+### Closing
+Adam returns to the surface, sealing the chamber behind him. The contrast is stark: sophisticated lab below, bare-bones survival space above. Despite all his knowledge and hidden resources, he sleeps on the floor like everyone else. He pulls out Geoff's business card - the job is done, now he has to collect payment.
 - IN: From Scene 3 (police stop, continues to railyard)
 - OUT: Job complete → must collect payment (Scene 5)
 
 ---
 
-## SCREENPLAY
+## FULL SCRIPT
 
-EXT. RAILYARD - EDGE OF SETTLEMENT - NIGHT
+EXT. RAILYARD - SETTLEMENT - NIGHT
 
-The auto-car stops at the periphery of the railyard settlement. Silent. Clean. Completely out of place.
+The auto-car stops near one of Adam's secret hatches.
 
 The door opens. Adam emerges, looking around nervously. He pops the cargo area, pulls out the wrapped bundle.
 
@@ -104,20 +87,13 @@ structures.
 
 The auto-car's door closes. The vehicle glides away silently, disappearing into the night.
 
-Adam watches it go, then turns toward the settlement with his terrible burden.
+Adam watches it go, then turns toward the hatch with his terrible burden.
 
 INT. RAILYARD TUNNELS - NIGHT
 
-Adam descends through the maintenance hatch we saw in Scene 0. The wrapped body drags behind him, bumping down metal
-rungs.
+Adam descends through the maintenance hatch with the wrapped body and goes through the tunnels.
 
-The tunnels are dark except for flickering emergency lights. He navigates by memory, moving with certainty despite the
-poor visibility.
-
-Takes a left turn. Then a right. Another left. The path is complex, deliberately so. Nobody would stumble on this route
-by accident.
-
-He passes his sleeping chamber. Doesn't stop. Goes deeper.
+He passes his cubby - supplies, books, a duffel bag of personal belongings.
 
 Another hatch - this one lower, more concealed. Almost invisible if you don't know it's there.
 
@@ -135,36 +111,26 @@ A click. A switch.
 
 LIGHT.
 
-Chemical glow - green and eerie. The chamber is larger than expected. Ten by fifteen feet. Low concrete ceiling.
+Chemical glow - green and eerie. The chamber is larger than expected.
 
-Against the far wall: a large industrial vat, maybe four feet deep. The liquid inside glows sickly green, viscous and
-bubbling slightly. Acid.
+Against the far wall: a large industrial vat, maybe four feet deep. The liquid acid inside glows sickly green, viscous and
+bubbling slightly.
 
 Around the chamber: chemistry equipment. Beakers, burners, tubes coiled like intestines. Bottles of chemicals on shelves.
 A proper lab, hidden underground.
 
-This is no improvised solution. This is planned. Prepared. Professional.
-
 Adam looks at the body on the floor. Takes a breath.
 
-Adam, quiet, to the body.
-
-                    ADAM
-          I'm sorry. I don't know who you were.
-
-He crouches, begins unwrapping the plastic. The victim's face is visible now - peaceful in death, but still a person who
-had a life.
+He crouches, begins unwrapping the plastic. The victim's face is visible now.
 
 Adam closes his eyes for a moment. Then opens them.
 
-Adam (cont'd) turns to himself.
+Adam says to himself.
 
-                    ADAM (CONT'D)
+                    ADAM
           Do the work. Just do the work.
 
-He grabs a pair of heavy rubber gloves from a shelf. Puts them on. The gloves go up to his elbows.
-
-Then a face shield. Safety equipment. He's done this before - or at least planned for it.
+He grabs a pair of heavy rubber gloves from a shelf. Puts them on. The gloves go up to his elbows. Then a face shield.
 
 Adam drags the body to the edge of the vat. The acid bubbles, hungry.
 
@@ -177,9 +143,7 @@ The liquid surges over the edges, splashing onto the concrete floor. Adam steps 
 The body begins to dissolve immediately. Skin bubbling, tissue breaking down. The chemical reaction is violent,
 efficient.
 
-Adam watches for a moment, then turns away. Walks to a small desk in the corner - more makeshift workspace.
-
-A notebook sits there. He opens it. Pages of notes, calculations, chemical formulas. This is serious work.
+Adam watches for a moment, then turns away. Walks to a small desk in the corner. He opens an old notebook with pages of notes, calculations, chemical formulas. This is serious work.
 
 He adds a new entry:
 
@@ -191,21 +155,13 @@ He pauses, pen hovering over paper. Then adds:
 
 Adam sets the pen down. Looks at the vat. The body is barely visible now, already broken down to organic sludge.
 
-His expression is hollow. This is what he is now. This is what he does.
-
-He moves to another shelf, begins checking chemical levels in various containers. Routine maintenance. Making sure the
-next disposal will go just as smoothly.
-
-Because there will be a next disposal. He knows it.
+His expression is hollow.
 
 TIME CUT:
 
-Hours pass. Adam works methodically. Testing pH levels. Adjusting the mixture. Disposing of the plastic wrapping in a
-separate chemical bath.
+Hours pass. Adam works methodically cleaning every surface.
 
-Cleaning every surface.
-
-The body is completely gone now. Nothing but glowing liquid in the vat. No evidence. No trace.
+The body is completely gone now. Nothing but glowing liquid in the vat. No evidence.
 
 Adam pulls off the gloves. The face shield. Sets them aside for cleaning.
 
@@ -214,21 +170,15 @@ He looks at the chamber - his hidden laboratory, his terrible secret.
 Adam, whisper.
 
                     ADAM
-          What am I becoming?
+          I am become death.
 
-No answer. Just the quiet bubble of acid dissolving reality.
+No answer. Just the quiet bubble of acid.
 
 INT. RAILYARD TUNNELS - NIGHT
 
-Adam climbs back through the hatch. Seals it behind him. Retraces his steps through the maze of passages.
+Adam climbs back through the acid room hatch. Seals it behind him. He grabs his sleeping bag.
 
-Emerges in his sleeping chamber. The contrast is stark - the sophisticated lab below, this bare-bones survival space
-above.
-
-He has a sleeping bag. Some clothes. Books. Basic supplies.
-
-Despite having access to all that chemistry equipment, all that knowledge - he sleeps on the floor like everyone else in
-the settlement.
+Returns through the tunnels. Emerges from the hatch into the settlement. He lays down his sleeping bag and lays on it.
 
 Adam pulls Geoff's business card from his pocket. Stares at it.
 
@@ -236,7 +186,7 @@ The job is done. Now he has to collect payment.
 
 EXT. RAILYARD - ADAM'S SLEEPING SPOT - DAWN
 
-The first light of morning seeps through gaps in the structure above. Adam lies on his sleeping bag, staring at nothing.
+Adam lies on his sleeping bag on the ground, out in the open air. The first light of morning seeps across the settlement. He stares at nothing.
 
 He hasn't slept. Can't sleep.
 
@@ -251,3 +201,6 @@ He sits up. Grabs the business card again. Makes a decision.
 Time to face Geoff.
 
 FADE TO BLACK.
+
+## Production Notes
+[Placeholder for production considerations]

@@ -63,6 +63,21 @@ This section covers professional screenplay formatting standards for creating ca
 - Be specific and visual
 - Break into short paragraphs for readability
 - Use active voice
+- **Line wrapping:** Never break a line so that a character name (ALL CAPS) is separated from its verb. If an action line wraps, rewrite or restructure so the character name and their action stay on the same line. This prevents the ALL CAPS name from looking like a dialogue header on re-reads and confuses automated tools.
+
+**❌ Bad line wrap:**
+```
+Sarah punches a sparring partner too hard then kicks their legs out so they go
+onto the mat. The INSTRUCTOR
+steps forward.
+```
+
+**✅ Fix by restructuring:**
+```
+Sarah punches a sparring partner too hard, kicks their legs out onto the mat.
+
+The INSTRUCTOR steps forward.
+```
 
 **Examples:**
 

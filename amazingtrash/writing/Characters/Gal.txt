@@ -32,8 +32,8 @@ Represents hope for escape and dreams beyond Tracktown. One of Adam's two friend
 - Skilled at street scams
 
 ## RELATIONSHIPS
-- **Adam**: Meets through bodega incident - she buys the item Adam wanted, he promises to buy her anything else and invites her to meet his friends. Becomes part of friend trio. During "Mid night" dinner, conversation turns sour when she expresses desire to leave Tracktown and not get used to good life. Either Gal dies (killed by Geoff) or survives to witness Adam's friend's death.
-- **Tyson (T)**: Part of the trio. Teaches Tyson manners during dinner. Sent Tyson to grab dessert so she could talk to Adam privately.
+- **Adam**: Meets through Tyson — runs coffee scam on Adam with Tyson to test his character. Adam's earnestness earns her respect. Becomes part of friend trio. During "Mid night" dinner, conversation turns sour when she expresses desire to leave Tracktown and not get used to good life. Either Gal dies (killed by Geoff) or survives to witness Adam's friend's death.
+- **Tyson (T)**: Already friends before meeting Adam. Run the coffee scam together to test Adam. Part of the trio. Teaches Tyson manners during dinner. Sent Tyson to grab dessert so she could talk to Adam privately.
 - **Tracktown community**: Resident who wants to escape someday.
 
 ## CHARACTER ARC
@@ -46,14 +46,15 @@ Represents hope for escape and dreams beyond Tracktown. One of Adam's two friend
 Arc Type: Disillusionment Arc (dreams of escape destroyed) - Whether killed in Act 2 or Act 3, her hope for a better life is crushed
 
 ## DIALOGUE STYLE
-[How this character speaks - to be expanded after scenes are written]
-- Likely more mature and measured than Tyson
-- Speaks about aspirations and dreams
-- Can be direct when boundaries are crossed
+- **Testing through play**: Uses scams and setups to evaluate people rather than asking directly. Watches reactions, not words. The coffee hustle reveals more about Adam than any conversation would.
+- **Quiet observation before commitment**: Studies people carefully before engaging ("Keeping your word matters, huh?"). Short questions that probe character. Doesn't give trust cheaply.
+- **Dry warmth**: Affection delivered through understatement and humor ("I don't need these. I just wanted to see if you'd actually do it" / "The bread was real. I'm keeping the bread"). Warmth is real but never sentimental.
+- **Direct when it matters**: Can be blunt about what she sees ("Most people would have just bought a different coffee. You didn't"). Cuts through pretense.
+- **Measured and mature**: More grounded than Tyson. Speaks in complete thoughts, not bursts of energy. Observes more than she performs.
 
 ## KEY SCENES
 
-**Act 1, Scene 11: Meeting Gal** - At bodega buying last coffee Adam needs. He offers to buy anything else in store for it. Recognizes his integrity: "Keeping your word matters, huh?" Makes deal, tests him with expensive items. Understands when Adam explains: "I haven't been good at keeping promises lately. So when I can... I do." Adam invites her to barbecue. Walks back with Adam and Tyson, laughing together. Observes community: "This is nice. You've got a good thing here." Toasts with them: "To friends." Beginning of friend trio.
+**Act 1, Scene 11: Meeting Gal** - Runs coffee scam on Adam with Tyson — bought the last coffee before Adam arrived to test what kind of person he is. Plays the stranger, watches Adam's earnest offer. Tests him with expensive items: "You didn't even ask what I'd pick." After Adam pays, reveals the hustle with Tyson — they crack up laughing. Returns the extra items: "I don't need these. I just wanted to see if you'd actually do it." Respects that Adam kept his promise: "Most people would have just bought a different coffee. You didn't." At barbecue, observes community: "This is nice. You've got a good thing here." Toasts: "To friends." Beginning of friend trio.
 
 **Act 2, Scene 18: Mid Night Out** - At dinner, teaches Tyson manners gently. Grateful for meal: "Best meal I've had in... maybe ever." When Adam wants to continue the night, refuses: "I don't want to get used to this." Explains she's trying to get OUT of Tracktown, can't get comfortable: "If I get used to good things, it'll hurt more when they stop." Calls Adam's behavior "desperate" - "Like you're trying too hard. Buying friendship." Tries to help: "I care about you, Adam. But I need to protect myself." Leaves when conversation sours. Protecting herself by being realistic but accidentally pushing Adam away at worst possible time. Last interaction with Adam was a fight. Never escaped Tracktown.
 

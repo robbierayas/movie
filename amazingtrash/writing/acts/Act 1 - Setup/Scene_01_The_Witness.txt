@@ -1,83 +1,52 @@
 # SCENE 1 - THE WITNESS
 
-## Scene Heading
+## LOCATION
 EXT. CITY STREET - ALLEY - NIGHT
 
-## Characters
+## CHARACTERS
 - ADAM
 - GEOFF (billionaire, weak but cruel, titter laugh)
 - MOOSK (robot bodyguard, cold, efficient)
 - VICTIM
 
-## Tone
-Darkly comedic turning horrific
+## SCENE LAYOUT
 
-## Key Beats
+### Opening
+Adam in the city at night. Darkly comedic turning horrific tone. Establish why he's there (scavenging? looking for something?). Out of his element in the wealthy district. Hears commotion in nearby alley.
 
-1. SETUP: Adam in the city at night
-   - Establish why he's there (scavenging? looking for something?)
-   - Out of his element in the wealthy district
-   - Hears commotion in nearby alley
-
-2. THE WITNESS: Adam investigates, sees murder in progress
+### Key Beats
+1. THE WITNESS: Adam investigates, sees murder in progress
    - Billionaire Geoff and robot Moosk with victim
    - Should run but frozen in shock/curiosity
    - Watches from shadows
 
-3. THE HELIUM INNERTUBE: Absurd murder method
+2. THE HELIUM INNERTUBE: Absurd murder method
    - Geoff makes victim wear pool innertube
    - Innertube inflates with helium
    - Victim flips upside down, starts floating
    - Geoff talks/taunts them while they rise
    - Dark comedy of the absurd method
 
-4. THE FALL: Geoff cuts the helium
+3. THE FALL: Geoff cuts the helium
    - Victim falls to death
    - Impact is brutal
    - Geoff's annoying titter laugh throughout
    - Enjoying this like a game
 
-5. CAUGHT: Adam freezes - he's seen too much
-   - Makes noise or Moosk's sensors detect him
-   - Geoff and Moosk turn, notice Adam
-   - Adam's terror - he's witnessed a murder
-   - Geoff's titter laugh again - amused, not concerned
+### Character Moments
+- Geoff: Taunts victim during float, signature titter laugh ("Heh-heh-heh"), casual cruelty and enjoyment, weak but cruel, enjoys killing. Establish his speech patterns and manipulation.
+- Moosk: Robotic voice (if any), inhuman presence, cold efficiency. Sensors detect Adam's hiding spot.
+- Adam: Shocked silence, minimal dialogue. Frozen in disbelief at what he's witnessing.
+- Dark alley contrasted with city lights. The absurd visual of floating victim with innertube. Body impact on ground.
+- Inciting incident of the film - life-changing moment for Adam. Crosses from "normal world" to dangerous world.
+- Point of no return for Adam. Show the absurd/darkly comic tone alongside horror.
 
-## Visual Elements
-- Dark alley contrasted with city lights
-- The absurd visual of floating victim with innertube
-- Moosk's robotic presence - inhuman, cold
-- Geoff's casual cruelty and enjoyment
-- Body impact on ground
-- Adam's hiding spot revealed
-
-## Dialogue Notes
-- Geoff's taunting of victim during float
-- Geoff's titter laugh (signature sound)
-- Minimal dialogue from Adam (shocked silence)
-- Moosk's robotic voice (if any)
-- Establish Geoff's speech patterns
-
-## Purpose
-- Inciting incident - Adam witnesses murder
-- Introduce antagonists Geoff and Moosk
-- Establish Geoff's character: weak, cruel, enjoys killing
-- Establish Moosk's character: efficient, robotic, deadly
-- Show the absurd/darkly comic tone alongside horror
-- Point of no return for Adam
-
-## Story Position
-- Inciting incident of the film
-- Life-changing moment for Adam
-- Crosses from "normal world" to dangerous world
-
-## Transitions
-- IN: From Adam's isolated world to city
-- OUT: Adam caught witnessing murder → confrontation (Scene 2)
+### Closing
+Adam freezes - he's seen too much. Makes noise or Moosk's sensors detect him. Geoff and Moosk turn, notice Adam. Adam's terror - he's witnessed a murder. Geoff's titter laugh again - amused, not concerned. Adam caught witnessing murder leads to confrontation (Scene 2).
 
 ---
 
-## SCREENPLAY
+## FULL SCRIPT
 
 EXT. CITY STREET - WEALTHY DISTRICT - NIGHT
 
@@ -101,10 +70,10 @@ Adam reaches the corner. Peers around the wall into a dark alley.
 
 Three figures visible in the dim light:
 
-Geoff (40s, expensive suit, slight build) stands watching with hands clasped. His face shows anticipation, like a child
+GEOFF (40s, expensive suit, slight build) stands watching with hands clasped. His face shows anticipation, like a child
 about to open a present.
 
-Moosk - humanoid robot, imposing build, movements unnaturally precise - holds a VICTIM (30s, business attire) by the arm.
+MOOSK - humanoid robot, imposing build, movements unnaturally precise - holds a VICTIM (30s, attire similar to Adam's) by the arm.
 The victim is trembling, tears streaming.
 
 On the ground: a pool innertube, brightly colored. Incongruous next to a helium tank.
@@ -124,8 +93,8 @@ Geoff, dismissive wave.
 
                     GEOFF
           Oh stop. You think I need your money?
-          (giggles)
-          No no. This is just... fun.
+          (titters)
+          Don't worry. This will be fun... for me. (titters)
 
 Adam watches from his hiding spot, frozen. He should run. He doesn't.
 
@@ -292,7 +261,7 @@ Geoff laughs.
           (leans closer)
           What did you think? Honest opinion. Five stars? Three stars?
 
-Adam stares at him, speechless. This man just murdered someone and he's asking for a review.
+Adam stares at him, speechless.
 
 Geoff (cont'd), sighs.
 
@@ -304,21 +273,24 @@ Geoff looks down at the body, then back at Adam. His expression shifts - calcula
 Geoff (cont'd), thoughtful.
 
                     GEOFF (CONT'D)
-          Actually... you might be useful. Do you know chemistry?
+          Actually... you might be useful. Moosk, load him up for another round.
 
-Adam freezes. That was too specific a question.
+Adam freezes.
+
+                    ADAM
+          Please, I can help you... get rid of the body.
 
 Geoff (cont'd), noticing the reaction.
 
                     GEOFF (CONT'D)
-          Ooh, you do! Perfect!
+          Ooh, you can! Perfect!
           (titter laugh)
-          Heh-heh-heh. This is serendipity!
+          Heh-heh-heh. How do you plan on that?
 
 Adam, desperate.
 
                     ADAM
-          What do you want?
+          I have some ways. But please, just let me go.
 
 Geoff gestures to the body.
 
@@ -331,9 +303,9 @@ Geoff gestures to the body.
 Geoff, interrupting, suddenly serious.
 
                     GEOFF
-          You witnessed a murder. Moosk has you on camera.
+          You witnessed a murder. Moosk has you on camera not assisting. If I get in trouble, you are definitely getting in trouble, too.
           (cheerful again)
-          So! You can help me dispose of the body, or you can join it. Your choice!
+          So! You can help me dispose of the body, or we can visit prison together. Your choice!
           (titter laugh)
           Heh-heh-heh.
 
@@ -344,3 +316,6 @@ Adam looks at the body. At Geoff's smiling face. At Moosk's blank robotic stare.
 He's trapped.
 
 FADE TO BLACK.
+
+## Production Notes
+[Placeholder for production considerations]

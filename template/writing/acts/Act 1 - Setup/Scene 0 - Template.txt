@@ -1,9 +1,27 @@
 # Scene 0 - [Scene Name]
 
-## Scene Information
-- **Location:** INT./EXT. - LOCATION - TIME
-- **Characters:** [List characters appearing in this scene]
-- **Purpose:** [What this scene accomplishes in the story]
+## LOCATION
+INT./EXT. - LOCATION - TIME
+
+## CHARACTERS
+[List characters appearing in this scene]
+
+## SCENE LAYOUT
+
+### Opening
+[Describe how scene opens]
+
+### Key Beats
+1. [First major beat]
+2. [Second major beat]
+3. [Third major beat]
+
+### Character Moments
+- **[Character Name]**: [Key action/reaction/decision]
+- **[Character Name]**: [Key action/reaction/decision]
+
+### Closing
+[Describe how scene ends and transitions]
 
 ---
 
@@ -12,8 +30,6 @@
 INT./EXT. - LOCATION - TIME
 
 [Scene description - what the camera sees when scene opens]
-
-[Character introductions - first appearance only, with age/traits]
 
                     CHARACTER NAME
           First line of dialogue goes here.
@@ -26,6 +42,4 @@ INT./EXT. - LOCATION - TIME
 ---
 
 ## Production Notes
-- [Animation requirements]
-- [Special effects needed]
-- [Technical considerations]
+[Placeholder for animation requirements, technical considerations]

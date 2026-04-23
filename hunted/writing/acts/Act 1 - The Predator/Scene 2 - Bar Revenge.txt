@@ -43,8 +43,8 @@ Voiceover establishes the new goal: worthy prey. The hunt for a real challenge b
 
 EXT. DOWNTOWN STREET - NIGHT
 
-City lights reflect off wet pavement. Liam walks with purpose, hands in his jacket pockets. Twenty feet ahead, a group of
-FOUR PEOPLE laugh and stumble together. Among them—a GLASSES GUY who bears a passing resemblance to the Regular
+City street lights line the street creating dark spots. Liam walks with purpose, hands in his jacket pockets. Twenty feet ahead, a group of
+FOUR PEOPLE laugh and stumble together. Among them—a GLASSES GUY, who bears a passing resemblance to the Regular
 Customer, carrying a messenger bag.
 
 Liam doesn't hide. He walks like any other pedestrian.
@@ -59,8 +59,7 @@ The group pauses at a crosswalk. Liam stops too, maintaining distance. The Glass
 look, nothing suspicious.
 
                     LIAM (V.O.)
-          I have to make a stand. Put people in their place. But I'm not going to boss anyone around. That would make me
-          just as unskilled as them.
+          He thinks he already won. I have to show them they won't win. Put people in their place. But I'm not going to boss anyone around, wasting my life training them. That would make me just as blind and unskilled as them.
 
 The light changes. The group crosses.
 
@@ -71,11 +70,11 @@ alone now, hands in his coat pockets.
 
 Liam rounds the corner. The streetlights here are spaced further apart. Pools of darkness between them.
 
-The Glasses Guy walks faster. Not running. Just... aware.
+The Glasses Guy walks faster. Not running.
 
 He glances over his shoulder. The street behind him is empty.
 
-He relaxes slightly. Keeps walking.
+He relaxes slightly. Keeps walking, pulling out his phone.
 
 Liam emerges from a doorway alcove several feet ahead. The Glasses Guy doesn't see him yet—he's looking at his phone.
 
@@ -106,7 +105,7 @@ goes down hard, bag and glasses skittering across the pavement.
 
 EXT. ALLEY - CONTINUOUS
 
-Liam drags him into the shadows. The Glasses Guy scrambles backward, blood on his lip.
+Liam drags him into the shadows. The Glasses Guy scrambles backward to the street, unable to fully stand.
 
                     GLASSES GUY
           Take it! Take whatever you want!
@@ -116,7 +115,7 @@ He fumbles out his wallet, throws it at Liam's feet.
                     LIAM (V.O.)
           They always say that. Like skill is something you can buy.
 
-Liam kicks the wallet aside. Spreads his arms slightly. Waiting.
+Liam kicks the wallet aside. He walks closer.
 
                     GLASSES GUY
           Please—
@@ -135,20 +134,20 @@ The Glasses Guy winds up for another punch—
 
 Liam catches his wrist. Twists. CRACK.
 
-The man screams. Liam's other hand finds his throat.
+The Glasses Guy screams. Liam's other hand finds his throat.
 
-The struggle is brief. Desperate. Then still.
+The struggle is brief. The Glasses Guy goes still.
 
 Liam kneels there, breathing hard, eyes burning and swollen. He blinks through tears at the body beneath him.
 
 He picks up the man's glasses. Holds them up to the distant streetlight. One lens is cracked. He pockets the glasses.
-Grabs the messenger bag and rifles through it—takes nothing useful, just slings it over his shoulder as he walks deeper
-into the alley.
+Grabs the messenger bag and rifles through it—takes nothing useful, just slings it over his shoulder and walks further
+into the alley darkness.
 
 INT. LIAM'S APARTMENT - NIGHT
 
 A small studio. Neat. Impersonal. The only decoration: a wooden box on a shelf. Several tables of scattered experiments
-of electronics and mechanical constructions.
+of electronics and mechanical constructions. On the end of one table near a chair, there is a stack of laptops with a satellite modem on top.
 
 Liam enters, face swollen, eyes red and watering.
 
@@ -163,7 +162,7 @@ Liam stares at it for a moment. Then closes the box.
 He moves to his small table. He dumps the messenger bag on the table. A dog-eared paperback pops out: "THE MOST DANGEROUS
 GAME" by Richard Connell.
 
-Liam sits. Rubs his aching eyes. Opens the book to a page near the end.
+Liam sits. Rubs his aching eyes. Opens the book to a page near the front.
 
 He reads silently. We see his swollen eyes moving across the text.
 
@@ -174,7 +173,7 @@ He sets the book down. Stares at nothing.
           have luck.
           Bad luck.
 
-He glances at the wooden box on the shelf.
+He smiles to himself, glances at the wooden box on the shelf.
 
                     LIAM (V.O.)
           I need more, a real challenge. Someone with actual skill. Someone dangerous. Someone who can fight back. Zaroff

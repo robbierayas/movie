@@ -1,75 +1,50 @@
 # SCENE 0 - THE RAILYARD
 
-## Scene Heading
+## LOCATION
 EXT. ABANDONED RAILYARD - HOMELESS ENCAMPMENT - DAY
 
-## Characters
+## CHARACTERS
 - ADAM (30s, homeless chemist, intelligent, isolated)
 - Various homeless residents (background)
 
-## Tone
-Grounded, atmospheric, establishing
+## SCENE LAYOUT
 
-## Key Beats
+### Opening
+Wide establishing shot of abandoned railyard turned homeless encampment. Grounded, atmospheric, establishing tone. Illegal structures built everywhere except on the tracks. Bustling community despite poverty. Amazing Company infrastructure visible in distance (class contrast).
 
-1. OPENING: Wide establishing shot of abandoned railyard turned homeless encampment
-   - Illegal structures built everywhere except on the tracks
-   - Bustling community despite poverty
-   - Amazing Company infrastructure visible in distance (class contrast)
-
-2. UNDERGROUND: Adam navigates secret passageways beneath settlement
+### Key Beats
+1. UNDERGROUND: Adam navigates secret passageways beneath settlement
    - Shows knowledge  of hidden infrastructure
    - Chemistry equipment glimpses in shadows
    - Moves like he owns these tunnels
 
-3. THE SHIFT: Structure shifts above, causing vibrations underground
+2. THE SHIFT: Structure shifts above, causing vibrations underground
    - Adam scared by the movement
    - Something unstable about the settlement
    - Creates urgency to surface
 
-4. AVOIDANCE: Adam emerges, goes to see sun, it is late afternoon
+3. AVOIDANCE: Adam emerges, goes to see sun, it is late afternoon
    - Actively avoids people
    - Isolated even within this community
    - Watches from distance - doesn't belong
 
-5. CLOSING: Establish Adam as loner, intelligent, resourceful
-   - Walks through tracktown to main city as darkness descends, world elements shown partly
-   - Passes through food market in traincar structure but has no money
-   - Goes through night police checkpoint to main city
-   - auto-cars fill city streets and adam is walking on sidewalk alone
-   - Alone by choice or circumstance?
-
-## Visual Elements
-- The sprawling railyard encampment
-- Contrast: makeshift structures vs. Amazing Company towers in distance
-- Hidden crawlspaces and tunnel network
-- Adam's secretive movements
-- Chemistry equipment in shadows
+### Character Moments
+- Adam: Minimal dialogue, observes but doesn't participate. Intelligent and resourceful despite circumstances. Isolated even within the homeless community - alone by choice or circumstance?
+- The sprawling railyard encampment contrasts makeshift structures vs. Amazing Company towers in distance
+- Hidden crawlspaces and tunnel network show Adam's secretive movements
+- Chemistry equipment in shadows hints at his background
 - Class divide visually established
-
-## Dialogue Notes
-- Minimal dialogue from Adam
-- Overheard conversations establish world
-- Adam observes, doesn't participate
-
-## Purpose
-- Introduce protagonist Adam
-- Establish his world and isolation
-- Show his intelligence and resourcefulness
+- Introduce protagonist Adam, establish his world and isolation
 - Set up the railyard location (important for later)
-- Establish class divide of this dystopian world
-
-## Story Position
-- Opening scene of film
-- Establishes "normal world" before inciting incident
+- Opening scene of film - establishes "normal world" before inciting incident
 - Shows what Adam has (survival) and lacks (connection)
 
-## Transitions
-- OUT: Adam alone, isolated → leads to him being in city at night (Scene 1)
+### Closing
+Establish Adam as loner, intelligent, resourceful. Walks through tracktown to main city as darkness descends, world elements shown partly. Passes through food market in traincar structure but has no money. Goes through night police checkpoint to main city. Auto-cars fill city streets and Adam is walking on sidewalk alone. Adam alone, isolated - leads to him being in city at night (Scene 1).
 
 ---
 
-## SCREENPLAY
+## FULL SCRIPT
 
 EXT. ABANDONED RAILYARD - HOMELESS ENCAMPMENT - DAY
 
@@ -88,12 +63,10 @@ Conversation and activity everywhere.
 Near the center of the settlement, a low concrete structure half-buried in dirt. A maintenance hatch, almost hidden
 behind stacked pallets and trash.
 
-The hatch shifts slightly. Opens a crack.
-
-Adam (30s, weathered but sharp-eyed) peers out, checking if anyone's watching. His face shows intelligence worn down by
+ADAM (30s, weathered but sharp-eyed) checks if anyone's watching. His face shows intelligence worn down by
 circumstance. He wears layers - practical, mismatched, forgettable.
 
-Coast clear. Adam slips out, closing the hatch behind him. He moves with purpose but without drawing attention.
+Coast clear. He crouches beside the hatch, lifts it, and slips down inside, pulling it shut behind him.
 
 INT. UNDERGROUND TUNNEL - CONTINUOUS
 
@@ -104,13 +77,11 @@ Dim emergency lighting flickers, barely functional.
 
 Adam walks through intersecting passages with certainty. No hesitation at forks or turns. This is his domain.
 
-As he passes a recessed alcove, light glints off glass. A chemistry setup - beakers, tubing, heat sources - partially
+He passes a recessed alcove with his chemistry setup - beakers, tubing, heat sources - partially
 hidden behind tarps and debris. Industrial-grade equipment, scavenged but meticulously arranged.
 
-Adam doesn't stop. Just keeps walking.
-
-The tunnel opens into a larger chamber. More evidence of habitation - a sleeping bag, stacked supplies, books and
-notebooks. A home, hidden from the world above.
+Adam doesn't stop walking. He reaches a small cubby off the main tunnel - stacked supplies, books and
+notebooks, a duffel bag of personal belongings. His stash, hidden from the world above.
 
 Adam grabs a small backpack from the floor, checks its contents. Satisfied, he slings it over his shoulder.
 
@@ -121,14 +92,7 @@ Adam freezes. Looks up.
 The vibration intensifies. Dust falls from the ceiling. Something heavy is moving above - the entire structure of the
 settlement shifting, settling.
 
-A crack appears in the concrete above Adam's head. Small at first, then spreading.
-
-Adam, under his breath.
-
-                    ADAM
-          Shit.
-
-He moves quickly now, abandoning stealth for speed. Back through the tunnels, toward another exit point.
+He leaves something from the bag then moves toward another exit point.
 
 The rumbling continues, then stops as suddenly as it started.
 
@@ -139,31 +103,23 @@ EXT. ABANDONED RAILYARD - LATE AFTERNOON - CONTINUOUS
 Adam emerges from a different hatch, this one on the outskirts of the encampment. The sun is lower now, casting long
 shadows.
 
-He stays low, moving between structures without entering the main pathways. Avoiding eye contact, avoiding conversation.
-
-A WOMAN calls out to someone nearby. Adam immediately shifts direction, putting a tent between himself and the voice.
+He moves between structures without entering the main pathways. Avoiding eye contact, avoiding conversation.
 
 He reaches the edge of the settlement where it borders the actual rail line. Stands there for a moment, facing the sun.
 
-His expression softens slightly. This is the only moment of peace in his day.
-
-Then voices approach from behind - residents passing by. Adam's face closes off. He turns and walks away, deeper into the
-maze of structures.
+His expression softens slightly. Then voices approach from behind - residents passing by. Adam's face closes off. He walks back to the main part of the encampment.
 
 EXT. TRANSITION AREA - DUSK TO NIGHT
 
 A montage as darkness descends:
 
-Adam walks from the railyard encampment toward the main city. The landscape changes gradually - industrial wasteland
-giving way to developed areas.
+Adam walks from the living part of the encampment toward the main city. The landscape changes gradually - industrial wasteland
+giving way to semi-developed businesses in the encampment and eventually to developed areas in the main city.
 
 He passes through a market built inside old train cars. Converted freight cars now house food vendors, clothing stalls,
-electronics repair. People crowd the aisles.
+electronics repair. People crowd the aisles. The market vendors call out prices, haggle with customers.
 
-Adam walks through alone, hands in pockets. His eyes track the food - fresh bread, cooked meat, vegetables. His stomach
-may be empty but his face shows no emotion. He has no money. He doesn't stop.
-
-The market vendors call out prices, haggle with customers. Adam is invisible to them.
+Adam walks through alone, hands in pockets. His eyes track the food - fresh bread, cooked meat, vegetables. He doesn't stop.
 
 EXT. CITY CHECKPOINT - NIGHT
 
@@ -192,3 +148,6 @@ Wide shot: Adam, a single figure on foot, surrounded by the endless flow of auto
 the mechanical city.
 
 FADE TO BLACK.
+
+## Production Notes
+[Placeholder for production considerations]
